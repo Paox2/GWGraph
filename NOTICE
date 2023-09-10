@@ -1,0 +1,13 @@
+GWGraph
+Copyright [2023] [Wendi Han/Imperial College]
+
+This product includes software developed at
+[Wendi Han/Imperial College] (http://www.yourwebsite.com/).
+
+This product uses software from the WebDriverManager project, licensed under Apache License 2.0.
+This product uses software from the cssparser project, licensed under LGPL.
+This product uses software from the SAC (Simple API for CSS) project, under the W3C Software License.
+This product uses software from the Guava project by Google, licensed under Apache License 2.0.
+This product uses software from the ICU by IBM, licensed under the ICU License.
+This product uses software from the BrowserMob Proxy project, licensed under Apache License 2.0.
+This product uses software from the Lombok project, licensed under the MIT License.

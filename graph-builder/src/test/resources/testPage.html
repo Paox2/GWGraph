@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="testPageCSS.css"/>
+    <!-- Internal CSS -->
+    <style>
+        /* Div rule */
+        div {
+            color: #333;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Inline CSS -->
+    <a href="www.google.com" style="font-family: 'CustomFont';">google link</a>
+    <!-- Shadow DOM Creation -->
+    <div id="shadowHost"></div>
+    <script>
+        let shadowRoot = document.getElementById('shadowHost').attachShadow({ mode: 'open' });
+        let shadowDiv = document.createElement('div');
+        shadowDiv.innerHTML = 'This is content inside the Shadow DOM.';
+        shadowRoot.appendChild(shadowDiv);
+    </script>
+
+    <!-- Internal Iframe -->
+    <iframe width="200" height="200" frameborder="0">
+        <p>This is simple content inside the iframe.</p>
+    </iframe>
+
+    <!-- Internal Script to Create and Delete a DOM Element -->
+    <script>
+        // Creating a new DOM element
+        let newElement = document.createElement('p');
+        newElement.id = 'id1234';
+        newElement.textContent = 'This is a newly created paragraph.';
+        document.body.appendChild(newElement);
+    </script>
+
+    <script>
+        // Creating a new DOM element
+        let deleteElement = document.getElementById('id1234');
+        deleteElement.parentNode.removeChild(deleteElement);
+    </script>
+</body>
+
+</html>
+
+
+
+
