@@ -1,0 +1,6958 @@
+------------------------- Base URL : https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview-------------------------
+
+
+HTML Node: 
+
+Unique Id: 6bbd0687-a788-40f4-9906-ae4d19f99ef5
+Id: 
+Tag Name: pw-footer
+Class Name: 
+Parent: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7bae214a-0bc9-4eca-8a4d-64cd103b4616
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 07429f98-469e-463f-9bca-3d98520e72b8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 47c1c72e-e3f0-4fd0-8fb2-8a49ec798fcd
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli - GET
+Attributes:
+  name: /3.0/docs/tools/polymer-cli
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli
+  class: sidenav-content indent 
+
+
+Unique Id: 284fc974-762a-438c-a24f-c74cf87ae6c2
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/disable-upgrade-mixin - GET
+Attributes:
+  name: /3.0/api/mixins/disable-upgrade-mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/disable-upgrade-mixin
+  class: level-2 indent
+
+
+Unique Id: e255a9de-e5aa-4919-8e40-2860d80d5efd
+Id: iron-doc-viewer-styles
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-doc-viewer-styles
+
+
+Unique Id: d0dbb054-b1ee-4741-b18d-054ecf718083
+Id: 
+Tag Name: style
+Class Name: 
+Parent: cfa8efd4-429b-4afd-92ef-9d1041afbe4f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  is: custom-style
+
+
+Unique Id: 47ad6bcd-ca5b-4c10-b043-5f5b64226f0e
+Id: 
+Tag Name: p
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5c25777e-c1b3-4dea-9982-2ff61f0f6004
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/serve - GET
+Attributes:
+  name: /3.0/docs/apps/serve
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/serve
+  class: level-2 indent
+
+
+Unique Id: 494dfad9-a113-462a-8e49-a3864a8e3ea5
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 3348364d-4b53-4ed7-8e3e-c22ef3a891c1
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f62596aa-80b0-4b62-be1f-cf647dd54c13
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f7a24ccf-ae05-45e0-873f-6821b0fa52b3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: aa21eb9d-e073-47d1-b63d-d0e46157e798
+Id: 
+Tag Name: span
+Class Name: hljs-string
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-string
+
+
+Unique Id: e7ea7ccc-d4c9-4ad3-96e0-777d305b7736
+Id: 
+Tag Name: a
+Class Name: level-2 
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/install-3-0 - GET
+Attributes:
+  name: /3.0/docs/install-3-0
+  href: https://polymer-library.polymer-project.org/3.0/docs/install-3-0
+  class: level-2 
+
+
+Unique Id: f089f6d9-b454-49b9-add5-c97fe3890037
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 5392898d-60e4-4287-b949-9c537c5baca7
+Id: 
+Tag Name: li
+Class Name: 
+Parent: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 00201324-28ed-4331-84b6-4b837461045b
+Id: 
+Tag Name: img
+Class Name: 
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/images/logos/p-logo.png - GET
+Passive Outbound Request: 
+Attributes:
+  alt: Polymer Logo
+  src: https://polymer-library.polymer-project.org/images/logos/p-logo.png
+
+
+Unique Id: c68bdd02-b549-4971-b35d-3b6c684c11af
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 9de8c5fd-ec03-4ac1-823b-2e6e2751650e
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 2991f936-bd5f-44ae-b60f-3e55cb2a5b98
+Id: menu
+Tag Name: g
+Class Name: null
+Parent: 9a06e05b-20c9-47c2-9232-d68885dc9ead
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: menu
+
+
+Unique Id: da0e9f65-cde7-4ca0-8ff9-2b8c2d905eb7
+Id: so
+Tag Name: g
+Class Name: null
+Parent: 85a78486-05ae-47d5-b020-33af9d8ea561
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: so
+
+
+Unique Id: e3081a3f-7575-40ff-81c3-7417c3d513aa
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 642b58f5-0e3a-4d6f-a54d-ebd560e1a924
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: a6804568-26d7-41af-9be8-3245dc146530
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: fef4c745-9f17-408e-a53d-ade206636ea6
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 8ae03b33-4afc-49e3-b96a-9b0ce595fb4b
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 103979bf-dc59-4b7d-8b16-2af6ed94611f
+Id: 
+Tag Name: span
+Class Name: 
+Parent: ccf3568f-32ac-4283-9a88-448280bb7ca2
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6460c442-250d-4c03-96e1-925f6dfd926e
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f0a0c090-e2d8-4ec6-8d8f-f8be247aeea2
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a46219fa-209a-4fc1-9ee1-5ed2b0cc9df2
+Id: chevron-left
+Tag Name: g
+Class Name: null
+Parent: 31d58bcf-f9fe-47f0-9d44-df1545a014ca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: chevron-left
+
+
+Unique Id: 61b3b0ab-863d-4f45-b59d-2956f3289939
+Id: slack
+Tag Name: g
+Class Name: null
+Parent: 85a78486-05ae-47d5-b020-33af9d8ea561
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: slack
+
+
+Unique Id: 8e0b30c0-34ad-48bb-8106-696823bf3d2c
+Id: 
+Tag Name: script
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 9a06e05b-20c9-47c2-9232-d68885dc9ead
+Id: 
+Tag Name: defs
+Class Name: null
+Parent: 2bc31b68-87ad-4f43-961f-39c842e550f4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 4fbcf5fe-2215-4c93-a58c-0eab00d9aa64
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 2379a879-0a8f-4d40-a2fb-14bdb79da7e7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: af78e928-01fc-4849-aa83-1b0fe590bcbc
+Id: 
+Tag Name: span
+Class Name: hljs-title
+Parent: f2fad612-8b0a-43d7-bc19-9169e6016fd4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-title
+
+
+Unique Id: cde0823f-c3c8-40ef-88cb-2d0fa76014f0
+Id: 
+Tag Name: span
+Class Name: 
+Parent: dd0970e7-bb04-4a0d-9a57-1394d38fd697
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 642b58f5-0e3a-4d6f-a54d-ebd560e1a924
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 5cc3942e-c9d7-4f58-aa4f-1a8647220725
+Id: 
+Tag Name: strong
+Class Name: 
+Parent: d74d42b8-732d-4a0f-9448-950a12ee0d4b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 8877ccd5-04a7-48ac-91a5-7542d6e335db
+Id: 
+Tag Name: link
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/css/site.css - GET
+Passive Outbound Request: 
+Attributes:
+  rel: stylesheet
+  href: https://polymer-library.polymer-project.org/css/site.css
+
+
+Unique Id: db5ccad0-9a10-4a84-825c-28e397eb897d
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  charset: utf-8
+
+
+Unique Id: 3871334a-663d-479d-ab29-00381dfcf293
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 3dbd4369-d64c-4f69-b0f4-3b5104f51899
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: de565616-6542-4a26-b1fb-e2c60d968e09
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: 9c31aa26-e54c-452d-9086-ac277f7561e1
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: e308f756-46e5-43ea-bc6b-43efc6dbf7a8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-elements - GET
+Attributes:
+  name: /3.0/docs/devguide/custom-elements
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-elements
+  class: level-2 indent
+
+
+Unique Id: 182a130c-d2b5-4ca6-a0b0-e06165b4497e
+Id: 
+Tag Name: a
+Class Name: sidenav-content  
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/quick-tour - GET
+Attributes:
+  name: /3.0/docs/quick-tour
+  href: https://polymer-library.polymer-project.org/3.0/docs/quick-tour
+  class: sidenav-content  
+
+
+Unique Id: c863adda-9126-4fac-827e-e145aa37426d
+Id: 
+Tag Name: li
+Class Name: 
+Parent: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 602e2f45-6673-4d3e-b3aa-32dbab388d08
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 6bd3aaba-36eb-496d-9012-06932daf84a3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 46ee978d-12a8-4589-83f8-b34776c69ae7
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 650b2375-f7c2-4414-9626-cacc90cc2783
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/elements/dom-module - GET
+Attributes:
+  name: /3.0/api/elements/dom-module
+  href: https://polymer-library.polymer-project.org/3.0/api/elements/dom-module
+  class: level-2 indent
+
+
+Unique Id: 2a2b78b3-a3ca-43df-b9ba-69d0ad7c8929
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f34fdd4e-336f-4fe3-8d85-6b2e053e211d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7406bccf-36a9-4fa5-8459-8514b1c14ae6
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/templatize - GET
+Attributes:
+  name: /3.0/api/utils/templatize
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/templatize
+  class: level-2 indent
+
+
+Unique Id: 2379a879-0a8f-4d40-a2fb-14bdb79da7e7
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: e308f756-46e5-43ea-bc6b-43efc6dbf7a8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/registering-elements - GET
+Attributes:
+  name: /3.0/docs/devguide/registering-elements
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/registering-elements
+  class: level-2 indent
+
+
+Unique Id: dec56de6-55c3-4a3e-87d0-460509195705
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 650b2375-f7c2-4414-9626-cacc90cc2783
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/elements/dom-bind - GET
+Attributes:
+  name: /3.0/api/elements/dom-bind
+  href: https://polymer-library.polymer-project.org/3.0/api/elements/dom-bind
+  class: level-2 indent
+
+
+Unique Id: 41ccc549-a305-472b-8095-32529184ec8b
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/about_30 - GET
+Attributes:
+  name: /3.0/docs/about_30
+  href: https://polymer-library.polymer-project.org/3.0/docs/about_30
+  class: sidenav-content indent 
+
+
+Unique Id: 4ac8bf9e-5d76-436b-a828-e5e56a8ebdfc
+Id: 
+Tag Name: span
+Class Name: 
+Parent: bafbeb0c-fa9a-4763-88f8-0d0610dd3c92
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5f786bda-b86e-4fe2-a7ae-4f75a86153b1
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/settings - GET
+Attributes:
+  name: /3.0/api/utils/settings
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/settings
+  class: level-2 indent
+
+
+Unique Id: ab7b54cd-6b08-4ea8-a351-a13337388131
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 69230bb4-8517-474e-8616-557168013eab
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z
+
+
+Unique Id: dfe9753b-5f9c-4a32-9111-7dc22503aa67
+Id: 
+Tag Name: a
+Class Name: sidenav-content  iron-selected
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview - GET
+Attributes:
+  name: /3.0/docs/devguide/feature-overview
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview
+  class: sidenav-content  iron-selected
+
+
+Unique Id: d47d25c9-1d64-4f97-83b9-232b9717f19a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 33c5403e-8cca-476e-ae94-c8fa82a5eefd
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8c355d03-89ff-4f25-9c89-b00b7ff9f897
+Id: 
+Tag Name: span
+Class Name: 
+Parent: de8f08ba-7140-4337-8f7a-853799c9f0b7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f5634fc2-deee-4303-acd3-2b6ac285146f
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/telemetry - GET
+Attributes:
+  name: /3.0/api/utils/telemetry
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/telemetry
+  class: level-2 indent
+
+
+Unique Id: 37943a90-70f8-423f-8532-37d08710fa6d
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/gesture-events - GET
+Attributes:
+  name: /3.0/docs/devguide/gesture-events
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/gesture-events
+  class: sidenav-content indent 
+
+
+Unique Id: a5b64ab5-c1fb-4d37-8e83-6796b97a8bc5
+Id: 
+Tag Name: link
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://plus.google.com/107187849809354688692 - GET
+Passive Outbound Request: 
+Attributes:
+  rel: publisher
+  href: https://plus.google.com/107187849809354688692
+
+
+Unique Id: e17426c6-fcb4-458b-8b72-e3da995ec83f
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 93cb5719-e630-464b-94af-22506f52046f
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/polymer.dom - GET
+Attributes:
+  name: /3.0/api/legacy/polymer.dom
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/polymer.dom
+  class: level-2 indent
+
+
+Unique Id: 98b227f0-2864-4d61-982a-ac4dc5a5840e
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/case-map - GET
+Attributes:
+  name: /3.0/api/utils/case-map
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/case-map
+  class: level-2 indent
+
+
+Unique Id: 726ff4b5-ff0e-4843-884d-efb0b259ac51
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 318d6423-8bcf-4da6-86d1-91c022496ab7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/es6 - GET
+Attributes:
+  name: /3.0/docs/es6
+  href: https://polymer-library.polymer-project.org/3.0/docs/es6
+  class: level-2 indent
+
+
+Unique Id: 388c6c93-a042-4bf0-9c9d-283695c62cc0
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 91901f87-5e75-4ac6-b05c-86be519d3981
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d8c9efcf-549d-4db0-a40d-d8c59fcaec61
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 41eb3716-03d5-4c30-b2d8-2092c2244c9c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b387e8a7-8dd9-46a3-9d17-05af3aef2ade
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 650b2375-f7c2-4414-9626-cacc90cc2783
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/elements/dom-repeat - GET
+Attributes:
+  name: /3.0/api/elements/dom-repeat
+  href: https://polymer-library.polymer-project.org/3.0/api/elements/dom-repeat
+  class: level-2 indent
+
+
+Unique Id: 45336ba3-c680-4d90-b484-62149fb67912
+Id: 
+Tag Name: span
+Class Name: 
+Parent: b19222f5-d796-415b-b0f7-ada83e58ae5d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7ec87c82-20b4-4c3c-ae31-ada7db179158
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/dom-template - GET
+Attributes:
+  name: /3.0/docs/devguide/dom-template
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/dom-template
+  class: sidenav-content indent 
+
+
+Unique Id: edc75367-be44-48ac-98cd-7cc4484fc027
+Id: 
+Tag Name: img
+Class Name: 
+Parent: ccb1f672-8fd7-4469-b5b9-bb52926c0c8c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/images/alerts/upgrade.svg - GET
+Passive Outbound Request: 
+Attributes:
+  src: https://polymer-library.polymer-project.org/images/alerts/upgrade.svg
+  height: 36px
+
+
+Unique Id: 2f169c0f-b31d-4f55-a438-428701488e9a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 5fbcc727-7c14-46b8-b328-9480153edfe8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b8ffdd7f-91ef-4398-83cf-0e6ef6c09c90
+Id: 
+Tag Name: a
+Class Name: sidenav-content  
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/install-3-0 - GET
+Attributes:
+  name: /3.0/docs/install-3-0
+  href: https://polymer-library.polymer-project.org/3.0/docs/install-3-0
+  class: sidenav-content  
+
+
+Unique Id: 6fe1fc25-2b25-4bea-bf07-8256a1f84e7c
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/dir-mixin - GET
+Attributes:
+  name: /3.0/api/mixins/dir-mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/dir-mixin
+  class: level-2 indent
+
+
+Unique Id: da372a09-a0b0-47bf-b91c-09698170edcc
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 61b3b0ab-863d-4f45-b59d-2956f3289939
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M6.586 7.33l.69 2.057 2.137-.716-.69-2.056-2.137.716z
+
+
+Unique Id: b5a6a2ed-68a8-4da2-af6e-b42253a66604
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 597d3073-a0c5-4da7-b02f-ceeda6fed4aa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 3d332864-1a82-4319-b378-64c6286dd815
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 54b81833-0f59-4233-b9e1-2b1b5845f4d7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 92747a85-2ae1-4aa1-a2a3-4e2bdf6bd7d3
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-2 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-2
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-2
+  class: sidenav-content indent 
+
+
+Unique Id: ef32096e-dced-46d2-8519-6a7b7cde4da1
+Id: 
+Tag Name: link
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/manifest.json - GET
+Passive Outbound Request: 
+Attributes:
+  rel: manifest
+  href: https://polymer-library.polymer-project.org/manifest.json
+
+
+Unique Id: 88af74d1-4da9-4a6d-8ae0-31fe33c8e13f
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: ce6ace75-cb4e-43cb-866c-7916acea9f6f
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/model-data - GET
+Attributes:
+  name: /3.0/docs/devguide/model-data
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/model-data
+  class: sidenav-content indent 
+
+
+Unique Id: fbd93018-d149-4399-83cc-bd0f15ad03b3
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 8bf399de-649a-4a98-a0a3-a0725ecaf8ae
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 5c17f00b-aded-4fcb-a49d-d5569d73331a
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 9f16e06f-2460-41c8-bcb5-13b89fec0a2f
+Id: 
+Tag Name: template
+Class Name: 
+Parent: a1b5f7d8-959e-49e4-b6c9-744cfcfd131c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 38756b83-b77d-4884-81ee-674f177c00bb
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: f3601c28-1c60-4eb4-97d6-5bc95bbfabb9
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 1db776d3-7d22-45a4-83f0-d75e497e926d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 0af3e140-2382-49da-91f2-76ad501d6950
+Id: 
+Tag Name: span
+Class Name: 
+Parent: df4dde57-eea8-476b-a056-7be2e335673d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6d24cdca-55b6-4337-94fc-9c3dff284321
+Id: 
+Tag Name: html
+Class Name: 
+Parent: null
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  itemscope: 
+  itemtype: http://schema.org/Organization
+  lang: en
+
+
+Unique Id: 3dd130b9-5fe1-429b-944d-69ca16998c20
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: d6be7dda-bfda-49cf-8eb2-bbde9acc48f4
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/property-accessors - GET
+Attributes:
+  name: /3.0/api/mixins/property-accessors
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/property-accessors
+  class: level-2 indent
+
+
+Unique Id: 91901f87-5e75-4ac6-b05c-86be519d3981
+Id: iron-flex-alignment
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-flex-alignment
+
+
+Unique Id: 1db776d3-7d22-45a4-83f0-d75e497e926d
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 2d5762d3-7b1c-4f35-a33b-1ab56f929ba8
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 5eaa425c-89be-42fe-92c2-4020a94cb60a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 425f3f44-ded9-4ff4-9a43-2132b6123965
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3ff29b32-43af-4e22-9efd-b7667b0d8563
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/release-notes - GET
+Attributes:
+  name: /3.0/docs/release-notes
+  href: https://polymer-library.polymer-project.org/3.0/docs/release-notes
+  class: level-2 indent
+
+
+Unique Id: 815e8fe8-a441-4234-bdc7-2f84b0a9c853
+Id: iron-doc-default-theme
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-doc-default-theme
+
+
+Unique Id: 15dde1ac-e2f4-48e4-afd0-a3469d23a90b
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 3c19961d-54aa-4550-997e-df7462d598c9
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f48f273d-7c60-4f40-9afb-0001c96125dc
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: f089f6d9-b454-49b9-add5-c97fe3890037
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/events - GET
+Attributes:
+  name: /3.0/docs/devguide/events
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/events
+  class: level-2 indent
+
+
+Unique Id: 3c6bc14d-57a1-40d3-9954-ba2583c65e24
+Id: 
+Tag Name: style
+Class Name: 
+Parent: 4adc777c-f15d-472f-9a51-f15cf7e57b1e
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  is: custom-style
+
+
+Unique Id: 89caae91-f658-4c88-8955-b3d94c00e178
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 1ddb6578-fcbe-4878-95e3-9c77a114c599
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5ed6a9a2-28c2-4915-90c2-11964b47fef3
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/flush - GET
+Attributes:
+  name: /3.0/api/utils/flush
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/flush
+  class: level-2 indent
+
+
+Unique Id: 60443c4e-d64f-4475-bed9-f32d2c60c270
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli-commands - GET
+Attributes:
+  name: /3.0/docs/tools/polymer-cli-commands
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli-commands
+  class: sidenav-content indent 
+
+
+Unique Id: 8bd8f951-83d1-436c-9430-17584dc9f076
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/style-gather - GET
+Attributes:
+  name: /3.0/api/utils/style-gather
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/style-gather
+  class: level-2 indent
+
+
+Unique Id: 0cd7fe0b-2d9f-402b-a218-366bbbbf3340
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f6ab0430-106a-4f2f-adba-9520742b8387
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 499ed2a6-cb6b-41ba-a9d2-5e16044d9bcc
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: a168887d-593d-4109-8596-9e06184f96a9
+Id: 
+Tag Name: span
+Class Name: hljs-attr
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-attr
+
+
+Unique Id: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Id: 
+Tag Name: article
+Class Name: 
+Parent: bf59782b-a785-4683-b872-63d3b5dbae0d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 013eddc4-769a-4d57-9afe-c88db8c03fa1
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: fef4c745-9f17-408e-a53d-ade206636ea6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: ee80f976-ca4a-4e71-a026-11a00a7dd253
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/data-binding - GET
+Attributes:
+  name: /3.0/docs/devguide/data-binding
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/data-binding
+  class: sidenav-content indent 
+
+
+Unique Id: 43a766d8-cdd0-401b-bf4a-3295c5e4f1aa
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 5cb824c8-80bb-4e15-8f10-4ec78ebb03a2
+Id: 
+Tag Name: span
+Class Name: hljs-comment
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-comment
+
+
+Unique Id: b93d5595-811d-4826-992d-b12271c9df2e
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: d8504026-ae53-4bce-a84d-af5a42ae91e4
+Id: 
+Tag Name: iron-iconset-svg
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: pw-icons
+  style: display: none;
+  size: 24
+
+
+Unique Id: af7f65c6-34e1-435a-88a8-1c76ef1e6205
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-elements - GET
+Attributes:
+  name: /3.0/docs/devguide/custom-elements
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-elements
+  class: sidenav-content indent 
+
+
+Unique Id: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Id: 
+Tag Name: body
+Class Name: 
+Parent: 6d24cdca-55b6-4337-94fc-9c3dff284321
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 4adc777c-f15d-472f-9a51-f15cf7e57b1e
+Id: 
+Tag Name: custom-style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 09e480d5-cd49-4666-a714-b96fe8b61bfa
+Id: 
+Tag Name: li
+Class Name: 
+Parent: b85a943e-eedd-4f9a-9f6a-6b9b1b791a74
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f4c770b4-8db0-4352-ab83-9cdc9d52b628
+Id: 
+Tag Name: span
+Class Name: 
+Parent: de7a8daa-ff67-4603-8881-0f62701bc421
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b4bcb415-9c64-40e7-bb7c-f7335c23a538
+Id: 
+Tag Name: custom-style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 1c806ce8-cfff-4a88-a9f8-a2cc67f9bc67
+Id: prism-theme-default
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: prism-theme-default
+
+
+Unique Id: 23041ddf-f65a-41b0-ab18-7b81420faf0f
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/service-worker - GET
+Attributes:
+  name: /3.0/docs/apps/service-worker
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/service-worker
+  class: sidenav-content indent 
+
+
+Unique Id: e484016d-8a40-4314-b7c4-d2b66e8433fc
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 1db776d3-7d22-45a4-83f0-d75e497e926d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: b9d259c3-869a-42cd-8371-2de8c65378a1
+Id: 
+Tag Name: span
+Class Name: 
+Parent: b339f103-9a1b-456a-ad54-04fcbef39889
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: de8f08ba-7140-4337-8f7a-853799c9f0b7
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: a6804568-26d7-41af-9be8-3245dc146530
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/model-data - GET
+Attributes:
+  name: /3.0/docs/devguide/model-data
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/model-data
+  class: level-2 indent
+
+
+Unique Id: 4210393c-c58b-471a-aea9-abac802639eb
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f48f273d-7c60-4f40-9afb-0001c96125dc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d812e70d-3e20-4780-aba9-0a317aa0e8bb
+Id: 
+Tag Name: iron-iconset-svg
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: paper-dropdown-menu
+  style: display: none;
+  size: 24
+
+
+Unique Id: 65091be4-7287-4f4f-8c27-969f3b10c46b
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 0e9a2b29-47e8-4f41-90a4-4da1104a99db
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f11ded1a-ceb3-45c7-8a23-a1a461dbd80e
+Id: 
+Tag Name: style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  include: iron-doc-default-theme
+  is: custom-style
+
+
+Unique Id: e308f756-46e5-43ea-bc6b-43efc6dbf7a8
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: dae992cc-7f8c-488b-b869-423d40d2cae8
+Id: 
+Tag Name: span
+Class Name: 
+Parent: d6be7dda-bfda-49cf-8eb2-bbde9acc48f4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 3a79a8f2-b899-4311-8406-cdd77a153b28
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  content: https://www.polymer-project.org/images/logos/favicon.png
+  itemprop: image
+
+
+Unique Id: ec0e97cd-82c7-4e08-b06f-276f0809938c
+Id: 
+Tag Name: svg
+Class Name: null
+Parent: 10fc90c6-06a9-41d8-8b1d-07b567586ddd
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a056161b-4a9a-4f48-912a-f6ba64bff872
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: a6804568-26d7-41af-9be8-3245dc146530
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/data-binding - GET
+Attributes:
+  name: /3.0/docs/devguide/data-binding
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/data-binding
+  class: level-2 indent
+
+
+Unique Id: 9738f0ed-1e0d-49f7-b728-a9d100aaca61
+Id: 
+Tag Name: span
+Class Name: hljs-comment
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-comment
+
+
+Unique Id: f97d4215-1640-4f49-a794-10b10067ac0c
+Id: 
+Tag Name: pw-version-selector
+Class Name: 
+Parent: e97cbf35-0e44-478c-930e-0b18308dc5d9
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  v1-page-link: /1.0/docs/devguide/feature-overview
+  active-docs-version: 3.0
+  v3-page-link: /3.0/docs/devguide/feature-overview
+  v2-page-link: /2.0/docs/devguide/feature-overview
+
+
+Unique Id: ba6bb048-36c2-4f1d-88dc-c4a997d5288c
+Id: 
+Tag Name: li
+Class Name: 
+Parent: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a5a29c0c-4769-45fb-9f7d-dd5756831a2a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 861622cb-95e4-46ab-8463-11af549b874a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 35b44c99-2d60-4ffb-bfed-aef5eab29324
+Id: 
+Tag Name: a
+Class Name: level-2 
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/polymer-element - GET
+Attributes:
+  name: /3.0/api/polymer-element
+  href: https://polymer-library.polymer-project.org/3.0/api/polymer-element
+  class: level-2 
+
+
+Unique Id: 13447631-bb9f-46c4-9baa-14e01908c973
+Id: 
+Tag Name: span
+Class Name: hljs-string
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-string
+
+
+Unique Id: 3159cd81-1c2c-4c27-a1b4-ae711ade0359
+Id: 
+Tag Name: span
+Class Name: 
+Parent: bee185a2-9534-49b8-aee4-418af2300860
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a1690a9f-2bc5-4859-8c1f-0b352f5ae42e
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 750d0307-df2c-49dc-9d9a-09275193c763
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5b28b358-e984-4313-83be-bbecc8da77e0
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/release-notes - GET
+Attributes:
+  name: /3.0/docs/release-notes
+  href: https://polymer-library.polymer-project.org/3.0/docs/release-notes
+  class: sidenav-content indent 
+
+
+Unique Id: 211c3ab8-13e4-4bb2-841a-092aa18e80b3
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 7e22a8f8-c9a5-4dc8-a77d-6001128d0de6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z
+
+
+Unique Id: 54b81833-0f59-4233-b9e1-2b1b5845f4d7
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-json - GET
+Attributes:
+  name: /3.0/docs/tools/polymer-json
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-json
+  class: level-2 indent
+
+
+Unique Id: 9a32ed15-4cbb-4993-b8ff-1c7d153ecf75
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/templates - GET
+Attributes:
+  name: /3.0/docs/apps/templates
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/templates
+  class: level-2 indent
+
+
+Unique Id: 3a3c7acb-9859-4cc0-bd84-7b625c0220cc
+Id: 
+Tag Name: li
+Class Name: 
+Parent: b85a943e-eedd-4f9a-9f6a-6b9b1b791a74
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 148b280d-4ea3-4cc3-b2de-12a017d4d9c8
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 5e86d0f4-5aac-4859-9e08-a2be9d16a2b6
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 2991f936-bd5f-44ae-b60f-3e55cb2a5b98
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z
+
+
+Unique Id: ba1a9885-6baa-4c7e-92ef-ad2082f0c1ad
+Id: 
+Tag Name: span
+Class Name: hljs-attr
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-attr
+
+
+Unique Id: 571bdd80-f938-4ec8-b877-19aec7c2f12f
+Id: 
+Tag Name: template
+Class Name: 
+Parent: f9449dbd-01da-4de3-8732-1f226dff5ff9
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 02c26bdb-5338-4d1f-9478-02d49987dc73
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/create-element-polymer-cli - GET
+Attributes:
+  name: /3.0/docs/tools/create-element-polymer-cli
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/create-element-polymer-cli
+  class: sidenav-content indent 
+
+
+Unique Id: 3268dd80-be0b-47e8-8acf-c626ea7bb9a4
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/mutable-data - GET
+Attributes:
+  name: /3.0/api/mixins/mutable-data
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/mutable-data
+  class: level-2 indent
+
+
+Unique Id: 52639a2d-d1a2-4465-9eb8-9f2325c9ce7d
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/strict-binding-parser - GET
+Attributes:
+  name: /3.0/api/mixins/strict-binding-parser
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/strict-binding-parser
+  class: level-2 indent
+
+
+Unique Id: 45cacd51-d252-41e7-9784-f05e98be8fcd
+Id: 
+Tag Name: iron-iconset-svg
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: icons
+  style: display: none;
+  size: 24
+
+
+Unique Id: b55044c4-8300-46f8-a709-f74ce5e82b22
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/prpl - GET
+Attributes:
+  name: /3.0/docs/apps/prpl
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/prpl
+  class: sidenav-content indent 
+
+
+Unique Id: d78d4b46-8123-41e0-8b71-1e41e3ee6181
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: f089f6d9-b454-49b9-add5-c97fe3890037
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/gesture-events - GET
+Attributes:
+  name: /3.0/docs/devguide/gesture-events
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/gesture-events
+  class: level-2 indent
+
+
+Unique Id: aae98b9d-e90d-4afe-9fcf-20911064c2cf
+Id: 
+Tag Name: span
+Class Name: 
+Parent: a056161b-4a9a-4f48-912a-f6ba64bff872
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a08a0677-592a-4e2a-8e8d-68a8d032144b
+Id: 
+Tag Name: li
+Class Name: 
+Parent: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8459f4f2-bee3-41ff-9e1d-9e8cde9742f3
+Id: 
+Tag Name: p
+Class Name: 
+Parent: 7b364c72-1e17-498b-9d98-9a4edd1c7c70
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c5d7b8cc-559d-47d7-847f-1f4804cc010d
+Id: 
+Tag Name: span
+Class Name: 
+Parent: b91182d7-9304-4831-9a53-b9671e2305fa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 210fc702-0893-4114-9a01-9d91111f855e
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/upgrade - GET
+Attributes:
+  name: /3.0/docs/upgrade
+  href: https://polymer-library.polymer-project.org/3.0/docs/upgrade
+  class: sidenav-content indent 
+
+
+Unique Id: 59356aca-8b1f-4abe-a292-af8b065a73d7
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: f0a0c090-e2d8-4ec6-8d8f-f8be247aeea2
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 7eb9e7ce-dff5-4530-abc1-501d358a0339
+Id: iron-doc-property
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-doc-property
+
+
+Unique Id: 4d55a3d0-478a-4aa9-93aa-fcde8bed2179
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 398c6ceb-9bf9-4939-8546-deb5b50725e8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: bafbeb0c-fa9a-4763-88f8-0d0610dd3c92
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 650b2375-f7c2-4414-9626-cacc90cc2783
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/elements/dom-if - GET
+Attributes:
+  name: /3.0/api/elements/dom-if
+  href: https://polymer-library.polymer-project.org/3.0/api/elements/dom-if
+  class: level-2 indent
+
+
+Unique Id: e5d56914-3ca8-46d9-b7ee-5a91763d7fb2
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 38bbbbb7-6b6d-4db9-9771-322ef3962ed3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.375-1.337.648-2.085.795-.598-.638-1.45-1.036-2.396-1.036-1.812 0-3.282 1.468-3.282 3.28 0 .258.03.51.085.75C5.152 5.39 2.733 4.084 1.114 2.1.83 2.583.67 3.147.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.416-.02-.617-.058.418 1.304 1.63 2.253 3.067 2.28-1.124.88-2.54 1.404-4.077 1.404-.265 0-.526-.015-.783-.045 1.453.93 3.178 1.474 5.032 1.474 6.038 0 9.34-5 9.34-9.338 0-.143-.004-.284-.01-.425.64-.463 1.198-1.04 1.638-1.7z
+  fill-rule: nonzero
+
+
+Unique Id: bd44b867-a1c7-4257-9868-98f933c76355
+Id: 
+Tag Name: div
+Class Name: content-container
+Parent: d0095417-43ed-4413-b43f-74d870883310
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: content-container
+
+
+Unique Id: 3ebd4c0c-9ed4-4799-bdc8-e99439f410d0
+Id: 
+Tag Name: style
+Class Name: 
+Parent: b4bcb415-9c64-40e7-bb7c-f7335c23a538
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  is: custom-style
+
+
+Unique Id: de1a8258-2006-4d9d-9a93-9815acc39bfc
+Id: 
+Tag Name: template
+Class Name: 
+Parent: ce27ebf6-0424-40c5-be83-5a25ce6250cd
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: bbe1470c-94c4-4698-9733-440c59a9bc10
+Id: 
+Tag Name: main
+Class Name: 
+Parent: bd44b867-a1c7-4257-9868-98f933c76355
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d74d42b8-732d-4a0f-9448-950a12ee0d4b
+Id: 
+Tag Name: p
+Class Name: 
+Parent: ccb1f672-8fd7-4469-b5b9-bb52926c0c8c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5ee135a2-3f84-4257-b86b-c71818dfc530
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: 6287610a-cb33-4366-8ea0-f747b6d5a117
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: viewport
+  content: width=device-width, initial-scale=1.0, minimum-scale=1.0
+
+
+Unique Id: 9de8c5fd-ec03-4ac1-823b-2e6e2751650e
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 650b2375-f7c2-4414-9626-cacc90cc2783
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/elements/array-selector - GET
+Attributes:
+  name: /3.0/api/elements/array-selector
+  href: https://polymer-library.polymer-project.org/3.0/api/elements/array-selector
+  class: level-2 indent
+
+
+Unique Id: 34b55ab6-0268-4981-a196-f805bf215c61
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 18b7de9f-3368-4a04-a037-9058eca113d6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: cfa8efd4-429b-4afd-92ef-9d1041afbe4f
+Id: 
+Tag Name: custom-style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d3ced31f-8971-4184-a24f-ebf0e50f1845
+Id: 
+Tag Name: span
+Class Name: 
+Parent: dec56de6-55c3-4a3e-87d0-460509195705
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 18b7de9f-3368-4a04-a037-9058eca113d6
+Id: paper-item-shared-styles
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: paper-item-shared-styles
+
+
+Unique Id: 85470019-124e-4556-86b3-a5a2c9bc19a5
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 24299845-a3de-4224-90b5-96f3f197972e
+Id: 
+Tag Name: span
+Class Name: 
+Parent: ba67ab3a-da93-4eec-97b0-a305a7c9837c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f79ccdf0-e066-4363-a041-134f1ab8ab20
+Id: 
+Tag Name: a
+Class Name: level-2 selected active
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview - GET
+Attributes:
+  name: /3.0/docs/devguide/feature-overview
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview
+  class: level-2 selected active
+
+
+Unique Id: 3e3e9b77-d534-4544-87ef-d8752f7b9d6b
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: 86542e8b-7de0-4bbb-8d90-1a6e5c9fd23c
+Id: 
+Tag Name: script
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/webcomponentsjs/webcomponents-loader.js - GET
+Passive Outbound Request: 
+Attributes:
+  src: https://polymer-library.polymer-project.org/webcomponentsjs/webcomponents-loader.js
+
+
+Unique Id: 094523e5-7c73-48be-8deb-c225f680ead6
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: a80a3f82-e977-4542-a95a-0a3b33f4c030
+Id: 
+Tag Name: a
+Class Name: level-1 active
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview - GET
+Attributes:
+  name: /3.0/docs/devguide/feature-overview
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview
+  class: level-1 active
+  data-version: 3.0
+
+
+Unique Id: edb518ca-10f7-4f97-8234-df4fb14ded37
+Id: 
+Tag Name: span
+Class Name: 
+Parent: fbd93018-d149-4399-83cc-bd0f15ad03b3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 0a868acb-22c8-41a8-a784-8b5d16d6d801
+Id: 
+Tag Name: svg
+Class Name: null
+Parent: 45cacd51-d252-41e7-9784-f05e98be8fcd
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 281a89ea-ac7d-4cf0-bb16-f15184106cd8
+Id: 
+Tag Name: span
+Class Name: 
+Parent: fef4c745-9f17-408e-a53d-ade206636ea6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7e6fed55-9757-4eba-bafa-d88e71152488
+Id: 
+Tag Name: li
+Class Name: 
+Parent: b85a943e-eedd-4f9a-9f6a-6b9b1b791a74
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 31bfaf5d-2f85-4521-aede-8c87ec9741a6
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/create-element-polymer-cli - GET
+Attributes:
+  name: /3.0/docs/tools/create-element-polymer-cli
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/create-element-polymer-cli
+  class: level-2 indent
+
+
+Unique Id: 0a0998cd-86fc-4b83-a5ad-dd85c3d0a72c
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 1ad2c621-470a-4f02-82f9-39194d98a59c
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/templatizer-behavior - GET
+Attributes:
+  name: /3.0/api/legacy/templatizer-behavior
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/templatizer-behavior
+  class: level-2 indent
+
+
+Unique Id: aeda489f-9b3b-455e-877f-e1ed69162b69
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/properties-changed - GET
+Attributes:
+  name: /3.0/api/mixins/properties-changed
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/properties-changed
+  class: level-2 indent
+
+
+Unique Id: 86714d6d-14be-4bab-9d06-9c6d740afff0
+Id: 
+Tag Name: path
+Class Name: null
+Parent: a8987cb3-fc9f-4895-8ec3-b309916ecaa4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M8 0C3.58 0 0 3.582 0 8c0 3.535 2.292 6.533 5.47 7.59.4.075.547-.172.547-.385 0-.19-.007-.693-.01-1.36-2.226.483-2.695-1.073-2.695-1.073-.364-.924-.89-1.17-.89-1.17-.725-.496.056-.486.056-.486.803.056 1.225.824 1.225.824.714 1.223 1.873.87 2.33.665.072-.517.278-.87.507-1.07-1.777-.2-3.644-.888-3.644-3.953 0-.873.31-1.587.823-2.147-.083-.202-.358-1.015.077-2.117 0 0 .672-.215 2.2.82.638-.178 1.323-.266 2.003-.27.68.004 1.364.092 2.003.27 1.527-1.035 2.198-.82 2.198-.82.437 1.102.163 1.915.08 2.117.513.56.823 1.274.823 2.147 0 3.073-1.87 3.75-3.653 3.947.287.246.543.735.543 1.48 0 1.07-.01 1.933-.01 2.195 0 .215.144.463.55.385C13.71 14.53 16 11.534 16 8c0-4.418-3.582-8-8-8
+
+
+Unique Id: 13e46897-bec9-4299-9fb8-f4308d4bf90a
+Id: 
+Tag Name: script
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/webcomponentsjs/custom-elements-es5-adapter.js - GET
+Passive Outbound Request: 
+Attributes:
+  src: https://polymer-library.polymer-project.org/webcomponentsjs/custom-elements-es5-adapter.js
+
+
+Unique Id: 6e8a1690-b5a2-4673-9c74-db9d1cfcea91
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: fd60ef0e-f5d1-4911-8b76-672fcb5eab84
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/documentation - GET
+Attributes:
+  name: /3.0/docs/tools/documentation
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/documentation
+  class: level-2 indent
+
+
+Unique Id: 3c19961d-54aa-4550-997e-df7462d598c9
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli - GET
+Attributes:
+  name: /3.0/docs/tools/polymer-cli
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli
+  class: level-2 indent
+
+
+Unique Id: 888d36d9-8045-4744-a102-cfe7bab46094
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: d04e739b-b3a9-49ea-8d07-8ede9c7c34de
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 637bc251-c30b-4f98-8a8f-f87daded8e7e
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 12aad5a0-e000-413c-b40e-915a07593a1d
+Id: 
+Tag Name: a
+Class Name: 
+Parent: 47ad6bcd-ca5b-4c10-b043-5f5b64226f0e
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/upgrade - GET
+Attributes:
+  href: https://polymer-library.polymer-project.org/3.0/docs/upgrade
+
+
+Unique Id: e1cf8a71-758e-4694-a4e7-6a9053523be1
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  content: The Polymer library uses the latest web technologies to let you create custom HTML elements.
+  itemprop: description
+
+
+Unique Id: 78e6408c-2b6d-4146-939b-8ceafd9453ce
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/create-app-polymer-cli - GET
+Attributes:
+  name: /3.0/docs/tools/create-app-polymer-cli
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/create-app-polymer-cli
+  class: sidenav-content indent 
+
+
+Unique Id: 461f2971-62ec-4dc2-9f60-a1969b1421a9
+Id: 
+Tag Name: li
+Class Name: 
+Parent: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 99b61547-c862-44f7-9d06-00dc7871d3a4
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 6fe1fc25-2b25-4bea-bf07-8256a1f84e7c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 59e9fdd5-d98b-4f5b-a537-96a8222edfc5
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/create-app-polymer-cli - GET
+Attributes:
+  name: /3.0/docs/tools/create-app-polymer-cli
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/create-app-polymer-cli
+  class: level-2 indent
+
+
+Unique Id: 966e2fed-df63-4373-9a41-a12cae408651
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: f2fad612-8b0a-43d7-bc19-9169e6016fd4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 140be641-90f4-4d4d-92c3-6cd83b060000
+Id: paper-icon-button
+Tag Name: dom-module
+Class Name: 
+Parent: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: paper-icon-button
+
+
+Unique Id: f0a0c090-e2d8-4ec6-8d8f-f8be247aeea2
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: a1b5f7d8-959e-49e4-b6c9-744cfcfd131c
+Id: iron-positioning
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-positioning
+
+
+Unique Id: e79a7282-24da-476b-b8f0-7c51ed7b555e
+Id: 
+Tag Name: p
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6e9232f7-fe9e-403e-9b5c-4c12d3db42d4
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 75a8b9d3-dc66-4469-8031-7987c48e5638
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 752edff5-8a67-4ce2-a9a1-0972921b7ad2
+Id: 
+Tag Name: span
+Class Name: hljs-comment
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-comment
+
+
+Unique Id: 8c3e5428-4696-4031-82a5-0347ac8f2ad5
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 8ae03b33-4afc-49e3-b96a-9b0ce595fb4b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 1c71144d-46a2-413a-83d5-bea021600d6c
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 5c25777e-c1b3-4dea-9982-2ff61f0f6004
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 2f56ca5f-688b-4054-a4ea-b7586df56d9c
+Id: 
+Tag Name: span
+Class Name: 
+Parent: ee936b0c-13b2-4f67-a3ee-228350260cc3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: ff0b3a86-8b9c-4376-97bf-11af5be346e0
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: e17426c6-fcb4-458b-8b72-e3da995ec83f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: a8987cb3-fc9f-4895-8ec3-b309916ecaa4
+Id: github
+Tag Name: g
+Class Name: null
+Parent: 85a78486-05ae-47d5-b020-33af9d8ea561
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: github
+
+
+Unique Id: fd59c93f-6ea4-4a12-bbde-170f40d7de06
+Id: 
+Tag Name: style
+Class Name: 
+Parent: 19a2664e-4f3a-457a-bc97-f7466a195aa3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  is: custom-style
+
+
+Unique Id: 151e8b53-1f9e-4c23-948b-b6df0edc4c66
+Id: 
+Tag Name: p
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6314f72f-1185-4647-92c5-1b485b8cb650
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 425f3f44-ded9-4ff4-9a43-2132b6123965
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7c825d7f-48de-4dae-8809-56a44035c6c7
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e19343a2-f353-4ee9-a3af-a8fa30cac07b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d1db9f33-57e4-4452-932c-0feaa3721145
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/observers - GET
+Attributes:
+  name: /3.0/docs/devguide/observers
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/observers
+  class: sidenav-content indent 
+
+
+Unique Id: 4f755465-1611-4eca-bceb-e6d02ac61495
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/path - GET
+Attributes:
+  name: /3.0/api/utils/path
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/path
+  class: level-2 indent
+
+
+Unique Id: 507ab067-bc3f-465a-8a19-c102024c7acb
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-css-properties - GET
+Attributes:
+  name: /3.0/docs/devguide/custom-css-properties
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-css-properties
+  class: sidenav-content indent 
+
+
+Unique Id: 3069cc91-2e95-4c71-8450-fa0c056c55db
+Id: 
+Tag Name: a
+Class Name: level-2 
+Parent: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/ - GET
+Attributes:
+  name: /3.0/docs/apps/
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/
+  class: level-2 
+
+
+Unique Id: 38bbbbb7-6b6d-4db9-9771-322ef3962ed3
+Id: twitter
+Tag Name: g
+Class Name: null
+Parent: 85a78486-05ae-47d5-b020-33af9d8ea561
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: twitter
+
+
+Unique Id: 9afb185b-01dd-42f5-a638-6bf910cfe833
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/tests - GET
+Attributes:
+  name: /3.0/docs/tools/tests
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/tests
+  class: sidenav-content indent 
+
+
+Unique Id: d99c1248-5d5a-445c-a8ee-eba6e9f3c795
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 8ae03b33-4afc-49e3-b96a-9b0ce595fb4b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8dbef511-e5ed-46dc-9adf-56684d31c29a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 4090bdc0-08fb-481a-998e-ba0f4128c432
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f3e8da97-ea63-48fe-8941-3ad1fd365ccf
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 37c4de17-9620-4e74-b66f-528540440d24
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/tests - GET
+Attributes:
+  name: /3.0/docs/tools/tests
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/tests
+  class: level-2 indent
+
+
+Unique Id: e963ce53-ad1a-45fb-8d43-158d25056ed4
+Id: 
+Tag Name: svg
+Class Name: null
+Parent: 79fe4b8e-228f-4db6-b016-41cefaecb6b8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f039a5d8-2bb6-4c0f-a974-63b4117f86c3
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-4 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-4
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-4
+  class: sidenav-content indent 
+
+
+Unique Id: 625ea3aa-db82-4b73-a65a-a0340a098cb1
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 9c31aa26-e54c-452d-9086-ac277f7561e1
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 695204bd-2acb-4d02-8a25-4562db5cbec8
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/documentation - GET
+Attributes:
+  name: /3.0/docs/tools/documentation
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/documentation
+  class: sidenav-content indent 
+
+
+Unique Id: ee936b0c-13b2-4f67-a3ee-228350260cc3
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/prpl - GET
+Attributes:
+  name: /3.0/docs/apps/prpl
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/prpl
+  class: level-2 indent
+
+
+Unique Id: e66b6855-04bd-4113-a291-b61587053410
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: a6804568-26d7-41af-9be8-3245dc146530
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/data-system - GET
+Attributes:
+  name: /3.0/docs/devguide/data-system
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/data-system
+  class: level-2 indent
+
+
+Unique Id: 344fee36-5b05-4ca0-987c-37f9f4983c2c
+Id: 
+Tag Name: style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 3fc7445c-c58f-40f6-ac43-860aec946ca2
+Id: 
+Tag Name: template
+Class Name: 
+Parent: e255a9de-e5aa-4919-8e40-2860d80d5efd
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7b364c72-1e17-498b-9d98-9a4edd1c7c70
+Id: 
+Tag Name: li
+Class Name: 
+Parent: b85a943e-eedd-4f9a-9f6a-6b9b1b791a74
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: e66c03fe-44d1-45a8-aa70-145f8ce36468
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 8a2b1099-846a-40a1-8375-6b7d42cae639
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 52e5d21c-ec33-436c-916d-1703d7853607
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 60bbce12-c6ec-436f-b8c2-2855909f451c
+Id: 
+Tag Name: path
+Class Name: null
+Parent: ad770f83-0c1f-4081-9830-58b7ff01c991
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z
+
+
+Unique Id: 5546f414-9322-4766-8e65-8799dff3c987
+Id: 
+Tag Name: path
+Class Name: null
+Parent: d87d2f17-ee69-473c-904f-0bc51da152ad
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z
+
+
+Unique Id: cdf1395a-a09b-4be6-9642-8a9e887b365a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 52639a2d-d1a2-4465-9eb8-9f2325c9ce7d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 7d4c2707-da9c-46f6-8cb9-f9427d516673
+Id: 
+Tag Name: span
+Class Name: 
+Parent: c2c99606-1a02-43a5-a9db-c35ca7b03a99
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 0935be66-11fb-400c-8d4e-cad72da9406e
+Id: 
+Tag Name: span
+Class Name: 
+Parent: efdf336d-479c-44b6-b2d0-a1657027c95a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: ce27ebf6-0424-40c5-be83-5a25ce6250cd
+Id: iron-flex-reverse
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-flex-reverse
+
+
+Unique Id: 253f142e-1d1c-4609-a404-daf23876dece
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e66b6855-04bd-4113-a291-b61587053410
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: afdeafa7-7168-4737-bf44-95cdec38f6e3
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: fbd93018-d149-4399-83cc-bd0f15ad03b3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 82261a10-508c-457f-8189-7c7e55fc1ff8
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 1c806ce8-cfff-4a88-a9f8-a2cc67f9bc67
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 021cf320-638d-4a18-a6db-195baddc090d
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: df4dde57-eea8-476b-a056-7be2e335673d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 31bbb0f1-ad44-4793-b894-a3278790025b
+Id: 
+Tag Name: code
+Class Name: 
+Parent: 461f2971-62ec-4dc2-9f60-a1969b1421a9
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d87d2f17-ee69-473c-904f-0bc51da152ad
+Id: expand-more
+Tag Name: g
+Class Name: null
+Parent: a414fc36-1988-40ea-ab48-1be3ef93fce4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: expand-more
+
+
+Unique Id: 3ff29b32-43af-4e22-9efd-b7667b0d8563
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: f53f942e-d5c1-4435-920e-c9e0fd1b5f14
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/async - GET
+Attributes:
+  name: /3.0/api/utils/async
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/async
+  class: level-2 indent
+
+
+Unique Id: 10fc90c6-06a9-41d8-8b1d-07b567586ddd
+Id: 
+Tag Name: iron-iconset-svg
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: communication
+  style: display: none;
+  size: 24
+
+
+Unique Id: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 847356f6-3512-4bab-b5c2-4de9b4d9e17c
+Id: 
+Tag Name: p
+Class Name: 
+Parent: 3a3c7acb-9859-4cc0-bd84-7b625c0220cc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d140c543-153d-4dae-9c10-19241676a7f4
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  http-equiv: X-UA-Compatible
+  content: chrome=1
+
+
+Unique Id: ddd2a854-9ae9-46c3-ac4e-4da96bf6df11
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/overview - GET
+Attributes:
+  name: /3.0/docs/tools/overview
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/overview
+  class: level-2 indent
+
+
+Unique Id: b75f5f38-2e27-4bd7-ba4e-88342d9e847b
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: f3e8da97-ea63-48fe-8941-3ad1fd365ccf
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/glossary - GET
+Attributes:
+  name: /3.0/docs/glossary
+  href: https://polymer-library.polymer-project.org/3.0/docs/glossary
+  class: level-2 indent
+
+
+Unique Id: 18a89ace-ccdf-4b45-a029-f70cbc935081
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/render-status - GET
+Attributes:
+  name: /3.0/api/utils/render-status
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/render-status
+  class: level-2 indent
+
+
+Unique Id: 7595796d-ef7e-4e3c-8a6f-5d7a4b6e6867
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: 4ff54a7d-cd29-4e7e-8a2c-e906811a1c56
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: b19222f5-d796-415b-b0f7-ada83e58ae5d
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 9f5d4aec-b6ce-4a9a-aa14-717a8156428e
+Id: 
+Tag Name: pw-version-selector
+Class Name: 
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  v1-page-link: /1.0/docs/devguide/feature-overview
+  active-docs-version: 3.0
+  v3-page-link: /3.0/docs/devguide/feature-overview
+  v2-page-link: /2.0/docs/devguide/feature-overview
+
+
+Unique Id: a736bbb4-02b2-48ff-9bac-f9cf5f91be79
+Id: 
+Tag Name: link
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Roboto+Slab:300,500 - GET
+Passive Outbound Request: 
+Attributes:
+  rel: stylesheet
+  href: https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Roboto+Slab:300,500
+
+
+Unique Id: 85a78486-05ae-47d5-b020-33af9d8ea561
+Id: 
+Tag Name: defs
+Class Name: null
+Parent: a69f8a21-a731-49c9-aae0-8ea1f50a3ea8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d7259302-7ccb-4cc6-be07-96e6badc0975
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: 6887ade7-887d-489b-939d-c92c557b673c
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/resolve-url - GET
+Attributes:
+  name: /3.0/api/utils/resolve-url
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/resolve-url
+  class: level-2 indent
+
+
+Unique Id: f9449dbd-01da-4de3-8732-1f226dff5ff9
+Id: iron-flex-factors
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-flex-factors
+
+
+Unique Id: 31c64c3b-9fd0-470e-ae76-7bf8db0d118f
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f5634fc2-deee-4303-acd3-2b6ac285146f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 2306965f-4906-4b68-96ac-f7abb77c18ee
+Id: 
+Tag Name: path
+Class Name: null
+Parent: eacca817-c79e-4897-926a-d504acfc8488
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M5.09 7.273v1.745H7.98c-.116.75-.873 2.197-2.887 2.197-1.737 0-3.155-1.44-3.155-3.215S3.353 4.785 5.09 4.785c.99 0 1.652.422 2.03.786l1.382-1.33c-.887-.83-2.037-1.33-3.41-1.33C2.275 2.91 0 5.184 0 8s2.276 5.09 5.09 5.09c2.94 0 4.888-2.065 4.888-4.974 0-.334-.036-.59-.08-.843H5.09zM16 7.273h-1.455V5.818H13.09v1.455h-1.454v1.454h1.455v1.455h1.455V8.727H16
+
+
+Unique Id: b339f103-9a1b-456a-ad54-04fcbef39889
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3ff29b32-43af-4e22-9efd-b7667b0d8563
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/about_30 - GET
+Attributes:
+  name: /3.0/docs/about_30
+  href: https://polymer-library.polymer-project.org/3.0/docs/about_30
+  class: level-2 indent
+
+
+Unique Id: ccf3568f-32ac-4283-9a88-448280bb7ca2
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 43a766d8-cdd0-401b-bf4a-3295c5e4f1aa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-3 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-3
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-3
+  class: level-2 indent
+
+
+Unique Id: c6d5fde0-8fc1-47cb-89b7-687b936b9563
+Id: 
+Tag Name: a
+Class Name: edit-on-github
+Parent: fb1b4690-6c3a-448d-8745-0fcdbc5070af
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://github.com/Polymer/polymer-library-docs/edit/master/app/3.0/docs/devguide/feature-overview.md - GET
+Attributes:
+  href: https://github.com/Polymer/polymer-library-docs/edit/master/app/3.0/docs/devguide/feature-overview.md
+  class: edit-on-github
+  target: _blank
+
+
+Unique Id: ed975d84-0087-45bf-95e8-0d6f3d3e8540
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 61b3b0ab-863d-4f45-b59d-2956f3289939
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M12.55 9.37l-1.037.347.36 1.073c.145.434-.09.904-.524 1.05-.096.03-.19.045-.287.042-.338-.01-.65-.226-.765-.566l-.36-1.072-2.138.716.36 1.072c.145.435-.09.905-.523 1.05-.096.032-.192.045-.286.043-.34-.01-.65-.226-.764-.566l-.36-1.075-1.037.348c-.096.03-.19.045-.286.042-.34-.008-.65-.226-.765-.565-.146-.434.09-.904.522-1.05L5.7 9.914l-.69-2.058-1.037.347c-.094.032-.19.045-.285.043-.338-.01-.65-.226-.765-.566-.145-.434.09-.904.523-1.05l1.037-.347-.36-1.073c-.145-.434.09-.904.524-1.05.435-.145.905.09 1.05.524l.36 1.072 2.137-.716-.36-1.072c-.144-.435.09-.905.524-1.05.435-.145.906.09 1.05.523l.36 1.075 1.037-.347c.434-.146.904.088 1.05.522.145.434-.09.904-.523 1.05l-1.037.347.69 2.057 1.036-.347c.435-.145.905.09 1.05.523.146.434-.09.904-.522 1.05zm2.78-3.57C13.68.304 11.298-.98 5.8.67.304 2.32-.98 4.7.67 10.2c1.65 5.497 4.03 6.78 9.53 5.13 5.497-1.65 6.78-4.03 5.13-9.53z
+
+
+Unique Id: 07429f98-469e-463f-9bca-3d98520e72b8
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 4cf420fc-7730-4d85-80d9-069ef185d4f4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/dom-template - GET
+Attributes:
+  name: /3.0/docs/devguide/dom-template
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/dom-template
+  class: level-2 indent
+
+
+Unique Id: aac59a8a-1715-4489-8db9-511dae47b037
+Id: 
+Tag Name: pw-shell
+Class Name: 
+Parent: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  active-docs-version: 3.0
+
+
+Unique Id: beeafde0-fe7c-4c07-bb74-eb164ad59b5b
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/gesture-event-listeners - GET
+Attributes:
+  name: /3.0/api/mixins/gesture-event-listeners
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/gesture-event-listeners
+  class: level-2 indent
+
+
+Unique Id: bab841d1-1798-4811-b780-44d14f3e12f7
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 1ad2c621-470a-4f02-82f9-39194d98a59c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: ccb1f672-8fd7-4469-b5b9-bb52926c0c8c
+Id: 
+Tag Name: div
+Class Name: version-alert upgrade-alert
+Parent: bd44b867-a1c7-4257-9868-98f933c76355
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: version-alert upgrade-alert
+
+
+Unique Id: 9708c9f7-c43d-4038-ab00-5d13c0f83913
+Id: 
+Tag Name: span
+Class Name: 
+Parent: fd60ef0e-f5d1-4911-8b76-672fcb5eab84
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8e449789-3666-470c-93b1-9b69211b050d
+Id: 
+Tag Name: span
+Class Name: hljs-title
+Parent: f2fad612-8b0a-43d7-bc19-9169e6016fd4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-title
+
+
+Unique Id: b105d459-c582-4bac-9fe6-2a0e9a52444b
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: c97334f1-60f9-4685-bf73-319b4e7c6b17
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-json - GET
+Attributes:
+  name: /3.0/docs/tools/polymer-json
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-json
+  class: sidenav-content indent 
+
+
+Unique Id: 42f087e1-37ad-4262-8885-c04cdb4dea1e
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: c430e2ba-f712-47ac-9bc3-8d35cb711954
+Id: 
+Tag Name: span
+Class Name: 
+Parent: a80a3f82-e977-4542-a95a-0a3b33f4c030
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 033b2401-d1f3-4a7f-a530-f2edcda7cdfc
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 98b227f0-2864-4d61-982a-ac4dc5a5840e
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 20a05ecf-99d4-4823-ad9a-b9e4f5a76179
+Id: 
+Tag Name: a
+Class Name: 
+Parent: 847356f6-3512-4bab-b5c2-4de9b4d9e17c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/events - GET
+Attributes:
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/events
+
+
+Unique Id: a69f8a21-a731-49c9-aae0-8ea1f50a3ea8
+Id: 
+Tag Name: svg
+Class Name: null
+Parent: 638c7bc7-d320-485e-ad63-7ede4e90bf8e
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b44695c2-b54d-48d2-80a0-bc595740500f
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 31bfaf5d-2f85-4521-aede-8c87ec9741a6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: fbdd2703-0610-46ba-ac9a-5c546f8af607
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 93cb5719-e630-464b-94af-22506f52046f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 24911959-f12e-4025-99a8-eb409cd6d9b6
+Id: 
+Tag Name: pre
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b774e8ac-947f-47d4-bec5-50c09b07b540
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 63417395-3c24-484c-9862-e5dd089862a2
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6ae6237c-3736-43a9-a87e-36f85892a7a4
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/properties - GET
+Attributes:
+  name: /3.0/docs/devguide/properties
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/properties
+  class: sidenav-content indent 
+
+
+Unique Id: 06ff1aa3-d804-4050-a17b-d1fc70f15432
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 769c1107-8f01-4bf4-8c13-a6bbaba1b6b3
+Id: 
+Tag Name: span
+Class Name: hljs-built_in
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-built_in
+
+
+Unique Id: c2c99606-1a02-43a5-a9db-c35ca7b03a99
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/property-effects - GET
+Attributes:
+  name: /3.0/api/mixins/property-effects
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/property-effects
+  class: level-2 indent
+
+
+Unique Id: c00127a8-5f12-4092-b0c4-643c582c563d
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: 57fd1741-b277-4a23-b1d9-b491084cf209
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 861622cb-95e4-46ab-8463-11af549b874a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  onclick: _expandClicked(event)
+  tabindex: 0
+
+
+Unique Id: 0218207b-7162-47b5-aa40-053bdd589503
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 479ea506-061a-464d-aa65-9302c8c8c43d
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/es6 - GET
+Attributes:
+  name: /3.0/docs/es6
+  href: https://polymer-library.polymer-project.org/3.0/docs/es6
+  class: sidenav-content indent 
+
+
+Unique Id: c35ccaf2-b1d2-4da6-bebb-2151f901c39c
+Id: 
+Tag Name: defs
+Class Name: null
+Parent: ad6a442c-fa40-4b55-abbc-e2f7092938b5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 659e2b76-a565-4342-acd9-947b828bf16a
+Id: exit-to-app
+Tag Name: g
+Class Name: null
+Parent: 9a06e05b-20c9-47c2-9232-d68885dc9ead
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: exit-to-app
+
+
+Unique Id: a229d4e3-caa3-4927-b046-b3b263014e9a
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/element-mixin - GET
+Attributes:
+  name: /3.0/api/mixins/element-mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/element-mixin
+  class: level-2 indent
+
+
+Unique Id: 6bd3aaba-36eb-496d-9012-06932daf84a3
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: e308f756-46e5-43ea-bc6b-43efc6dbf7a8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/properties - GET
+Attributes:
+  name: /3.0/docs/devguide/properties
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/properties
+  class: level-2 indent
+
+
+Unique Id: a414fc36-1988-40ea-ab48-1be3ef93fce4
+Id: 
+Tag Name: defs
+Class Name: null
+Parent: 0a868acb-22c8-41a8-a784-8b5d16d6d801
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f6ab0430-106a-4f2f-adba-9520742b8387
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/legacy-element-mixin - GET
+Attributes:
+  name: /3.0/api/legacy/legacy-element-mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/legacy-element-mixin
+  class: level-2 indent
+
+
+Unique Id: 4fe23038-5ea3-44e9-96f6-094c7a1406f2
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/node-support - GET
+Attributes:
+  name: /3.0/docs/tools/node-support
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/node-support
+  class: sidenav-content indent 
+
+
+Unique Id: f24917d8-f52a-41fe-8025-a5609e277e6c
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 8bf399de-649a-4a98-a0a3-a0725ecaf8ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 4518b0c8-f4ac-44c6-ae3a-73cab3acdcc0
+Id: 
+Tag Name: h1
+Class Name: 
+Parent: fb1b4690-6c3a-448d-8745-0fcdbc5070af
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 0fdea9f5-fa19-4148-acca-651abbc17b9f
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: aa7fcc52-f986-46ac-afa4-5e877d8d5874
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/array-splice - GET
+Attributes:
+  name: /3.0/api/utils/array-splice
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/array-splice
+  class: level-2 indent
+
+
+Unique Id: 637bc251-c30b-4f98-8a8f-f87daded8e7e
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/class - GET
+Attributes:
+  name: /3.0/api/legacy/class
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/class
+  class: level-2 indent
+
+
+Unique Id: fb1b4690-6c3a-448d-8745-0fcdbc5070af
+Id: header
+Tag Name: header
+Class Name: 
+Parent: bd44b867-a1c7-4257-9868-98f933c76355
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  data-version: 3.0
+  id: header
+
+
+Unique Id: 3aff22e7-1262-4ca4-a371-c08ff1cac016
+Id: 
+Tag Name: path
+Class Name: null
+Parent: da0e9f65-cde7-4ca0-8ff9-2b8c2d905eb7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M12.658 14.577v-4.27h1.423V16H1.23v-5.693H2.65v4.27h10.006zm-8.583-1.423h7.16V11.73h-7.16v1.424zm.173-3.235l6.987 1.465.3-1.38L4.55 8.54l-.302 1.38zm.906-3.365l6.47 3.02.602-1.295-6.47-3.02-.602 1.295zm1.81-3.19l5.478 4.57.906-1.078-5.477-4.57-.905 1.077zM10.502 0L9.338.863l4.27 5.735 1.164-.862L10.5 0z
+
+
+Unique Id: 9569e714-c3d8-47a3-a130-75623f1cf058
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 46ee978d-12a8-4589-83f8-b34776c69ae7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5cef4838-0d69-4895-bf25-24fd8eaea2e1
+Id: 
+Tag Name: a
+Class Name: 
+Parent: 8459f4f2-bee3-41ff-9e1d-9e8cde9742f3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-elements - GET
+Attributes:
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-elements
+
+
+Unique Id: d0095417-43ed-4413-b43f-74d870883310
+Id: 
+Tag Name: div
+Class Name: devguide-main
+Parent: aac59a8a-1715-4489-8db9-511dae47b037
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: devguide-main
+
+
+Unique Id: 73fd5d27-1604-414d-bb29-db41104e5b63
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/polyfills - GET
+Attributes:
+  name: /3.0/docs/polyfills
+  href: https://polymer-library.polymer-project.org/3.0/docs/polyfills
+  class: sidenav-content indent 
+
+
+Unique Id: 19a2664e-4f3a-457a-bc97-f7466a195aa3
+Id: 
+Tag Name: custom-style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c5b1f622-c61a-43f2-8f28-56dbd0bde9bd
+Id: 
+Tag Name: a
+Class Name: 
+Parent: 5cc3942e-c9d7-4f58-aa4f-1a8647220725
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://lit.dev/ - GET
+Attributes:
+  href: https://lit.dev/
+
+
+Unique Id: 1a0e713f-7c57-4d97-ae68-a750b0e8dc16
+Id: 
+Tag Name: span
+Class Name: 
+Parent: ebe5d0e5-84d8-42ed-a18a-a72d3b45584a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 750d0307-df2c-49dc-9d9a-09275193c763
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 43a766d8-cdd0-401b-bf4a-3295c5e4f1aa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-2 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-2
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-2
+  class: level-2 indent
+
+
+Unique Id: ce88ffcc-edfb-4cad-a9e4-7e4cf363b8f3
+Id: 
+Tag Name: p
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 105bdd3c-4348-4152-952d-8b06be9c43ea
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 3268dd80-be0b-47e8-8acf-c626ea7bb9a4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: e19343a2-f353-4ee9-a3af-a8fa30cac07b
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/flattened-nodes-observer - GET
+Attributes:
+  name: /3.0/api/utils/flattened-nodes-observer
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/flattened-nodes-observer
+  class: level-2 indent
+
+
+Unique Id: 29369f08-48d4-405a-a8b5-f3601a01127b
+Id: 
+Tag Name: path
+Class Name: null
+Parent: ed554c69-4bcb-4282-bbcd-e9ff76fa638a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M7 10l5 5 5-5z
+
+
+Unique Id: bee185a2-9534-49b8-aee4-418af2300860
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 318d6423-8bcf-4da6-86d1-91c022496ab7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/browsers - GET
+Attributes:
+  name: /3.0/docs/browsers
+  href: https://polymer-library.polymer-project.org/3.0/docs/browsers
+  class: level-2 indent
+
+
+Unique Id: e359c251-beff-4528-ae43-ff78e6e4e5eb
+Id: 
+Tag Name: p
+Class Name: 
+Parent: 09e480d5-cd49-4666-a714-b96fe8b61bfa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 355c9e13-f009-4a19-9403-8d6ab76445c9
+Id: 
+Tag Name: custom-style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 75a8b9d3-dc66-4469-8031-7987c48e5638
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 4cf420fc-7730-4d85-80d9-069ef185d4f4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/style-shadow-dom - GET
+Attributes:
+  name: /3.0/docs/devguide/style-shadow-dom
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/style-shadow-dom
+  class: level-2 indent
+
+
+Unique Id: eba594b9-d2eb-4895-900d-b695cffe388b
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 42fcdd5f-6756-41f3-a36b-772b81bbdfb1
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 861622cb-95e4-46ab-8463-11af549b874a
+Id: 
+Tag Name: a
+Class Name: level-1
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/ - GET
+Attributes:
+  name: /3.0/api/
+  href: https://polymer-library.polymer-project.org/3.0/api/
+  class: level-1
+  data-version: 3.0
+
+
+Unique Id: 3e8b80dd-e414-4bbb-b312-a461e9fb0904
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: db0ea512-e228-4a15-8714-85101b7eacb7
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 6887ade7-887d-489b-939d-c92c557b673c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 950ba811-a399-4d59-8358-94f1bc91ab6d
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 642b58f5-0e3a-4d6f-a54d-ebd560e1a924
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 42fcdd5f-6756-41f3-a36b-772b81bbdfb1
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 3dbd4369-d64c-4f69-b0f4-3b5104f51899
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli-commands - GET
+Attributes:
+  name: /3.0/docs/tools/polymer-cli-commands
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/polymer-cli-commands
+  class: level-2 indent
+
+
+Unique Id: c41ab797-ac9c-4848-8ded-8c7dc5f46d19
+Id: 
+Tag Name: a
+Class Name: level-2 
+Parent: e308f756-46e5-43ea-bc6b-43efc6dbf7a8
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/legacy-elements - GET
+Attributes:
+  name: /3.0/docs/devguide/legacy-elements
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/legacy-elements
+  class: level-2 
+
+
+Unique Id: ad770f83-0c1f-4081-9830-58b7ff01c991
+Id: chevron-right
+Tag Name: g
+Class Name: null
+Parent: 31d58bcf-f9fe-47f0-9d44-df1545a014ca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: chevron-right
+
+
+Unique Id: ba67ab3a-da93-4eec-97b0-a305a7c9837c
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/template-stamp - GET
+Attributes:
+  name: /3.0/api/mixins/template-stamp
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/template-stamp
+  class: level-2 indent
+
+
+Unique Id: f26af1b1-cd5e-4929-9ccc-9a8c220765e3
+Id: 
+Tag Name: link
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Roboto:400,300,300italic,400italic,500,500italic,700,700italic - GET
+Passive Outbound Request: 
+Attributes:
+  rel: stylesheet
+  crossorigin: anonymous
+  href: https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Roboto:400,300,300italic,400italic,500,500italic,700,700italic
+  type: text/css
+
+
+Unique Id: 8ab4e740-1f60-4ca3-afe7-6d0e7a78dd8f
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 4f755465-1611-4eca-bceb-e6d02ac61495
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d252861e-a449-4ce6-9ca2-df6361b7d2d2
+Id: 
+Tag Name: span
+Class Name: hljs-built_in
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-built_in
+
+
+Unique Id: c075b582-0607-4e6c-9402-67bbbfa6b021
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 05dd2e13-63d6-4732-845c-deab56ff3373
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 68bf48e7-d810-44f0-84c1-ddded51fd1d0
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/settings - GET
+Attributes:
+  name: /3.0/docs/devguide/settings
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/settings
+  class: sidenav-content indent 
+
+
+Unique Id: b19222f5-d796-415b-b0f7-ada83e58ae5d
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 044af319-d47f-409e-a739-525b22e97f68
+Id: 
+Tag Name: span
+Class Name: hljs-keyword
+Parent: f2fad612-8b0a-43d7-bc19-9169e6016fd4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-keyword
+
+
+Unique Id: edc52aa3-db27-43a1-97aa-5edceb1e9f7f
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f53f942e-d5c1-4435-920e-c9e0fd1b5f14
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6e38f523-201d-4691-89f7-1e202bf3d003
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/events - GET
+Attributes:
+  name: /3.0/docs/devguide/events
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/events
+  class: sidenav-content indent 
+
+
+Unique Id: 43bfc151-04cb-41c6-9f83-69d91ef03644
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/glossary - GET
+Attributes:
+  name: /3.0/docs/glossary
+  href: https://polymer-library.polymer-project.org/3.0/docs/glossary
+  class: sidenav-content indent 
+
+
+Unique Id: c78f2a9e-ae08-492c-8bfd-91bdfd8f124e
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: a2b493a9-148f-4902-b637-e85b37d38d38
+Id: 
+Tag Name: div
+Class Name: site-nav
+Parent: aac59a8a-1715-4489-8db9-511dae47b037
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: site-nav
+  slot: site-nav
+
+
+Unique Id: 2eed14cb-9b27-4af3-8ff6-5d1fe4a6348c
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3a827ba3-58b0-4584-926d-f7eae8b4f96f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/mixins/properties-mixin - GET
+Attributes:
+  name: /3.0/api/mixins/properties-mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/mixins/properties-mixin
+  class: level-2 indent
+
+
+Unique Id: 060c0534-c313-4410-8113-124fa2312128
+Id: 
+Tag Name: code
+Class Name: language-js
+Parent: 24911959-f12e-4025-99a8-eb409cd6d9b6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: language-js
+
+
+Unique Id: f34fdd4e-336f-4fe3-8d85-6b2e053e211d
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 4cf420fc-7730-4d85-80d9-069ef185d4f4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-css-properties - GET
+Attributes:
+  name: /3.0/docs/devguide/custom-css-properties
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/custom-css-properties
+  class: level-2 indent
+
+
+Unique Id: 1482a4bf-5a05-4d67-9f56-01ec079c2bc5
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 18a89ace-ccdf-4b45-a029-f70cbc935081
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c2e00f7c-b55c-4aef-b35f-d1aa411be2db
+Id: 
+Tag Name: a
+Class Name: 
+Parent: 1d7c1e0f-f824-482e-873c-e49c9df9d7ea
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/shadow-dom - GET
+Attributes:
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/shadow-dom
+
+
+Unique Id: 4521217f-0c0d-41c3-9091-90323541d00c
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/serve - GET
+Attributes:
+  name: /3.0/docs/apps/serve
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/serve
+  class: sidenav-content indent 
+
+
+Unique Id: b85a943e-eedd-4f9a-9f6a-6b9b1b791a74
+Id: 
+Tag Name: ul
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 32e24de6-fc41-472b-ab79-56e9db2774aa
+Id: 
+Tag Name: span
+Class Name: 
+Parent: d78d4b46-8123-41e0-8b71-1e41e3ee6181
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 1b26d50f-9610-4976-a51b-fc1490b8c228
+Id: 
+Tag Name: span
+Class Name: 
+Parent: c5cff1bc-f263-4ce9-bc2d-630bbca82ca4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 25b5b589-59b2-42b0-b99f-ab1e01c6871e
+Id: 
+Tag Name: title
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 84528ed3-dab1-464e-b692-26fbe593e2d3
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 5ed6a9a2-28c2-4915-90c2-11964b47fef3
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 81f95f3c-b561-4a8f-95e3-78cbb9c20a5e
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 7406bccf-36a9-4fa5-8459-8514b1c14ae6
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f6530d6c-272b-4d96-a46e-ad077a55f5da
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/intro - GET
+Attributes:
+  name: /3.0/docs/first-element/intro
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/intro
+  class: sidenav-content indent 
+
+
+Unique Id: 61f1df82-a97e-4b83-9321-c3d40fd6c35b
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 172aecc5-c2ec-48c7-9746-6f7a83b49e63
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z
+
+
+Unique Id: 5eaa425c-89be-42fe-92c2-4020a94cb60a
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/html-tag - GET
+Attributes:
+  name: /3.0/api/utils/html-tag
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/html-tag
+  class: level-2 indent
+
+
+Unique Id: fcf58c9e-715a-45ff-b60a-2049958f40c2
+Id: 
+Tag Name: a
+Class Name: sidenav-content  
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/ - GET
+Attributes:
+  name: /3.0/docs/apps/
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/
+  class: sidenav-content  
+
+
+Unique Id: 1d7c1e0f-f824-482e-873c-e49c9df9d7ea
+Id: 
+Tag Name: p
+Class Name: 
+Parent: 7e6fed55-9757-4eba-bafa-d88e71152488
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: de7a8daa-ff67-4603-8881-0f62701bc421
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 3ff29b32-43af-4e22-9efd-b7667b0d8563
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/upgrade - GET
+Attributes:
+  name: /3.0/docs/upgrade
+  href: https://polymer-library.polymer-project.org/3.0/docs/upgrade
+  class: level-2 indent
+
+
+Unique Id: ed554c69-4bcb-4282-bbcd-e9ff76fa638a
+Id: arrow-drop-down
+Tag Name: g
+Class Name: null
+Parent: c35ccaf2-b1d2-4da6-bebb-2151f901c39c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: arrow-drop-down
+
+
+Unique Id: b0c86467-2ab3-418f-b493-390236b11761
+Id: 
+Tag Name: path
+Class Name: null
+Parent: a46219fa-209a-4fc1-9ee1-5ed2b0cc9df2
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z
+
+
+Unique Id: f5809bdf-95be-45fa-ab3a-28bc9f7e1ccb
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/registering-elements - GET
+Attributes:
+  name: /3.0/docs/devguide/registering-elements
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/registering-elements
+  class: sidenav-content indent 
+
+
+Unique Id: 0135e47d-0267-444f-aa79-410c46ad59a6
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 8bf399de-649a-4a98-a0a3-a0725ecaf8ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 33c5403e-8cca-476e-ae94-c8fa82a5eefd
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: e23429fd-f84c-4583-a14c-3761f1f55493
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 140be641-90f4-4d4d-92c3-6cd83b060000
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  strip-whitespace: 
+
+
+Unique Id: 76303213-1cfb-4e55-9316-0b0824ab7813
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: b105d459-c582-4bac-9fe6-2a0e9a52444b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: d967067d-9fb6-4065-b74b-a5eb9e854753
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 37c4de17-9620-4e74-b66f-528540440d24
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c22464f3-315b-4d7c-9d29-1ac2ed158e53
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/browsers - GET
+Attributes:
+  name: /3.0/docs/browsers
+  href: https://polymer-library.polymer-project.org/3.0/docs/browsers
+  class: sidenav-content indent 
+
+
+Unique Id: 164555c6-44fd-4450-bda7-b6209c43d495
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/overview - GET
+Attributes:
+  name: /3.0/docs/tools/overview
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/overview
+  class: sidenav-content indent 
+
+
+Unique Id: e467582b-2566-4b8c-843a-6a80948e9b08
+Id: sw-toast
+Tag Name: paper-toast
+Class Name: 
+Parent: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: outline: none; position: fixed; box-sizing: border-box; left: 0px; top: 520px; max-width: 456.469px; max-height: 56px; display: none;
+  id: sw-toast
+  class: 
+
+
+Unique Id: cf8481e9-2fc7-4209-9ebb-616244a0c762
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 9a32ed15-4cbb-4993-b8ff-1c7d153ecf75
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c9730c4e-eb41-4265-81d8-3a2eaa823eec
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 59e9fdd5-d98b-4f5b-a537-96a8222edfc5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8526b512-57d2-427c-b3e0-ebeef28c0c12
+Id: 
+Tag Name: span
+Class Name: 
+Parent: a229d4e3-caa3-4927-b046-b3b263014e9a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a8b36a56-f8bf-4d1e-90bd-4b987ab2cbe2
+Id: 
+Tag Name: span
+Class Name: 
+Parent: b387e8a7-8dd9-46a3-9d17-05af3aef2ade
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: ede4e37e-877e-481f-b72b-be6bc51c6ebc
+Id: 
+Tag Name: p
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d2b86582-116e-4f0e-bb4f-f1e29b20b188
+Id: 
+Tag Name: style
+Class Name: 
+Parent: 355c9e13-f009-4a19-9403-8d6ab76445c9
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  is: custom-style
+
+
+Unique Id: 4cf420fc-7730-4d85-80d9-069ef185d4f4
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: f7a24ccf-ae05-45e0-873f-6821b0fa52b3
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: a6804568-26d7-41af-9be8-3245dc146530
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/observers - GET
+Attributes:
+  name: /3.0/docs/devguide/observers
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/observers
+  class: level-2 indent
+
+
+Unique Id: f4d74f30-07fd-4468-844b-e4ff1834964d
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: google-site-verification
+  content: k0e8DrbD40s54xHNBqwIsRrSSAkZoprwtEYDnNY06bU
+
+
+Unique Id: 41eb3716-03d5-4c30-b2d8-2092c2244c9c
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 43a766d8-cdd0-401b-bf4a-3295c5e4f1aa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/intro - GET
+Attributes:
+  name: /3.0/docs/first-element/intro
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/intro
+  class: level-2 indent
+
+
+Unique Id: 2425cf64-7c00-497a-803f-b28521339809
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 42fcdd5f-6756-41f3-a36b-772b81bbdfb1
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: b79181ea-9473-4c3a-832c-d057085ad64d
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: b62fd551-ecad-44ee-b5eb-34746ba88250
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: google-site-verification
+  content: pnjjbQFvjPwaWhEXY6nSyaS9iyghmH-M_yLHBveDX2M
+
+
+Unique Id: 3747659e-b52f-4405-ba23-49b2bdb47cef
+Id: 
+Tag Name: span
+Class Name: 
+Parent: ddd2a854-9ae9-46c3-ac4e-4da96bf6df11
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: e97cbf35-0e44-478c-930e-0b18308dc5d9
+Id: 
+Tag Name: nav
+Class Name: 
+Parent: d0095417-43ed-4413-b43f-74d870883310
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: e0a96515-94d4-4cb9-8dba-a4d9ebc07f92
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 4cf420fc-7730-4d85-80d9-069ef185d4f4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/shadow-dom - GET
+Attributes:
+  name: /3.0/docs/devguide/shadow-dom
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/shadow-dom
+  class: level-2 indent
+
+
+Unique Id: 398c6ceb-9bf9-4939-8546-deb5b50725e8
+Id: paper-dropdown-menu-shared-styles
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: paper-dropdown-menu-shared-styles
+
+
+Unique Id: 63417395-3c24-484c-9862-e5dd089862a2
+Id: iron-flex
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: iron-flex
+
+
+Unique Id: db2a9466-6161-4c30-ac14-fdc11464aecd
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-3 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-3
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-3
+  class: sidenav-content indent 
+
+
+Unique Id: 61c4be98-cf83-4a9a-bfc5-a5b415de32b4
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 318d6423-8bcf-4da6-86d1-91c022496ab7
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/polyfills - GET
+Attributes:
+  name: /3.0/docs/polyfills
+  href: https://polymer-library.polymer-project.org/3.0/docs/polyfills
+  class: level-2 indent
+
+
+Unique Id: 7acaca46-0d37-4825-a89c-08b4d7b94b37
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: a80a3f82-e977-4542-a95a-0a3b33f4c030
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  onclick: _expandClicked(event)
+  tabindex: 0
+
+
+Unique Id: efdf336d-479c-44b6-b2d0-a1657027c95a
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/mutable-data-behavior - GET
+Attributes:
+  name: /3.0/api/legacy/mutable-data-behavior
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/mutable-data-behavior
+  class: level-2 indent
+
+
+Unique Id: 69230bb4-8517-474e-8616-557168013eab
+Id: expand-less
+Tag Name: g
+Class Name: null
+Parent: a414fc36-1988-40ea-ab48-1be3ef93fce4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: expand-less
+
+
+Unique Id: 31d58bcf-f9fe-47f0-9d44-df1545a014ca
+Id: 
+Tag Name: defs
+Class Name: null
+Parent: e963ce53-ad1a-45fb-8d43-158d25056ed4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 4090bdc0-08fb-481a-998e-ba0f4128c432
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/build-for-production - GET
+Attributes:
+  name: /3.0/docs/apps/build-for-production
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/build-for-production
+  class: level-2 indent
+
+
+Unique Id: e583d8fd-c1d9-41a8-9643-82e886fc2260
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 0e9a2b29-47e8-4f41-90a4-4da1104a99db
+Id: 
+Tag Name: a
+Class Name: level-2 
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/ - GET
+Attributes:
+  name: /3.0/api/
+  href: https://polymer-library.polymer-project.org/3.0/api/
+  class: level-2 
+
+
+Unique Id: b91182d7-9304-4831-9a53-b9671e2305fa
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/polymer-fn - GET
+Attributes:
+  name: /3.0/api/legacy/polymer-fn
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/polymer-fn
+  class: level-2 indent
+
+
+Unique Id: e880da07-95cb-41ca-9649-8553f42f934f
+Id: 
+Tag Name: a
+Class Name: 
+Parent: 151e8b53-1f9e-4c23-948b-b6df0edc4c66
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/release-notes - GET
+Attributes:
+  href: https://polymer-library.polymer-project.org/3.0/docs/release-notes
+
+
+Unique Id: 823b3cf2-21f5-4ef2-b5b1-2d9344a61c83
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 3069cc91-2e95-4c71-8450-fa0c056c55db
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 3d38d208-bf43-4e51-ba64-6a5b6f1a160d
+Id: 
+Tag Name: script
+Class Name: 
+Parent: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/js/app.js - GET
+Passive Outbound Request: 
+Attributes:
+  src: https://polymer-library.polymer-project.org/js/app.js
+
+
+Unique Id: 3de69035-55dd-43ab-84e3-56918a380010
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e436797b-d5d4-430d-99b7-296cd15d8255
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5d692707-4f51-4652-9268-883b58cb004c
+Id: 
+Tag Name: span
+Class Name: 
+Parent: aa7fcc52-f986-46ac-afa4-5e877d8d5874
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d03432fd-91b2-46f8-99c4-b39cc61731de
+Id: 
+Tag Name: span
+Class Name: 
+Parent: c596e367-1d0c-4e02-bc3b-5033c46e3882
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: efb70f85-c6b5-4420-8d1e-56ad8b78e016
+Id: 
+Tag Name: span
+Class Name: 
+Parent: beeafde0-fe7c-4c07-bb74-eb164ad59b5b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 87ae82cc-0255-428a-a772-14aec6b4a53c
+Id: 
+Tag Name: iron-a11y-announcer
+Class Name: 
+Parent: d1bb4fe6-0084-4130-8fe8-b259c7c8dea5
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Id: 
+Tag Name: head
+Class Name: 
+Parent: 6d24cdca-55b6-4337-94fc-9c3dff284321
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 59907337-dbc4-4db3-85ac-e37bcd9f7acf
+Id: 
+Tag Name: span
+Class Name: 
+Parent: c41ab797-ac9c-4848-8ded-8c7dc5f46d19
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: d0770a0b-0f2e-428f-864d-8380f524662f
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e0a96515-94d4-4cb9-8dba-a4d9ebc07f92
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 93c31d98-3693-44bc-8da2-debbcd7da638
+Id: 
+Tag Name: span
+Class Name: hljs-comment
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-comment
+
+
+Unique Id: eacca817-c79e-4897-926a-d504acfc8488
+Id: gplus
+Tag Name: g
+Class Name: null
+Parent: 85a78486-05ae-47d5-b020-33af9d8ea561
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: gplus
+
+
+Unique Id: 318d6423-8bcf-4da6-86d1-91c022496ab7
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: c5cff1bc-f263-4ce9-bc2d-630bbca82ca4
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/gestures - GET
+Attributes:
+  name: /3.0/api/utils/gestures
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/gestures
+  class: level-2 indent
+
+
+Unique Id: e3ee5359-e458-4df6-a620-e6e3452b4181
+Id: 
+Tag Name: script
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://www.google-analytics.com/analytics.js - GET
+Passive Outbound Request: 
+Attributes:
+  async: 
+  src: https://www.google-analytics.com/analytics.js
+
+
+Unique Id: 1ddb6578-fcbe-4878-95e3-9c77a114c599
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 650b2375-f7c2-4414-9626-cacc90cc2783
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/elements/custom-style - GET
+Attributes:
+  name: /3.0/api/elements/custom-style
+  href: https://polymer-library.polymer-project.org/3.0/api/elements/custom-style
+  class: level-2 indent
+
+
+Unique Id: cecf4fca-8b05-46c8-b85a-2f1c97a65562
+Id: 
+Tag Name: custom-style
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 4a340372-0c05-4ba7-8772-35c9a5b86e60
+Id: 
+Tag Name: link
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+  https://polymer-library.polymer-project.org/images/logos/favicon.png - GET
+Passive Outbound Request: 
+Attributes:
+  rel: shortcut icon
+  href: https://polymer-library.polymer-project.org/images/logos/favicon.png
+
+
+Unique Id: 7144a2e8-61bc-412e-a21f-275b6a477c12
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/templates - GET
+Attributes:
+  name: /3.0/docs/apps/templates
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/templates
+  class: sidenav-content indent 
+
+
+Unique Id: e7609f29-cda3-4635-be86-0656988b57aa
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 35b44c99-2d60-4ffb-bfed-aef5eab29324
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a6d4f221-f663-4ca3-8312-bab0519f4470
+Id: 
+Tag Name: style
+Class Name: 
+Parent: cecf4fca-8b05-46c8-b85a-2f1c97a65562
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  is: custom-style
+
+
+Unique Id: 79fe4b8e-228f-4db6-b016-41cefaecb6b8
+Id: 
+Tag Name: iron-iconset-svg
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: paper-tabs
+  style: display: none;
+  size: 24
+
+
+Unique Id: 520b8bc5-3804-4620-9612-bfb0140d6888
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: 3348364d-4b53-4ed7-8e3e-c22ef3a891c1
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/debounce - GET
+Attributes:
+  name: /3.0/api/utils/debounce
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/debounce
+  class: level-2 indent
+
+
+Unique Id: fe2e1047-5d4a-4e29-a62e-f9f89c4d3384
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/shadow-dom - GET
+Attributes:
+  name: /3.0/docs/devguide/shadow-dom
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/shadow-dom
+  class: sidenav-content indent 
+
+
+Unique Id: cddfbd2f-5f7c-4f2f-b4a2-55f2b3ca09ed
+Id: 
+Tag Name: span
+Class Name: hljs-comment
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-comment
+
+
+Unique Id: cfdbce0f-f9e2-4622-ae38-93619918146a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f5346bb1-b1d2-4ab3-a9b4-200ae5f22ceb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b9f20587-75bc-4db5-90f4-ceb7206dbb37
+Id: 
+Tag Name: span
+Class Name: 
+Parent: f79ccdf0-e066-4363-a041-134f1ab8ab20
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 28fc40e0-4e27-4da9-8d2b-a77520327a64
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: e583d8fd-c1d9-41a8-9643-82e886fc2260
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: c7b3a1db-23db-4e7f-9c74-455db705a1e7
+Id: 
+Tag Name: span
+Class Name: hljs-string
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-string
+
+
+Unique Id: 7887c35c-dab9-4581-be7d-0ae4f42a25c5
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/templates - GET
+Attributes:
+  name: /3.0/docs/devguide/templates
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/templates
+  class: sidenav-content indent 
+
+
+Unique Id: 7d7acb67-d106-42db-964a-34d9bbad2eca
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/build-for-production - GET
+Attributes:
+  name: /3.0/docs/apps/build-for-production
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/build-for-production
+  class: sidenav-content indent 
+
+
+Unique Id: 650b2375-f7c2-4414-9626-cacc90cc2783
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 0218207b-7162-47b5-aa40-053bdd589503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: a87b58c7-bc0e-4e85-a32d-1b984970330e
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 284fc974-762a-438c-a24f-c74cf87ae6c2
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8ffd6e3a-9ddb-4621-b588-e43d54e6a0a7
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e583d8fd-c1d9-41a8-9643-82e886fc2260
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 317ec9cf-2a13-4539-85f6-68e842301320
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 5f786bda-b86e-4fe2-a7ae-4f75a86153b1
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: a37c6650-bdb0-459d-aab5-087e4d0cf9ff
+Id: 
+Tag Name: span
+Class Name: hljs-string
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-string
+
+
+Unique Id: 4e5f8919-7cbd-4ef3-9b18-5eb0b0b4fd17
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: b2dcac72-def2-4091-97a8-7109829f89da
+Id: 
+Tag Name: a
+Class Name: 
+Parent: e359c251-beff-4528-ae43-ff78e6e4e5eb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/data-system - GET
+Attributes:
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/data-system
+
+
+Unique Id: 6997408e-1c20-4a21-a64b-3cf4fe3a9dd7
+Id: 
+Tag Name: a
+Class Name: sidenav-content  
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/legacy-elements - GET
+Attributes:
+  name: /3.0/docs/devguide/legacy-elements
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/legacy-elements
+  class: sidenav-content  
+
+
+Unique Id: bf59782b-a785-4683-b872-63d3b5dbae0d
+Id: 
+Tag Name: div
+Class Name: article-wrapper
+Parent: bbe1470c-94c4-4698-9733-440c59a9bc10
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: article-wrapper
+
+
+Unique Id: e436797b-d5d4-430d-99b7-296cd15d8255
+Id: 
+Tag Name: a
+Class Name: level-1
+Parent: a2b493a9-148f-4902-b637-e85b37d38d38
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/ - GET
+Attributes:
+  name: /
+  href: https://polymer-library.polymer-project.org/
+  class: level-1
+  data-version: 3.0
+
+
+Unique Id: 27517662-4e0e-4c79-88c5-2a714143a0df
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: 6065814c-234d-4a22-af64-e2eced9da0fa
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 7eb9e7ce-dff5-4530-abc1-501d358a0339
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  strip-whitespace: 
+
+
+Unique Id: 2a6e025c-28dd-4443-9393-d34c50280d27
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-5 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-5
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-5
+  class: sidenav-content indent 
+
+
+Unique Id: 2732c4ae-1a6d-49e8-b599-0c28f9c57e15
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: f3e8da97-ea63-48fe-8941-3ad1fd365ccf
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/settings - GET
+Attributes:
+  name: /3.0/docs/devguide/settings
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/settings
+  class: level-2 indent
+
+
+Unique Id: 95e39096-7906-47d7-a830-62b0595f5b6f
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Id: 
+Tag Name: div
+Class Name: sidenav
+Parent: e97cbf35-0e44-478c-930e-0b18308dc5d9
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav
+
+
+Unique Id: 36f1b048-9c3e-4e0e-990b-9ba1634b2ce3
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 2eed14cb-9b27-4af3-8ff6-5d1fe4a6348c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5fbcc727-7c14-46b8-b328-9480153edfe8
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: a6804568-26d7-41af-9be8-3245dc146530
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/templates - GET
+Attributes:
+  name: /3.0/docs/devguide/templates
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/templates
+  class: level-2 indent
+
+
+Unique Id: ebe5d0e5-84d8-42ed-a18a-a72d3b45584a
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 2bc83d7a-df4c-468e-981a-b489f6c5439f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/utils/mixin - GET
+Attributes:
+  name: /3.0/api/utils/mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/utils/mixin
+  class: level-2 indent
+
+
+Unique Id: 4deaa293-f6b4-40f6-9d58-bf1a7282b126
+Id: 
+Tag Name: span
+Class Name: 
+Parent: b105d459-c582-4bac-9fe6-2a0e9a52444b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 597d3073-a0c5-4da7-b02f-ceeda6fed4aa
+Id: 
+Tag Name: a
+Class Name: level-2 
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/quick-tour - GET
+Attributes:
+  name: /3.0/docs/quick-tour
+  href: https://polymer-library.polymer-project.org/3.0/docs/quick-tour
+  class: level-2 
+
+
+Unique Id: dd0970e7-bb04-4a0d-9a57-1394d38fd697
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 5c02ebdb-5a4b-4fb7-8cdb-d55b052f74ae
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/api/legacy/legacy-data-mixin - GET
+Attributes:
+  name: /3.0/api/legacy/legacy-data-mixin
+  href: https://polymer-library.polymer-project.org/3.0/api/legacy/legacy-data-mixin
+  class: level-2 indent
+
+
+Unique Id: f3128817-0f3f-4da7-a64e-4e8864a0385f
+Id: 
+Tag Name: meta
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: theme-color
+  content: #1e88e5
+
+
+Unique Id: f9ab9c81-02dc-4283-8239-bfc982d00f78
+Id: 
+Tag Name: span
+Class Name: 
+Parent: b75f5f38-2e27-4bd7-ba4e-88342d9e847b
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Id: 
+Tag Name: ul
+Class Name: 
+Parent: ebcd4505-bd75-4aac-b6a7-5fc78d6244fc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c81de397-e661-4225-abc0-72b439be51ca
+Id: 
+Tag Name: p
+Class Name: 
+Parent: fb1b4690-6c3a-448d-8745-0fcdbc5070af
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8ad9f1c0-3a8d-4995-9236-80aa05366276
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e17426c6-fcb4-458b-8b72-e3da995ec83f
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f2fad612-8b0a-43d7-bc19-9169e6016fd4
+Id: 
+Tag Name: span
+Class Name: hljs-class
+Parent: 060c0534-c313-4410-8113-124fa2312128
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: hljs-class
+
+
+Unique Id: a3021df1-8b8c-4a1c-87a4-38caba1029bb
+Id: 
+Tag Name: path
+Class Name: null
+Parent: 659e2b76-a565-4342-acd9-947b828bf16a
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  d: M10.09 15.59L11.5 17l5-5-5-5-1.41 1.41L12.67 11H3v2h9.67l-2.58 2.59zM19 3H5c-1.11 0-2 .9-2 2v4h2V5h14v14H5v-4H3v4c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z
+
+
+Unique Id: 4704c3e8-6e9f-4bb4-a5fd-ada4ce775a06
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 8bd8f951-83d1-436c-9430-17584dc9f076
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 480fc49d-c1c3-4684-9672-fb4f2c56a089
+Id: 
+Tag Name: defs
+Class Name: null
+Parent: ec0e97cd-82c7-4e08-b06f-276f0809938c
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 638c7bc7-d320-485e-ad63-7ede4e90bf8e
+Id: 
+Tag Name: iron-iconset-svg
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  name: social-icons
+  style: display: none;
+  size: 18
+
+
+Unique Id: 7e22a8f8-c9a5-4dc8-a77d-6001128d0de6
+Id: email
+Tag Name: g
+Class Name: null
+Parent: 480fc49d-c1c3-4684-9672-fb4f2c56a089
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: email
+
+
+Unique Id: 6002e52a-656c-438d-95f6-dbb0e1dfe563
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 59b3fa69-d01b-4be6-8b1e-ad35a673a4d0
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c596e367-1d0c-4e02-bc3b-5033c46e3882
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/tools/node-support - GET
+Attributes:
+  name: /3.0/docs/tools/node-support
+  href: https://polymer-library.polymer-project.org/3.0/docs/tools/node-support
+  class: level-2 indent
+
+
+Unique Id: 886eb027-e393-4a8a-a218-14736867bd56
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-header
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-header
+
+
+Unique Id: d896b7c7-de33-41fb-939d-9c4637f47f98
+Id: 
+Tag Name: template
+Class Name: 
+Parent: 815e8fe8-a441-4234-bdc7-2f84b0a9c853
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 8a2b1099-846a-40a1-8375-6b7d42cae639
+Id: paper-material-styles
+Tag Name: dom-module
+Class Name: 
+Parent: 4e5a40c2-2c2e-48ef-9d0d-de0db21746ac
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: paper-material-styles
+
+
+Unique Id: 66a3de01-506c-4cf4-a69c-dc2f838f8fca
+Id: 
+Tag Name: iron-collapse
+Class Name: iron-collapse-closed
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-hidden: true
+  style: transition-property: max-height; transition-duration: 0s; max-height: 0px;
+  role: group
+  class: iron-collapse-closed
+
+
+Unique Id: 1398e895-845e-4832-81f8-13a9b1b853a5
+Id: 
+Tag Name: span
+Class Name: 
+Parent: aeda489f-9b3b-455e-877f-e1ed69162b69
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c58f1caf-3663-4d30-b071-f9f44e8a41c6
+Id: 
+Tag Name: script
+Class Name: 
+Parent: aac59a8a-1715-4489-8db9-511dae47b037
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 6c633d2f-ac79-49ad-b9ee-08c7df5a6631
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 61c4be98-cf83-4a9a-bfc5-a5b415de32b4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 59b3fa69-d01b-4be6-8b1e-ad35a673a4d0
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 43a766d8-cdd0-401b-bf4a-3295c5e4f1aa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-5 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-5
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-5
+  class: level-2 indent
+
+
+Unique Id: 1072be5c-315b-45ff-82c7-084d1c2d09f2
+Id: 
+Tag Name: span
+Class Name: 
+Parent: e7ea7ccc-d4c9-4ad3-96e0-777d305b7736
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: c0534e3e-8468-4e2d-abcb-8e45551c0fd7
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 2732c4ae-1a6d-49e8-b599-0c28f9c57e15
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 5bf7db90-2eb3-4233-92ad-f542829755b5
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/style-shadow-dom - GET
+Attributes:
+  name: /3.0/docs/devguide/style-shadow-dom
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/style-shadow-dom
+  class: sidenav-content indent 
+
+
+Unique Id: a443bf2f-d69b-409c-9e6f-b6080525620a
+Id: 
+Tag Name: span
+Class Name: 
+Parent: 726ff4b5-ff0e-4843-884d-efb0b259ac51
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b45a6496-2ffb-4d85-b695-febd4c150451
+Id: 
+Tag Name: paper-icon-button
+Class Name: 
+Parent: 33c5403e-8cca-476e-ae94-c8fa82a5eefd
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  aria-disabled: false
+  icon: icons:expand-more
+  role: button
+  tabindex: 0
+
+
+Unique Id: 172aecc5-c2ec-48c7-9746-6f7a83b49e63
+Id: search
+Tag Name: g
+Class Name: null
+Parent: 9a06e05b-20c9-47c2-9232-d68885dc9ead
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  id: search
+
+
+Unique Id: df4dde57-eea8-476b-a056-7be2e335673d
+Id: 
+Tag Name: a
+Class Name: level-2
+Parent: 38756b83-b77d-4884-81ee-674f177c00bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: level-2
+  onclick: _expandClicked(event)
+
+
+Unique Id: 3690a054-cb7f-4374-8ba4-938a2b970bd9
+Id: 
+Tag Name: div
+Class Name: sidenav-content sidenav-endheader
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+  class: sidenav-content sidenav-endheader
+
+
+Unique Id: 2bc31b68-87ad-4f43-961f-39c842e550f4
+Id: 
+Tag Name: svg
+Class Name: null
+Parent: d8504026-ae53-4bce-a84d-af5a42ae91e4
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: b7ab667b-f152-4f2a-9c5f-9e19473f3669
+Id: 
+Tag Name: a
+Class Name: sidenav-content indent 
+Parent: 5418c1d5-c27c-4f29-ad2b-d65e17906dfc
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/devguide/data-system - GET
+Attributes:
+  name: /3.0/docs/devguide/data-system
+  href: https://polymer-library.polymer-project.org/3.0/docs/devguide/data-system
+  class: sidenav-content indent 
+
+
+Unique Id: 284233b8-52bd-4c66-bc8c-9c3a7f804e5e
+Id: 
+Tag Name: li
+Class Name: 
+Parent: 231fd9a3-90df-4c3c-952d-8bbafb3c6b28
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: f5346bb1-b1d2-4ab3-a9b4-200ae5f22ceb
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 50ce03b1-cd74-4b4d-a286-0da1a9dbf503
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/apps/service-worker - GET
+Attributes:
+  name: /3.0/docs/apps/service-worker
+  href: https://polymer-library.polymer-project.org/3.0/docs/apps/service-worker
+  class: level-2 indent
+
+
+Unique Id: e4e384a0-f078-4b25-85fe-454503b5d0e7
+Id: 
+Tag Name: style
+Class Name: 
+Parent: bbe1470c-94c4-4698-9733-440c59a9bc10
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: ad6a442c-fa40-4b55-abbc-e2f7092938b5
+Id: 
+Tag Name: svg
+Class Name: null
+Parent: d812e70d-3e20-4780-aba9-0a317aa0e8bb
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+Attributes:
+
+
+Unique Id: 05dd2e13-63d6-4732-845c-deab56ff3373
+Id: 
+Tag Name: a
+Class Name: level-2 indent
+Parent: 43a766d8-cdd0-401b-bf4a-3295c5e4f1aa
+Shadow Root: null
+Shadow Host: null
+Active Outbound Request: 
+Passive Outbound Request: 
+  https://polymer-library.polymer-project.org/3.0/docs/first-element/step-4 - GET
+Attributes:
+  name: /3.0/docs/first-element/step-4
+  href: https://polymer-library.polymer-project.org/3.0/docs/first-element/step-4
+  class: level-2 indent
+
+
+
+
+
+
+
+Iframe Content: 
+

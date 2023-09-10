@@ -1,0 +1,2615 @@
+------------------------- Base URL : https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview-------------------------
+
+
+
+
+
+---------------------Inline CSS: ------------------------
+
+
+Block Id: d5277d21-dcc1-4879-bf99-22488c58037d
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: e4e8b386-44e5-4df3-a89a-c63cf939544e
+    Rule Type: style
+    Selector:
+    Belong to: d5277d21-dcc1-4879-bf99-22488c58037d
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: f8dd28b9-ee6f-4c97-954b-74a10ffa23df
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 72c71d75-e82e-4857-96a0-d3768b7d30f8
+    Rule Type: style
+    Selector:
+    Belong to: f8dd28b9-ee6f-4c97-954b-74a10ffa23df
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: d14655e3-8351-4832-9b68-99ce8a783c26
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 3f9b2dd1-5747-428b-8718-7d208e147482
+    Rule Type: style
+    Selector:
+    Belong to: d14655e3-8351-4832-9b68-99ce8a783c26
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: b346c255-7c06-4317-9b1f-f899a121eb27
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 3e30481a-62bf-47ec-abff-8ad0d43af3bc
+    Rule Type: style
+    Selector:
+    Belong to: b346c255-7c06-4317-9b1f-f899a121eb27
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: f37a3736-8e3e-4dfe-a3a8-dcd222b25fc0
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: fd26afc6-fcd7-45dd-b4fc-57660e55ff20
+    Rule Type: style
+    Selector:
+    Belong to: f37a3736-8e3e-4dfe-a3a8-dcd222b25fc0
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: fbb3214c-0d61-4ece-83a2-48efe4479861
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 61214c1a-8853-4159-a2eb-fb679d853c84
+    Rule Type: style
+    Selector:
+    Belong to: fbb3214c-0d61-4ece-83a2-48efe4479861
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: ccd353e6-2d97-442e-a6db-97947cecbbb9
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: a410c301-4d6e-41bb-998d-8b41aacd123d
+    Rule Type: style
+    Selector:
+    Belong to: ccd353e6-2d97-442e-a6db-97947cecbbb9
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: cc713a8c-c4f0-4df7-90fb-726713706553
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 156d2cea-7888-46dc-914f-12d1129bcb58
+    Rule Type: style
+    Selector:
+    Belong to: cc713a8c-c4f0-4df7-90fb-726713706553
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 4c3c8b35-e40b-4954-8658-f9a8a1f7b581
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: f6457962-2735-422e-bff8-8b28967c407e
+    Rule Type: style
+    Selector:
+    Belong to: 4c3c8b35-e40b-4954-8658-f9a8a1f7b581
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 6925530f-15fe-45bb-87da-2939f64e1b29
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 48e709a8-73e7-4166-99ab-7a6d1a34a827
+    Rule Type: style
+    Selector:
+    Belong to: 6925530f-15fe-45bb-87da-2939f64e1b29
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 88467cd4-eb86-4bbf-8fee-5063ba175508
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 3a733d84-78f9-4c58-9194-3bfdcd086479
+    Rule Type: style
+    Selector:
+    Belong to: 88467cd4-eb86-4bbf-8fee-5063ba175508
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 14069cd7-b78a-4b59-9c3a-b1a0f991934d
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 5812d541-3200-4d8d-9afa-49480dd00fb9
+    Rule Type: style
+    Selector:
+    Belong to: 14069cd7-b78a-4b59-9c3a-b1a0f991934d
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 2df023b1-5c7a-4f46-855c-3450aff741d3
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 7ee126ea-c0b0-461c-94bb-7cc0161eb5c3
+    Rule Type: style
+    Selector:
+    Belong to: 2df023b1-5c7a-4f46-855c-3450aff741d3
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: ad550004-807d-4821-8499-57292a1be983
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: d645baeb-92b6-4bd7-aa4a-07b3dcfd9e7e
+    Rule Type: style
+    Selector:
+    Belong to: ad550004-807d-4821-8499-57292a1be983
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: e6541656-61fe-42de-8695-2772dedd0957
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 68c06822-481c-4514-925c-4aa1b899e6ab
+    Rule Type: style
+    Selector:
+    Belong to: e6541656-61fe-42de-8695-2772dedd0957
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 2e599e79-437e-4e55-b84a-ca76dbeee447
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 58d45136-0d25-4c1c-b4c7-f406dfad1619
+    Rule Type: style
+    Selector:
+    Belong to: 2e599e79-437e-4e55-b84a-ca76dbeee447
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 66d7d5a0-2bc4-4a1f-8414-b8d67405da6b
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 2dc327ed-d84c-4683-a451-e3915c455199
+    Rule Type: style
+    Selector:
+    Belong to: 66d7d5a0-2bc4-4a1f-8414-b8d67405da6b
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: b129c581-0dbd-4451-8673-eb86d20c46cd
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 55f0bc10-7e3f-4a31-a8b3-72ba81d570a7
+    Rule Type: style
+    Selector:
+    Belong to: b129c581-0dbd-4451-8673-eb86d20c46cd
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 6002a89c-afdf-4772-9cc9-18b27285b319
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 0f082e25-4fb7-4df9-8f03-e3a7a100e0a4
+    Rule Type: style
+    Selector:
+    Belong to: 6002a89c-afdf-4772-9cc9-18b27285b319
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: cb7a8261-22e0-48a3-bef7-77b2f4be57b6
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 96a06660-b6f2-482c-b9a7-76fbdf92c1dd
+    Rule Type: style
+    Selector:
+    Belong to: cb7a8261-22e0-48a3-bef7-77b2f4be57b6
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: b22d6daa-b1ca-4340-9413-976c699aa749
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: d6033ca5-7a5c-478e-86b8-f68f03e65108
+    Rule Type: style
+    Selector:
+    Belong to: b22d6daa-b1ca-4340-9413-976c699aa749
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: e0b584b5-41ea-4b7f-9c82-ff6389ac620b
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: e9a227db-822e-40f0-8d0e-12c9db5b4372
+    Rule Type: style
+    Selector:
+    Belong to: e0b584b5-41ea-4b7f-9c82-ff6389ac620b
+    Apply to: 
+    Related Link: 
+
+
+
+
+
+
+---------------------Internal CSS: ------------------------
+
+
+Block Id: 196eb8c8-bb5a-4397-becc-145ef99f4eec
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 0ae714cc-3e06-47ff-8ef3-cd5904919b14
+    Rule Type: style
+    Selector:[hidden]
+    Belong to: 196eb8c8-bb5a-4397-becc-145ef99f4eec
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 74a0f40f-d8cf-49d2-adde-094cf78915bf
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 47aa902c-cfd6-4ad1-8f89-522c71c8f373
+    Rule Type: style
+    Selector:html
+    Belong to: 74a0f40f-d8cf-49d2-adde-094cf78915bf
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: a9773747-67bf-45c4-901a-8126df7c9c15
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: c6e9fd02-979e-43fa-96ca-cf71f4794c5c
+    Rule Type: style
+    Selector:[hidden]
+    Belong to: a9773747-67bf-45c4-901a-8126df7c9c15
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: a8bfc0cb-6070-4756-8421-3931f0bb1bc8
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 1ed2bbb0-72af-4369-b05b-144d6018b11a
+    Rule Type: style
+    Selector:html
+    Belong to: a8bfc0cb-6070-4756-8421-3931f0bb1bc8
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 8baaca1d-03c4-4353-adbd-3c38824ef287
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 9ed4cc64-ab2f-4c74-930c-807e241d36ce
+    Rule Type: style
+    Selector:html
+    Belong to: 8baaca1d-03c4-4353-adbd-3c38824ef287
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: fa857fc0-4a49-4fc6-8f8e-c24543a29034
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 3ee4d83e-fab7-4331-94b0-c34cb4afb1c5
+    Rule Type: style
+    Selector:html
+    Belong to: fa857fc0-4a49-4fc6-8f8e-c24543a29034
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 63059f7f-6a2f-45eb-85f1-9580bab1bc82
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 7a5a4dd0-25d2-4053-9247-d09343ebaed4
+    Rule Type: style
+    Selector:html
+    Belong to: 63059f7f-6a2f-45eb-85f1-9580bab1bc82
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: db882233-bc7a-462a-b45c-c92bd2fc45d6
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+
+
+Block Id: ebdc3129-c186-45c5-b495-3ca1874dbadf
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 46c62e68-a5c2-4741-b5e4-c7851595ef47
+    Rule Type: style
+    Selector:main
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 73190617-c869-4c83-b95d-58cb91b7127b
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 711d0f31-09d8-4380-b1a5-d3643edc62cb
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 86427d5d-e973-47cb-b959-0f51234c3bb4
+    Rule Type: style
+    Selector:article
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b9268186-a081-4a61-b377-a5fbd1734027
+    Rule Type: style
+    Selector:.article-wrapper.right-nav
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bb15777a-05f8-4837-a0ca-e886bba7c4e1
+    Rule Type: style
+    Selector:.details-wrapper
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 93af727b-b7e1-4357-89a3-456bdb2b70eb
+    Rule Type: style
+    Selector:.details-wrapper.fixed
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ef71c820-26b5-4f53-a76b-1b483f31991f
+    Rule Type: style
+    Selector:.details-wrapper ul
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 355fde04-0794-41e7-8827-0bbfca82a840
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="1"], .details-wrapper ul[data-depth="3"]
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aa8b5118-4149-4e3d-b065-b0ce62a8544b
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="1"] a, .details-wrapper ul[data-depth="3"] a
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9f2ef41a-96b1-46e9-8d44-f5e43435b88b
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="2"]
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c9929c7e-320b-4ee5-8ff0-f1c511814418
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="2"] a
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 532a8b59-1208-451a-af0b-f77683b65ec7
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aa52d3ad-0718-49ab-849c-fdd103ba71d4
+    Rule Type: style
+    Selector:details
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fc9100a1-8b98-4c21-8c67-dd9620c01cbe
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 18419d4e-4c23-48ce-abe0-a6dddcd0a10a
+    Rule Type: style
+    Selector:details summary
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a15ed40b-8fce-4a96-bccd-b1a30feaa2d1
+    Rule Type: style
+    Selector:details summary::-webkit-details-marker
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ba7e8d2c-1599-4ac8-9c33-83c858c68f34
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 49ac4a52-88d4-4622-bafc-27a4ee329f53
+    Rule Type: style
+    Selector:pre
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9af9a81d-f2e1-432c-bdc9-bfb2fabd24df
+    Rule Type: style
+    Selector:h1
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 40d4f76a-bff6-47f3-a8d0-6070d78fd901
+    Rule Type: style
+    Selector:h2
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c0efc355-9d24-4a99-815a-c5663fba9b68
+    Rule Type: style
+    Selector:h3
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c8e8648b-9843-4e18-9a74-1aeedebaefd8
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5f79d233-cb57-4cf0-9233-170b37147f79
+    Rule Type: style
+    Selector:h4, p.caption
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3e0b703c-aacf-4db0-956c-2a53bf7a257f
+    Rule Type: style
+    Selector:p.caption
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 46a31802-3331-4d83-9dad-72023a887aa5
+    Rule Type: style
+    Selector:a > code
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: dd2e2ebf-b37b-4451-8120-c68eea8cebc7
+    Rule Type: style
+    Selector:table
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 656e2264-9ac6-4207-b047-98ffb991ba42
+    Rule Type: style
+    Selector:table th
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2f6f98c8-0e9e-46af-bad2-374eaa128c13
+    Rule Type: style
+    Selector:table td
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7bcb133f-2004-4f40-93c7-1167ad4d2c6c
+    Rule Type: style
+    Selector:.alert
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ae72ac65-1e38-484d-8c63-7b0cf6c25613
+    Rule Type: media
+    Selector:
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cbd429bd-169d-4090-a487-49fb3f1a5b93
+    Rule Type: style
+    Selector:.alert:before
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 89b204e4-071a-4235-9bb4-fac2de8b240b
+    Rule Type: style
+    Selector:.alert.alert-success, .alert.alert-tip
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 37ac73e1-b512-4d3a-883a-450372ea2f22
+    Rule Type: style
+    Selector:.alert.alert-success:before, .alert.alert-tip:before
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+       https://polymer-library.polymer-project.org/images/alerts/tip.svg
+
+    Rule Id: 881b0f27-cae6-4e4c-bef5-df5d7da8dd5a
+    Rule Type: style
+    Selector:.alert.alert-info
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c39f9aad-159f-4715-8cbe-7e32aedf10de
+    Rule Type: style
+    Selector:.alert.alert-info:before
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+       https://polymer-library.polymer-project.org/images/alerts/info.svg
+
+    Rule Id: 878429fb-0ea9-43ff-aaf5-57df28a0bd83
+    Rule Type: style
+    Selector:.alert.alert-error, .alert.alert-warning
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e25114f5-00d2-41e1-afb9-69073a90b31e
+    Rule Type: style
+    Selector:.alert.alert-error:before, .alert.alert-warning:before
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+       https://polymer-library.polymer-project.org/images/alerts/warning.svg
+
+    Rule Id: bc0856d4-166e-459d-9394-712e56a45428
+    Rule Type: style
+    Selector:.image-container
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ac7d1d45-516d-4ff0-9b32-a21102ff0691
+    Rule Type: style
+    Selector:.image-container .image-wrapper
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f362908d-7927-4865-b640-e78a1c3233d4
+    Rule Type: style
+    Selector:.image-container img
+    Belong to: ebdc3129-c186-45c5-b495-3ca1874dbadf
+    Apply to: 
+    Related Link: 
+
+
+
+
+
+
+---------------------External CSS: ------------------------
+
+
+Block Id: 8671df46-be3e-40c5-af33-9861a87de304
+Src: https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Roboto+Slab:300,500
+Related html node: 
+Type: external
+Inside CSS Styles: 
+    Rule Id: 9c68e52d-69a0-44d6-944a-1bfce4aa02f4
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2
+
+    Rule Id: b5088be1-6d81-42fd-b388-b1a8278ae4c0
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2
+
+    Rule Id: c068ef43-a51f-4fe5-985b-34741c77cbe4
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2
+
+    Rule Id: 8a0d6ad6-9db1-44c0-b683-cb13cd5302fd
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2
+
+    Rule Id: 0a94b800-52fc-4650-bca1-22899403477b
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2
+
+    Rule Id: d475a99a-439b-4a8b-b5c1-704aac46c08d
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2
+
+    Rule Id: b93facdb-09e6-49d6-b63b-9997039fcacd
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2
+
+    Rule Id: 39f481db-2ceb-45cf-beb6-0237c2956504
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2
+
+    Rule Id: 91947cc2-e33a-4094-bc1d-5029a0cfe81f
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2
+
+    Rule Id: eb559aa1-dddf-4e12-aa48-79264712aa7b
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2
+
+    Rule Id: 32d4ca24-f260-4d94-8b2a-647dc2eb9fbe
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2
+
+    Rule Id: a5562352-a93b-4bf4-8b42-49e0d427aca0
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2
+
+    Rule Id: aaeda302-5166-4bde-ac52-fc379b1ff6e0
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2
+
+    Rule Id: e2c362eb-2438-42cc-83f7-8223831c1e88
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2
+
+    Rule Id: 5d8538f0-1a44-4a7c-a973-d9fe2ad42fdd
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMOvWjMY.woff2
+
+    Rule Id: 59957281-b7c9-4ff3-b7db-13d7d9850296
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlOevWjMY.woff2
+
+    Rule Id: 0c8d4caf-3763-496c-9b2e-525db5fb5481
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMevWjMY.woff2
+
+    Rule Id: 6dc342c1-46d3-49d2-bd53-13f6de2b341e
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPuvWjMY.woff2
+
+    Rule Id: 9f5c426e-1f27-4247-a98d-42a99add66cb
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMuvWjMY.woff2
+
+    Rule Id: 15ba150e-d315-42cb-b345-d9c9c7a6421b
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vWjMY.woff2
+
+    Rule Id: 5ea0e96f-07d3-4cdb-9d0b-bdc6487bd7ef
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2
+
+    Rule Id: 1c05c865-446e-42ab-ae8c-6786adf49bc7
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMOvWjMY.woff2
+
+    Rule Id: afe54c4f-ed4f-479b-a02d-ef9dc635b230
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlOevWjMY.woff2
+
+    Rule Id: e581c8b5-0a07-4a24-b5cd-42c52709c1a7
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMevWjMY.woff2
+
+    Rule Id: 139f4243-6708-4c03-bf32-a6a7a7bf81b8
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPuvWjMY.woff2
+
+    Rule Id: 78f4a9c6-dcab-4980-8e6d-8139f7ab55c2
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMuvWjMY.woff2
+
+    Rule Id: f681a4e2-4e66-471f-8378-d7143334674b
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vWjMY.woff2
+
+    Rule Id: 9f9ac321-17ad-422f-b663-2aa8df342671
+    Rule Type: font
+    Selector:
+    Belong to: 8671df46-be3e-40c5-af33-9861a87de304
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2
+
+
+
+Block Id: c6a5bf3c-9c65-4781-b31e-2bae956af301
+Src: https://polymer-library.polymer-project.org/css/site.css
+Related html node: 
+Type: external
+Inside CSS Styles: 
+    Rule Id: bc443eb5-feb1-41a8-8927-339d14f549d5
+    Rule Type: style
+    Selector:h3, h4
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d1241bee-9c70-45d9-8924-2c4c6f89d712
+    Rule Type: style
+    Selector:body, demo-tabs pre
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 82272d65-25ed-4efb-8b70-80885110ca22
+    Rule Type: style
+    Selector:body, pre
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c5bbb111-103c-4f0d-aa9e-abe25a8ae3a1
+    Rule Type: style
+    Selector:h1, h2.underline
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a4342443-23c6-406e-804e-4a2f0b33a318
+    Rule Type: style
+    Selector:.devguide-main .sidenav, body, h1, h2, h3, h4
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9d40289a-782e-49ad-aef3-fb3eea90dcfb
+    Rule Type: style
+    Selector:.layout.horizontal, .layout.vertical
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7b15c893-7ecb-4472-b328-dc41f2794550
+    Rule Type: style
+    Selector:.layout.inline
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ea31cd2c-5a1c-430f-b007-e2b8b4e83bea
+    Rule Type: style
+    Selector:.layout.horizontal
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6f84da43-7418-46c2-bd55-ceac50e3cc18
+    Rule Type: style
+    Selector:.layout.vertical
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f6c39f90-dac9-4684-b842-e1daa9cf46de
+    Rule Type: style
+    Selector:.layout.wrap
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 67cd6549-f59d-44b4-864d-4a9898bb5dad
+    Rule Type: style
+    Selector:.layout.no-wrap
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4a8a71df-6bb3-4463-8d50-0664846d127a
+    Rule Type: style
+    Selector:.flex-auto
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b8693b88-10f0-4196-98e5-4ad7c2341943
+    Rule Type: style
+    Selector:.flex-none
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7bb8d1bd-24be-4cbe-980f-39a44a25b9e7
+    Rule Type: style
+    Selector:.layout.start
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e9ee6a43-163c-4838-9fda-590df25ea3f8
+    Rule Type: style
+    Selector:.layout.center, .layout.center-center
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 41ecfede-7d37-4e4c-9a56-a655177f667b
+    Rule Type: style
+    Selector:.layout.end
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3f89a11f-7f93-4115-90f5-724c4f31d72f
+    Rule Type: style
+    Selector:.layout.baseline
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1bfe5e6a-00a5-4abb-a10f-d8091cc7ff20
+    Rule Type: style
+    Selector:.layout.start-justified
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6797b752-a167-4555-8278-d3cd295f8e7d
+    Rule Type: style
+    Selector:.layout.center-center, .layout.center-justified
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 52dda145-9c06-484a-be2d-2850ddb84067
+    Rule Type: style
+    Selector:.layout.end-justified
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bd059379-2ec5-4bf1-b7f5-6c82f09f09dd
+    Rule Type: style
+    Selector:.layout.around-justified
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 044458f0-9c8c-4143-a4df-3a1a69a83364
+    Rule Type: style
+    Selector:.layout.justified
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0db543cc-4071-4ed5-a8bb-e0f6a902af08
+    Rule Type: style
+    Selector:.self-start
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: de8c54e3-7575-42c7-b064-1f6090a2ce9e
+    Rule Type: style
+    Selector:.self-center
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5553c1d3-d6d9-4737-afc7-46dddc54424f
+    Rule Type: style
+    Selector:.self-end
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5d2693ca-7209-4447-a0cd-1ce0bce74883
+    Rule Type: style
+    Selector:.self-stretch
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 146b7ecc-7a4c-4b63-93a5-c8f48f116172
+    Rule Type: style
+    Selector:.self-baseline
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e5ff4e0f-75cd-4c95-8957-f28046a4d178
+    Rule Type: style
+    Selector:.layout.start-aligned
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fecb5f7b-e481-4570-84db-6dc47507e880
+    Rule Type: style
+    Selector:.layout.end-aligned
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ca55f6bd-9a98-4f0a-88f9-3114b86fd79c
+    Rule Type: style
+    Selector:.layout.center-aligned
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a30f98da-373e-4c7b-8354-9ceb55b1e466
+    Rule Type: style
+    Selector:.layout.between-aligned
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7c77ba7e-8ec0-4000-ba6c-7c385b5c3b9a
+    Rule Type: style
+    Selector:.layout.around-aligned
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 74c987d2-cb22-4d5a-aa9d-9390a829d407
+    Rule Type: style
+    Selector:.flex, .flex-1
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0407b112-88b1-4753-8263-5651b4c1c52a
+    Rule Type: style
+    Selector:.flex-2
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 46aeea8c-8a2b-4f08-bde9-f034597b3365
+    Rule Type: style
+    Selector:.flex-3
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a1ad4abb-3303-43c3-afb3-af9c24dd035f
+    Rule Type: style
+    Selector:.flex-4
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ec528bd1-9b4f-4977-9ee5-ec687358f170
+    Rule Type: style
+    Selector:.flex-5
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e60db567-a00f-445a-ba37-091ef12107c8
+    Rule Type: style
+    Selector:.flex-6
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 076afada-c9fc-40e2-a3f3-45331ebdda9d
+    Rule Type: style
+    Selector:.flex-7
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b140488c-7da5-4139-9410-46891b80e6c6
+    Rule Type: style
+    Selector:.flex-8
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c92ce873-a045-4287-8930-6e30db1aa3b2
+    Rule Type: style
+    Selector:.flex-9
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a9215182-76c1-4f7c-ac29-893a3afd994b
+    Rule Type: style
+    Selector:.flex-10
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1a6c4ff7-cae8-4edc-9e9e-7d6df776303b
+    Rule Type: style
+    Selector:.flex-11
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e415dbad-0c9b-4eb7-91b9-285513bd0fd7
+    Rule Type: style
+    Selector:.flex-12
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a8c32e31-8e35-4f8a-a529-e6afe4e8de58
+    Rule Type: style
+    Selector:h1
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b9b2d9f1-74bf-489c-aa1a-a6f454f463a7
+    Rule Type: style
+    Selector:h3
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3e0b2d83-1c6e-4cec-a18a-1cc6e01eab28
+    Rule Type: style
+    Selector:h4
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f0d17653-9cf2-4d6d-86fe-450870443c53
+    Rule Type: style
+    Selector:.hljs
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3f044fa2-604a-48ae-8e80-a8f5c3a6d4ba
+    Rule Type: style
+    Selector:.permalink, pw-shell[active-docs-version="1.0"] a[data-version="2.0"], pw-shell[active-docs-version="1.0"] a[data-version="3.0"], pw-shell[active-docs-version="2.0"] a[data-version="1.0"], pw-shell[active-docs-version="2.0"] a[data-version="3.0"], pw-shell[active-docs-version="3.0"] a[data-version="1.0"], pw-shell[active-docs-version="3.0"] a[data-version="2.0"]
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e291c460-2a3c-4ca0-9949-909b33e05028
+    Rule Type: style
+    Selector:.diff .hljs-header, .hljs-comment
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1fadf0ea-2381-4443-99de-417ab1485f6c
+    Rule Type: style
+    Selector:.css .rule .hljs-keyword, .hljs-keyword, .hljs-request, .hljs-status, .hljs-subst, .hljs-winutils, .nginx .hljs-title
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 74a08768-7235-4a64-a56d-e1d17222c397
+    Rule Type: style
+    Selector:.hljs-hexcolor, .hljs-number, .ruby .hljs-constant
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a4228e5b-ea3a-476e-b233-e67d60696b72
+    Rule Type: style
+    Selector:.hljs-doctag, .hljs-string, .hljs-tag .hljs-value, .tex .hljs-formula
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7569fd6e-88a0-49c6-9672-cac21fc18f1d
+    Rule Type: style
+    Selector:.hljs-id, .hljs-title, .scss .hljs-preprocessor
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9bb3c5e0-6703-448d-9380-10f246527e96
+    Rule Type: style
+    Selector:.hljs-list .hljs-keyword, .hljs-subst
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 80f58d1d-0211-431a-8156-598d0f8fe3ae
+    Rule Type: style
+    Selector:.hljs-class .hljs-title, .hljs-type, .tex .hljs-command, .vhdl .hljs-literal
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 71db860b-f9d2-48e2-b82b-c730ca551fff
+    Rule Type: style
+    Selector:.django .hljs-tag .hljs-keyword, .hljs-rule .hljs-property, .hljs-tag, .hljs-tag .hljs-title
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fe5a268e-9190-4830-ad76-d243b1087c1d
+    Rule Type: style
+    Selector:.hljs-attribute, .hljs-name, .hljs-variable, .lisp .hljs-body
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aa433d00-45de-4314-bb05-78a926904544
+    Rule Type: style
+    Selector:.hljs-regexp
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ccb51846-264a-4885-808c-9a220035ac98
+    Rule Type: style
+    Selector:.clojure .hljs-keyword, .hljs-prompt, .hljs-symbol, .lisp .hljs-keyword, .ruby .hljs-symbol .hljs-string, .scheme .hljs-keyword, .tex .hljs-special
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ba747ae6-4d59-4f1d-a71c-8e4aee22a85d
+    Rule Type: style
+    Selector:.hljs-built_in
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fa787191-74ab-4fa3-99ea-d7f28eaeca22
+    Rule Type: style
+    Selector:.hljs-cdata, .hljs-doctype, .hljs-pi, .hljs-pragma, .hljs-preprocessor, .hljs-shebang
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 507bd6ad-ac6f-425f-b018-b43797825def
+    Rule Type: style
+    Selector:.hljs-deletion
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c77c4f81-810b-4271-be5d-bc91287d2227
+    Rule Type: style
+    Selector:.hljs-addition
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d1481fa1-2133-4d36-874d-2bb4e8d62237
+    Rule Type: style
+    Selector:.diff .hljs-change
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5695a6ad-1e3a-4037-a494-95525d67ef75
+    Rule Type: style
+    Selector:code, pre
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1927ba90-094a-4cf7-9945-f8527b29f003
+    Rule Type: style
+    Selector:.hljs-chunk
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6ccdcf28-d2f6-460b-af25-852b1528fbfd
+    Rule Type: style
+    Selector:code, pre
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4939c53d-4095-4b4d-abf2-c5f5bde0720d
+    Rule Type: style
+    Selector:pre
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8a773cbb-4476-41b9-83ed-30305b1842b3
+    Rule Type: style
+    Selector:code
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: dc1ef758-09c8-4723-95f2-d12ba57a404e
+    Rule Type: style
+    Selector:*
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 01453c11-b4e6-4431-b447-a72fefb1e657
+    Rule Type: style
+    Selector:body
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 57d0512d-c23b-456d-9219-eb58a69628cf
+    Rule Type: style
+    Selector:a, details
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3d35d255-a02f-442d-8d15-08908ed83646
+    Rule Type: style
+    Selector:pw-shell
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 25b52e06-d85f-441a-924f-b8235aa8a1e2
+    Rule Type: style
+    Selector:a
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 523893d4-2d7d-41a8-9ffe-f278d4147156
+    Rule Type: style
+    Selector:.site-nav a, h2
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: edfe98e7-5b20-4f72-b260-6a9d4627e83a
+    Rule Type: style
+    Selector:a:hover
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f75cdd88-daa6-4ca7-a9f7-eb0f56d0c9ed
+    Rule Type: style
+    Selector:img
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c1fe3e71-7f41-4136-9913-9db040abba11
+    Rule Type: style
+    Selector:section
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7f328cb7-4f0b-48c2-aecc-f02f9bb2dcde
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d6b3dc15-2447-430c-a883-fcf0276d588a
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 974792e9-088f-4706-ac1c-c7599d69adc3
+    Rule Type: style
+    Selector:section.short
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0591a5d1-0e11-4c58-82eb-f69013da604c
+    Rule Type: style
+    Selector:section.gradient-dark, section.gradient-light
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 455d6b61-c39b-41f1-91c9-e4a446fbae9e
+    Rule Type: style
+    Selector:section.gradient-dark.short, section.gradient-light.short
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aee5b0ec-ae05-44e1-b383-4b63a3f462bd
+    Rule Type: style
+    Selector:section.gradient-dark
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+        https://polymer-library.polymer-project.org/images/textures/section-gradient-dark.png
+
+    Rule Id: 73674c95-60a6-4a0d-b79e-666a8bcc2181
+    Rule Type: style
+    Selector:section.gradient-light
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+        https://polymer-library.polymer-project.org/images/textures/section-gradient-light.png
+
+    Rule Id: 5d0c8fa9-d372-41a1-bcbe-ccb257a18f25
+    Rule Type: style
+    Selector:section.gradient-light-flipped
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+        https://polymer-library.polymer-project.org/images/textures/section-gradient-light-flipped.png
+
+    Rule Id: 026eca7b-8f20-441a-acc0-7a40e706ff1d
+    Rule Type: style
+    Selector:section.light
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 95010d9d-a7dd-4265-ae41-8624b1799f85
+    Rule Type: style
+    Selector:section.dark
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b64c83cb-ee95-4a9e-8ffc-f86362539766
+    Rule Type: style
+    Selector:section.grey
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 73153e52-480f-4721-9f99-97807a610c5d
+    Rule Type: style
+    Selector:section.pink
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ffbfbbb4-6f2a-4170-bfe1-b5d1ce6a18cf
+    Rule Type: style
+    Selector:section.blue
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5aa71a8-7421-4e49-9eb3-80f4db73d9ed
+    Rule Type: style
+    Selector:section.blue a
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cc310bb0-1b8d-4dbe-93ad-c4d7f8023fcd
+    Rule Type: style
+    Selector:section.blue .blue-button
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f0b02bb2-2543-4108-99a5-cd87932cd7a8
+    Rule Type: style
+    Selector:section.blue h3
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3f473bcb-79b6-4578-8720-3ea622859288
+    Rule Type: style
+    Selector:section > *
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7caf1ace-74a1-4547-94fe-41e1f1208fbe
+    Rule Type: style
+    Selector:.section-columns
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b50b44da-ce2f-4c84-8f77-b61de0d06bb5
+    Rule Type: style
+    Selector:.section-columns > div:not(:last-child), .section-columns > h2:not(:last-child), .section-columns > p:not(:last-child)
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d0ee25ee-8e16-4d8b-96ff-92784577c909
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5673fe4b-bfbb-4096-a5df-e6106bffa3af
+    Rule Type: style
+    Selector:h1, h2
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1ca91324-ec92-4132-9722-7837a694cf85
+    Rule Type: style
+    Selector:h2
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bc5ce7d4-f89c-4128-8a57-dabfcbb3d814
+    Rule Type: style
+    Selector:.blue-button, h1
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c9444619-060e-418a-99fb-84cc0c779660
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 537cee9d-ef36-4b1a-b18a-6693885b0c80
+    Rule Type: style
+    Selector:h2.underline
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d08d82e6-1a30-4715-89a9-4ed8319eb0f2
+    Rule Type: style
+    Selector:h1
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f7d04be6-366b-4d4b-9de4-8ea182d9af1c
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5513242-6890-49e6-903d-a15898ec5ed2
+    Rule Type: style
+    Selector:.blue-button
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5be4e191-5292-4134-b1fc-4b5902c15ac4
+    Rule Type: style
+    Selector:.blue-button:focus, .blue-button:hover
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 29583210-a0eb-4fa3-9fc2-4cd501404aa2
+    Rule Type: style
+    Selector:.blue-button.vertical
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 016105c7-56af-4046-a73b-05a0baed8de3
+    Rule Type: style
+    Selector:.blue-button.vertical:first-child
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b8eb8630-7d5c-4784-9082-5532837ae19c
+    Rule Type: style
+    Selector:.blue-button.full-width
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2fde73be-90c5-475c-a679-8a2aa584dfd7
+    Rule Type: style
+    Selector:.blue-button.flat
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 630e83ea-ab62-4122-b859-5d258b7d51c8
+    Rule Type: style
+    Selector:.blue-button.nocap
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d4d65f5a-d4ed-4659-8a37-1cf8814f4ca2
+    Rule Type: style
+    Selector:.subsection:not(:last-of-type)
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 745f25fc-bafe-4fea-bdf5-520460ad87b0
+    Rule Type: style
+    Selector:.permalink
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6e80a2be-91c8-4382-9ead-e8218bf710a1
+    Rule Type: style
+    Selector:.has-permalink:hover .permalink
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f01852fb-6379-40ce-8624-0afb919cf383
+    Rule Type: style
+    Selector:.no-permalink .permalink
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: adddb34f-ed39-432e-8faa-8127897444b1
+    Rule Type: style
+    Selector:details
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 776d74b3-1b04-48d9-9b93-cc3033e540b7
+    Rule Type: style
+    Selector:details summary
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5f11800c-2d47-43cf-bc74-68d8d6bcaaef
+    Rule Type: style
+    Selector:iron-doc-behavior, iron-doc-class, iron-doc-element, iron-doc-mixin, iron-doc-module, iron-doc-namespace, iron-doc-viewer
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0dd97b4a-6554-4916-bd1a-d9b98637c1c8
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6c055452-1882-4c99-93d1-3ad5bc715216
+    Rule Type: style
+    Selector:iron-doc-behavior section, iron-doc-class section, iron-doc-element section, iron-doc-mixin section, iron-doc-module section, iron-doc-namespace section, iron-doc-viewer section
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6904701f-8556-41af-b778-40843e38cac0
+    Rule Type: style
+    Selector:.site-nav
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 294814f7-6ad3-45bc-948f-505b06bf8bd1
+    Rule Type: style
+    Selector:.site-nav > img
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3d5777d4-be54-4a46-848a-b7e9ecb58845
+    Rule Type: style
+    Selector:.site-nav > pw-version-selector
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: acf18dcb-5761-4ae4-8ce7-ffe496c4f6d8
+    Rule Type: style
+    Selector:.site-nav a
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8989446b-6af6-4f3b-b029-c06859fe5941
+    Rule Type: style
+    Selector:.site-nav a > span
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e6722d7b-5819-46b9-a326-e3beb1a07771
+    Rule Type: style
+    Selector:.site-nav a.selected
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6df26d45-8d25-4327-a518-4b9a3848e4b6
+    Rule Type: style
+    Selector:.site-nav a.level-1
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 00cb2628-5fc5-4383-af3c-ae7ebd800977
+    Rule Type: style
+    Selector:.site-nav a.level-2
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9728cc7a-c79b-47cc-8c98-7697a39ff0ab
+    Rule Type: style
+    Selector:.site-nav a.level-2.indent
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bece2f3a-95b2-4f79-b775-7da5aa7e786e
+    Rule Type: style
+    Selector:.site-nav a.greyed-out
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6a802415-1ee8-4c2a-89ac-9754e8174b75
+    Rule Type: style
+    Selector:.site-nav a.active
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fbedbfab-7df1-4e00-8c0c-0ce17ad35aa5
+    Rule Type: style
+    Selector:.devguide-main
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e1db430a-cf8e-4ad8-ad23-edcd9ee00a4f
+    Rule Type: style
+    Selector:.devguide-main nav
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f609fae1-dc78-499b-abb5-1eac1ed66246
+    Rule Type: style
+    Selector:.devguide-main .content-container
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1fea9016-3b93-41e3-8821-b9b2bfd315cb
+    Rule Type: style
+    Selector:.devguide-main header
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b906e212-eea4-4c60-9894-3e0eeab7b197
+    Rule Type: style
+    Selector:.devguide-main header[data-version="2.0"], .devguide-main header[data-version="3.0"]
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6d0ba237-2c4e-48ad-b371-ea9d53ae19a9
+    Rule Type: style
+    Selector:.devguide-main header[data-version="1.0"]
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 16ab863a-30ec-4951-8fc4-726647d546e3
+    Rule Type: style
+    Selector:.devguide-main header h1
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 53964331-6e3c-4281-a2f5-6f536aa86268
+    Rule Type: style
+    Selector:.devguide-main header p
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 49cc79e6-3eec-497e-bc48-5e9e73301af4
+    Rule Type: style
+    Selector:.devguide-main pw-version-selector
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b2f1d8ee-8f34-4970-b2d0-9b558b31f6f4
+    Rule Type: style
+    Selector:.devguide-main .sidenav
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3d99d6e0-d811-4700-906a-7129d5424458
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-header, .devguide-main .sidenav a
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 272f540b-93d0-45c9-bfe8-92c4c98bf94b
+    Rule Type: style
+    Selector:.devguide-main .sidenav a
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 794e2113-d58a-430b-8f54-6935849df3a1
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-header
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 66d4d463-2a76-4838-b671-54768a27c88d
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-header:first-of-type
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 003ff617-164b-4e29-9c04-1392e28f46dc
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-endheader
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7cc82e7d-c925-4f6f-af35-8fa28e9881de
+    Rule Type: style
+    Selector:.devguide-main .sidenav a.iron-selected
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9877c510-ae39-4bfb-acaf-12d5ec5ab3f9
+    Rule Type: style
+    Selector:.devguide-main header a.edit-on-github
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8ee3e3e0-1c41-473a-bef1-b519e1655c1a
+    Rule Type: style
+    Selector:.devguide-main .version-alert
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ec12745b-bce1-41b8-bf69-42a0ac293e82
+    Rule Type: style
+    Selector:.devguide-main .version-alert a
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 77909d87-18c8-480f-8c23-ecca082bc9ef
+    Rule Type: style
+    Selector:.devguide-main .version-alert:not(.upgrade-alert)
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4dd473e0-abb9-492f-80b9-0983e354a600
+    Rule Type: style
+    Selector:.devguide-main .version-alert img
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 43e92e1a-478f-4488-b99a-ee38e76b7fbe
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aae4d5c9-1a97-451f-933a-bfd3f7ed159d
+    Rule Type: media
+    Selector:
+    Belong to: c6a5bf3c-9c65-4781-b31e-2bae956af301
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+Src: https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Roboto:400,300,300italic,400italic,500,500italic,700,700italic
+Related html node: 
+Type: external
+Inside CSS Styles: 
+    Rule Id: 1172d1ec-860f-4266-abc1-c74235224b17
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+
+    Rule Id: 1843650e-f7ab-4c0c-bb34-a2318c2a943f
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+
+    Rule Id: 5cb0e1c0-6671-4d2b-80fc-312e7926259e
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+
+    Rule Id: a950fe5f-1e4f-4af4-90f7-dd36c7188a4a
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+
+    Rule Id: 6af531b1-ad6e-43db-9f52-a31e524867c8
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+
+    Rule Id: bc9f9879-c000-4810-9769-043699fa1d2b
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+
+    Rule Id: 6c603d56-5244-49f5-9fbd-c81850b5a08d
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+
+    Rule Id: 2b2bbe3f-6249-4b1e-a10d-b21cc6c8c428
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+
+    Rule Id: 4db29042-26f6-4053-9479-18eb1c740d3e
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+
+    Rule Id: c867501e-d723-4586-82a2-51a1c3281934
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+
+    Rule Id: 574a9e80-aabb-41a9-a5a1-4a23fd5ee2da
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+
+    Rule Id: 2ee73b84-f985-4fbd-a20e-aacdb12647fb
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+
+    Rule Id: f8174ecf-7c29-4471-a39b-862f80b588f5
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+
+    Rule Id: 10110cea-9b60-47a5-b93a-b41edb93628e
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+
+    Rule Id: 956be39c-bdd2-405a-a5bd-c28836b4c921
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+
+    Rule Id: e8d4126a-6ff6-4e75-99c2-e54400f40a3b
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+
+    Rule Id: df78a733-4946-4ef1-bae5-dabf414c6d90
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+
+    Rule Id: ee353648-ba9e-4132-988d-5464d416af58
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+
+    Rule Id: cb81d6f1-1b8a-4399-884e-dc4956c52109
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+
+    Rule Id: e0b91c62-a1f4-4c9a-877a-46e3a6bc6c1d
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+
+    Rule Id: 31c19d3c-e6bc-4152-8462-1884743c3e14
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+
+    Rule Id: 3734485e-063b-4b6b-8cd2-652d0ac98d9a
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+
+    Rule Id: c07c670f-9310-489f-92bc-e3ffc64325e5
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+
+    Rule Id: 63fbe2b4-d9e8-49ae-8e26-cb2a9ae712ba
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+
+    Rule Id: 30eb1772-5131-427a-a312-85bb6c6497aa
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+
+    Rule Id: b3a5dbd9-7bcd-4a0a-8ce9-1b5dd8d88cd0
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+
+    Rule Id: 24dfda3c-3259-457e-b125-c311379e0f2e
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+
+    Rule Id: 3c723a6e-86a8-4ec1-bb52-8a16a5ef5ee2
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+
+    Rule Id: e80fda79-d23d-4da9-8492-2dd3b482a204
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+
+    Rule Id: 8d407dab-3514-4eaa-af95-ecc96c71ffa0
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+
+    Rule Id: a2ea3088-aacb-41bf-b806-32643dcba1aa
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+
+    Rule Id: 0c0b846c-fae5-4ee9-9a1f-06635677f116
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+
+    Rule Id: 898d40f3-905e-4bf6-a7ce-8287b5eddb82
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+
+    Rule Id: a2b5201a-a157-4ce3-a4bb-ea40ab06119a
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+
+    Rule Id: d224c0d0-c978-42b7-9747-10323ef07dfb
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+
+    Rule Id: b033f765-e3b9-44f0-bd3e-2740556301cc
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+
+    Rule Id: 198567b3-d664-476b-9728-e37b30915bac
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+
+    Rule Id: 712269a3-afb8-4480-843b-ed1050bd912e
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+
+    Rule Id: 2a482a06-f524-4c48-a277-48be3a29e4e4
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+
+    Rule Id: 30ff26ab-1199-4620-94f3-920299a35df5
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+
+    Rule Id: 8a3a2904-4f91-4d73-9db1-2896bb0ef7a2
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+
+    Rule Id: 3b958697-3642-457d-b474-f4517972478d
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+
+    Rule Id: 6e9242bc-bb82-40af-8689-64ac902172b4
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+
+    Rule Id: 77cb9555-d9e3-4a64-b827-937a8cf33805
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+
+    Rule Id: 03a8639a-99e9-4199-bfe6-0e73b09bb490
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+
+    Rule Id: 9bd8a1de-6b95-46a3-8a15-d8efaa72912d
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+
+    Rule Id: d378f1d6-a06d-48a2-b06e-9119100d398b
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+
+    Rule Id: 39f75731-0b7d-4b1c-9162-f8362f4ed861
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+
+    Rule Id: 2818ad59-1350-4063-94ad-07cd1e18a0ef
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+
+    Rule Id: 6ba77920-cd22-4f32-9913-33bece2d617e
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+
+    Rule Id: e5e81f5d-8f75-4a78-ae66-3c842beec75a
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+
+    Rule Id: 0e7a2d95-56bb-455e-8a91-482f7b3c9f64
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+
+    Rule Id: 16e718ad-dce9-42c6-a57c-867ded71057d
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+
+    Rule Id: ae562abc-e4d0-453c-8ab7-9e56ba3d4070
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+
+    Rule Id: e33db188-7f6b-4493-af48-2118f70abf71
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+
+    Rule Id: 9c12221f-23d4-49cf-b38a-007c0acd6d5c
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+
+    Rule Id: 0dbae518-2711-4c89-a88b-db73012509ed
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0mf0h.woff2
+
+    Rule Id: 74b26e3b-7b18-4d98-a885-8b8f0a176002
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0mf0h.woff2
+
+    Rule Id: 0e3c01be-567d-4df5-8503-0c4addb13e0b
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSt0mf0h.woff2
+
+    Rule Id: 6f0114b1-b5fb-4716-8481-4f7182ae3e3b
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSd0mf0h.woff2
+
+    Rule Id: 0b16c4f6-db21-4086-8272-c47069e840cf
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSZ0mf0h.woff2
+
+    Rule Id: 28c2dbea-6f3e-45ad-92b5-c388512f1fe8
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0mQ.woff2
+
+    Rule Id: e4a562e2-98c1-4282-8cab-a9f41fd29ce7
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0mf0h.woff2
+
+    Rule Id: 85a3a038-3d68-4cff-a750-bdd741db63ae
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0mf0h.woff2
+
+    Rule Id: 4f3d47aa-9aea-478e-8d3c-f364f553e80f
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSt0mf0h.woff2
+
+    Rule Id: 71cd95d3-1fe5-4e5c-85fb-5a48f658900d
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSd0mf0h.woff2
+
+    Rule Id: dfb7c3db-6a6e-484e-957d-4e7e30330e23
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSZ0mf0h.woff2
+
+    Rule Id: 8264fb3b-a935-4a8e-8b26-3575a2210d31
+    Rule Type: font
+    Selector:
+    Belong to: 5a6ee836-f485-4d0c-b602-5c71218d8b6e
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0mQ.woff2
+
+
+

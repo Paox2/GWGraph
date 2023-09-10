@@ -1,0 +1,1706 @@
+------------------------- Base URL : https://www.wikipedia.org/-------------------------
+
+
+
+
+
+---------------------Inline CSS: ------------------------
+
+
+Block Id: 8f37fa0d-544d-422e-a009-c5dc4eef1e0a
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 25b2c37c-999f-4b85-bce5-f962a982b0ee
+    Rule Type: style
+    Selector:
+    Belong to: 8f37fa0d-544d-422e-a009-c5dc4eef1e0a
+    Apply to: 
+    Related Link: 
+
+
+
+
+
+
+---------------------Internal CSS: ------------------------
+
+
+Block Id: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: bf2c248a-1d85-4ede-bfd9-b7900caa81d1
+    Rule Type: style
+    Selector:.sprite
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-8bb90067.svg
+
+    Rule Id: 306447ae-09eb-4d66-89a6-36986f6d131f
+    Rule Type: style
+    Selector:.svg-Commons-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6124de4f-2597-4bab-9ada-20b160454de1
+    Rule Type: style
+    Selector:.svg-MediaWiki-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 661e055e-4fac-46d9-973b-90a34109e889
+    Rule Type: style
+    Selector:.svg-Meta-Wiki-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: edf458a3-bf66-4a49-9910-16afd26d3a5c
+    Rule Type: style
+    Selector:.svg-Wikibooks-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5674e37a-5e7c-4ebb-a159-f34f67b322f4
+    Rule Type: style
+    Selector:.svg-Wikidata-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5cb0eee3-99a8-428b-8742-f4803f2de282
+    Rule Type: style
+    Selector:.svg-Wikifunctions-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6461f598-5517-472e-8469-9e9468c0cd2e
+    Rule Type: style
+    Selector:.svg-Wikimedia-logo_black
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a087e8f6-5c12-48b6-96df-0e2847cffa9e
+    Rule Type: style
+    Selector:.svg-Wikipedia_wordmark
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e43b9ab4-1960-400a-b5c1-db03daf4dc41
+    Rule Type: style
+    Selector:.svg-Wikiquote-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e7e6033b-5a75-4232-b67d-2e42ec372b17
+    Rule Type: style
+    Selector:.svg-Wikisource-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cff9652e-eadf-4b4b-98d1-d5e4ad050db8
+    Rule Type: style
+    Selector:.svg-Wikispecies-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7dcf809e-5119-4216-9c3b-87d45dffbedc
+    Rule Type: style
+    Selector:.svg-Wikiversity-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ba24327c-0e84-43e8-98fb-11d6301c3984
+    Rule Type: style
+    Selector:.svg-Wikivoyage-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 133607bd-9e3d-4334-8f81-cd0b2dd77038
+    Rule Type: style
+    Selector:.svg-Wiktionary-logo_sister
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 43277876-2d10-4592-8515-7880080e9e14
+    Rule Type: style
+    Selector:.svg-arrow-down
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 577a476f-52e5-40be-a1c3-785d27adb251
+    Rule Type: style
+    Selector:.svg-arrow-down-blue
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6dfe0257-7095-4220-9ff4-bb67bc604040
+    Rule Type: style
+    Selector:.svg-badge_google_play_store
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5e362eea-daf0-4136-9e6e-d4dce1282acb
+    Rule Type: style
+    Selector:.svg-badge_ios_app_store
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: daf86669-ac50-4824-934c-b821c0b6a3a3
+    Rule Type: style
+    Selector:.svg-language-icon
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 25d36f18-7caa-4307-92f2-bab14f46c54c
+    Rule Type: style
+    Selector:.svg-noimage
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 66a53eaa-ddf3-41da-9259-ef63d3368cdc
+    Rule Type: style
+    Selector:.svg-search-icon
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f4c0b6b0-59ca-467d-b99a-89ba9ff06e69
+    Rule Type: style
+    Selector:.svg-wikipedia_app_tile
+    Belong to: 3e79bbec-f620-474f-96c2-4d88c4d3f9ea
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 31c3057e-f4ce-4016-a323-4c2b80292751
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 81c7411a-3003-4299-83b5-a56e8873f921
+    Rule Type: style
+    Selector:html
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 330cdb98-f152-4940-8047-585992679a2f
+    Rule Type: style
+    Selector:body
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c0fab841-6584-4c23-9e13-bdebdd94d805
+    Rule Type: style
+    Selector:article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 490d348a-3d65-45f4-b1f4-e747772108d2
+    Rule Type: style
+    Selector:audio, canvas, progress, video
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 067f1d65-eeb2-488b-901b-33bb94a9b4f7
+    Rule Type: style
+    Selector:audio:not([controls])
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0a49fb15-08b8-4517-87a0-2a801e7cdd78
+    Rule Type: style
+    Selector:[hidden], template
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 06a3bfdb-e4db-473c-9371-455fa3d78884
+    Rule Type: style
+    Selector:a
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9cd7df45-6925-4d62-8c2b-605b01b7d14b
+    Rule Type: style
+    Selector:a:active, a:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8bac9587-2881-42a3-85af-eaacbfc6164f
+    Rule Type: style
+    Selector:abbr[title]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b760af74-2cb8-4e21-aaee-9be6fc7ba934
+    Rule Type: style
+    Selector:b, strong
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0bef4229-aac9-4191-9c22-a0a03349295a
+    Rule Type: style
+    Selector:dfn
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 98ce6246-42a0-4de0-8b9c-f27283fb3368
+    Rule Type: style
+    Selector:h1
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b3026465-14e9-49dc-b718-c771457dbaa2
+    Rule Type: style
+    Selector:mark
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2ad96a2a-6aff-4f45-84d6-f875961fd591
+    Rule Type: style
+    Selector:small
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2184b4df-73c3-4063-8bac-08b4b823714e
+    Rule Type: style
+    Selector:sub, sup
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b1d67390-42a1-465b-8e86-d8d21628e83a
+    Rule Type: style
+    Selector:sup
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4b5afd8d-a08e-456f-9308-dcc5d58dfece
+    Rule Type: style
+    Selector:sub
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d793b642-4646-4f14-8f44-ea8baa20662c
+    Rule Type: style
+    Selector:svg:not(:root)
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e623178c-f0e2-496e-a62f-a53a1f822f07
+    Rule Type: style
+    Selector:figure
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7d01d24e-6e1a-4a36-b330-d627c22f5f2f
+    Rule Type: style
+    Selector:hr
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 757acb36-e5b1-44a7-9d01-8646d8433f27
+    Rule Type: style
+    Selector:pre
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ea260f3c-cafb-4ad6-983a-9ae0f5c02133
+    Rule Type: style
+    Selector:code, kbd, pre, samp
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6af97ea0-12da-46d0-93c6-24b4ade2e82c
+    Rule Type: style
+    Selector:button, input, optgroup, select, textarea
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aedbf83b-3050-43e9-a2c6-5b3224830cac
+    Rule Type: style
+    Selector:button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 01d29f57-b1a0-4f98-a205-ce0352dddfc0
+    Rule Type: style
+    Selector:button, select
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bdb43b69-c4d4-497a-98c6-29d13be48f82
+    Rule Type: style
+    Selector:button, html input[type="button"], input[type="reset"], input[type="submit"]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5f2e39c0-2b2e-412d-a006-9cf781348247
+    Rule Type: style
+    Selector:button[disabled], html input[disabled]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5cc2b391-2097-4611-bbc9-1163f4ebbbb3
+    Rule Type: style
+    Selector:button::-moz-focus-inner, input::-moz-focus-inner
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bb44a7e7-8174-4a12-b590-85079c96b853
+    Rule Type: style
+    Selector:input
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4d96134c-5877-427d-b19e-e692e6d438bc
+    Rule Type: style
+    Selector:input[type="checkbox"], input[type="radio"]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e11d4ef0-cb51-490f-8bdd-11e7af279c03
+    Rule Type: style
+    Selector:input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4e644186-2ae9-435e-90b3-dc924b4d5c1e
+    Rule Type: style
+    Selector:input[type="search"]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 946be37f-9bf8-4241-ad65-2e4a74d4336b
+    Rule Type: style
+    Selector:input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b87f809c-abdb-469b-98c9-c65e58469494
+    Rule Type: style
+    Selector:input[type="search"]:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c0fb458a-eb98-482e-8d35-1839832d140e
+    Rule Type: style
+    Selector:fieldset
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 53dac6a6-abb9-4146-adc6-2ad68b40d093
+    Rule Type: style
+    Selector:legend
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f4a9b438-1347-44cc-bbfc-422fef96418a
+    Rule Type: style
+    Selector:textarea
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5f6e7589-6644-4ece-89d4-3d31f6ae0726
+    Rule Type: style
+    Selector:optgroup
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7bcb97a6-162f-41bf-981d-d22d4018bcdb
+    Rule Type: style
+    Selector:table
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c519e291-9e67-4a77-b802-cd0bc638664f
+    Rule Type: style
+    Selector:td, th
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fada27c1-eb10-4f10-be2b-ae0ee28c5ac3
+    Rule Type: style
+    Selector:.hidden, [hidden]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ca49d38d-ed19-4385-b5f2-c0f5beda667a
+    Rule Type: style
+    Selector:.screen-reader-text
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 67ba2c03-4838-4e04-8374-a357dd5a1778
+    Rule Type: style
+    Selector:body
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 89f2ba0a-2dca-4729-9015-37c16bf6b864
+    Rule Type: style
+    Selector:a
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1d7fcc4b-342f-4abc-a880-fa585208c7e5
+    Rule Type: style
+    Selector:a, a:active, a:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0a5ffcba-caf7-4977-8be4-6c32896aa86e
+    Rule Type: style
+    Selector:a:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ad8e627a-27ec-4ab1-afa5-02f973d120d7
+    Rule Type: style
+    Selector:a:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2a5c1021-fdfb-418f-81e8-64b87e3b94f5
+    Rule Type: style
+    Selector:img
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0abfbf49-3151-4d2b-921c-53e1fbe74ac3
+    Rule Type: style
+    Selector:hr, img
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b8299750-aacf-4b25-8d44-57cd7d8be7ff
+    Rule Type: style
+    Selector:hr
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d0736bf3-8d39-42eb-bc43-19cce6273c7a
+    Rule Type: style
+    Selector:.pure-button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 731dedf6-e8ec-4725-be27-756d3e752668
+    Rule Type: style
+    Selector:.pure-button::-moz-focus-inner
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a03fb3df-d567-40ec-ba45-aeebc38444f0
+    Rule Type: style
+    Selector:.pure-button-hover, .pure-button:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 683de112-a756-4f69-ad1f-46a674e2ff7d
+    Rule Type: style
+    Selector:.pure-button-active, .pure-button:active
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5d39a60-2d1f-419f-b483-f2b00f10fdf5
+    Rule Type: style
+    Selector:.pure-button:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5219906-b56c-409f-90d3-d8a563308f01
+    Rule Type: style
+    Selector:.pure-button-primary-progressive
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f415686b-b90b-4b5a-9858-863998830800
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 32d57d50-b1b9-4f43-9b97-85ca92c0f643
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:active
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: da427af3-a3ca-49d6-a3bf-87b0f9527b3a
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 948107b9-d9ae-4fa7-8d59-d79ef39fa49e
+    Rule Type: style
+    Selector:.pure-form input[type="search"]
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: def65fec-1a5c-4d8e-92fb-4780dd6d0d59
+    Rule Type: style
+    Selector:.pure-form input:focus:invalid
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c04d5db0-c1a7-48a4-b74c-2ca50679110c
+    Rule Type: style
+    Selector:.pure-form fieldset
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d7a52799-9fc2-448e-9e8a-92f501adb42a
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d1c509fd-24b2-4fb6-b762-f63d85496a3c
+    Rule Type: style
+    Selector:.central-textlogo-wrapper
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1339835e-8292-448c-840f-25e2426edca0
+    Rule Type: style
+    Selector:.central-textlogo
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ea8536a8-0146-4260-979e-e8b066076579
+    Rule Type: style
+    Selector:.localized-slogan
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 16f83a20-9bce-4bee-b9c7-64d65c8f40fd
+    Rule Type: style
+    Selector:.central-textlogo__image
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 76bb6d2b-7167-491e-a6d6-4b547a21a17d
+    Rule Type: style
+    Selector:.central-featured-logo
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d030b469-b42f-438f-8f79-ad9918a1a707
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b9c9de7e-c22a-4674-9c93-8c4a061fd5e7
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7fa3aea1-ac5f-41a9-bf14-955eeb65c83c
+    Rule Type: style
+    Selector:.central-featured
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 088a2e3a-6644-4868-8500-07106f99498f
+    Rule Type: style
+    Selector:.central-featured-lang
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: a298ee82-ffff-4a38-9102-701fb23fa2bc
+    Rule Type: style
+    Selector:.central-featured-lang .link-box
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 244d46bc-f191-4ad1-af7f-050c77a0b7bd
+    Rule Type: style
+    Selector:.central-featured-lang .link-box:hover strong
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2add157b-fa2b-4a71-9bec-2920f0c6913f
+    Rule Type: style
+    Selector:.central-featured-lang :hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5995244b-701c-4c3a-9525-d0f094c1d82e
+    Rule Type: style
+    Selector:.central-featured-lang strong
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1da715f2-fa64-4070-a17e-652e0c71cd83
+    Rule Type: style
+    Selector:.central-featured-lang small
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f1d0448e-f4df-4a28-8845-d65d7c016b87
+    Rule Type: style
+    Selector:.central-featured-lang em
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 685310ee-5eea-49ef-93b3-efebd089b9b3
+    Rule Type: style
+    Selector:.central-featured-lang .emNonItalicLang
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 90c5feaa-6b1c-4c86-abfb-e228a5b9d99a
+    Rule Type: style
+    Selector:.lang1
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0b7e8c24-2043-4614-b0ca-20c1329140e5
+    Rule Type: style
+    Selector:.lang2
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9cb044b4-4f54-412f-a3ba-aa277d8df500
+    Rule Type: style
+    Selector:.lang3
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 67e1e77a-4b2e-4f46-ba41-9828d873585c
+    Rule Type: style
+    Selector:.lang4
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fadcbe35-105e-4d21-a85b-fad59ecba5bc
+    Rule Type: style
+    Selector:.lang5
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ebb3458e-a13b-4355-a879-1f01946f5f64
+    Rule Type: style
+    Selector:.lang6
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3fe1df7f-a622-43fa-95a7-2897b4799dcb
+    Rule Type: style
+    Selector:.lang7
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: dd5b6b52-cabd-4668-9a00-1ef2153382c9
+    Rule Type: style
+    Selector:.lang8
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 14eefa67-5e19-41ac-bd42-35f0f4af8e93
+    Rule Type: style
+    Selector:.lang9
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d3f1608f-1927-472b-ac9e-c3c90ff3cde6
+    Rule Type: style
+    Selector:.lang10
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cd89b043-b733-4d26-bed7-7655292e64d9
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c1d5f5bd-244f-4341-b8da-525664036764
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c06d5ac6-d596-4337-a38a-ee5fa00898b9
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 86dcfd0a-e0a1-4daa-9bc2-d07133c1020f
+    Rule Type: style
+    Selector:.search-container
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b0b81a50-cfb8-4b89-8325-eb3c96ac51fb
+    Rule Type: style
+    Selector:.search-container fieldset
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3b6a380a-c21d-447d-84ee-90ffa4197099
+    Rule Type: style
+    Selector:.search-container button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 708c99fa-92c7-4e22-9fc7-6adedb0b8f5c
+    Rule Type: style
+    Selector:.search-container button .svg-search-icon
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 866a6566-f1f3-40c5-a68d-5855fcb2e114
+    Rule Type: style
+    Selector:.search-container input[type="search"]::-webkit-search-results-button, .search-container input[type="search"]::-webkit-search-results-decoration
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 28b0102b-d518-4ae9-aadc-9bb73f89e08f
+    Rule Type: style
+    Selector:.search-container input::-webkit-calendar-picker-indicator
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 11cd62fd-6c29-46f8-a863-fd2e7bbc1bf9
+    Rule Type: style
+    Selector:.search-container .sprite.svg-arrow-down
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5c466e3a-ac5a-4d77-9d4c-069c9f716f16
+    Rule Type: style
+    Selector:#searchInput
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bf8132c6-714b-4c7b-896a-fcba09a6d98f
+    Rule Type: style
+    Selector:#searchInput:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cb2b93ce-adbf-447d-a964-955f06cade0d
+    Rule Type: style
+    Selector:#searchInput:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 32d284ef-e08e-45e6-bdb8-0020a3f4b1a3
+    Rule Type: style
+    Selector:.search-container .search-input
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3d427477-9ec1-4212-92db-60867498d228
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8679d651-8cb5-4062-ac04-2d0a6aed5fc4
+    Rule Type: style
+    Selector:.suggestions-dropdown
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 91979fe9-bd0e-4256-85d6-b520a56502fe
+    Rule Type: style
+    Selector:.suggestion-link, .suggestions-dropdown
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2c2982b7-4b49-4265-9089-7a973c5aecd9
+    Rule Type: style
+    Selector:.suggestion-link
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 594cd099-899c-4c23-9e64-79edb85246b1
+    Rule Type: style
+    Selector:.suggestion-link.active
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e8b8721c-62d9-4f8d-a103-d2c52b590b6d
+    Rule Type: style
+    Selector:a.suggestion-link:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 51ae404f-6028-4bc3-a17c-e9c452a1b58f
+    Rule Type: style
+    Selector:a.suggestion-link:active, a.suggestion-link:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cdc6eba6-0acf-475f-87b3-256c670e407e
+    Rule Type: style
+    Selector:.suggestion-thumbnail
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/noimage.png
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/noimage.svg
+
+    Rule Id: de045543-5da3-45a9-b1f9-a1df0dd325c8
+    Rule Type: style
+    Selector:.suggestion-title
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2a836aa7-e005-4f1f-9408-8dde95c8211a
+    Rule Type: style
+    Selector:.suggestion-link.active .suggestion-title
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2f092dc1-03ea-41d8-83b3-6dc1e1585a2c
+    Rule Type: style
+    Selector:.suggestion-highlight
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 897b48a5-2495-489f-9929-175b02659644
+    Rule Type: style
+    Selector:.suggestion-description
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8771cc5d-c850-44ce-af56-d8938a9b64fe
+    Rule Type: style
+    Selector:.styled-select
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 15fe18fe-519b-42ee-89bc-61624192d51a
+    Rule Type: style
+    Selector:.styled-select:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5355871-6664-4eb8-9552-5884db89bdaa
+    Rule Type: style
+    Selector:.styled-select .hide-arrow
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: dc454d45-39c2-4b91-9342-0ec0c5580528
+    Rule Type: style
+    Selector:.styled-select select
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2234503a-e936-428f-87ad-85e9a1cc2841
+    Rule Type: style
+    Selector:.styled-select.no-js
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 23691e46-cfeb-492e-99bf-b3bde0e358ec
+    Rule Type: style
+    Selector:.styled-select.no-js select
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e77b26f1-86ab-4f7d-9bbe-a00aef3f035d
+    Rule Type: style
+    Selector:.styled-select.no-js .hide-arrow
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5a997fc-f932-4bdd-81ff-457a197d3d94
+    Rule Type: style
+    Selector:.search-container .styled-select.no-js .js-langpicker-label
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aec4f2e2-aa97-4dcd-80f4-2ef377b50b55
+    Rule Type: style
+    Selector:.styled-select.js-enabled .hide-arrow
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2e826efd-f9fa-4d2f-9038-da075e5b5964
+    Rule Type: style
+    Selector:.styled-select.js-enabled select
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c53fe3fe-9c0c-45b3-ba84-0a70952bcad6
+    Rule Type: style
+    Selector:.styled-select.js-enabled select option
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: aea738b5-b9e9-4eff-a3f7-061f267f301d
+    Rule Type: style
+    Selector:.styled-select.js-enabled select:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 90a4e824-9fbe-4219-be8c-5212761db81f
+    Rule Type: style
+    Selector:.styled-select-active-helper
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 92f46c30-d48b-4c65-82a6-c611b46b20e7
+    Rule Type: style
+    Selector:.styled-select.js-enabled select:focus + .styled-select-active-helper
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 17d150e3-4cf7-4c43-97cd-198514388c3e
+    Rule Type: style
+    Selector:.search-container .js-langpicker-label
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 50662f81-1467-4aad-8224-e361241cf5cd
+    Rule Type: style
+    Selector:.styled-select select:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9599d53a-be5e-4457-89e9-9b898d0eaceb
+    Rule Type: style
+    Selector:.styled-select select::-ms-expand
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b52e7dd0-1517-4991-b33b-7ce2d7d3a3b5
+    Rule Type: style
+    Selector:.styled-select select:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1682b833-3117-415a-981c-daf697c71434
+    Rule Type: unknown
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: bb10b3a3-5a33-4fbd-8270-e4116af4f55f
+    Rule Type: style
+    Selector:.other-projects
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 005e76af-3de3-4460-bd3d-5a4a0a432869
+    Rule Type: style
+    Selector:.other-project
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4f5cebdc-5efd-4f89-8565-fe1bfd2db2fe
+    Rule Type: style
+    Selector:.other-project-link
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 14f765c2-fdce-4985-9c09-020b6ca429e2
+    Rule Type: style
+    Selector:.other-project-link:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6822c382-6bad-44c5-bbd2-3b17cdfbf7c0
+    Rule Type: style
+    Selector:a.other-project-link
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 2faa2408-1cf3-4449-8e57-c8a64573585f
+    Rule Type: style
+    Selector:.other-project-icon
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ba8ca72d-8036-451f-88f6-5e6a17c92a37
+    Rule Type: style
+    Selector:.svg-Wikinews-logo_sister
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister.png
+
+    Rule Id: 715ab70b-539d-4a68-a785-874935e78eb4
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png
+
+    Rule Id: c9b7131d-7de7-4642-9d53-a1880ab28c97
+    Rule Type: style
+    Selector:.other-project-text, .other-project .sprite-project-logos
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f13b83b5-f508-42bb-a71e-76a544c6d24a
+    Rule Type: style
+    Selector:.other-project-text
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8cd224ee-2c72-4801-a661-6efd735f9dea
+    Rule Type: style
+    Selector:.other-project-tagline, .other-project-title
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 7279ed2d-706d-44e9-b95e-4ea1f42810ed
+    Rule Type: style
+    Selector:.other-project-tagline
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fc66da44-9884-4552-bb8b-5b99e52a5b2b
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4c4793cb-8cfd-4044-8105-8ad0ae1dc676
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: f6e34594-b119-45c3-8f7f-e0498a3081df
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d12174c6-cc5e-4832-bf66-6c18c75b439d
+    Rule Type: style
+    Selector:.lang-list-container
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 90e68b96-6a71-45dc-9b6f-e0e02a1c6b7c
+    Rule Type: style
+    Selector:.js-enabled .lang-list-container
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8b653a11-671b-4590-bb0b-7bac4bfd72bd
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-container, .no-js .lang-list-container
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 617f9f29-7c0a-4d9b-b21e-2b1b8b9f82c9
+    Rule Type: style
+    Selector:.no-js .lang-list-button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0b3495ac-10f9-48da-b2c7-38277f615108
+    Rule Type: style
+    Selector:.lang-list-button-wrapper
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 01fc4ee8-8462-4ffd-8b4b-a06ed6f8d076
+    Rule Type: style
+    Selector:.lang-list-button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 87802570-7273-4c2d-bec7-4341d3374fb6
+    Rule Type: style
+    Selector:.lang-list-button:hover
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cae78e5a-1042-492c-a982-43fb25e3939a
+    Rule Type: style
+    Selector:.lang-list-button:focus
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e6773cb4-0cd9-429e-898c-6d3929701522
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c5408d64-ccac-4fed-8fa3-0b2a583af9ef
+    Rule Type: style
+    Selector:.lang-list-button-text
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 475af031-0a12-4da3-9aaf-bc97133e4db2
+    Rule Type: style
+    Selector:.lang-list-button i
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 8bc291cc-02f3-4fee-9abb-7145b5af5a7e
+    Rule Type: style
+    Selector:.no-js .lang-list-border, .no-js .lang-list-button
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cb8b948b-3802-4495-ba67-cb49d968bf88
+    Rule Type: style
+    Selector:.lang-list-border
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4439da73-d22a-4b68-b254-5f474d96f94d
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-border
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9b8ee8bd-4ddf-414b-b041-4cbb8d9530bf
+    Rule Type: style
+    Selector:.no-js .lang-list-content
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0e57042e-fd34-4d5f-96b2-502dcb541f0a
+    Rule Type: style
+    Selector:.lang-list-content
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b3995e71-8021-4c40-860d-f111bf6908fb
+    Rule Type: style
+    Selector:.svg-arrow-down-blue
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b6d64546-2091-406d-8d38-817365edcf92
+    Rule Type: style
+    Selector:.lang-list-active .svg-arrow-down-blue
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 85e7a3be-4386-442e-aa04-ea77fc73b215
+    Rule Type: style
+    Selector:.langlist
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d3d73d48-8a89-4d14-8fd9-8ee142f4e55c
+    Rule Type: style
+    Selector:.langlist-others
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 95b69cc4-2600-4141-92ad-589cd03514a4
+    Rule Type: style
+    Selector:.hlist ul
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fb6ff986-0270-4484-9758-bb9f3873dac9
+    Rule Type: style
+    Selector:.hlist li, .hlist ul ul
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 33f75747-91b8-441b-80d7-13ba3a637550
+    Rule Type: style
+    Selector:.hlist li:before
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 04690e89-9a25-4bb2-88cd-8a4d94b05fbf
+    Rule Type: style
+    Selector:.hlist li:first-child:before
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: fa0f8551-2f39-4c1d-a3eb-82768c23bca1
+    Rule Type: style
+    Selector:.hlist li > ul:before
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 43bec23d-474c-4d3c-96b2-9fc62fc73f1c
+    Rule Type: style
+    Selector:.hlist li > ul:after
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: cc2a1ebf-192b-44f0-8aaa-be8bfb191afb
+    Rule Type: style
+    Selector:.langlist > ul
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 69256b74-a2ec-49ee-a975-646547b68792
+    Rule Type: style
+    Selector:.langlist > ul > li
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 45e51219-d56f-4582-9490-302511aa533d
+    Rule Type: style
+    Selector:.no-js .langlist > ul
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 36a28c09-a116-4f28-88d6-af356d3380cc
+    Rule Type: style
+    Selector:.no-js .langlist > ul > li
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5f89c92-2348-45cb-8c95-f39e4b514c64
+    Rule Type: style
+    Selector:.langlist > ul > li:before
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0958c72b-ea12-4d88-b3bd-77c4ef121cfb
+    Rule Type: style
+    Selector:.langlist > ul > li a
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b92bfc6b-0fda-4b54-b9a1-c9fa4aede0f2
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 140113d3-0a45-4ed7-9975-3f12dfdec3a4
+    Rule Type: style
+    Selector:.bookshelf
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 4721f9fb-b283-4883-9d77-639e7ae6b450
+    Rule Type: style
+    Selector:.bookshelf .text
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5ed3c344-f8b3-4c3f-963a-67ac094ecff1
+    Rule Type: style
+    Selector:.bookshelf-container
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 88c8ce13-2b82-457b-a226-567d6e9dbd3f
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e800b297-58de-491a-9e14-835089b6faa3
+    Rule Type: style
+    Selector:.app-badges .footer-sidebar-content
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 56642d88-cab3-4f41-90ec-5f7047cae9eb
+    Rule Type: style
+    Selector:.app-badges .footer-sidebar-text
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ea728091-ee45-4b12-b553-370662779ab0
+    Rule Type: style
+    Selector:.app-badges .sprite.footer-sidebar-icon
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d00927a1-5f54-4811-8808-c64c7d182311
+    Rule Type: style
+    Selector:.app-badges ul
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 222fa7ef-c191-481d-99e5-519d2a50378c
+    Rule Type: style
+    Selector:.app-badge
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 1664ad2d-df2a-4bcb-87c7-2edae1f4fbb3
+    Rule Type: style
+    Selector:.app-badge a
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 029499d1-4317-480b-9b37-a4e4cc9863ef
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 31d890bb-6840-4b83-adc3-1121403127e4
+    Rule Type: style
+    Selector:.footer
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e14d096b-e06e-427e-8efc-ab0ba1ec5df9
+    Rule Type: style
+    Selector:.footer:after, .footer:before
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 6fe7e336-9102-4110-a723-9e899295ffdf
+    Rule Type: style
+    Selector:.footer:after
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 3a2bbfb0-b277-4b5a-aede-8efe4df81593
+    Rule Type: style
+    Selector:.footer-sidebar
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 22581e1f-5c7c-4539-ac90-94ba0fd34e3e
+    Rule Type: style
+    Selector:.footer-sidebar-content
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 0597415f-a46c-4f1f-a905-bb45677d8af0
+    Rule Type: style
+    Selector:.sprite.footer-sidebar-icon
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 739789e6-59d3-4249-ac5e-d42b68ab9c63
+    Rule Type: style
+    Selector:.footer-sidebar-text
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c6d825bf-9fb5-4f3c-97ae-73fb85f20d0a
+    Rule Type: style
+    Selector:.site-license
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 9346b9c8-e099-47af-a982-04cb1a217a56
+    Rule Type: style
+    Selector:.site-license small:after
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: c7d3c2a9-f2fd-41c2-bdb1-c13831efce29
+    Rule Type: style
+    Selector:.site-license small:last-child:after
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5cc8e088-f9a4-4f12-9632-14eb6ef3cd86
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b392e3c1-a5be-4e28-8a9b-0fb9805646ec
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: b1f74161-3eda-47c7-b63b-64619a9aa066
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: ea84479a-8f3a-4dcc-88b3-149ec234390c
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d6aabbbc-9965-429f-ae04-7e0a1e10effc
+    Rule Type: unknown
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: 5a789ce1-084e-49d1-95d2-f9abd7ffbe08
+    Rule Type: style
+    Selector:.js-enabled .central-featured, .js-enabled .jsl10n
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: d5517d28-906b-499d-8907-5e3f14de19ff
+    Rule Type: style
+    Selector:.jsl10n-visible .central-featured, .jsl10n-visible .jsl10n
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+    Rule Id: e4196177-3e31-4608-829f-3292413a0b32
+    Rule Type: media
+    Selector:
+    Belong to: 31c3057e-f4ce-4016-a323-4c2b80292751
+    Apply to: 
+    Related Link: 
+
+
+
+Block Id: 7158698a-df87-43da-a901-fcdcabc4c01c
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 777f2a4a-cb49-434b-96e3-c0bf72822c92
+    Rule Type: style
+    Selector:.styled-select
+    Belong to: 7158698a-df87-43da-a901-fcdcabc4c01c
+    Apply to: 
+    Related Link: 
+
+
+
+
+
+
+---------------------External CSS: ------------------------
+
+

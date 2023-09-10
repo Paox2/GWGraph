@@ -1,0 +1,3259 @@
+------------------------- Base URL : https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview-------------------------
+
+
+
+
+
+---------------------Inline CSS: ------------------------
+
+
+Block Id: 28b9d47c-263f-4362-b251-a3078b5adfc5
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: b85f96d2-009d-4979-bd9d-a358be34bdac
+    Rule Type: style
+    Selector:
+    Belong to: 28b9d47c-263f-4362-b251-a3078b5adfc5
+    Apply to: 
+    Related Link: 
+    Content:
+      display: none;
+
+
+
+Block Id: 2b728ff2-d65f-40e5-a99b-0cf2d521462c
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 202d533c-ecd5-4b3e-ac68-6280ec69aecc
+    Rule Type: style
+    Selector:
+    Belong to: 2b728ff2-d65f-40e5-a99b-0cf2d521462c
+    Apply to: 
+    Related Link: 
+    Content:
+      display: none;
+
+
+
+Block Id: a20ba0de-23f5-4a91-af3c-4af562b4d014
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: c16e42e5-0827-4689-92c5-badc28d56a54
+    Rule Type: style
+    Selector:
+    Belong to: a20ba0de-23f5-4a91-af3c-4af562b4d014
+    Apply to: 
+    Related Link: 
+    Content:
+      display: none;
+
+
+
+Block Id: ea3b91bd-857a-44e0-9f0b-5ea45721c359
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: bb0528fc-dc6f-474b-8081-9222a3fc38bc
+    Rule Type: style
+    Selector:
+    Belong to: ea3b91bd-857a-44e0-9f0b-5ea45721c359
+    Apply to: 
+    Related Link: 
+    Content:
+      display: none;
+
+
+
+Block Id: c5ac89c9-4114-421c-a9c4-db542c25aa23
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 4b970d5e-cc06-4347-a0af-85eea17ff685
+    Rule Type: style
+    Selector:
+    Belong to: c5ac89c9-4114-421c-a9c4-db542c25aa23
+    Apply to: 
+    Related Link: 
+    Content:
+      display: none;
+
+
+
+Block Id: e7366fe5-4f63-412d-9b5a-bf4ea646a201
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 71f317d8-a6fd-4fba-b14e-d0baae7cc7d0
+    Rule Type: style
+    Selector:
+    Belong to: e7366fe5-4f63-412d-9b5a-bf4ea646a201
+    Apply to: 
+    Related Link: 
+    Content:
+      display: none;
+
+
+
+Block Id: a86ce263-3b4e-4fcc-a668-10b4f3952599
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 912be2ca-50e7-4bbd-9e5d-7566e113a529
+    Rule Type: style
+    Selector:
+    Belong to: a86ce263-3b4e-4fcc-a668-10b4f3952599
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s;
+
+
+
+Block Id: ec4f8e07-f854-47f2-8b8a-d6acf15f22fe
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 4b561342-36b7-4c41-a363-934fdfa6e6c4
+    Rule Type: style
+    Selector:
+    Belong to: ec4f8e07-f854-47f2-8b8a-d6acf15f22fe
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 7b494d3a-cc0f-47db-9ac5-141f7b2c2568
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: cd1d84b3-8b16-430b-83e0-b279bbfbd815
+    Rule Type: style
+    Selector:
+    Belong to: 7b494d3a-cc0f-47db-9ac5-141f7b2c2568
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 58419397-8845-4a27-b2cb-11bebb323ea7
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 3595ee3e-67e9-48dd-8db9-854c1e1309d7
+    Rule Type: style
+    Selector:
+    Belong to: 58419397-8845-4a27-b2cb-11bebb323ea7
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 883a3099-e04e-4a8b-a15c-f100590cdc4f
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 700f9ef4-5216-4e07-8655-100d3ad6374c
+    Rule Type: style
+    Selector:
+    Belong to: 883a3099-e04e-4a8b-a15c-f100590cdc4f
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 7357da02-ff6c-4aa5-808a-7be1ceba4b56
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: ad83fb7d-2a53-4147-92fb-d207ca9b246a
+    Rule Type: style
+    Selector:
+    Belong to: 7357da02-ff6c-4aa5-808a-7be1ceba4b56
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: f7734dc5-c07a-4d9d-8f5d-1f129dcb6682
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 37c8965d-a343-42a3-bbc5-c16e34b1c59a
+    Rule Type: style
+    Selector:
+    Belong to: f7734dc5-c07a-4d9d-8f5d-1f129dcb6682
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: f5bce72d-1691-43fd-b5bd-82fd7e4b09c8
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 0740fe10-5a53-4ea3-a6b1-20df4f381b02
+    Rule Type: style
+    Selector:
+    Belong to: f5bce72d-1691-43fd-b5bd-82fd7e4b09c8
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 5d8df767-f533-471e-89a0-4aceada62bd2
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 95c548a9-facb-4752-8944-8a1f099c53f8
+    Rule Type: style
+    Selector:
+    Belong to: 5d8df767-f533-471e-89a0-4aceada62bd2
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: c2651fd6-bf66-40b5-9f9f-5df2b533fe87
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 14f7f1fb-39b0-46a8-9201-1620fdec3226
+    Rule Type: style
+    Selector:
+    Belong to: c2651fd6-bf66-40b5-9f9f-5df2b533fe87
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 667cacd5-dc6c-4752-af09-cd292c608362
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: b84de80e-7565-4e4d-aa15-db690a8dde3f
+    Rule Type: style
+    Selector:
+    Belong to: 667cacd5-dc6c-4752-af09-cd292c608362
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 7ce4fe0f-17e3-4e20-9aea-401cee590cb4
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: d0fad12b-75f9-45c0-a0af-ce25ae36d093
+    Rule Type: style
+    Selector:
+    Belong to: 7ce4fe0f-17e3-4e20-9aea-401cee590cb4
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 2ec45d5e-26fd-4c3f-ba04-fcb6ab69b1d4
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: d3c1de05-4e3c-401b-8d53-8e304c1e017d
+    Rule Type: style
+    Selector:
+    Belong to: 2ec45d5e-26fd-4c3f-ba04-fcb6ab69b1d4
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: b736f2cb-482d-49c4-96d8-7edf20a8443c
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 433c5eb7-07a4-416c-bbbe-1a93a122daf0
+    Rule Type: style
+    Selector:
+    Belong to: b736f2cb-482d-49c4-96d8-7edf20a8443c
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 861f2509-9d32-4fdc-a631-6d0b61412a1a
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 29783f0b-97ac-4a2d-b5f2-4ac1073ec7c4
+    Rule Type: style
+    Selector:
+    Belong to: 861f2509-9d32-4fdc-a631-6d0b61412a1a
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+Block Id: 7361f1fa-9100-4a0e-beb6-77b06363a12a
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 7160623f-9409-4f77-8f15-5ab0df8d1906
+    Rule Type: style
+    Selector:
+    Belong to: 7361f1fa-9100-4a0e-beb6-77b06363a12a
+    Apply to: 
+    Related Link: 
+    Content:
+      transition-property: max-height; transition-duration: 0s; max-height: 0px;
+
+
+
+
+
+
+---------------------Internal CSS: ------------------------
+
+
+Block Id: aa48266b-e5ef-492e-adf3-4710883e335a
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: d8118121-1d4c-48b9-a964-4163485aee5b
+    Rule Type: style
+    Selector:[hidden]
+    Belong to: aa48266b-e5ef-492e-adf3-4710883e335a
+    Apply to: 
+    Related Link: 
+    Content:
+      [hidden] { display: none !important }
+
+
+
+Block Id: 25ed2e47-da65-4ad1-974c-2e6e01b75ae1
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: e3d3f9f1-9306-4801-95f0-fc3b94e39ae8
+    Rule Type: style
+    Selector:html
+    Belong to: 25ed2e47-da65-4ad1-974c-2e6e01b75ae1
+    Apply to: 
+    Related Link: 
+    Content:
+      html { --layout_-_display: flex; --layout-inline_-_display: inline-flex; --layout-horizontal_-_display: var(--layout_-_display); --layout-horizontal_-_-ms-flex-direction: row; --layout-horizontal_-_-webkit-flex-direction: row; --layout-horizontal_-_flex-direction: row; --layout-horizontal-reverse_-_display: var(--layout_-_display); --layout-horizontal-reverse_-_-ms-flex-direction: row-reverse; --layout-horizontal-reverse_-_-webkit-flex-direction: row-reverse; --layout-horizontal-reverse_-_flex-direction: row-reverse; --layout-vertical_-_display: var(--layout_-_display); --layout-vertical_-_-ms-flex-direction: column; --layout-vertical_-_-webkit-flex-direction: column; --layout-vertical_-_flex-direction: column; --layout-vertical-reverse_-_display: var(--layout_-_display); --layout-vertical-reverse_-_-ms-flex-direction: column-reverse; --layout-vertical-reverse_-_-webkit-flex-direction: column-reverse; --layout-vertical-reverse_-_flex-direction: column-reverse; --layout-wrap_-_-ms-flex-wrap: wrap; --layout-wrap_-_-webkit-flex-wrap: wrap; --layout-wrap_-_flex-wrap: wrap; --layout-wrap-reverse_-_-ms-flex-wrap: wrap-reverse; --layout-wrap-reverse_-_-webkit-flex-wrap: wrap-reverse; --layout-wrap-reverse_-_flex-wrap: wrap-reverse; --layout-flex-auto_-_-ms-flex: 1 1 auto; --layout-flex-auto_-_-webkit-flex: 1 1 auto; --layout-flex-auto_-_flex: 1 1 auto; --layout-flex-none_-_-ms-flex: none; --layout-flex-none_-_-webkit-flex: none; --layout-flex-none_-_flex: none; --layout-flex_-_-ms-flex: 1 1 0px; --layout-flex_-_-webkit-flex: 1; --layout-flex_-_flex: 1; --layout-flex_-_-webkit-flex-basis: 0px; --layout-flex_-_flex-basis: 0px; --layout-flex-2_-_-ms-flex: 2; --layout-flex-2_-_-webkit-flex: 2; --layout-flex-2_-_flex: 2; --layout-flex-3_-_-ms-flex: 3; --layout-flex-3_-_-webkit-flex: 3; --layout-flex-3_-_flex: 3; --layout-flex-4_-_-ms-flex: 4; --layout-flex-4_-_-webkit-flex: 4; --layout-flex-4_-_flex: 4; --layout-flex-5_-_-ms-flex: 5; --layout-flex-5_-_-webkit-flex: 5; --layout-flex-5_-_flex: 5; --layout-flex-6_-_-ms-flex: 6; --layout-flex-6_-_-webkit-flex: 6; --layout-flex-6_-_flex: 6; --layout-flex-7_-_-ms-flex: 7; --layout-flex-7_-_-webkit-flex: 7; --layout-flex-7_-_flex: 7; --layout-flex-8_-_-ms-flex: 8; --layout-flex-8_-_-webkit-flex: 8; --layout-flex-8_-_flex: 8; --layout-flex-9_-_-ms-flex: 9; --layout-flex-9_-_-webkit-flex: 9; --layout-flex-9_-_flex: 9; --layout-flex-10_-_-ms-flex: 10; --layout-flex-10_-_-webkit-flex: 10; --layout-flex-10_-_flex: 10; --layout-flex-11_-_-ms-flex: 11; --layout-flex-11_-_-webkit-flex: 11; --layout-flex-11_-_flex: 11; --layout-flex-12_-_-ms-flex: 12; --layout-flex-12_-_-webkit-flex: 12; --layout-flex-12_-_flex: 12; --layout-start_-_-ms-flex-align: start; --layout-start_-_-webkit-align-items: flex-start; --layout-start_-_align-items: flex-start; --layout-center_-_-ms-flex-align: center; --layout-center_-_-webkit-align-items: center; --layout-center_-_align-items: center; --layout-end_-_-ms-flex-align: end; --layout-end_-_-webkit-align-items: flex-end; --layout-end_-_align-items: flex-end; --layout-baseline_-_-ms-flex-align: baseline; --layout-baseline_-_-webkit-align-items: baseline; --layout-baseline_-_align-items: baseline; --layout-start-justified_-_-ms-flex-pack: start; --layout-start-justified_-_-webkit-justify-content: flex-start; --layout-start-justified_-_justify-content: flex-start; --layout-center-justified_-_-ms-flex-pack: center; --layout-center-justified_-_-webkit-justify-content: center; --layout-center-justified_-_justify-content: center; --layout-end-justified_-_-ms-flex-pack: end; --layout-end-justified_-_-webkit-justify-content: flex-end; --layout-end-justified_-_justify-content: flex-end; --layout-around-justified_-_-ms-flex-pack: distribute; --layout-around-justified_-_-webkit-justify-content: space-around; --layout-around-justified_-_justify-content: space-around; --layout-justified_-_-ms-flex-pack: justify; --layout-justified_-_-webkit-justify-content: space-between; --layout-justified_-_justify-content: space-between; --layout-center-center_-_-ms-flex-align: var(--layout-center_-_-ms-flex-align); --layout-center-center_-_-webkit-align-items: var(--layout-center_-_-webkit-align-items); --layout-center-center_-_align-items: var(--layout-center_-_align-items); --layout-center-center_-_-ms-flex-pack: var(--layout-center-justified_-_-ms-flex-pack); --layout-center-center_-_-webkit-justify-content: var(--layout-center-justified_-_-webkit-justify-content); --layout-center-center_-_justify-content: var(--layout-center-justified_-_justify-content); --layout-self-start_-_-ms-align-self: flex-start; --layout-self-start_-_-webkit-align-self: flex-start; --layout-self-start_-_align-self: flex-start; --layout-self-center_-_-ms-align-self: center; --layout-self-center_-_-webkit-align-self: center; --layout-self-center_-_align-self: center; --layout-self-end_-_-ms-align-self: flex-end; --layout-self-end_-_-webkit-align-self: flex-end; --layout-self-end_-_align-self: flex-end; --layout-self-stretch_-_-ms-align-self: stretch; --layout-self-stretch_-_-webkit-align-self: stretch; --layout-self-stretch_-_align-self: stretch; --layout-self-baseline_-_-ms-align-self: baseline; --layout-self-baseline_-_-webkit-align-self: baseline; --layout-self-baseline_-_align-self: baseline; --layout-start-aligned_-_-ms-flex-line-pack: start; --layout-start-aligned_-_-ms-align-content: flex-start; --layout-start-aligned_-_-webkit-align-content: flex-start; --layout-start-aligned_-_align-content: flex-start; --layout-end-aligned_-_-ms-flex-line-pack: end; --layout-end-aligned_-_-ms-align-content: flex-end; --layout-end-aligned_-_-webkit-align-content: flex-end; --layout-end-aligned_-_align-content: flex-end; --layout-center-aligned_-_-ms-flex-line-pack: center; --layout-center-aligned_-_-ms-align-content: center; --layout-center-aligned_-_-webkit-align-content: center; --layout-center-aligned_-_align-content: center; --layout-between-aligned_-_-ms-flex-line-pack: justify; --layout-between-aligned_-_-ms-align-content: space-between; --layout-between-aligned_-_-webkit-align-content: space-between; --layout-between-aligned_-_align-content: space-between; --layout-around-aligned_-_-ms-flex-line-pack: distribute; --layout-around-aligned_-_-ms-align-content: space-around; --layout-around-aligned_-_-webkit-align-content: space-around; --layout-around-aligned_-_align-content: space-around; --layout-block_-_display: block; --layout-invisible_-_visibility: hidden !important; --layout-relative_-_position: relative; --layout-fit_-_position: absolute; --layout-fit_-_top: 0; --layout-fit_-_right: 0; --layout-fit_-_bottom: 0; --layout-fit_-_left: 0; --layout-scroll_-_-webkit-overflow-scrolling: touch; --layout-scroll_-_overflow: auto; --layout-fullbleed_-_margin: 0; --layout-fullbleed_-_height: 100vh; --layout-fixed-top_-_position: fixed; --layout-fixed-top_-_top: 0; --layout-fixed-top_-_left: 0; --layout-fixed-top_-_right: 0; --layout-fixed-right_-_position: fixed; --layout-fixed-right_-_top: 0; --layout-fixed-right_-_right: 0; --layout-fixed-right_-_bottom: 0; --layout-fixed-bottom_-_position: fixed; --layout-fixed-bottom_-_right: 0; --layout-fixed-bottom_-_bottom: 0; --layout-fixed-bottom_-_left: 0; --layout-fixed-left_-_position: fixed; --layout-fixed-left_-_top: 0; --layout-fixed-left_-_bottom: 0; --layout-fixed-left_-_left: 0 }
+
+
+
+Block Id: 521ebf6a-bda5-41c9-96be-306e99e4799e
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: c42015a6-40cc-4a96-b27b-76c06e8b9389
+    Rule Type: style
+    Selector:[hidden]
+    Belong to: 521ebf6a-bda5-41c9-96be-306e99e4799e
+    Apply to: 
+    Related Link: 
+    Content:
+      [hidden] { display: none !important }
+
+
+
+Block Id: f6acf9fe-8c45-4097-94a7-3d86325285ae
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 22016833-c7b7-4407-93c7-66f85e886666
+    Rule Type: style
+    Selector:html
+    Belong to: f6acf9fe-8c45-4097-94a7-3d86325285ae
+    Apply to: 
+    Related Link: 
+    Content:
+      html { --shadow-transition_-_transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1); --shadow-none_-_box-shadow: none; --shadow-elevation-2dp_-_box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); --shadow-elevation-3dp_-_box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.14), 0 1px 8px 0 rgba(0, 0, 0, 0.12), 0 3px 3px -2px rgba(0, 0, 0, 0.4); --shadow-elevation-4dp_-_box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.4); --shadow-elevation-6dp_-_box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.4); --shadow-elevation-8dp_-_box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.4); --shadow-elevation-12dp_-_box-shadow: 0 12px 16px 1px rgba(0, 0, 0, 0.14), 0 4px 22px 3px rgba(0, 0, 0, 0.12), 0 6px 7px -4px rgba(0, 0, 0, 0.4); --shadow-elevation-16dp_-_box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.4); --shadow-elevation-24dp_-_box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.4) }
+
+
+
+Block Id: a2769ebc-34fa-4b5d-a932-91641ba00bd3
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: a41cee31-b280-42d6-b73d-7f5b3de1c290
+    Rule Type: style
+    Selector:html
+    Belong to: a2769ebc-34fa-4b5d-a932-91641ba00bd3
+    Apply to: 
+    Related Link: 
+    Content:
+      html { --google-red-100: rgb(244, 199, 195); --google-red-300: rgb(230, 124, 115); --google-red-500: rgb(219, 68, 55); --google-red-700: rgb(197, 57, 41); --google-blue-100: rgb(198, 218, 252); --google-blue-300: rgb(123, 170, 247); --google-blue-500: rgb(66, 133, 244); --google-blue-700: rgb(51, 103, 214); --google-green-100: rgb(183, 225, 205); --google-green-300: rgb(87, 187, 138); --google-green-500: rgb(15, 157, 88); --google-green-700: rgb(11, 128, 67); --google-yellow-100: rgb(252, 232, 178); --google-yellow-300: rgb(247, 203, 77); --google-yellow-500: rgb(244, 180, 0); --google-yellow-700: rgb(240, 147, 0); --google-grey-100: rgb(245, 245, 245); --google-grey-300: rgb(224, 224, 224); --google-grey-500: rgb(158, 158, 158); --google-grey-700: rgb(97, 97, 97); --paper-red-50: rgb(255, 235, 238); --paper-red-100: rgb(255, 205, 210); --paper-red-200: rgb(239, 154, 154); --paper-red-300: rgb(229, 115, 115); --paper-red-400: rgb(239, 83, 80); --paper-red-500: rgb(244, 67, 54); --paper-red-600: rgb(229, 57, 53); --paper-red-700: rgb(211, 47, 47); --paper-red-800: rgb(198, 40, 40); --paper-red-900: rgb(183, 28, 28); --paper-red-a100: rgb(255, 138, 128); --paper-red-a200: rgb(255, 82, 82); --paper-red-a400: rgb(255, 23, 68); --paper-red-a700: rgb(213, 0, 0); --paper-pink-50: rgb(252, 228, 236); --paper-pink-100: rgb(248, 187, 208); --paper-pink-200: rgb(244, 143, 177); --paper-pink-300: rgb(240, 98, 146); --paper-pink-400: rgb(236, 64, 122); --paper-pink-500: rgb(233, 30, 99); --paper-pink-600: rgb(216, 27, 96); --paper-pink-700: rgb(194, 24, 91); --paper-pink-800: rgb(173, 20, 87); --paper-pink-900: rgb(136, 14, 79); --paper-pink-a100: rgb(255, 128, 171); --paper-pink-a200: rgb(255, 64, 129); --paper-pink-a400: rgb(245, 0, 87); --paper-pink-a700: rgb(197, 17, 98); --paper-purple-50: rgb(243, 229, 245); --paper-purple-100: rgb(225, 190, 231); --paper-purple-200: rgb(206, 147, 216); --paper-purple-300: rgb(186, 104, 200); --paper-purple-400: rgb(171, 71, 188); --paper-purple-500: rgb(156, 39, 176); --paper-purple-600: rgb(142, 36, 170); --paper-purple-700: rgb(123, 31, 162); --paper-purple-800: rgb(106, 27, 154); --paper-purple-900: rgb(74, 20, 140); --paper-purple-a100: rgb(234, 128, 252); --paper-purple-a200: rgb(224, 64, 251); --paper-purple-a400: rgb(213, 0, 249); --paper-purple-a700: rgb(170, 0, 255); --paper-deep-purple-50: rgb(237, 231, 246); --paper-deep-purple-100: rgb(209, 196, 233); --paper-deep-purple-200: rgb(179, 157, 219); --paper-deep-purple-300: rgb(149, 117, 205); --paper-deep-purple-400: rgb(126, 87, 194); --paper-deep-purple-500: rgb(103, 58, 183); --paper-deep-purple-600: rgb(94, 53, 177); --paper-deep-purple-700: rgb(81, 45, 168); --paper-deep-purple-800: rgb(69, 39, 160); --paper-deep-purple-900: rgb(49, 27, 146); --paper-deep-purple-a100: rgb(179, 136, 255); --paper-deep-purple-a200: rgb(124, 77, 255); --paper-deep-purple-a400: rgb(101, 31, 255); --paper-deep-purple-a700: rgb(98, 0, 234); --paper-indigo-50: rgb(232, 234, 246); --paper-indigo-100: rgb(197, 202, 233); --paper-indigo-200: rgb(159, 168, 218); --paper-indigo-300: rgb(121, 134, 203); --paper-indigo-400: rgb(92, 107, 192); --paper-indigo-500: rgb(63, 81, 181); --paper-indigo-600: rgb(57, 73, 171); --paper-indigo-700: rgb(48, 63, 159); --paper-indigo-800: rgb(40, 53, 147); --paper-indigo-900: rgb(26, 35, 126); --paper-indigo-a100: rgb(140, 158, 255); --paper-indigo-a200: rgb(83, 109, 254); --paper-indigo-a400: rgb(61, 90, 254); --paper-indigo-a700: rgb(48, 79, 254); --paper-blue-50: rgb(227, 242, 253); --paper-blue-100: rgb(187, 222, 251); --paper-blue-200: rgb(144, 202, 249); --paper-blue-300: rgb(100, 181, 246); --paper-blue-400: rgb(66, 165, 245); --paper-blue-500: rgb(33, 150, 243); --paper-blue-600: rgb(30, 136, 229); --paper-blue-700: rgb(25, 118, 210); --paper-blue-800: rgb(21, 101, 192); --paper-blue-900: rgb(13, 71, 161); --paper-blue-a100: rgb(130, 177, 255); --paper-blue-a200: rgb(68, 138, 255); --paper-blue-a400: rgb(41, 121, 255); --paper-blue-a700: rgb(41, 98, 255); --paper-light-blue-50: rgb(225, 245, 254); --paper-light-blue-100: rgb(179, 229, 252); --paper-light-blue-200: rgb(129, 212, 250); --paper-light-blue-300: rgb(79, 195, 247); --paper-light-blue-400: rgb(41, 182, 246); --paper-light-blue-500: rgb(3, 169, 244); --paper-light-blue-600: rgb(3, 155, 229); --paper-light-blue-700: rgb(2, 136, 209); --paper-light-blue-800: rgb(2, 119, 189); --paper-light-blue-900: rgb(1, 87, 155); --paper-light-blue-a100: rgb(128, 216, 255); --paper-light-blue-a200: rgb(64, 196, 255); --paper-light-blue-a400: rgb(0, 176, 255); --paper-light-blue-a700: rgb(0, 145, 234); --paper-cyan-50: rgb(224, 247, 250); --paper-cyan-100: rgb(178, 235, 242); --paper-cyan-200: rgb(128, 222, 234); --paper-cyan-300: rgb(77, 208, 225); --paper-cyan-400: rgb(38, 198, 218); --paper-cyan-500: rgb(0, 188, 212); --paper-cyan-600: rgb(0, 172, 193); --paper-cyan-700: rgb(0, 151, 167); --paper-cyan-800: rgb(0, 131, 143); --paper-cyan-900: rgb(0, 96, 100); --paper-cyan-a100: rgb(132, 255, 255); --paper-cyan-a200: rgb(24, 255, 255); --paper-cyan-a400: rgb(0, 229, 255); --paper-cyan-a700: rgb(0, 184, 212); --paper-teal-50: rgb(224, 242, 241); --paper-teal-100: rgb(178, 223, 219); --paper-teal-200: rgb(128, 203, 196); --paper-teal-300: rgb(77, 182, 172); --paper-teal-400: rgb(38, 166, 154); --paper-teal-500: rgb(0, 150, 136); --paper-teal-600: rgb(0, 137, 123); --paper-teal-700: rgb(0, 121, 107); --paper-teal-800: rgb(0, 105, 92); --paper-teal-900: rgb(0, 77, 64); --paper-teal-a100: rgb(167, 255, 235); --paper-teal-a200: rgb(100, 255, 218); --paper-teal-a400: rgb(29, 233, 182); --paper-teal-a700: rgb(0, 191, 165); --paper-green-50: rgb(232, 245, 233); --paper-green-100: rgb(200, 230, 201); --paper-green-200: rgb(165, 214, 167); --paper-green-300: rgb(129, 199, 132); --paper-green-400: rgb(102, 187, 106); --paper-green-500: rgb(76, 175, 80); --paper-green-600: rgb(67, 160, 71); --paper-green-700: rgb(56, 142, 60); --paper-green-800: rgb(46, 125, 50); --paper-green-900: rgb(27, 94, 32); --paper-green-a100: rgb(185, 246, 202); --paper-green-a200: rgb(105, 240, 174); --paper-green-a400: rgb(0, 230, 118); --paper-green-a700: rgb(0, 200, 83); --paper-light-green-50: rgb(241, 248, 233); --paper-light-green-100: rgb(220, 237, 200); --paper-light-green-200: rgb(197, 225, 165); --paper-light-green-300: rgb(174, 213, 129); --paper-light-green-400: rgb(156, 204, 101); --paper-light-green-500: rgb(139, 195, 74); --paper-light-green-600: rgb(124, 179, 66); --paper-light-green-700: rgb(104, 159, 56); --paper-light-green-800: rgb(85, 139, 47); --paper-light-green-900: rgb(51, 105, 30); --paper-light-green-a100: rgb(204, 255, 144); --paper-light-green-a200: rgb(178, 255, 89); --paper-light-green-a400: rgb(118, 255, 3); --paper-light-green-a700: rgb(100, 221, 23); --paper-lime-50: rgb(249, 251, 231); --paper-lime-100: rgb(240, 244, 195); --paper-lime-200: rgb(230, 238, 156); --paper-lime-300: rgb(220, 231, 117); --paper-lime-400: rgb(212, 225, 87); --paper-lime-500: rgb(205, 220, 57); --paper-lime-600: rgb(192, 202, 51); --paper-lime-700: rgb(175, 180, 43); --paper-lime-800: rgb(158, 157, 36); --paper-lime-900: rgb(130, 119, 23); --paper-lime-a100: rgb(244, 255, 129); --paper-lime-a200: rgb(238, 255, 65); --paper-lime-a400: rgb(198, 255, 0); --paper-lime-a700: rgb(174, 234, 0); --paper-yellow-50: rgb(255, 253, 231); --paper-yellow-100: rgb(255, 249, 196); --paper-yellow-200: rgb(255, 245, 157); --paper-yellow-300: rgb(255, 241, 118); --paper-yellow-400: rgb(255, 238, 88); --paper-yellow-500: rgb(255, 235, 59); --paper-yellow-600: rgb(253, 216, 53); --paper-yellow-700: rgb(251, 192, 45); --paper-yellow-800: rgb(249, 168, 37); --paper-yellow-900: rgb(245, 127, 23); --paper-yellow-a100: rgb(255, 255, 141); --paper-yellow-a200: rgb(255, 255, 0); --paper-yellow-a400: rgb(255, 234, 0); --paper-yellow-a700: rgb(255, 214, 0); --paper-amber-50: rgb(255, 248, 225); --paper-amber-100: rgb(255, 236, 179); --paper-amber-200: rgb(255, 224, 130); --paper-amber-300: rgb(255, 213, 79); --paper-amber-400: rgb(255, 202, 40); --paper-amber-500: rgb(255, 193, 7); --paper-amber-600: rgb(255, 179, 0); --paper-amber-700: rgb(255, 160, 0); --paper-amber-800: rgb(255, 143, 0); --paper-amber-900: rgb(255, 111, 0); --paper-amber-a100: rgb(255, 229, 127); --paper-amber-a200: rgb(255, 215, 64); --paper-amber-a400: rgb(255, 196, 0); --paper-amber-a700: rgb(255, 171, 0); --paper-orange-50: rgb(255, 243, 224); --paper-orange-100: rgb(255, 224, 178); --paper-orange-200: rgb(255, 204, 128); --paper-orange-300: rgb(255, 183, 77); --paper-orange-400: rgb(255, 167, 38); --paper-orange-500: rgb(255, 152, 0); --paper-orange-600: rgb(251, 140, 0); --paper-orange-700: rgb(245, 124, 0); --paper-orange-800: rgb(239, 108, 0); --paper-orange-900: rgb(230, 81, 0); --paper-orange-a100: rgb(255, 209, 128); --paper-orange-a200: rgb(255, 171, 64); --paper-orange-a400: rgb(255, 145, 0); --paper-orange-a700: rgb(255, 101, 0); --paper-deep-orange-50: rgb(251, 233, 231); --paper-deep-orange-100: rgb(255, 204, 188); --paper-deep-orange-200: rgb(255, 171, 145); --paper-deep-orange-300: rgb(255, 138, 101); --paper-deep-orange-400: rgb(255, 112, 67); --paper-deep-orange-500: rgb(255, 87, 34); --paper-deep-orange-600: rgb(244, 81, 30); --paper-deep-orange-700: rgb(230, 74, 25); --paper-deep-orange-800: rgb(216, 67, 21); --paper-deep-orange-900: rgb(191, 54, 12); --paper-deep-orange-a100: rgb(255, 158, 128); --paper-deep-orange-a200: rgb(255, 110, 64); --paper-deep-orange-a400: rgb(255, 61, 0); --paper-deep-orange-a700: rgb(221, 44, 0); --paper-brown-50: rgb(239, 235, 233); --paper-brown-100: rgb(215, 204, 200); --paper-brown-200: rgb(188, 170, 164); --paper-brown-300: rgb(161, 136, 127); --paper-brown-400: rgb(141, 110, 99); --paper-brown-500: rgb(121, 85, 72); --paper-brown-600: rgb(109, 76, 65); --paper-brown-700: rgb(93, 64, 55); --paper-brown-800: rgb(78, 52, 46); --paper-brown-900: rgb(62, 39, 35); --paper-grey-50: rgb(250, 250, 250); --paper-grey-100: rgb(245, 245, 245); --paper-grey-200: rgb(238, 238, 238); --paper-grey-300: rgb(224, 224, 224); --paper-grey-400: rgb(189, 189, 189); --paper-grey-500: rgb(158, 158, 158); --paper-grey-600: rgb(117, 117, 117); --paper-grey-700: rgb(97, 97, 97); --paper-grey-800: rgb(66, 66, 66); --paper-grey-900: rgb(33, 33, 33); --paper-blue-grey-50: rgb(236, 239, 241); --paper-blue-grey-100: rgb(207, 216, 220); --paper-blue-grey-200: rgb(176, 190, 197); --paper-blue-grey-300: rgb(144, 164, 174); --paper-blue-grey-400: rgb(120, 144, 156); --paper-blue-grey-500: rgb(96, 125, 139); --paper-blue-grey-600: rgb(84, 110, 122); --paper-blue-grey-700: rgb(69, 90, 100); --paper-blue-grey-800: rgb(55, 71, 79); --paper-blue-grey-900: rgb(38, 50, 56); --dark-divider-opacity: 0.12; --dark-disabled-opacity: 0.38; --dark-secondary-opacity: 0.54; --dark-primary-opacity: 0.87; --light-divider-opacity: 0.12; --light-disabled-opacity: 0.3; --light-secondary-opacity: 0.7; --light-primary-opacity: 1 }
+
+
+
+Block Id: b40ee598-9c11-42a6-a950-fc0cd15f170a
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: f709cf7d-3458-4d58-b54f-d0410e325310
+    Rule Type: style
+    Selector:html
+    Belong to: b40ee598-9c11-42a6-a950-fc0cd15f170a
+    Apply to: 
+    Related Link: 
+    Content:
+      html { --primary-text-color: var(--light-theme-text-color); --primary-background-color: var(--light-theme-background-color); --secondary-text-color: var(--light-theme-secondary-color); --disabled-text-color: var(--light-theme-disabled-color); --divider-color: var(--light-theme-divider-color); --error-color: var(--paper-deep-orange-a700); --primary-color: var(--paper-indigo-500); --light-primary-color: var(--paper-indigo-100); --dark-primary-color: var(--paper-indigo-700); --accent-color: var(--paper-pink-a200); --light-accent-color: var(--paper-pink-a100); --dark-accent-color: var(--paper-pink-a400); --light-theme-background-color: rgb(255, 255, 255); --light-theme-base-color: rgb(0, 0, 0); --light-theme-text-color: var(--paper-grey-900); --light-theme-secondary-color: rgb(115, 115, 115); --light-theme-disabled-color: rgb(155, 155, 155); --light-theme-divider-color: rgb(219, 219, 219); --dark-theme-background-color: var(--paper-grey-900); --dark-theme-base-color: rgb(255, 255, 255); --dark-theme-text-color: rgb(255, 255, 255); --dark-theme-secondary-color: rgb(188, 188, 188); --dark-theme-disabled-color: rgb(100, 100, 100); --dark-theme-divider-color: rgb(60, 60, 60); --text-primary-color: var(--dark-theme-text-color); --default-primary-color: var(--primary-color) }
+
+
+
+Block Id: b06f66e4-cc7d-4af6-be58-b625ba53eb56
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: aee779e7-fd01-4aba-871a-813e329994f4
+    Rule Type: style
+    Selector:html
+    Belong to: b06f66e4-cc7d-4af6-be58-b625ba53eb56
+    Apply to: 
+    Related Link: 
+    Content:
+      html { --paper-font-common-base_-_font-family: "Roboto", "Noto", sans-serif; --paper-font-common-base_-_-webkit-font-smoothing: antialiased; --paper-font-common-code_-_font-family: "Roboto Mono", "Consolas", "Menlo", monospace; --paper-font-common-code_-_-webkit-font-smoothing: antialiased; --paper-font-common-expensive-kerning_-_text-rendering: optimizeLegibility; --paper-font-common-nowrap_-_white-space: nowrap; --paper-font-common-nowrap_-_overflow: hidden; --paper-font-common-nowrap_-_text-overflow: ellipsis; --paper-font-display4_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-display4_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-display4_-_white-space: var(--paper-font-common-nowrap_-_white-space); --paper-font-display4_-_overflow: var(--paper-font-common-nowrap_-_overflow); --paper-font-display4_-_text-overflow: var(--paper-font-common-nowrap_-_text-overflow); --paper-font-display4_-_font-size: 112px; --paper-font-display4_-_font-weight: 300; --paper-font-display4_-_letter-spacing: -0.044em; --paper-font-display4_-_line-height: 120px; --paper-font-display3_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-display3_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-display3_-_white-space: var(--paper-font-common-nowrap_-_white-space); --paper-font-display3_-_overflow: var(--paper-font-common-nowrap_-_overflow); --paper-font-display3_-_text-overflow: var(--paper-font-common-nowrap_-_text-overflow); --paper-font-display3_-_font-size: 56px; --paper-font-display3_-_font-weight: 400; --paper-font-display3_-_letter-spacing: -0.026em; --paper-font-display3_-_line-height: 60px; --paper-font-display2_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-display2_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-display2_-_font-size: 45px; --paper-font-display2_-_font-weight: 400; --paper-font-display2_-_letter-spacing: -0.018em; --paper-font-display2_-_line-height: 48px; --paper-font-display1_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-display1_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-display1_-_font-size: 34px; --paper-font-display1_-_font-weight: 400; --paper-font-display1_-_letter-spacing: -0.01em; --paper-font-display1_-_line-height: 40px; --paper-font-headline_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-headline_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-headline_-_font-size: 24px; --paper-font-headline_-_font-weight: 400; --paper-font-headline_-_letter-spacing: -0.012em; --paper-font-headline_-_line-height: 32px; --paper-font-title_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-title_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-title_-_white-space: var(--paper-font-common-nowrap_-_white-space); --paper-font-title_-_overflow: var(--paper-font-common-nowrap_-_overflow); --paper-font-title_-_text-overflow: var(--paper-font-common-nowrap_-_text-overflow); --paper-font-title_-_font-size: 20px; --paper-font-title_-_font-weight: 500; --paper-font-title_-_line-height: 28px; --paper-font-subhead_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-subhead_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-subhead_-_font-size: 16px; --paper-font-subhead_-_font-weight: 400; --paper-font-subhead_-_line-height: 24px; --paper-font-body2_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-body2_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-body2_-_font-size: 14px; --paper-font-body2_-_font-weight: 500; --paper-font-body2_-_line-height: 24px; --paper-font-body1_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-body1_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-body1_-_font-size: 14px; --paper-font-body1_-_font-weight: 400; --paper-font-body1_-_line-height: 20px; --paper-font-caption_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-caption_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-caption_-_white-space: var(--paper-font-common-nowrap_-_white-space); --paper-font-caption_-_overflow: var(--paper-font-common-nowrap_-_overflow); --paper-font-caption_-_text-overflow: var(--paper-font-common-nowrap_-_text-overflow); --paper-font-caption_-_font-size: 12px; --paper-font-caption_-_font-weight: 400; --paper-font-caption_-_letter-spacing: 0.011em; --paper-font-caption_-_line-height: 20px; --paper-font-menu_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-menu_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-menu_-_white-space: var(--paper-font-common-nowrap_-_white-space); --paper-font-menu_-_overflow: var(--paper-font-common-nowrap_-_overflow); --paper-font-menu_-_text-overflow: var(--paper-font-common-nowrap_-_text-overflow); --paper-font-menu_-_font-size: 13px; --paper-font-menu_-_font-weight: 500; --paper-font-menu_-_line-height: 24px; --paper-font-button_-_font-family: var(--paper-font-common-base_-_font-family); --paper-font-button_-_-webkit-font-smoothing: var(--paper-font-common-base_-_-webkit-font-smoothing); --paper-font-button_-_white-space: var(--paper-font-common-nowrap_-_white-space); --paper-font-button_-_overflow: var(--paper-font-common-nowrap_-_overflow); --paper-font-button_-_text-overflow: var(--paper-font-common-nowrap_-_text-overflow); --paper-font-button_-_font-size: 14px; --paper-font-button_-_font-weight: 500; --paper-font-button_-_letter-spacing: 0.018em; --paper-font-button_-_line-height: 24px; --paper-font-button_-_text-transform: uppercase; --paper-font-code2_-_font-family: var(--paper-font-common-code_-_font-family); --paper-font-code2_-_-webkit-font-smoothing: var(--paper-font-common-code_-_-webkit-font-smoothing); --paper-font-code2_-_font-size: 14px; --paper-font-code2_-_font-weight: 700; --paper-font-code2_-_line-height: 20px; --paper-font-code1_-_font-family: var(--paper-font-common-code_-_font-family); --paper-font-code1_-_-webkit-font-smoothing: var(--paper-font-common-code_-_-webkit-font-smoothing); --paper-font-code1_-_font-size: 14px; --paper-font-code1_-_font-weight: 500; --paper-font-code1_-_line-height: 20px }
+
+
+
+Block Id: e78406a4-7ef0-4d01-bc95-8753631b41ac
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+
+
+Block Id: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 08b1eb69-a9af-4cb6-901f-c0bc9720768e
+    Rule Type: style
+    Selector:main
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      main { position: relative; background: white; padding: 10px 40px; font-size: 16px; font-family: "Roboto", "Noto", sans-serif; line-height: 24px; font-weight: 300; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-direction: row-reverse; -ms-flex-direction: row-reverse; flex-direction: row-reverse; -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end }
+
+    Rule Id: e9e21fe7-dd4f-41e5-99a7-193498cc52dc
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 1000px) {main { -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; padding-right: 40px } }
+
+    Rule Id: 6954d54a-1d0c-4ad6-9396-e9c592539c56
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 500px) {main { padding-left: 20px; padding-right: 20px } }
+
+    Rule Id: 6bb8cf82-b748-43e4-ab82-0335fe2409e2
+    Rule Type: style
+    Selector:article
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      article { min-width: 0; max-width: 800px; padding-right: 20px }
+
+    Rule Id: df4fb2e0-3928-41a0-86fd-e06097e85d75
+    Rule Type: style
+    Selector:.article-wrapper.right-nav
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .article-wrapper.right-nav { width: calc(100% - 300px) }
+
+    Rule Id: d3d67686-2457-42eb-84eb-5ccfdfe82792
+    Rule Type: style
+    Selector:.details-wrapper
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper { display: block; position: relative; overflow-x: hidden; overflow-y: auto; margin-top: 20px; width: 300px }
+
+    Rule Id: faed3d90-0ba8-402f-8e52-9146e901adf3
+    Rule Type: style
+    Selector:.details-wrapper.fixed
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper.fixed { position: fixed; right: 40px }
+
+    Rule Id: 38751cef-2dd9-474d-910a-cd03fb98934f
+    Rule Type: style
+    Selector:.details-wrapper ul
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper ul { list-style-type: none; font-size: 14px; margin: 0 }
+
+    Rule Id: 8f149b27-f6cb-4497-90d1-d532c62101c5
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="1"], .details-wrapper ul[data-depth="3"]
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper ul[data-depth="1"], .details-wrapper ul[data-depth="3"] { padding: 0; margin-top: 10px }
+
+    Rule Id: de38d3db-9e26-4cec-8ecf-e825f7298553
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="1"] a, .details-wrapper ul[data-depth="3"] a
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper ul[data-depth="1"] a, .details-wrapper ul[data-depth="3"] a { color: black; font-weight: 500 }
+
+    Rule Id: 00429782-db80-4592-8a88-52b414c49b43
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="2"]
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper ul[data-depth="2"] { font-weight: 300; padding: 0 20px }
+
+    Rule Id: 94d5da97-77f0-4c31-b3c5-e05530aaa483
+    Rule Type: style
+    Selector:.details-wrapper ul[data-depth="2"] a
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .details-wrapper ul[data-depth="2"] a { font-weight: 300 }
+
+    Rule Id: e127fd30-cb2a-4d99-9cbe-ab8fdf657b10
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 1000px) {.details-wrapper { padding: 0; max-width: 100% } }
+
+    Rule Id: 60c3527e-f1b4-4b07-a62d-2a32c4027d7c
+    Rule Type: style
+    Selector:details
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      details { display: block; will-change: transform }
+
+    Rule Id: 929b23b1-86be-48ca-abd5-ed0ecc0ec87b
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (min-width: 1001px) {details { padding-left: 20px; border-left: 1px solid black } }
+
+    Rule Id: 84350ef2-d57e-46bb-8958-5be04fda6092
+    Rule Type: style
+    Selector:details summary
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      details summary { font-weight: bold; font-size: 15px; line-height: 24px }
+
+    Rule Id: 6054532c-0ddb-4b08-aafd-7c98722e5661
+    Rule Type: style
+    Selector:details summary::-webkit-details-marker
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      details summary::-webkit-details-marker { display: none }
+
+    Rule Id: ab2b83c0-f4c2-4765-aed2-7e67fcace4e3
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 1000px) {details summary::-webkit-details-marker { display: inline-block } }
+
+    Rule Id: 3e571e58-9a59-4dc4-a8c0-377e4c2c5507
+    Rule Type: style
+    Selector:pre
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      pre { background: white; font-weight: 400 }
+
+    Rule Id: 2da9a8c3-c103-4b56-9fac-144d7940c4e0
+    Rule Type: style
+    Selector:h1
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      h1 { font-size: 40px; font-weight: 300; line-height: 48px }
+
+    Rule Id: 685b168a-bd68-45b6-9791-193bdb0ea59c
+    Rule Type: style
+    Selector:h2
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      h2 { font-family: Helvetica, Arial, sans-serif; font-weight: bold; border-bottom: 1px solid rgb(245, 0, 87); margin: 20px 0 }
+
+    Rule Id: 046b314d-1cd2-4919-a38d-1dd87693e99f
+    Rule Type: style
+    Selector:h3
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      h3 { font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 24px }
+
+    Rule Id: ca2da912-18eb-4c43-a7dd-32d0422ec20b
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 500px) {h3 { font-size: 18px } }
+
+    Rule Id: ab078c86-cdf3-4f45-8e33-21dadcc82c67
+    Rule Type: style
+    Selector:h4, p.caption
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      h4, p.caption { font-size: 16px; font-weight: 500 }
+
+    Rule Id: 47d51ecc-0a80-4ae6-afa3-4f6c1431b036
+    Rule Type: style
+    Selector:p.caption
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      p.caption { margin-bottom: 0 }
+
+    Rule Id: 6f7bb061-b330-4084-ada1-ff65e8aa6ca2
+    Rule Type: style
+    Selector:a > code
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      a > code { color: rgb(30, 136, 229) !important }
+
+    Rule Id: 87c713f1-192d-42a4-a814-7387ff9d4fb0
+    Rule Type: style
+    Selector:table
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      table { border-collapse: collapse }
+
+    Rule Id: 4ab85eed-b6b0-4e76-8bbf-7386f858f324
+    Rule Type: style
+    Selector:table th
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      table th { text-align: left; padding: 12px 12px 12px 0px }
+
+    Rule Id: e2031a1e-734a-4dc1-995b-cf55a65c2d03
+    Rule Type: style
+    Selector:table td
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      table td { padding: 12px 12px 12px 0px; border-top: 1px solid rgb(207, 216, 220); vertical-align: top }
+
+    Rule Id: 0ad48725-f8f1-4fdd-81c8-6a6cacab2cc3
+    Rule Type: style
+    Selector:.alert
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .alert { padding: 10px 10px 10px 44px; margin: 30px; border-radius: 3px; font-size: 15px }
+
+    Rule Id: 952195a7-8775-499b-85f6-2345c1f86189
+    Rule Type: media
+    Selector:
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {.alert { margin: 0px } }
+
+    Rule Id: 04b91130-0e3e-4fd0-ba20-b6414681c6c3
+    Rule Type: style
+    Selector:.alert:before
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .alert:before { display: inline-block; float: left; margin-left: -34px }
+
+    Rule Id: 4aac0fc3-4838-4128-abe0-3f7b0717777c
+    Rule Type: style
+    Selector:.alert.alert-success, .alert.alert-tip
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .alert.alert-success, .alert.alert-tip { background-color: rgb(232, 245, 233); border: 1px solid rgb(200, 230, 201) }
+
+    Rule Id: 529645e8-f189-40e8-8c33-044437be7659
+    Rule Type: style
+    Selector:.alert.alert-success:before, .alert.alert-tip:before
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+       https://polymer-library.polymer-project.org/images/alerts/tip.svg
+    Content:
+      .alert.alert-success:before, .alert.alert-tip:before { content: url(/images/alerts/tip.svg) }
+
+    Rule Id: 66953d70-5a52-4969-a2eb-b31f3819af45
+    Rule Type: style
+    Selector:.alert.alert-info
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .alert.alert-info { background-color: rgb(225, 245, 254); border: 1px solid rgb(179, 229, 252) }
+
+    Rule Id: be0217f9-6fce-41e9-b6f2-8f7e34a22592
+    Rule Type: style
+    Selector:.alert.alert-info:before
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+       https://polymer-library.polymer-project.org/images/alerts/info.svg
+    Content:
+      .alert.alert-info:before { content: url(/images/alerts/info.svg) }
+
+    Rule Id: 14760708-c151-47a0-8121-7be50b4b7443
+    Rule Type: style
+    Selector:.alert.alert-error, .alert.alert-warning
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .alert.alert-error, .alert.alert-warning { background-color: rgb(251, 233, 231); border: 1px solid rgb(255, 204, 188) }
+
+    Rule Id: 2c288b4e-701d-425d-907e-f97927c06403
+    Rule Type: style
+    Selector:.alert.alert-error:before, .alert.alert-warning:before
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+       https://polymer-library.polymer-project.org/images/alerts/warning.svg
+    Content:
+      .alert.alert-error:before, .alert.alert-warning:before { content: url(/images/alerts/warning.svg) }
+
+    Rule Id: bd1646c6-9122-4657-94d5-b4ab50bce4ad
+    Rule Type: style
+    Selector:.image-container
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .image-container { width: 100%; max-width: 100%; display: -webkit-flex; display: -ms-flexbox; display: flex }
+
+    Rule Id: ad2adeb6-5dbe-4757-b7aa-ef346b1b140e
+    Rule Type: style
+    Selector:.image-container .image-wrapper
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .image-container .image-wrapper { -webkit-flex: 1; -ms-flex: 1; flex: 1; margin: 0 10px }
+
+    Rule Id: e12ee61b-0faa-45b0-bc64-634b713a441d
+    Rule Type: style
+    Selector:.image-container img
+    Belong to: a10093b3-574a-4371-9ed3-17dcc6e82f6c
+    Apply to: 
+    Related Link: 
+    Content:
+      .image-container img { width: 100%; height: auto }
+
+
+
+
+
+
+---------------------External CSS: ------------------------
+
+
+Block Id: f5b7f0fa-7218-4e4b-92f6-073708869151
+Src: https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Roboto+Slab:300,500
+Related html node: 
+Type: external
+Inside CSS Styles: 
+    Rule Id: 10e63dbc-4161-496d-8f23-a001448f8194
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 75de2eda-7f30-4417-a442-541b305c8bd6
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 7870862e-0312-4d2a-acda-a03e44273df5
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: b65ddc34-c156-4a53-811b-35e1759f785d
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 441d989a-09b0-45ae-aaae-d34c84cb8502
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 0cb93d22-0e62-4358-a312-4c812af65128
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: d3d762c8-6fad-4ddd-8afe-8f50cd61eecf
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: fdabbeac-ee7a-4145-814a-45413d0719c9
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 3abd7a41-2119-430f-a16d-c7f087a3a24e
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: f6fadc1f-29c3-40e0-b99b-a05cff41f886
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 9fd2b2aa-3dac-4b26-9256-dd5603a894a3
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 7468402e-234b-46c0-9448-3136bec0fca0
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 881a8bce-4aaf-4bb0-9969-cdf6c0f5a350
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 09179c30-fd4e-443d-bf6c-dd1b852cf2be
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2
+    Content:
+      @font-face {font-family: "Roboto Slab"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/robotoslab/v25/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 5e8cb490-0f9d-459d-87d7-046c9141266c
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMOvWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMOvWjMY.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 6a661941-eb31-46fd-946e-7d6056fab706
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlOevWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlOevWjMY.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 98035386-cc41-4b95-9e37-8386721e73bb
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMevWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMevWjMY.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 508df06b-718c-4a5d-b2be-4e4ef958affc
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPuvWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPuvWjMY.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 499a7b65-4cec-4d16-bed7-a9a181f8f91e
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMuvWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMuvWjMY.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 7651a145-1f07-4935-910e-8b28a66c6979
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vWjMY.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 03eadd36-480c-4048-810a-a23322db2bfe
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 83e8370b-d96b-40f2-8f34-54bf1356ae33
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMOvWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMOvWjMY.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: f8ba3476-841f-440b-bf37-2e4b11815eda
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlOevWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlOevWjMY.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 402869af-7b6f-46e7-99aa-a7ff7b568d11
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMevWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMevWjMY.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 1149d48b-866d-4d88-9dca-8438ec1e692b
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPuvWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPuvWjMY.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 1f6a2686-c4c2-4f84-940d-77f6546c85f2
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMuvWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlMuvWjMY.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 756fbb28-ea9a-4875-b07d-ceffd4a29d29
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vWjMY.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlM-vWjMY.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 1ae42593-b2fa-4cfc-a27f-6002f85fe364
+    Rule Type: font
+    Selector:
+    Belong to: f5b7f0fa-7218-4e4b-92f6-073708869151
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2
+    Content:
+      @font-face {font-family: "Source Code Pro"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+
+
+Block Id: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+Src: https://polymer-library.polymer-project.org/css/site.css
+Related html node: 
+Type: external
+Inside CSS Styles: 
+    Rule Id: 3f9b6180-df75-4639-85d7-10019cc53b3c
+    Rule Type: style
+    Selector:h3, h4
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h3, h4 { font-family: Roboto, Noto, sans-serif; font-weight: 400; -webkit-font-smoothing: antialiased }
+
+    Rule Id: d460d8cc-2323-4359-81ee-87662cc1c990
+    Rule Type: style
+    Selector:body, demo-tabs pre
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      body, demo-tabs pre { margin: 0 }
+
+    Rule Id: 0b6add4c-0efd-411c-8bc4-6d43f58e40d1
+    Rule Type: style
+    Selector:body, pre
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      body, pre { line-height: 24px }
+
+    Rule Id: a9f09e7c-5c89-4abd-89c7-89f61cf8cfde
+    Rule Type: style
+    Selector:h1, h2.underline
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h1, h2.underline { text-overflow: ellipsis }
+
+    Rule Id: 0ed8b132-a71d-4208-8153-a9488ef09c2c
+    Rule Type: style
+    Selector:.devguide-main .sidenav, body, h1, h2, h3, h4
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav, body, h1, h2, h3, h4 { -webkit-font-smoothing: antialiased }
+
+    Rule Id: 81efdaac-c68d-418a-9794-403f94bfc7c0
+    Rule Type: style
+    Selector:.layout.horizontal, .layout.vertical
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.horizontal, .layout.vertical { display: -ms-flexbox; display: -webkit-flex; display: flex }
+
+    Rule Id: 4a700d04-da7e-4544-b55c-47c85bd1bb79
+    Rule Type: style
+    Selector:.layout.inline
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.inline { display: -ms-inline-flexbox; display: -webkit-inline-flex; display: inline-flex }
+
+    Rule Id: 30b428c8-9c74-43a1-a957-223b9a98c813
+    Rule Type: style
+    Selector:.layout.horizontal
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.horizontal { -ms-flex-direction: row; -webkit-flex-direction: row; flex-direction: row }
+
+    Rule Id: 0945b87b-a12c-4abf-b75a-58ef1817a607
+    Rule Type: style
+    Selector:.layout.vertical
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.vertical { -ms-flex-direction: column; -webkit-flex-direction: column; flex-direction: column }
+
+    Rule Id: 7fe2866e-46b1-497a-9a7e-6272b01af368
+    Rule Type: style
+    Selector:.layout.wrap
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.wrap { -ms-flex-wrap: wrap; -webkit-flex-wrap: wrap; flex-wrap: wrap }
+
+    Rule Id: 03a78650-0e4b-4dea-a222-bcbbba72f220
+    Rule Type: style
+    Selector:.layout.no-wrap
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.no-wrap { -ms-flex-wrap: nowrap; -webkit-flex-wrap: nowrap; flex-wrap: nowrap }
+
+    Rule Id: da14d08c-a677-40f0-8dcd-7f1cc96d3416
+    Rule Type: style
+    Selector:.flex-auto
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-auto { -ms-flex: 1 1 auto; -webkit-flex: 1 1 auto; flex: 1 1 auto }
+
+    Rule Id: 230648cb-0bc4-4f19-a533-fea36be4c736
+    Rule Type: style
+    Selector:.flex-none
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-none { -ms-flex: none; -webkit-flex: none; flex: none }
+
+    Rule Id: 6383d5ea-0b57-4fb0-b104-8182a7abe9ba
+    Rule Type: style
+    Selector:.layout.start
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.start { -ms-flex-align: start; -webkit-align-items: flex-start; align-items: flex-start }
+
+    Rule Id: e39edcf4-6127-48c5-ad3c-14fd190e5e2a
+    Rule Type: style
+    Selector:.layout.center, .layout.center-center
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.center, .layout.center-center { -ms-flex-align: center; -webkit-align-items: center; align-items: center }
+
+    Rule Id: 2949ceba-ea02-477a-b5ab-f6c088ae4bdb
+    Rule Type: style
+    Selector:.layout.end
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.end { -ms-flex-align: end; -webkit-align-items: flex-end; align-items: flex-end }
+
+    Rule Id: aa30346e-85f4-480a-87b9-cd0f3297a87c
+    Rule Type: style
+    Selector:.layout.baseline
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.baseline { -ms-flex-align: baseline; -webkit-align-items: baseline; align-items: baseline }
+
+    Rule Id: a93db5cd-f2e5-4f3c-a9f6-dceafeafaa8b
+    Rule Type: style
+    Selector:.layout.start-justified
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.start-justified { -ms-flex-pack: start; -webkit-justify-content: flex-start; justify-content: flex-start }
+
+    Rule Id: 2f87a3a0-1b63-458d-8dff-90f80d27ad80
+    Rule Type: style
+    Selector:.layout.center-center, .layout.center-justified
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.center-center, .layout.center-justified { -ms-flex-pack: center; -webkit-justify-content: center; justify-content: center }
+
+    Rule Id: 32ef9566-5cda-4f63-a95a-05bb82be0ec5
+    Rule Type: style
+    Selector:.layout.end-justified
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.end-justified { -ms-flex-pack: end; -webkit-justify-content: flex-end; justify-content: flex-end }
+
+    Rule Id: 1b066863-3fb7-450f-96af-f5a52489c0fb
+    Rule Type: style
+    Selector:.layout.around-justified
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.around-justified { -ms-flex-pack: distribute; -webkit-justify-content: space-around; justify-content: space-around }
+
+    Rule Id: 279c3a82-5076-47b0-8483-543ebd215f47
+    Rule Type: style
+    Selector:.layout.justified
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.justified { -ms-flex-pack: justify; -webkit-justify-content: space-between; justify-content: space-between }
+
+    Rule Id: 3899d588-9eda-48f0-b34b-3ae193096011
+    Rule Type: style
+    Selector:.self-start
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .self-start { -ms-align-self: flex-start; -webkit-align-self: flex-start; -ms-flex-item-align: start; align-self: flex-start }
+
+    Rule Id: c8b69171-bd48-41f5-a44a-9f312ddbdfd8
+    Rule Type: style
+    Selector:.self-center
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .self-center { -ms-align-self: center; -webkit-align-self: center; -ms-flex-item-align: center; -ms-grid-row-align: center; align-self: center }
+
+    Rule Id: b16d476d-fa30-43d2-8699-80d17d6b643c
+    Rule Type: style
+    Selector:.self-end
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .self-end { -ms-align-self: flex-end; -webkit-align-self: flex-end; -ms-flex-item-align: end; align-self: flex-end }
+
+    Rule Id: 82c50886-dfeb-4664-b582-8066e70f8232
+    Rule Type: style
+    Selector:.self-stretch
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .self-stretch { -ms-align-self: stretch; -webkit-align-self: stretch; -ms-flex-item-align: stretch; -ms-grid-row-align: stretch; align-self: stretch }
+
+    Rule Id: 4adcfa52-603a-4310-afb9-42d296deefbf
+    Rule Type: style
+    Selector:.self-baseline
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .self-baseline { -ms-align-self: baseline; -webkit-align-self: baseline; -ms-flex-item-align: baseline; align-self: baseline }
+
+    Rule Id: 5d511a4e-58eb-4901-8d10-abf7a8b9f226
+    Rule Type: style
+    Selector:.layout.start-aligned
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.start-aligned { -ms-flex-line-pack: start; -ms-align-content: flex-start; -webkit-align-content: flex-start; align-content: flex-start }
+
+    Rule Id: a3c619db-c16e-4af6-96f2-45a7ffc0b2b3
+    Rule Type: style
+    Selector:.layout.end-aligned
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.end-aligned { -ms-flex-line-pack: end; -ms-align-content: flex-end; -webkit-align-content: flex-end; align-content: flex-end }
+
+    Rule Id: 751dbf5a-544e-4b55-a3e7-e7676592e75b
+    Rule Type: style
+    Selector:.layout.center-aligned
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.center-aligned { -ms-flex-line-pack: center; -ms-align-content: center; -webkit-align-content: center; align-content: center }
+
+    Rule Id: 862e8fd5-8894-4509-a6c7-78096a25acbf
+    Rule Type: style
+    Selector:.layout.between-aligned
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.between-aligned { -ms-flex-line-pack: justify; -ms-align-content: space-between; -webkit-align-content: space-between; align-content: space-between }
+
+    Rule Id: b1ecd42c-c780-42ac-aedf-734ff60642a1
+    Rule Type: style
+    Selector:.layout.around-aligned
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .layout.around-aligned { -ms-flex-line-pack: distribute; -ms-align-content: space-around; -webkit-align-content: space-around; align-content: space-around }
+
+    Rule Id: e66f5f9f-cfd5-43fd-8cd7-62c12ed5a9ca
+    Rule Type: style
+    Selector:.flex, .flex-1
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex, .flex-1 { -ms-flex: 1 1 0px; -webkit-flex: 1; flex: 1; -webkit-flex-basis: 0px; -ms-flex-preferred-size: 0; flex-basis: 0px }
+
+    Rule Id: b3d12d88-c8d3-46e4-9770-ae34873f7958
+    Rule Type: style
+    Selector:.flex-2
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-2 { -ms-flex: 2; -webkit-flex: 2; flex: 2 }
+
+    Rule Id: 357f1187-882b-4cf5-8368-a749a7af1857
+    Rule Type: style
+    Selector:.flex-3
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-3 { -ms-flex: 3; -webkit-flex: 3; flex: 3 }
+
+    Rule Id: d0d18c94-b2c9-42f8-bf66-53c34ebdb4b5
+    Rule Type: style
+    Selector:.flex-4
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-4 { -ms-flex: 4; -webkit-flex: 4; flex: 4 }
+
+    Rule Id: 281546e6-951a-43aa-bdba-929421dd01a5
+    Rule Type: style
+    Selector:.flex-5
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-5 { -ms-flex: 5; -webkit-flex: 5; flex: 5 }
+
+    Rule Id: 1c540e89-78ca-491d-abda-2805a908a600
+    Rule Type: style
+    Selector:.flex-6
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-6 { -ms-flex: 6; -webkit-flex: 6; flex: 6 }
+
+    Rule Id: 4ca01883-185f-4f58-88ac-3539f0ff9eba
+    Rule Type: style
+    Selector:.flex-7
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-7 { -ms-flex: 7; -webkit-flex: 7; flex: 7 }
+
+    Rule Id: 5bfd014d-751c-4163-b4e0-668d477b5e8f
+    Rule Type: style
+    Selector:.flex-8
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-8 { -ms-flex: 8; -webkit-flex: 8; flex: 8 }
+
+    Rule Id: f33a9542-d16a-4247-8648-113a4d00244b
+    Rule Type: style
+    Selector:.flex-9
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-9 { -ms-flex: 9; -webkit-flex: 9; flex: 9 }
+
+    Rule Id: 4396b1f4-d5ec-4369-9bee-3f6ffe1ca49a
+    Rule Type: style
+    Selector:.flex-10
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-10 { -ms-flex: 10; -webkit-flex: 10; flex: 10 }
+
+    Rule Id: 0b283f82-0143-4179-a475-935323c60920
+    Rule Type: style
+    Selector:.flex-11
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-11 { -ms-flex: 11; -webkit-flex: 11; flex: 11 }
+
+    Rule Id: 665234e1-cc89-4af8-80f3-d6197b0b5a9c
+    Rule Type: style
+    Selector:.flex-12
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .flex-12 { -ms-flex: 12; -webkit-flex: 12; flex: 12 }
+
+    Rule Id: ccadac2d-3615-4bb1-b932-c301d68f84ac
+    Rule Type: style
+    Selector:h1
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h1 { white-space: nowrap; overflow: hidden; letter-spacing: -0.026em }
+
+    Rule Id: b97f20e4-1a69-4d34-a367-a02f1574dbd5
+    Rule Type: style
+    Selector:h3
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h3 { font-size: 34px; letter-spacing: -0.01em; line-height: 40px }
+
+    Rule Id: 52824f4c-7f45-4003-8224-0dc64576e7fd
+    Rule Type: style
+    Selector:h4
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h4 { font-size: 24px; letter-spacing: -0.012em; line-height: 32px }
+
+    Rule Id: 59a38d37-dc22-4c94-9ff0-17250fd984a9
+    Rule Type: style
+    Selector:.hljs
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs { display: block; overflow-x: auto; padding: 0.5em; color: rgb(51, 51, 51); background: rgb(248, 248, 248); -webkit-text-size-adjust: none }
+
+    Rule Id: f524aab7-8d89-4120-830d-ac5414cb94d5
+    Rule Type: style
+    Selector:.permalink, pw-shell[active-docs-version="1.0"] a[data-version="2.0"], pw-shell[active-docs-version="1.0"] a[data-version="3.0"], pw-shell[active-docs-version="2.0"] a[data-version="1.0"], pw-shell[active-docs-version="2.0"] a[data-version="3.0"], pw-shell[active-docs-version="3.0"] a[data-version="1.0"], pw-shell[active-docs-version="3.0"] a[data-version="2.0"]
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .permalink, pw-shell[active-docs-version="1.0"] a[data-version="2.0"], pw-shell[active-docs-version="1.0"] a[data-version="3.0"], pw-shell[active-docs-version="2.0"] a[data-version="1.0"], pw-shell[active-docs-version="2.0"] a[data-version="3.0"], pw-shell[active-docs-version="3.0"] a[data-version="1.0"], pw-shell[active-docs-version="3.0"] a[data-version="2.0"] { display: none }
+
+    Rule Id: 0c7776e3-6325-4d48-81bb-9cd151df5ea6
+    Rule Type: style
+    Selector:.diff .hljs-header, .hljs-comment
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .diff .hljs-header, .hljs-comment { color: rgb(153, 153, 136); font-style: italic }
+
+    Rule Id: 6c7cdc86-70a7-44d5-a1c2-db6284fa82e1
+    Rule Type: style
+    Selector:.css .rule .hljs-keyword, .hljs-keyword, .hljs-request, .hljs-status, .hljs-subst, .hljs-winutils, .nginx .hljs-title
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .css .rule .hljs-keyword, .hljs-keyword, .hljs-request, .hljs-status, .hljs-subst, .hljs-winutils, .nginx .hljs-title { color: rgb(51, 51, 51); font-weight: 700 }
+
+    Rule Id: a8f5d549-3b8c-48a4-ae6b-025e1d6daec9
+    Rule Type: style
+    Selector:.hljs-hexcolor, .hljs-number, .ruby .hljs-constant
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-hexcolor, .hljs-number, .ruby .hljs-constant { color: teal }
+
+    Rule Id: f7c867a9-c030-4914-b1d0-b7ab39c6a6b0
+    Rule Type: style
+    Selector:.hljs-doctag, .hljs-string, .hljs-tag .hljs-value, .tex .hljs-formula
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-doctag, .hljs-string, .hljs-tag .hljs-value, .tex .hljs-formula { color: rgb(221, 17, 68) }
+
+    Rule Id: 51266764-c163-4d66-bb24-9da8b96627b9
+    Rule Type: style
+    Selector:.hljs-id, .hljs-title, .scss .hljs-preprocessor
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-id, .hljs-title, .scss .hljs-preprocessor { color: rgb(153, 0, 0); font-weight: 700 }
+
+    Rule Id: c39c3d95-34c9-4486-98cb-336fb373ec6a
+    Rule Type: style
+    Selector:.hljs-list .hljs-keyword, .hljs-subst
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-list .hljs-keyword, .hljs-subst { font-weight: 400 }
+
+    Rule Id: a32a2b60-8e6c-4bfa-9f8e-517300e21051
+    Rule Type: style
+    Selector:.hljs-class .hljs-title, .hljs-type, .tex .hljs-command, .vhdl .hljs-literal
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-class .hljs-title, .hljs-type, .tex .hljs-command, .vhdl .hljs-literal { color: rgb(68, 85, 136); font-weight: 700 }
+
+    Rule Id: 014ab365-8f34-4b8e-b6c1-e262f64e5dea
+    Rule Type: style
+    Selector:.django .hljs-tag .hljs-keyword, .hljs-rule .hljs-property, .hljs-tag, .hljs-tag .hljs-title
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .django .hljs-tag .hljs-keyword, .hljs-rule .hljs-property, .hljs-tag, .hljs-tag .hljs-title { color: navy; font-weight: 400 }
+
+    Rule Id: 8d801ba1-d6e0-4548-b3c6-b8ad9d5668e3
+    Rule Type: style
+    Selector:.hljs-attribute, .hljs-name, .hljs-variable, .lisp .hljs-body
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-attribute, .hljs-name, .hljs-variable, .lisp .hljs-body { color: teal }
+
+    Rule Id: f1f7075c-3e47-4d51-bae8-764eb041556b
+    Rule Type: style
+    Selector:.hljs-regexp
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-regexp { color: rgb(0, 153, 38) }
+
+    Rule Id: 98f45d8e-5dd3-49d8-b046-b2679ba7fae8
+    Rule Type: style
+    Selector:.clojure .hljs-keyword, .hljs-prompt, .hljs-symbol, .lisp .hljs-keyword, .ruby .hljs-symbol .hljs-string, .scheme .hljs-keyword, .tex .hljs-special
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .clojure .hljs-keyword, .hljs-prompt, .hljs-symbol, .lisp .hljs-keyword, .ruby .hljs-symbol .hljs-string, .scheme .hljs-keyword, .tex .hljs-special { color: rgb(153, 0, 115) }
+
+    Rule Id: 798fbc4e-091b-48d4-b44c-e08086197fca
+    Rule Type: style
+    Selector:.hljs-built_in
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-built_in { color: rgb(0, 134, 179) }
+
+    Rule Id: 68d4f9d8-9174-43eb-b0bb-d83e0b998f19
+    Rule Type: style
+    Selector:.hljs-cdata, .hljs-doctype, .hljs-pi, .hljs-pragma, .hljs-preprocessor, .hljs-shebang
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-cdata, .hljs-doctype, .hljs-pi, .hljs-pragma, .hljs-preprocessor, .hljs-shebang { color: rgb(153, 153, 153); font-weight: 700 }
+
+    Rule Id: 1fe9e63e-b611-42bd-b33e-4d7fc04cdd56
+    Rule Type: style
+    Selector:.hljs-deletion
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-deletion { background: rgb(255, 221, 221) }
+
+    Rule Id: 3aea9665-f695-48d7-b6dd-f9363e98c6f3
+    Rule Type: style
+    Selector:.hljs-addition
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-addition { background: rgb(221, 255, 221) }
+
+    Rule Id: 24613689-4ffc-4769-a594-e1a608f085d6
+    Rule Type: style
+    Selector:.diff .hljs-change
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .diff .hljs-change { background: rgb(0, 134, 179) }
+
+    Rule Id: 56df99ed-508b-4cce-8fb4-2c5e2dcbf999
+    Rule Type: style
+    Selector:code, pre
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      code, pre { font-weight: 400; background: rgb(244, 245, 246) !important }
+
+    Rule Id: 2c60313f-42c2-472e-97e1-cc1ab3c8d7d3
+    Rule Type: style
+    Selector:.hljs-chunk
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .hljs-chunk { color: rgb(170, 170, 170) }
+
+    Rule Id: a622a7de-4e34-4837-a6d0-2ab0f82ec93e
+    Rule Type: style
+    Selector:code, pre
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      code, pre { font-family: "Source Code Pro", "Roboto Mono", Consolas, Menlo, monospace !important }
+
+    Rule Id: cba0cc0b-dd9d-4773-ae6a-84b64e7a0715
+    Rule Type: style
+    Selector:pre
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      pre { overflow-x: auto; white-space: pre; word-wrap: normal; font-size: 15px; padding: 0.5em }
+
+    Rule Id: 134a60e1-daed-4eca-872d-5ae89cf767be
+    Rule Type: style
+    Selector:code
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      code { color: rgb(13, 71, 161) }
+
+    Rule Id: 754422ee-0bf0-4e79-8244-c450808e3ccd
+    Rule Type: style
+    Selector:*
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      * { box-sizing: border-box }
+
+    Rule Id: 9465a71b-52f7-4ec2-bed5-df8bba471717
+    Rule Type: style
+    Selector:body
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      body { font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: 300 }
+
+    Rule Id: 7d86db8d-9533-4507-9f19-b6d0cda6c2e9
+    Rule Type: style
+    Selector:a, details
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      a, details { font-weight: 500 }
+
+    Rule Id: 05f0f230-73e8-408f-9981-edcb4e2fc17e
+    Rule Type: style
+    Selector:pw-shell
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      pw-shell { display: block; margin-top: 64px; min-height: 100vh }
+
+    Rule Id: 51bcd8a9-1141-4a47-8dda-349ca902978f
+    Rule Type: style
+    Selector:a
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      a { color: rgb(30, 136, 229); text-decoration: none }
+
+    Rule Id: f44708c8-794d-4103-9a22-515699e23922
+    Rule Type: style
+    Selector:.site-nav a, h2
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a, h2 { font-weight: 300 }
+
+    Rule Id: c7a2cb38-4690-48c5-ad84-d72669e0927d
+    Rule Type: style
+    Selector:a:hover
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      a:hover { text-decoration: underline }
+
+    Rule Id: 1e15fb7c-5ff3-4665-bf32-08ce2d8d8a7d
+    Rule Type: style
+    Selector:img
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      img { max-width: 100% }
+
+    Rule Id: 8fa1f0ee-c6e5-4031-99e7-1ccbf34331c4
+    Rule Type: style
+    Selector:section
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section { padding: 80px; box-sizing: border-box }
+
+    Rule Id: dd9d950e-5461-46f6-a1f8-0f98bd73738c
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {section { padding: 40px } }
+
+    Rule Id: 22fb83d9-5fe7-4df3-9b17-925827794c7b
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 500px) {section { padding-left: 20px; padding-right: 20px } }
+
+    Rule Id: 5081b298-e21c-4dfb-825f-8d4c33f96c93
+    Rule Type: style
+    Selector:section.short
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.short { padding-top: 40px; padding-bottom: 40px }
+
+    Rule Id: 51bfda2f-548a-4fe5-ad7e-fd991c8bed98
+    Rule Type: style
+    Selector:section.gradient-dark, section.gradient-light
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.gradient-dark, section.gradient-light { background-repeat: repeat-x; background-position: bottom; background-size: 20px }
+
+    Rule Id: 9afce7a8-30f1-44d9-af58-bdbb0c1ead03
+    Rule Type: style
+    Selector:section.gradient-dark.short, section.gradient-light.short
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.gradient-dark.short, section.gradient-light.short { background-size: 12px }
+
+    Rule Id: 9cf97415-7940-44b5-9d03-2f0854892ded
+    Rule Type: style
+    Selector:section.gradient-dark
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+        https://polymer-library.polymer-project.org/images/textures/section-gradient-dark.png
+    Content:
+      section.gradient-dark { background-image: url(/images/textures/section-gradient-dark.png) }
+
+    Rule Id: 1ffd3661-a66f-4f1c-a5bc-20fa89d4f3f2
+    Rule Type: style
+    Selector:section.gradient-light
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+        https://polymer-library.polymer-project.org/images/textures/section-gradient-light.png
+    Content:
+      section.gradient-light { background-image: url(/images/textures/section-gradient-light.png) }
+
+    Rule Id: 5450f127-da6e-49cc-a77f-fe6315dbce39
+    Rule Type: style
+    Selector:section.gradient-light-flipped
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+        https://polymer-library.polymer-project.org/images/textures/section-gradient-light-flipped.png
+    Content:
+      section.gradient-light-flipped { background-image: url(/images/textures/section-gradient-light-flipped.png); background-repeat: repeat-x; background-position: top; background-size: 20px }
+
+    Rule Id: 50cd22b6-f105-4ac9-9c35-de2fd2cbd914
+    Rule Type: style
+    Selector:section.light
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.light { background-color: rgb(255, 255, 255); color: rgb(0, 0, 0) }
+
+    Rule Id: e7088fa5-5498-4eb8-a635-76e7633b066f
+    Rule Type: style
+    Selector:section.dark
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.dark { background-color: rgb(38, 50, 56); color: rgb(255, 255, 255) }
+
+    Rule Id: 69239aeb-bf6c-48bb-a55a-bbd7cf484906
+    Rule Type: style
+    Selector:section.grey
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.grey { background-color: rgb(236, 239, 241); color: rgb(0, 0, 0) }
+
+    Rule Id: 804ba80c-6681-4910-b1dc-949a902b74e4
+    Rule Type: style
+    Selector:section.pink
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.pink { background-color: rgb(245, 0, 87) }
+
+    Rule Id: 32ca7e14-b238-49e0-9dcb-527f7062c367
+    Rule Type: style
+    Selector:section.blue
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.blue { background-color: rgb(30, 136, 229); color: rgb(255, 255, 255) }
+
+    Rule Id: 33acb9c3-c7c2-4ab9-9f6f-3540471fb01e
+    Rule Type: style
+    Selector:section.blue a
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.blue a { color: rgb(255, 255, 255) }
+
+    Rule Id: 00a4aeb0-bb7a-40fc-8c52-78f5bb40a39e
+    Rule Type: style
+    Selector:section.blue .blue-button
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.blue .blue-button { color: rgb(30, 136, 229); background: rgb(255, 255, 255) }
+
+    Rule Id: 2b3e6904-99ee-4e68-af7a-a50bef37fc28
+    Rule Type: style
+    Selector:section.blue h3
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section.blue h3 { margin-bottom: 5px }
+
+    Rule Id: 634ac3e5-1007-4c22-8ef4-3cfb86f9e08d
+    Rule Type: style
+    Selector:section > *
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      section > * { max-width: 900px; margin: 0 auto }
+
+    Rule Id: 4746ecb4-9afb-45de-bffd-4902d361c98d
+    Rule Type: style
+    Selector:.section-columns
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .section-columns { display: -ms-flexbox; display: -webkit-flex; display: flex; -ms-flex-direction: row; -webkit-flex-direction: row; flex-direction: row }
+
+    Rule Id: b22aed47-5130-4b5e-85a8-8aff45bbc690
+    Rule Type: style
+    Selector:.section-columns > div:not(:last-child), .section-columns > h2:not(:last-child), .section-columns > p:not(:last-child)
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .section-columns > div:not(:last-child), .section-columns > h2:not(:last-child), .section-columns > p:not(:last-child) { margin-right: 40px; overflow: hidden }
+
+    Rule Id: f0322282-7f9b-462d-b9bf-9d7a65eff8f1
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {section.short { padding-top: 20px; padding-bottom: 20px } .section-columns { display: block; -ms-flex-direction: column; -webkit-flex-direction: column; flex-direction: column } .section-columns > div:not(:last-child), .section-columns > h2:not(:last-child), .section-columns > p:not(:last-child) { margin-right: 0; margin-bottom: 40px } }
+
+    Rule Id: a11b260f-db8a-46e3-9fc0-e1189fdf9510
+    Rule Type: style
+    Selector:h1, h2
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h1, h2 { line-height: 38px; margin: 10px 0; font-family: "Roboto Slab", Roboto, Noto, sans-serif }
+
+    Rule Id: 6ff81b55-6daa-4ece-9ece-d6aa3695de64
+    Rule Type: style
+    Selector:h2
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h2 { font-size: 24px }
+
+    Rule Id: be28aee0-3723-491c-bf77-d99a5e8bbaf2
+    Rule Type: style
+    Selector:.blue-button, h1
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button, h1 { font-weight: 400 }
+
+    Rule Id: ce6b8505-4353-4537-8834-8d0b202fb212
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {h2 { font-size: 22px } }
+
+    Rule Id: 313b90e4-d034-4fed-a5a2-10f65294407a
+    Rule Type: style
+    Selector:h2.underline
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h2.underline { border-bottom: 1px solid rgb(245, 0, 87); white-space: nowrap; overflow: hidden }
+
+    Rule Id: 947491a5-a0d1-43f9-964d-756d98060946
+    Rule Type: style
+    Selector:h1
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      h1 { font-size: 32px }
+
+    Rule Id: 1a11aa13-d06d-4a9b-8102-cc5510b5cf11
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {h1 { font-size: 22px } h3 { font-size: 18px } }
+
+    Rule Id: 18bb790d-0a5f-440c-8c21-1d6ed80a453c
+    Rule Type: style
+    Selector:.blue-button
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button { color: rgb(255, 255, 255); background: rgb(30, 136, 229); text-transform: uppercase; text-decoration: none; font-size: 13px; padding: 3px 20px; margin-bottom: 5px; border-radius: 2px; text-align: center; display: inline-block }
+
+    Rule Id: 361bc8be-fc29-4911-bf77-73fff4e38a59
+    Rule Type: style
+    Selector:.blue-button:focus, .blue-button:hover
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button:focus, .blue-button:hover { text-decoration: none; outline-color: rgb(245, 0, 87) }
+
+    Rule Id: 42680f32-0aec-4a43-bb2a-6e152637d8a2
+    Rule Type: style
+    Selector:.blue-button.vertical
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button.vertical { margin-bottom: 20px; padding: 3px 40px }
+
+    Rule Id: cb7ab182-d8e6-4335-ad54-3ee8b9f9c660
+    Rule Type: style
+    Selector:.blue-button.vertical:first-child
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button.vertical:first-child { margin-top: 20px }
+
+    Rule Id: f135e335-3c78-42aa-a678-98bcf256ba95
+    Rule Type: style
+    Selector:.blue-button.full-width
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button.full-width { width: 100% }
+
+    Rule Id: c130a7cc-7118-44a0-9fc0-bfe981bf94b9
+    Rule Type: style
+    Selector:.blue-button.flat
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button.flat { color: rgb(30, 136, 229); background: 0 0 }
+
+    Rule Id: 55438588-f534-45dd-960c-21297fef00b9
+    Rule Type: style
+    Selector:.blue-button.nocap
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .blue-button.nocap { text-transform: none; font-size: 16px }
+
+    Rule Id: 75479a93-db61-4c36-9cd4-d5ce14475e9e
+    Rule Type: style
+    Selector:.subsection:not(:last-of-type)
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .subsection:not(:last-of-type) { border-bottom: 1px solid rgb(245, 0, 87); padding-bottom: 40px; margin-bottom: 40px }
+
+    Rule Id: e8fe33ba-ccd5-42e0-a5e4-fafbf432cb95
+    Rule Type: style
+    Selector:.permalink
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .permalink { margin-left: 5px; vertical-align: top }
+
+    Rule Id: a910a89e-68aa-48f4-aa06-6108f8a9077b
+    Rule Type: style
+    Selector:.has-permalink:hover .permalink
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .has-permalink:hover .permalink { display: initial }
+
+    Rule Id: 2451e29a-2416-4610-823d-cf9c16244273
+    Rule Type: style
+    Selector:.no-permalink .permalink
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-permalink .permalink { display: none !important }
+
+    Rule Id: a8dd4851-25ca-4ca2-9475-e18e54d1235c
+    Rule Type: style
+    Selector:details
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      details { font-size: 16px; line-height: 24px; cursor: pointer }
+
+    Rule Id: 896710e7-74a1-4f4e-82ad-317eaba3389d
+    Rule Type: style
+    Selector:details summary
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      details summary { outline: 0 }
+
+    Rule Id: b3e5bba9-4ebb-4a46-9acb-28eb76aa8473
+    Rule Type: style
+    Selector:iron-doc-behavior, iron-doc-class, iron-doc-element, iron-doc-mixin, iron-doc-module, iron-doc-namespace, iron-doc-viewer
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      iron-doc-behavior, iron-doc-class, iron-doc-element, iron-doc-mixin, iron-doc-module, iron-doc-namespace, iron-doc-viewer { padding: 20px 40px; max-width: 800px; margin: 0 }
+
+    Rule Id: 64f9b8dc-0bf7-4571-b16d-aa3edacc2341
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {iron-doc-behavior, iron-doc-class, iron-doc-element, iron-doc-mixin, iron-doc-module, iron-doc-namespace, iron-doc-viewer { padding: 20px } }
+
+    Rule Id: 19c2b136-06eb-4d53-9a6a-61a433aa28ac
+    Rule Type: style
+    Selector:iron-doc-behavior section, iron-doc-class section, iron-doc-element section, iron-doc-mixin section, iron-doc-module section, iron-doc-namespace section, iron-doc-viewer section
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      iron-doc-behavior section, iron-doc-class section, iron-doc-element section, iron-doc-mixin section, iron-doc-module section, iron-doc-namespace section, iron-doc-viewer section { padding: 0 }
+
+    Rule Id: 33d407da-fd4e-4bf1-9f7c-dbaff83e9317
+    Rule Type: style
+    Selector:.site-nav
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav { display: none }
+
+    Rule Id: 855b0e45-d4d8-4c6a-92dc-9b6a00048d54
+    Rule Type: style
+    Selector:.site-nav > img
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav > img { margin: 16px 30px; height: 24px }
+
+    Rule Id: fc33aa29-9b7f-425c-a17d-ff7228a96e5a
+    Rule Type: style
+    Selector:.site-nav > pw-version-selector
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav > pw-version-selector { display: inline-block; margin: 10px 0; vertical-align: top }
+
+    Rule Id: aa09948a-8ff6-4335-a4a6-49bd5054a75e
+    Rule Type: style
+    Selector:.site-nav a
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a { color: rgb(107, 107, 107); background: rgb(255, 255, 255); border-bottom: 1px solid rgb(234, 237, 239); padding: 4px 4px 4px 30px; font-size: 15px; line-height: 40px; display: -webkit-flex; display: -ms-flexbox; display: flex; text-decoration: none; border-left: 4px solid transparent; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row }
+
+    Rule Id: ab19a9d4-6e82-43ac-a8f7-ef24739e94c6
+    Rule Type: style
+    Selector:.site-nav a > span
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a > span { -webkit-flex: 1; -ms-flex: 1; flex: 1; -webkit-flex-basis: 0; -ms-flex-preferred-size: 0; flex-basis: 0 }
+
+    Rule Id: cad89608-ba23-496b-b5cd-4196e13ddadc
+    Rule Type: style
+    Selector:.site-nav a.selected
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a.selected { border-left: 4px solid rgb(242, 44, 90); color: rgb(242, 44, 90) }
+
+    Rule Id: 5164e123-7ec5-43fb-ae1d-d28c0ae1a03a
+    Rule Type: style
+    Selector:.site-nav a.level-1
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a.level-1 { font-family: "Roboto Slab", Roboto, sans-serif; font-weight: 400 }
+
+    Rule Id: 2ff74cac-d6d2-44ab-b77c-7bf2f716505a
+    Rule Type: style
+    Selector:.site-nav a.level-2
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a.level-2 { color: rgb(0, 0, 0) }
+
+    Rule Id: b5980b0e-7c42-4264-9c28-f983bc37f63c
+    Rule Type: style
+    Selector:.site-nav a.level-2.indent
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a.level-2.indent { padding-left: 40px; color: rgb(0, 0, 0) }
+
+    Rule Id: 386e0d7d-b32d-4c08-b94c-e2d96d42358a
+    Rule Type: style
+    Selector:.site-nav a.greyed-out
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a.greyed-out { background: rgb(244, 245, 246); color: rgb(112, 112, 112); font-weight: 400 }
+
+    Rule Id: d41895f1-8130-4a76-b3c8-0377e2f57a47
+    Rule Type: style
+    Selector:.site-nav a.active
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-nav a.active { color: rgb(0, 0, 0); font-weight: 700 }
+
+    Rule Id: 415116a4-e4f9-4d1d-a361-47ce9ee931a4
+    Rule Type: style
+    Selector:.devguide-main
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main { min-height: 100vh; position: relative; background: rgb(255, 255, 255) }
+
+    Rule Id: fbed98d4-a84a-4146-b75d-0308c695a498
+    Rule Type: style
+    Selector:.devguide-main nav
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main nav { position: absolute; top: 0; bottom: 0; background: rgb(244, 245, 246); width: 265px; z-index: 2; padding-top: 10px; overflow-x: hidden; overflow-y: auto }
+
+    Rule Id: 2c7320e2-7819-42f6-ad9a-4f435d0e6b71
+    Rule Type: style
+    Selector:.devguide-main .content-container
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .content-container { position: relative; margin-left: 265px }
+
+    Rule Id: f8d15a67-2aca-4f16-8e31-3fa3ad86a19f
+    Rule Type: style
+    Selector:.devguide-main header
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main header { color: rgb(255, 255, 255); padding: 20px 40px }
+
+    Rule Id: fc43a253-ecc8-4863-9c22-a79fb95e0e5f
+    Rule Type: style
+    Selector:.devguide-main header[data-version="2.0"], .devguide-main header[data-version="3.0"]
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main header[data-version="2.0"], .devguide-main header[data-version="3.0"] { background: rgb(30, 136, 229) }
+
+    Rule Id: 53879648-06c6-4f22-8c3a-8c17c1efa0a6
+    Rule Type: style
+    Selector:.devguide-main header[data-version="1.0"]
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main header[data-version="1.0"] { background: rgb(55, 71, 79) }
+
+    Rule Id: aae2dcdd-4568-40c2-b547-fde91d252759
+    Rule Type: style
+    Selector:.devguide-main header h1
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main header h1 { font-family: "Roboto Slab", Roboto, Noto, sans-serif; font-size: 32px; font-weight: 400; border-bottom: none; margin: 20px 0 }
+
+    Rule Id: 2aa2d0ad-1812-4048-a4f9-6751ffce2b48
+    Rule Type: style
+    Selector:.devguide-main header p
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main header p { margin: 0; font-weight: 700 }
+
+    Rule Id: 0979905e-3a05-4f65-8aa6-fac0ca98e371
+    Rule Type: style
+    Selector:.devguide-main pw-version-selector
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main pw-version-selector { display: block; padding: 10px 34px; margin-bottom: 10px }
+
+    Rule Id: b653b51b-edcf-4df9-9227-5748ac33a2a3
+    Rule Type: style
+    Selector:.devguide-main .sidenav
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav { font-family: Roboto, Noto, sans-serif }
+
+    Rule Id: 5c5e3f4c-c48c-49e6-95c3-f2c0c1e7abdb
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-header, .devguide-main .sidenav a
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav .sidenav-header, .devguide-main .sidenav a { font-size: 15px; line-height: 24px; display: block; padding: 5px 30px; border-left: 4px solid transparent }
+
+    Rule Id: ffa00e69-4bfa-4bc0-a73c-fdd7621cae12
+    Rule Type: style
+    Selector:.devguide-main .sidenav a
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav a { color: rgb(107, 107, 107); font-weight: 400; text-decoration: none }
+
+    Rule Id: 0fd608ff-abe2-4d74-be54-3e1b6411289a
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-header
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav .sidenav-header { padding-top: 15px; font-weight: 700; border-left: 4px solid transparent }
+
+    Rule Id: cfe024fe-bf48-40d3-b490-510b729486ae
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-header:first-of-type
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav .sidenav-header:first-of-type { margin-top: 15px; border-top: 1px solid rgb(224, 224, 224) }
+
+    Rule Id: 17c85b8f-40e2-49ef-ae74-13cb1ce485a8
+    Rule Type: style
+    Selector:.devguide-main .sidenav .sidenav-endheader
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav .sidenav-endheader { margin-top: 15px; border-bottom: 1px solid rgb(224, 224, 224) }
+
+    Rule Id: e50d7a14-9cea-420b-be29-262171d80d0c
+    Rule Type: style
+    Selector:.devguide-main .sidenav a.iron-selected
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .sidenav a.iron-selected { border-left: 4px solid rgb(245, 0, 87); color: rgb(245, 0, 87) }
+
+    Rule Id: a61967d6-634f-4abf-ad45-8de04fb322ff
+    Rule Type: style
+    Selector:.devguide-main header a.edit-on-github
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main header a.edit-on-github { color: rgb(255, 255, 255); padding: 0; text-transform: uppercase; font-size: 13px; text-decoration: none }
+
+    Rule Id: a2c5735b-9968-4920-89bc-d3655774e5b8
+    Rule Type: style
+    Selector:.devguide-main .version-alert
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .version-alert { background-color: rgb(251, 233, 231); margin: 0; padding: 10px 40px; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -ms-flex-align: center; align-items: center }
+
+    Rule Id: 6ddb28f9-68a9-43e7-b951-dbd70cb29db8
+    Rule Type: style
+    Selector:.devguide-main .version-alert a
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .version-alert a { font-weight: 700 }
+
+    Rule Id: 8348595f-9fda-4a70-be1f-94690a190e09
+    Rule Type: style
+    Selector:.devguide-main .version-alert:not(.upgrade-alert)
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .version-alert:not(.upgrade-alert) { border-top: 1px solid rgb(107, 107, 107) }
+
+    Rule Id: c081ad9e-d433-4fbe-8d03-d8fe2c6fa458
+    Rule Type: style
+    Selector:.devguide-main .version-alert img
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      .devguide-main .version-alert img { height: 36px; margin-right: 12px }
+
+    Rule Id: 8c61e45f-138d-4d83-9906-700b3d98c27a
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 500px) {.devguide-main header { padding: 20px } }
+
+    Rule Id: ea9488f4-3a44-47a7-8224-149bb8bb2f8b
+    Rule Type: media
+    Selector:
+    Belong to: e0bf8bb1-3316-47eb-a35c-78e76153f6a3
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 767px) {.devguide-main header p, .devguide-main nav { display: none } .devguide-main .content-container { margin-left: 0 } .devguide-main header h1 { font-size: 22px; margin: 0 } }
+
+
+
+Block Id: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+Src: https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Roboto:400,300,300italic,400italic,500,500italic,700,700italic
+Related html node: 
+Type: external
+Inside CSS Styles: 
+    Rule Id: 4e1e4983-f4aa-442f-8193-c8ccbe45c2c2
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 3d8fa70e-1be5-4900-8c6e-43c75c07f43f
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 741e8db7-e710-43de-b372-1228e2790418
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: e8cd48d3-de66-40d4-86b4-d7225ee052a0
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 82bb8afe-d49b-46de-8b38-b78386cb8b2d
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 7b212fef-25c8-4e6d-9326-4026c386276c
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 4f717348-d234-43aa-b0a0-0fb3672cef8a
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 7065538d-f70b-4675-9f38-704dee6e66fe
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: b9d891f4-cb46-47e5-be48-0e89feed9404
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 62070598-6fee-4fa1-9789-39990ae7019d
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 4cd1f7ca-8405-427c-9c68-212241a4fae6
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 661474d5-958f-400e-83be-92a55dca8b76
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: a493a282-6084-4aa0-8a8e-00805eebf89c
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 107a4d35-99a6-4927-b40e-a9d2faa43da9
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: c2ff7e40-904d-46dd-8fb7-422d876c72ec
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: b4cb48fb-09d5-420a-9b4c-b15f0f80364d
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 68d8e9b9-b782-4b7b-9e4f-d7ad9aa45fb0
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 6d24b0e4-c85f-45ec-8c7f-d197166306f4
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 6793f8be-4ab8-4f5a-9b2c-398fcec1e04f
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 6d6751a0-fa3a-47e7-ab65-ef573bb914c0
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: d92ab728-8a50-4cfc-9cff-dff83e733460
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 052f42bc-99b9-487e-b630-d2728f7905f0
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 4c4f9fa2-aa60-4a55-9f96-ed4b3b9bc385
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: dd2c325e-6eef-451e-9787-dd8a3012bced
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: fe0a9f2c-eec5-4742-9e02-22b6402bcbb7
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 079ee591-e726-4acb-915f-b79acba5c070
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: c125ebb4-7f3e-44c6-96ec-0fd2b8981042
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 223aef9c-c216-4f46-87eb-19a4b85e0370
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: italic; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 9c626d32-1e61-4677-8011-67d9fab13488
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: e489d573-c16f-4109-882b-b6dc32e7eaad
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 677aa6d2-b1f5-4877-ad37-3d5328af26bb
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 9ddd42df-8310-4a70-8ed8-e1ef7089dd5a
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 95d797e3-6f6c-46d1-b891-549f4b632919
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: aa50f5d7-893f-486d-9791-eaa95f437923
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 91e9601a-9105-4ab0-9186-fffdfe5542e8
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 300; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 5cae0d22-ddc3-4ee7-baed-da671bba262f
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 4347aa32-3859-4c31-b80c-5d95c845815c
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 993922b3-57c2-4827-b631-b82e78fa199e
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: e66358e7-f413-41fb-a445-a1ea0a493fc4
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: e527f520-2fa9-4753-83dd-172cdeac325f
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: dd13aaf7-a1c8-4ee3-a51a-c11fe58ffce1
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: eb48e08f-ce9f-4fdf-a3a8-3df962b4c0a9
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 675c43d7-f1e4-4b79-95b5-947eb30012a2
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: a479e49f-44b3-48a0-8f32-32b6476a44e0
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: a051605c-439b-4b7a-9707-3546cbdc4ad7
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: ff8d0016-1ecb-45a4-b202-e87556c2cccd
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 0b833d77-a4d9-47b8-ac4f-3d1011f4e5f6
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 9853e1d0-4fa8-4d3b-8863-aa885416c898
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 860cbf03-66b9-4fd2-8cf1-596e4df4da73
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 500; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 06c21767-759b-4dc7-9a99-9f596f97d794
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 6554fffe-d6b2-4bbe-9267-75e292f6f346
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: f18bd93a-e14a-4cd6-bff8-5ecb40ea14c6
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format("woff2"); unicode-range: U+1F00-1FFF}
+
+    Rule Id: 13415c7c-a3ed-41a9-af84-5d76de3e43a1
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 65712215-1aab-4315-9662-6fa4a900f0af
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 455e4162-7235-4444-9772-798c0c6a4e32
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 8b060892-e799-4870-8640-ad454efe58ee
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+    Content:
+      @font-face {font-family: "Roboto"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 000417eb-8a1a-42e8-96b0-49b042412568
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0mf0h.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 2fa6bf73-76ef-49fe-bf21-910ec613c75d
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0mf0h.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: edd404b2-2886-4464-b199-1e92d401ecfc
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSt0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSt0mf0h.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: 09d11f5e-8d80-44f6-9140-6bde5d02843f
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSd0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSd0mf0h.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: 0d162a03-57c5-4837-ba27-5b0610be973c
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSZ0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSZ0mf0h.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: 25752bb8-fc96-473f-8b9e-8f9586ac019d
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0mQ.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 400; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0mQ.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+    Rule Id: 8aec192e-375b-4df4-8cf7-11b201f2b629
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0mf0h.woff2) format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F}
+
+    Rule Id: 7a6b6362-3f35-4b7f-9a6d-ce76e2c0389f
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0mf0h.woff2) format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116}
+
+    Rule Id: 795a393c-eeab-4dd4-a93a-3aa8709362cd
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSt0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSt0mf0h.woff2) format("woff2"); unicode-range: U+0370-03FF}
+
+    Rule Id: a174599f-7d75-4e9d-87d3-199c2a964381
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSd0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSd0mf0h.woff2) format("woff2"); unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB}
+
+    Rule Id: c135591b-0c34-4b71-99fa-e6faa130f643
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSZ0mf0h.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSZ0mf0h.woff2) format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF}
+
+    Rule Id: ad747822-8f29-4791-bf90-6661802f54fb
+    Rule Type: font
+    Selector:
+    Belong to: 86ba5d3b-7467-42bb-bc0a-b229a097f340
+    Apply to: 
+    Related Link: 
+        https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0mQ.woff2
+    Content:
+      @font-face {font-family: "Roboto Mono"; font-style: normal; font-weight: 700; src: url(https://fonts.gstatic.com/s/robotomono/v22/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSh0mQ.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+
+
+

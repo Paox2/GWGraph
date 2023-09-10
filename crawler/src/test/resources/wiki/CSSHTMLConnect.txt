@@ -1,0 +1,4610 @@
+------------------------- Base URL : https://www.wikipedia.org/-------------------------
+
+
+
+
+
+---------------------Inline CSS: ------------------------
+
+
+Block Id: 76fdd765-a149-4601-b1a5-602ec88b6f17
+Src: 
+Related html node: 36b507ec-d5df-465b-b54f-92f9b28e331b
+Type: inline
+Inside CSS Styles: 
+    Rule Id: b60da33b-e225-48a7-8725-37fc100dc9ad
+    Rule Type: style
+    Selector:
+    Belong to: 76fdd765-a149-4601-b1a5-602ec88b6f17
+    Apply to: 
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+    Related Link: 
+    Content:
+      padding-right: 64px;
+
+
+
+
+
+
+---------------------Internal CSS: ------------------------
+
+
+Block Id: c05606c3-ceca-4fdb-9f9d-047467815db7
+Src: 
+Related html node: 4988a9e8-b1c9-480a-b2a7-cbbe9a49ad10
+Type: internal
+Inside CSS Styles: 
+    Rule Id: cdfb0d5f-a1a6-4541-9fd2-53cdb18571fa
+    Rule Type: style
+    Selector:.sprite
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      0b4eace3-71bd-4fcd-aaca-4cd9fde57e57
+      43c3d48c-224e-4e64-80fe-a68ef2216eb2
+      37541efc-3f66-42e7-845e-3963f9a2c26d
+      4b898cf1-e541-416a-b7b8-8945620b469b
+      e13394c5-2982-4071-a4e0-0eb5288c0e49
+      e72fe161-9fa1-4a3c-a591-703c66d79763
+      e6254395-682f-4e49-ae90-29c72aa85b0e
+      9e49a9e2-fb89-4ed3-af35-cee611ced702
+      fd6aa1c8-6cab-4bd5-8bfa-3173af0c7d74
+      4d53fb22-cca4-46ce-bed3-c91b256c1b66
+      770ddb2a-c82d-40c9-8d2f-77ca6292cdb1
+      b799c58a-d020-436d-aded-7e5012a72e27
+      9c11e23a-7587-4fd4-91f0-471ac6407e15
+      3ccb4035-cf44-453d-af07-113df74892f2
+      69db4f22-2335-425f-8eb0-548b54f06f82
+      31141df2-dc42-4b21-a3c0-3375671d21ae
+      e0027e99-5ef8-4a8d-a546-a9a9d1da23d5
+      eeb7c797-4bd2-45ae-823a-17f01e6c4bc5
+      cf167cc4-cdc7-4ec6-b252-08e708934a95
+      d3a63be2-ddcf-429c-8f74-5a223c1f68b1
+      783a345b-80d0-4ef2-aea4-b30ebfd920f0
+      9514b220-62a0-4e98-8006-fb8553b4bca9
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-8bb90067.svg
+    Content:
+      .sprite { background-image: linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/sprite-8bb90067.svg); background-repeat: no-repeat; display: inline-block; vertical-align: middle }
+
+    Rule Id: b2bca6c7-1b9f-4040-86c0-080944bf1c26
+    Rule Type: style
+    Selector:.svg-Commons-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      4d53fb22-cca4-46ce-bed3-c91b256c1b66
+    Related Link: 
+    Content:
+      .svg-Commons-logo_sister { background-position: 0 0; width: 47px; height: 47px }
+
+    Rule Id: c0346b40-d91d-43b5-9b63-2c2c1f216e06
+    Rule Type: style
+    Selector:.svg-MediaWiki-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      eeb7c797-4bd2-45ae-823a-17f01e6c4bc5
+    Related Link: 
+    Content:
+      .svg-MediaWiki-logo_sister { background-position: 0 -47px; width: 42px; height: 42px }
+
+    Rule Id: e2e68970-c7fe-42f9-92f7-357d29dc5a19
+    Rule Type: style
+    Selector:.svg-Meta-Wiki-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      9514b220-62a0-4e98-8006-fb8553b4bca9
+    Related Link: 
+    Content:
+      .svg-Meta-Wiki-logo_sister { background-position: 0 -89px; width: 37px; height: 37px }
+
+    Rule Id: b396bc3d-523a-4ba3-9fc0-b0982519f00a
+    Rule Type: style
+    Selector:.svg-Wikibooks-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      9c11e23a-7587-4fd4-91f0-471ac6407e15
+    Related Link: 
+    Content:
+      .svg-Wikibooks-logo_sister { background-position: 0 -126px; width: 37px; height: 37px }
+
+    Rule Id: a1598cb9-b2d6-4962-966f-f6adb59e9d68
+    Rule Type: style
+    Selector:.svg-Wikidata-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      69db4f22-2335-425f-8eb0-548b54f06f82
+    Related Link: 
+    Content:
+      .svg-Wikidata-logo_sister { background-position: 0 -163px; width: 49px; height: 49px }
+
+    Rule Id: 3a944d5a-4005-433d-a05e-583556a1348a
+    Rule Type: style
+    Selector:.svg-Wikifunctions-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      783a345b-80d0-4ef2-aea4-b30ebfd920f0
+    Related Link: 
+    Content:
+      .svg-Wikifunctions-logo_sister { background-position: 0 -212px; width: 50px; height: 50px }
+
+    Rule Id: cf609673-127f-4d58-a9dc-a9fe5480e4f2
+    Rule Type: style
+    Selector:.svg-Wikimedia-logo_black
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      e72fe161-9fa1-4a3c-a591-703c66d79763
+    Related Link: 
+    Content:
+      .svg-Wikimedia-logo_black { background-position: 0 -262px; width: 42px; height: 42px }
+
+    Rule Id: 56539bf0-5668-4dd3-bec8-ac6be9dc2426
+    Rule Type: style
+    Selector:.svg-Wikipedia_wordmark
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      0b4eace3-71bd-4fcd-aaca-4cd9fde57e57
+    Related Link: 
+    Content:
+      .svg-Wikipedia_wordmark { background-position: 0 -304px; width: 176px; height: 32px }
+
+    Rule Id: 03a3ef1a-d76b-44c1-a03e-7498ec0b0df3
+    Rule Type: style
+    Selector:.svg-Wikiquote-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      e0027e99-5ef8-4a8d-a546-a9a9d1da23d5
+    Related Link: 
+    Content:
+      .svg-Wikiquote-logo_sister { background-position: 0 -336px; width: 42px; height: 42px }
+
+    Rule Id: 036f603a-4f1e-43c1-a2a4-bae81c8fa395
+    Rule Type: style
+    Selector:.svg-Wikisource-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      cf167cc4-cdc7-4ec6-b252-08e708934a95
+    Related Link: 
+    Content:
+      .svg-Wikisource-logo_sister { background-position: 0 -378px; width: 39px; height: 39px }
+
+    Rule Id: 8e90cb81-76da-4540-b9bb-7ed1e3d8fe05
+    Rule Type: style
+    Selector:.svg-Wikispecies-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      d3a63be2-ddcf-429c-8f74-5a223c1f68b1
+    Related Link: 
+    Content:
+      .svg-Wikispecies-logo_sister { background-position: 0 -417px; width: 42px; height: 42px }
+
+    Rule Id: cd31b063-acae-42c7-9926-d912fc989702
+    Rule Type: style
+    Selector:.svg-Wikiversity-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      31141df2-dc42-4b21-a3c0-3375671d21ae
+    Related Link: 
+    Content:
+      .svg-Wikiversity-logo_sister { background-position: 0 -459px; width: 43px; height: 37px }
+
+    Rule Id: 8bacee7b-a435-4006-aeb0-837b1f2428bc
+    Rule Type: style
+    Selector:.svg-Wikivoyage-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      770ddb2a-c82d-40c9-8d2f-77ca6292cdb1
+    Related Link: 
+    Content:
+      .svg-Wikivoyage-logo_sister { background-position: 0 -496px; width: 36px; height: 36px }
+
+    Rule Id: ca550cbb-7c9d-4532-8fb3-d4d868ab8f3f
+    Rule Type: style
+    Selector:.svg-Wiktionary-logo_sister
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      b799c58a-d020-436d-aded-7e5012a72e27
+    Related Link: 
+    Content:
+      .svg-Wiktionary-logo_sister { background-position: 0 -532px; width: 37px; height: 37px }
+
+    Rule Id: 2bb973dc-0448-41cf-9f57-2bdbbc19b6df
+    Rule Type: style
+    Selector:.svg-arrow-down
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      43c3d48c-224e-4e64-80fe-a68ef2216eb2
+    Related Link: 
+    Content:
+      .svg-arrow-down { background-position: 0 -569px; width: 12px; height: 8px }
+
+    Rule Id: 4e5ee83f-ec87-4bb9-a0fe-9c8d63949cc1
+    Rule Type: style
+    Selector:.svg-arrow-down-blue
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      e13394c5-2982-4071-a4e0-0eb5288c0e49
+    Related Link: 
+    Content:
+      .svg-arrow-down-blue { background-position: 0 -577px; width: 14px; height: 14px }
+
+    Rule Id: bb77553d-2b77-4a9e-b9bf-8db490b46263
+    Rule Type: style
+    Selector:.svg-badge_google_play_store
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      9e49a9e2-fb89-4ed3-af35-cee611ced702
+    Related Link: 
+    Content:
+      .svg-badge_google_play_store { background-position: 0 -591px; width: 124px; height: 38px }
+
+    Rule Id: ec0769b6-9168-4ef7-90a4-fdf6d36083a5
+    Rule Type: style
+    Selector:.svg-badge_ios_app_store
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      fd6aa1c8-6cab-4bd5-8bfa-3173af0c7d74
+    Related Link: 
+    Content:
+      .svg-badge_ios_app_store { background-position: 0 -629px; width: 110px; height: 38px }
+
+    Rule Id: a9f899f9-2beb-4866-83a8-3695e1701398
+    Rule Type: style
+    Selector:.svg-language-icon
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      4b898cf1-e541-416a-b7b8-8945620b469b
+    Related Link: 
+    Content:
+      .svg-language-icon { background-position: 0 -667px; width: 22px; height: 22px }
+
+    Rule Id: ccb2b2c5-691b-42cf-b8dd-8c5e02269813
+    Rule Type: style
+    Selector:.svg-noimage
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-noimage { background-position: 0 -689px; width: 58px; height: 58px }
+
+    Rule Id: 8f583f36-f4b6-4fb5-804d-1d3be433dcb6
+    Rule Type: style
+    Selector:.svg-search-icon
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      37541efc-3f66-42e7-845e-3963f9a2c26d
+    Related Link: 
+    Content:
+      .svg-search-icon { background-position: 0 -747px; width: 22px; height: 22px }
+
+    Rule Id: c57b360f-fdd5-49ef-9b9e-497dd47b7c73
+    Rule Type: style
+    Selector:.svg-wikipedia_app_tile
+    Belong to: c05606c3-ceca-4fdb-9f9d-047467815db7
+    Apply to: 
+      e6254395-682f-4e49-ae90-29c72aa85b0e
+    Related Link: 
+    Content:
+      .svg-wikipedia_app_tile { background-position: 0 -769px; width: 42px; height: 42px }
+
+
+
+Block Id: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+Src: 
+Related html node: 367bef16-f8c0-4c6f-a0bf-cc7947b7a02c
+Type: internal
+Inside CSS Styles: 
+    Rule Id: eeb3744f-93a1-49b1-9af2-7256015332b3
+    Rule Type: style
+    Selector:html
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e49c46a5-4789-4510-9034-d69ce686cf67
+    Related Link: 
+    Content:
+      html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-size: 62.5% }
+
+    Rule Id: 24df9c48-c326-41d1-a712-f1e3183189e5
+    Rule Type: style
+    Selector:body
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      d80267dc-ad03-432e-b0ce-f2e7b831829c
+    Related Link: 
+    Content:
+      body { margin: 0 }
+
+    Rule Id: 75a5ae5e-3082-4eae-9dcb-535061d29216
+    Rule Type: style
+    Selector:article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block }
+
+    Rule Id: 9339ce72-3381-4a55-9768-6312f150933e
+    Rule Type: style
+    Selector:audio, canvas, progress, video
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      audio, canvas, progress, video { display: inline-block; vertical-align: baseline }
+
+    Rule Id: b1856365-f998-4210-9bde-a15cfbb50519
+    Rule Type: style
+    Selector:audio:not([controls])
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      audio:not([controls]) { display: none; height: 0 }
+
+    Rule Id: 60774f51-e2dd-40c3-a776-3052152c42e7
+    Rule Type: style
+    Selector:[hidden], template
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      [hidden], template { display: none }
+
+    Rule Id: 481352c6-71b5-47a7-8513-8e9b0a61596f
+    Rule Type: style
+    Selector:a
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a1c53392-c7ef-42d4-b0e3-b90941a6e34f
+      f8e1e427-cbb7-463a-aa40-479e94d8d322
+      5dd1d30e-cb30-49bc-9ea4-40f8ded67536
+      0dc72287-5985-42a2-b06f-1932880dd8ef
+      9a9692b1-d766-426f-8fd0-94b7d72f699f
+      58872156-ddfd-4a16-8bf9-e91012524b0c
+      0c924803-4c09-4896-9ec1-45e9766741b3
+      d89cbedc-b983-42dc-b414-26f52fc7bb9d
+      c90dbd5c-98fd-43b0-b597-747d892f898b
+      3afacd4a-6c1e-4b32-ab46-2133b67d297f
+      ca3355a2-ac03-48ed-a139-e0c057181acc
+      7cf34fda-9fae-4ae8-90ce-736937691549
+      2cf7ba0a-dbd3-48be-bbfb-f84ea2b6f785
+      6c7beb8d-4670-439e-b46f-3d333ff3d056
+      9a23845b-4867-475c-bf8f-55a26f67c4fb
+      d8a2def2-551c-4e69-94c4-ba366e780095
+      87af7c3c-ad1a-4d6f-a5e4-d89eaf1e9f00
+      fd6ef879-e5f2-4a27-b304-ded21fed0477
+      96c95374-8ae5-4e04-bfad-fcba8eb1916f
+      0fe21087-335a-4268-9f63-3384b4f5cf83
+      75b319ea-82c0-43dd-9084-080e7241268e
+      661f1220-4518-453b-8e28-d789e09fb2c4
+      b97ff59b-aae4-4a8a-8a4c-21416855cf17
+      6993b8d9-d21d-4e4d-a41d-1d9ab1ae72fe
+      bf93c8dc-89e3-409c-859f-117df94adc10
+      f4e25a25-b943-4a10-b370-42cbe57e1b52
+      b5b7ceb0-13c3-4a55-b2f3-cd550d0561de
+      08c9e6c7-3ac3-4afb-8305-db4e99989ed0
+      58749b67-3210-404b-92cc-91f0ed99798b
+      46c3c44e-09bb-4b6b-9344-fbd4e0918f8b
+      1f58149c-a22c-49b6-a0d1-9578dd51af9d
+      a23a0f09-4a35-43e2-8d31-2b54655ed2ea
+      cb191179-8821-4096-be01-56ab659670a1
+      1189819c-3f20-4689-9f5d-5ea4ebd07aee
+      3d61ce8f-9ef8-42d1-85e3-cc12d49feeaa
+      b0b78d1f-aa4d-4ab1-87c7-9682ac15625a
+      82f0a221-3bbb-4a18-81b0-031103d4e17d
+      b08187d8-f012-4d78-9858-5b4fc447fea9
+      a183cc36-892c-4cbe-9861-c00ed184b0a4
+      ce6afe79-2551-4076-9ecb-66095a851d54
+      bf7cb1b5-f61e-420b-8745-5c3f43502e7c
+      2b34fe17-33d1-45c7-926d-d9c05214f9b7
+      751a20bf-1646-4b75-9f62-8d4853aed59e
+      c663e7c1-8e17-4f78-89ea-8c4d1299ff34
+      84d9c7f9-ab35-4cc6-bc75-c5314b249f47
+      7ae8a1c0-ba00-412b-ab9f-0c1f2fcf9b83
+      87518759-82d5-4197-a4e6-bd0d6b602858
+      a30aaf18-49d4-4814-ae98-f866b417a57d
+      09ca3e98-c8d2-438c-9502-437453fef4bf
+      c79d98c1-7596-42d1-8702-a044b81b1e90
+      d1a1290e-b286-4304-bfa1-f219472bdc5e
+      41311541-59a0-47c8-b493-e1c6aa5dec19
+      7689a2fe-b09f-4351-bcc8-7f6cb0dc8663
+      ffb2aa33-e739-4292-9985-9f5fb139b801
+      2de501f3-1349-4d36-bdfb-8ef3dc4899a4
+      8159d188-90ff-46f0-9c38-6b14adeebbcf
+      87d8d4e7-4370-47b4-8412-88491283a06b
+      167f4012-16d9-4761-a6f5-4cd796df3d01
+      be061446-7be7-41ad-ac4c-5e81dc53916c
+      8ace60e8-3fc2-4f78-8bea-69ba13558e71
+      359e158d-d4d7-4814-afdd-87e9db292b2f
+      c5903528-1ec4-45bc-9ad6-085d1d8891d3
+      343bedd8-1079-405a-b7e3-e7d96b722ef9
+      d5499abe-8607-4100-bbda-5b8389cb52bb
+      68845b5b-db3f-4199-81ed-5d8fa883b6df
+      bc9ed088-45bb-4efb-8b1a-420d0859619c
+      033b93f0-4bc0-4002-9aef-c4d7f8ae092d
+      a7e6e67c-0f99-4627-b318-6b49e487d121
+      9e8f40eb-ce12-40fe-97db-c0b1ee44a231
+      e3cf7bb5-af61-4f75-adc9-d7b56a1dac3f
+      05a3c241-cd5a-4646-bec1-f038d8f9c710
+      5b240879-b2e8-43c0-ab7a-af7c4b5313c9
+      18cee9f5-bb81-4112-b35a-ecda07a59647
+      023ff76e-6564-4690-bf0a-99416cac1e36
+      b97d1809-9836-4a9e-b6c9-998fd247dd3d
+      e701b658-7510-43da-b574-9893c736abfe
+      f329836e-9a1f-4fc8-b92f-6b677ad00114
+      1b38e6e4-1c67-48e1-b2f8-ffa3f5f35643
+      3eeaa8a8-3f00-4d68-aa04-73a1f7e5f382
+      1e137d0c-d4a4-46ec-b0b6-02f2af5cf0c7
+      4b538eb4-56b5-420a-87ab-4a8cc1ee4223
+      0809f7c2-3e9a-4183-a3fa-e688040b4ad9
+      cb1f8962-0348-49e9-ad8a-2d0d5a3d1725
+      99132edd-4820-466f-9e90-74e163df385d
+      cc5c50ca-8bad-4a83-891a-aa8d5412d76d
+      be731d6b-249a-4eda-8bad-cc6a8f328537
+      972b843f-4396-4982-ad66-f89260459f80
+      2da048b7-2044-45bd-8498-43a00aaae1cd
+      31655655-5789-4565-94fe-0ae6b6ce553e
+      84aac77a-36f0-44ac-97d4-e65a3f83f3bd
+      26f0ee29-5733-49d6-8e10-cd9102520dd9
+      0ff1cdcd-06fa-483f-945d-47b956e1c71d
+      3bc9da97-bfb8-4798-b5ac-815d949434a9
+      a808f81d-7c1c-4662-84f8-57bf8c17c7b1
+      3fc80f0c-a864-432e-a671-201d497c44ae
+      b963f88d-1543-46f0-a166-25062d53a9bd
+      2f2e8388-9884-4aaf-aad0-88ca502af4de
+      5bea5a09-155e-4947-9cd1-bf025681ab62
+      8d237012-bca5-4701-8ee8-3bd8e7d3cf73
+      e687a7bb-65d3-4455-8966-ec647ac470c4
+      0dbaf6ad-7fd2-4c1f-937a-4aa6176b8642
+      beac63bb-e838-49b2-b686-59cbdacefcd9
+      299cb03d-f3ba-4a38-a2a5-1bbd26b3bfb8
+      69913232-365e-4916-a461-ffa3aea29019
+      c17e372a-4e64-479c-b6de-d5fec96db4d1
+      224f5d3b-ac6e-4c86-9c85-f8a44674dc9f
+      020974b5-9ac5-497a-a94e-a4bc80325c39
+      ae8f90cf-5296-4030-83b2-3c301fabd995
+      cc303bce-475d-4cd8-ad45-98f23a45789e
+      f28fc8a2-b55e-421b-84a6-fe8a52c44ffc
+      872efb0e-7496-4b80-a101-57aa70b96c9f
+      5e34bac4-23d2-4d19-9e72-963b61bdf854
+      2aafb8ee-95e1-4289-9198-3e4b814af8e0
+      e1f008df-c23e-44e7-a211-a94196a7724a
+      4636a99a-a13b-4ae9-9b19-197f8db6bb55
+      d28b2fee-d083-4f26-b8c6-19762c0270bd
+      f859d207-e1fb-4f83-bebc-52adbdab6019
+      a48d4b92-9713-489b-a1d9-4d183a662c73
+      5ba2218c-388b-4255-92e8-008bbe10c70a
+      e4777aae-b3c8-4c51-8c83-f7846cd3404c
+      24c9e77f-3097-4867-b746-8d3b33b6ee5e
+      786e7ce5-8f71-4063-b09b-c45ac67545c0
+      f79664ed-6910-431f-973d-adc81b780641
+      20eb3e22-b599-4529-a54b-63c1e5c7a772
+      335cb91d-fc2b-4cef-82ee-6228111d67cb
+      4eca827d-5adc-484d-83d1-63b648a528ff
+      b253b5bf-2fd9-440f-9cc0-cbd3bae867d9
+      dd324c24-6b9c-4c5e-8127-f1e1bfec24ab
+      47eeed67-b63a-45d7-9bac-0c6379f69f09
+      2d817857-04a0-4cb3-9eb6-0955812659cc
+      fbfab859-93e0-4a13-9e7e-9f61b3a0b97f
+      d3b79aa7-7369-44ab-b8a0-104ea0918e8f
+      151e141d-1e68-491b-a32b-e495ab03e9f8
+      913944e4-0f43-4a56-8412-8fce1cdf294b
+      7bc15910-ab56-4526-aca2-18b7eb5b6034
+      8729df42-aab1-4640-bc13-ce1bd5072668
+      670244f8-311a-4576-b417-f1189fe6541e
+      4dd8e045-a91f-45a3-a293-79bc1edce38b
+      ae45ae29-315b-4695-a83b-2334386b0afe
+      69ac7d6f-8919-4013-9e0f-3d229f500aa4
+      da2c6cea-7aaa-4f40-8a1b-6d716cad3e37
+      7895246b-9756-4c4d-8ba8-02b14231edc7
+      873fab7d-0e4d-48ce-9d65-e14e965eef40
+      45c968b6-98df-40b8-8141-7ac1197200ad
+      72c2fd2f-e278-45f0-a45b-195c91e9fdaf
+      266604c2-edfb-4819-a2a2-ee14d094b26b
+      facc9c59-477e-4a6c-9f6c-c6d81e9263da
+      04b19944-85dd-48a6-889e-ad7c2047444a
+      53c4b06a-a494-48d4-8a8d-6ba37e5a3978
+      d8c70143-572a-4309-b26c-84aebdca4602
+      c72ae09c-acc2-4fc0-98ac-be3edc81f755
+      fbb41389-c740-499e-bf2d-e23f3360c9af
+      ed5b2a96-3751-418b-b780-dd70fc05f5ef
+      2fc2d222-fe08-4878-b49a-e9dc2b789fbf
+      d68937d2-693f-437e-87fc-2897cf6c5e10
+      666b4b96-adf9-4b26-8add-56d6fb252e1e
+      9bd33c8a-a3fa-4be6-b5a5-5c3c777a0151
+      5ff08c3e-11bd-4ab6-b358-c5a0c5aa97a1
+      e964fa37-b28e-44f5-a818-7674a56a5553
+      af73dd60-3b63-4913-94b2-e06e24cd84f5
+      a3d16127-88c9-458a-be3b-e1e802820aad
+      644df3b4-2cf2-4b80-aeec-fccd44585542
+      b2386895-4381-4ae2-b5ed-b57c3d4d0c76
+      d3f5c969-7ec9-42cd-a6e7-4c0a3a883338
+      4fa9dc17-22eb-4eb3-8135-1513cc848618
+      5c3aaceb-d993-4c3c-8132-2c3ae5500329
+      1d5e90fc-5888-42e2-8629-7b5db2b39bef
+      c4fb01f4-55fe-4b83-9307-e9fa8dcae3e2
+      2b26f099-cb36-43dc-8eec-432013e9a519
+      d7cb4c2a-2ea7-4872-a7dc-f033c69afa65
+      fa14b276-73f5-4519-a47e-60b9001225a7
+      b530c5c7-c2a9-44c5-ad2b-21c4697627f0
+      f925ab7a-6ed5-4fc3-bf90-c7d43d1272f9
+      1e298c28-421a-4e08-b34c-47bdbf10ab80
+      8d3af1cf-d0e1-4d41-8a45-08adca43cff0
+      0d5ada17-4fa9-4111-b23e-540d5e705464
+      71935fa3-2a42-4e26-9d08-5b7b42647977
+      04ff6795-5b3a-4751-8a8c-2c54aab40673
+      697162c2-b1a3-4bb5-92ed-4c36a75983d8
+      0b8f8272-a9c1-4ec6-9c72-d26555f98fa8
+      32ecab99-34ec-49a7-b253-26c5fedae5bf
+      22a241a6-1501-48c5-b54c-a0108262236b
+      f99a5db5-11bc-46d0-a70f-53f37fc320d8
+      72781156-928c-4618-b08a-216e5fdfa2af
+      69069a23-eaaa-4057-8c3a-813fbe0a5474
+      388b6233-eaa9-4d4f-a4b4-05d4e1b75e90
+      1402bef9-a86d-4064-9643-6d1a84e3b51f
+      c4fc3738-4cf9-44fb-a8e5-9804113b3b81
+      805dbd5e-e3f2-44cf-a4d1-38d6b3bd4d20
+      a7384ead-acf8-4692-ac2a-f3a93ed3cf33
+      5a49b8b9-2f56-4100-a797-5ea0b0c48e41
+      6057da6e-14f1-447a-9bd4-f05122f633a4
+      cbe3290c-a15f-4a45-8369-1974684d00eb
+      e8cf1121-a9d9-486a-8aad-91cedae1884e
+      28a81266-8a45-4d2d-b01d-0ccb14b8c58e
+      9f88e326-79a3-4615-98d6-0afd9f3d2501
+      39bfcdfa-5d57-4ae1-ad1b-6364fd4d0102
+      6da8223c-c2df-48c8-8cd1-2660f1c560f4
+      d24f9c23-270c-4b1e-bf3c-27f99a8f16be
+      304e7640-4700-48a3-b2cb-c2fed7d57395
+      9ec07d3c-1419-49b7-b476-80571f3870f2
+      e0449787-ff10-4657-af72-40c75f6c6a51
+      f2424195-f3b0-4b87-b64e-d826bf4420b9
+      0120dad8-41bc-4520-9c6d-d9ec49fe7028
+      94d624f4-25d7-409b-8df5-5b68be38ec62
+      a41f33eb-cfde-4509-9fd1-6a5ef3b98a07
+      3661b6d7-7127-49b1-bbcf-ab21af1c5a68
+      3235a78f-212f-417e-826c-eb118a6b8f35
+      76f0b230-4b3f-43e1-9ccb-1ee8b78212a5
+      3ac94036-5344-4a24-a7b8-36580c594aa5
+      85d47bbc-22ad-4007-9c75-5c69b49c10d2
+      6ed5b892-3a1d-4eeb-b12c-8f3b32080d24
+      2ec592ba-bdb1-45dd-b018-880602b180da
+      55693a72-c2df-4c5f-82b0-a97cd4fdf25b
+      4db4d503-fd0f-444e-a613-72e620cc37a3
+      55e181c2-18c0-4ae4-92b7-e4f2b19c159d
+      0bd7e721-56cd-49ad-9fe1-1baa24d17de5
+      4268c9c8-a9f8-4a8b-8db8-5a7d03d6e14a
+      acec9c15-f3fa-4a95-b6be-244094275c31
+      066238d6-7a5d-4170-acd2-9e26c4d3ed35
+      8d85af50-5e31-48e5-a1bf-77d43121c562
+      9a8c3a8a-6fb8-48ac-baa9-62ed2ac3505f
+      b1dc32c0-727b-4991-b976-62ea4791aad3
+      10a1f0fa-7f1f-4770-a46f-844dcfc34149
+      f8dc4a54-9a29-462d-97e0-0fd4e855bd6b
+      f54764a7-5135-4d98-9f52-14f7bf4b137b
+      f76f3dcd-4eb3-4590-91c3-56d770479999
+      28724976-2e71-47fd-b025-4ee9ac598c73
+      1f05e708-8258-46d3-9a4f-ee9e2a702024
+      5b391b5d-9fbd-4da5-998c-ebc54d5c80c0
+      d07e5323-4d8a-4dc0-a0be-e9e80a348384
+      7554dd2f-8083-43dc-a74d-cc1abc7f9497
+      fcd19a15-29a0-4f6f-8e44-960547a20a55
+      01e4cb27-403c-4d73-82e2-4787893ed93c
+      38f45594-9aca-4be2-a7d7-136da44d1b45
+      b3f823ce-3eb3-45f3-91f3-50055ab81466
+      c3d96fdb-4184-480e-9880-c539738e2b12
+      3dc47dfc-8502-4089-a976-15869986a1c0
+      2996a713-92f3-445a-83b9-7bdf174511fa
+      6a9e8b3f-e02d-480d-afa9-bb1304fc27a6
+      ffa7c313-9504-4ca6-8bf9-fd163116e2c5
+      2fb954fc-3e1e-4e2d-9120-844109684bb9
+      b5d3f335-a690-4e3b-88e2-b001c94923ca
+      28232468-99bc-4cb6-868a-b361d79a0294
+      5f78947e-e404-41bb-9f30-122d494b9fda
+      7c7919f2-85d7-4eca-bc96-4b05f73c2a6e
+      226ab36c-83e0-45b2-adaf-30cd8d30aefd
+      4913acf9-8bad-4a3d-ad71-658120c64e7f
+      e27c6888-f56c-4d1d-9089-09918d68ea5b
+      b2e0ed38-2160-4025-964f-5ec2a3504afb
+      f185c8c6-eb0b-4777-a60e-2834b832fc16
+      2ce63935-55cc-4db8-82eb-7b7b15514d90
+      2f593801-db68-4675-8fc9-657287f67aec
+      2e4f5a0c-e363-48b9-a8b8-bb626fa087c2
+      c32ca032-291a-4a2e-b7f9-090d13e04af2
+      637c55ed-a518-4552-8f31-92b7d6a7ceb3
+      85d239e9-046c-46f0-9b0a-e55a7d8b197b
+      ce8a9088-7012-476f-ae39-b489f653c03a
+      5dfcde48-7e90-4247-933f-3cbacf85a6c3
+      5b9222b3-9e4e-4162-a316-f8843c9621a8
+      f9d2fe67-a662-4b1d-baf7-8ed3660d5908
+      95cdcc11-a11b-45b3-b6c2-480c40e5a566
+      cae361b1-08d2-4ee9-a0cb-708405139ac7
+      fe6ca525-a024-440e-91c3-7b748e7dd2ed
+      6322be3a-fd02-48cf-9a5b-09fe755fea07
+      7debadac-e6c2-4b6d-823a-466acbab5a4d
+      420b5c4c-f982-434c-85a7-b3c2be0f9704
+      32a5e5ba-3ea0-401c-9d55-78aef43c5a51
+      0dac2956-c198-470b-83f2-d7c411ab35c4
+      6716ea11-dd00-42c1-b223-99d9be308fba
+      68f26ba4-8820-43c2-8b8a-c699b3ab2a9e
+      e3580a04-4b29-4f73-9c80-f8a17fb52a4c
+      8c2c8697-a7bd-4720-875b-66d8df36535a
+      b7d71ae7-9be4-4ba6-b30d-4e69b384bda7
+      8a6e1850-0682-461d-8048-8ac884445e48
+      9bf8c714-b69f-408f-8f15-ee618ee70e86
+      bec3a574-8fe0-41d7-ad78-adaaae50bcbf
+      d01094e1-4193-4c09-9af0-bc917aef083f
+      190066f9-c72b-4ab5-a919-94b2989b4d75
+      5b0c2319-4fac-4610-bac7-4749ffe0984d
+      cf1d91d7-4278-4437-b098-cafe86a39330
+      bb515061-8c47-4293-a143-67b4dac92423
+      998d3e69-7462-4257-985b-db240b810f6a
+      f69d95c8-da3d-49f1-b683-d5e5e9f17634
+      52344953-64c5-4f0c-8fef-e330907e4a80
+      f5582856-93b3-4652-b802-e032535d95c9
+      b30d79f9-02c3-48e8-adaf-02adde4dc592
+      ff82b06c-fc04-42e9-b47b-55830a5ec15e
+      286ac050-4776-48cf-b249-508dcf93456c
+      6096a37a-6a6c-43cb-9290-aa0158a2a6c4
+      6b7b7d7b-8974-46b5-97e5-0fc2b61c0ed7
+      6657baf4-c28f-455a-9660-1b05fe7b1b03
+      12778b0b-c11b-4e35-9bb9-736a3eabd741
+      f381f340-0f39-4a89-941b-d34339cce279
+      68f70f0b-f3dc-45a5-937c-3a8ead3cb1e0
+      99035bdf-9ce3-4bcf-98d6-5f6ecaa068f8
+      ced47e75-4776-4b03-92d6-0202523388fb
+      044e432d-16fc-45ea-80ad-e565e03ecaea
+      9b4cc11c-0619-457f-9919-0843d0b2bd73
+      58797b1a-e3ee-4614-acd8-34da80993066
+      139d480c-dfe1-4c12-beb0-49590c5d47f4
+      3a6cce94-9985-483e-a06f-55d98b53f4bd
+      085ced84-5818-4e6b-8081-d21cfdc86fba
+      a055ca05-0142-474b-894d-1141879f441b
+      71e42316-bcad-45fd-8fbb-0499b3ae122e
+      a9c54cb8-e77b-407a-a83b-21c2ec5d4e86
+      295c1563-ef75-48b2-bdca-50c663c94b0d
+      5064ca3f-278a-418c-87b5-784a51ec148f
+      6eb4d8a4-7a60-46bb-ac88-e6f64c5489f6
+      75bd60a7-66bd-42c8-b54f-1e5679eb117d
+      6f063da0-d727-4f22-a2f1-3e4bc8a7e29b
+      b216593d-048c-445b-b2d4-6e1a78bf4279
+      b5f92151-b9bb-41ed-89f1-004f164966be
+      1f7e2800-4301-4ea3-8c00-8c51633a8df6
+      1c639b79-ff36-4e92-9d17-ae9f1a36b119
+      c347034d-f256-4e35-93f0-75f0bafa3f49
+      fa55dfde-4d5f-4b88-a27c-0743f2f04fea
+      660cc940-c75f-4794-b735-3a65b03aa4f6
+      b8d89266-b482-46d6-8450-64f425303235
+      0b23742f-4e4e-4ce3-b94f-c3fba592120d
+      9ba2dcb9-6f7c-4671-a5bf-9c8a4b315f30
+      34bd3eb8-6b1c-4b00-9897-ce5636144f39
+      4c107822-8190-4561-9fde-f23d4b0718d5
+      2443a146-5afe-4cd1-bd4f-79fa742ee603
+      a78412f5-dcaf-4bd6-9a71-519b87d5d804
+      eab5ac82-5c26-43c7-b19e-f9dc2814820d
+      8fffafaf-c744-432f-b95c-ea83a5da2063
+      c7252ed9-372a-414d-b572-957d3f6a166e
+      3f0c4445-4088-494b-a878-b68f7c0462ab
+      2eb85371-4d9c-4447-a16d-e345aebe8832
+      fead1387-697a-4d53-a6cc-ad3cf51faa55
+      ee340794-a4f0-4df8-9d83-bac508d109aa
+      23f20fe1-c0a4-4c74-8195-f93e41d09c22
+      5cf762b4-0318-46c5-b873-252c15bca155
+    Related Link: 
+    Content:
+      a { background-color: transparent }
+
+    Rule Id: 9f191e9e-5ccd-4410-8cad-db7ed7da1367
+    Rule Type: style
+    Selector:a:active, a:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      a:active, a:hover { outline: 0 }
+
+    Rule Id: c947d9de-53de-4565-a039-14c7cb2ec64d
+    Rule Type: style
+    Selector:abbr[title]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      abbr[title] { border-bottom: 1px dotted }
+
+    Rule Id: 691085e6-c31e-4e03-9aeb-4922754c5f94
+    Rule Type: style
+    Selector:b, strong
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      09c33828-e3af-4309-9bbb-241f96854cc2
+      c6d2a756-4449-43bc-8ac2-86d075149341
+      4b2c86dc-0771-47a0-be28-eb9607411e89
+      21d7218c-edbd-45d1-b6e4-490c583f163f
+      4f1d5904-eb47-4ff7-b923-4b0bde988720
+      4f23b004-8881-4263-bd1b-f7553d21bebe
+      c894d1f5-d058-4b0a-bce9-559a17b3b6a1
+      76347d15-e7a4-499b-8a1d-bebbde40c74f
+      94562971-2f52-4cd8-bcce-576fc91a16c4
+      3d5700da-38ba-4440-b3f2-9bc212780150
+      5d5bf97e-c4b8-4568-91f0-65e3312f04d9
+      01b6c9a4-74e8-4914-9214-8a8450c7353f
+    Related Link: 
+    Content:
+      b, strong { font-weight: 700 }
+
+    Rule Id: 5f6fd623-f36c-4aeb-bb70-1443801cdd83
+    Rule Type: style
+    Selector:dfn
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      dfn { font-style: italic }
+
+    Rule Id: d451897a-4bee-4212-b69b-4b1d7292591d
+    Rule Type: style
+    Selector:h1
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      55405582-272f-4004-a9ae-c9d2dc04e389
+    Related Link: 
+    Content:
+      h1 { font-size: 32px; font-size: 3.2rem; margin: 1.2rem 0 }
+
+    Rule Id: 86110143-76b2-40e6-97a4-d13629e2bf7b
+    Rule Type: style
+    Selector:mark
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      mark { background: rgb(237, 171, 0); color: rgb(0, 0, 0) }
+
+    Rule Id: 859af708-5327-4abe-a33f-6ea0cb9a7230
+    Rule Type: style
+    Selector:small
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      2bc275c0-3f9c-4bbf-8d0a-2e08d7a5c3da
+      ab955bdd-c874-4fee-ac86-5105424fdbab
+      c110f4a2-f8c2-4f5c-a069-96c9e61a2dda
+      d6533da0-6ed5-452f-9363-49ba735052e2
+      4d2f902f-8617-4115-b52e-2e802785a35c
+      51c0eaaa-a4c1-4a4f-bb67-b29e02f72c5d
+      5d66dc91-0065-4dab-a0c3-43eeed4edf4c
+      c4ea4da1-ec07-4629-918b-467e184a864a
+      8a6ef7e2-5d09-4359-ac93-01801469b529
+      ff0fb379-2e3f-4c8e-a55a-ce7694b28846
+      b86c3d57-3976-4aed-be49-356772512e15
+      27e471ec-8c5f-4b77-b24c-637e3e5ef238
+      d8e17627-3bf4-4b43-ac58-6277ddfb568a
+    Related Link: 
+    Content:
+      small { font-size: 13px; font-size: 1.3rem }
+
+    Rule Id: 401fe31d-6011-425d-b4dc-2247b252be0e
+    Rule Type: style
+    Selector:sub, sup
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline }
+
+    Rule Id: 3d9adec3-68e5-4edb-a6c1-58c3d6d258a6
+    Rule Type: style
+    Selector:sup
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      sup { top: -0.5em }
+
+    Rule Id: d9570971-b845-4563-b803-93e608f2280d
+    Rule Type: style
+    Selector:sub
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      sub { bottom: -0.25em }
+
+    Rule Id: 4f8acc97-be5a-4551-8033-70f9c747feb1
+    Rule Type: style
+    Selector:svg:not(:root)
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      svg:not(:root) { overflow: hidden }
+
+    Rule Id: f0884407-ac88-4ad9-80e7-f5a3bc6310dc
+    Rule Type: style
+    Selector:figure
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      figure { margin: 1.6rem 4rem }
+
+    Rule Id: db39272c-312d-4fee-ad80-9652ebf50c4e
+    Rule Type: style
+    Selector:hr
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      c893d968-d5cb-4b94-b680-71d279bd0e47
+      05785591-41db-4a65-8c40-919362052c0f
+    Related Link: 
+    Content:
+      hr { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box }
+
+    Rule Id: ed00dd9c-b3f6-4896-a0f9-855c6b4bc4fb
+    Rule Type: style
+    Selector:pre
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      pre { overflow: auto }
+
+    Rule Id: 6fbbe153-2b2e-4a7f-a8ba-d185b3fc3810
+    Rule Type: style
+    Selector:code, kbd, pre, samp
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      code, kbd, pre, samp { font-family: monospace, monospace; font-size: 14px; font-size: 1.4rem }
+
+    Rule Id: 0a88d005-fdb6-40f3-984b-0aeff57c79e1
+    Rule Type: style
+    Selector:button, input, optgroup, select, textarea
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      ec1f5879-5233-4323-8941-9643a95ace4e
+      e0df92da-64ad-4463-b154-b91d19ef01ac
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+      87ca3415-9aa9-4133-a990-a88bff40a54c
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+      aa010ce0-700e-48ec-9c94-a751ab580098
+      0a8fe1b3-aacb-4ed2-8dbe-250588f5ae60
+    Related Link: 
+    Content:
+      button, input, optgroup, select, textarea { color: inherit; font: inherit; margin: 0 }
+
+    Rule Id: 47f2a9f5-dbda-45ab-a490-050247366f2f
+    Rule Type: style
+    Selector:button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+      0a8fe1b3-aacb-4ed2-8dbe-250588f5ae60
+    Related Link: 
+    Content:
+      button { overflow: visible }
+
+    Rule Id: 7ceebd7e-b739-4fa2-8ba9-2ae104e467c5
+    Rule Type: style
+    Selector:button, select
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      87ca3415-9aa9-4133-a990-a88bff40a54c
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+      0a8fe1b3-aacb-4ed2-8dbe-250588f5ae60
+    Related Link: 
+    Content:
+      button, select { text-transform: none }
+
+    Rule Id: d663a484-b54b-4e83-868a-d4d29d4cd2e5
+    Rule Type: style
+    Selector:button, html input[type="button"], input[type="reset"], input[type="submit"]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+      0a8fe1b3-aacb-4ed2-8dbe-250588f5ae60
+    Related Link: 
+    Content:
+      button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer }
+
+    Rule Id: 1bba6fe2-7cad-47ce-bc37-36157e25fa1e
+    Rule Type: style
+    Selector:button[disabled], html input[disabled]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      button[disabled], html input[disabled] { cursor: default }
+
+    Rule Id: 04cfae65-684c-47c4-a102-349ae4f92773
+    Rule Type: style
+    Selector:button::-moz-focus-inner, input::-moz-focus-inner
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0 }
+
+    Rule Id: 34710ffe-286d-46ed-80bc-f2571b486111
+    Rule Type: style
+    Selector:input
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      ec1f5879-5233-4323-8941-9643a95ace4e
+      e0df92da-64ad-4463-b154-b91d19ef01ac
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+      aa010ce0-700e-48ec-9c94-a751ab580098
+    Related Link: 
+    Content:
+      input { line-height: normal }
+
+    Rule Id: 018c0ca6-9d5c-45e7-8c36-197f3cab79ef
+    Rule Type: style
+    Selector:input[type="checkbox"], input[type="radio"]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="checkbox"], input[type="radio"] { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 0 }
+
+    Rule Id: c291f175-fcc8-4732-877e-eaa0cf07f270
+    Rule Type: style
+    Selector:input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto }
+
+    Rule Id: 75549067-80c5-4fa3-a0ac-4d7bec24b7b5
+    Rule Type: style
+    Selector:input[type="search"]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+    Related Link: 
+    Content:
+      input[type="search"] { -webkit-appearance: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box }
+
+    Rule Id: ed5dba86-b1b4-40af-97f1-4ba0ffe79359
+    Rule Type: style
+    Selector:input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none }
+
+    Rule Id: 3b60f22b-3860-4396-a9d3-7e8258ee1c73
+    Rule Type: style
+    Selector:input[type="search"]:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+    Related Link: 
+    Content:
+      input[type="search"]:focus { outline-offset: -2px }
+
+    Rule Id: 41e4d7ed-55f3-488a-ae7a-e3737a3cfa6f
+    Rule Type: style
+    Selector:fieldset
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      34a1580e-4ed7-453b-8a6d-b0ea2643f59e
+    Related Link: 
+    Content:
+      fieldset { border: 1px solid rgb(162, 169, 177); margin: 0 0.2rem; padding: 0.6rem 1rem 1.2rem }
+
+    Rule Id: 7f4a0295-3a42-4500-ab37-333a7ad887e8
+    Rule Type: style
+    Selector:legend
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      legend { border: 0; padding: 0 }
+
+    Rule Id: bc939127-8ed8-4e51-8257-3e2734754235
+    Rule Type: style
+    Selector:textarea
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      textarea { overflow: auto }
+
+    Rule Id: ac2e4860-eeac-4021-8254-5d03417467f8
+    Rule Type: style
+    Selector:optgroup
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      optgroup { font-weight: 700 }
+
+    Rule Id: e6ad96f5-d235-49bd-a5f5-ac36534eb3d8
+    Rule Type: style
+    Selector:table
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      table { border-collapse: collapse; border-spacing: 0 }
+
+    Rule Id: 8145bf5a-6f91-4f7b-b8f7-3598eddf75c9
+    Rule Type: style
+    Selector:td, th
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      td, th { padding: 0 }
+
+    Rule Id: c01245f2-47c2-4085-abbd-767a5430b237
+    Rule Type: style
+    Selector:.hidden, [hidden]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .hidden, [hidden] { display: none !important }
+
+    Rule Id: 2eeda813-4a55-4f17-ba5d-e86f234bbc0d
+    Rule Type: style
+    Selector:.screen-reader-text
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      42c90600-7f28-4a0c-8065-905a6d348640
+    Related Link: 
+    Content:
+      .screen-reader-text { display: block; position: absolute !important; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0; padding: 0; overflow: hidden }
+
+    Rule Id: 7ac63924-def9-49db-84cd-ae75e99c2e40
+    Rule Type: style
+    Selector:body
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      d80267dc-ad03-432e-b0ce-f2e7b831829c
+    Related Link: 
+    Content:
+      body { background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Inter, Helvetica, Arial, sans-serif; font-size: 14px; font-size: 1.4rem; line-height: 1.5; margin: 0.4rem 0 1.6rem }
+
+    Rule Id: fc6b3dde-9db4-44ab-bd91-aa4302b523b0
+    Rule Type: style
+    Selector:a
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a1c53392-c7ef-42d4-b0e3-b90941a6e34f
+      f8e1e427-cbb7-463a-aa40-479e94d8d322
+      5dd1d30e-cb30-49bc-9ea4-40f8ded67536
+      0dc72287-5985-42a2-b06f-1932880dd8ef
+      9a9692b1-d766-426f-8fd0-94b7d72f699f
+      58872156-ddfd-4a16-8bf9-e91012524b0c
+      0c924803-4c09-4896-9ec1-45e9766741b3
+      d89cbedc-b983-42dc-b414-26f52fc7bb9d
+      c90dbd5c-98fd-43b0-b597-747d892f898b
+      3afacd4a-6c1e-4b32-ab46-2133b67d297f
+      ca3355a2-ac03-48ed-a139-e0c057181acc
+      7cf34fda-9fae-4ae8-90ce-736937691549
+      2cf7ba0a-dbd3-48be-bbfb-f84ea2b6f785
+      6c7beb8d-4670-439e-b46f-3d333ff3d056
+      9a23845b-4867-475c-bf8f-55a26f67c4fb
+      d8a2def2-551c-4e69-94c4-ba366e780095
+      87af7c3c-ad1a-4d6f-a5e4-d89eaf1e9f00
+      fd6ef879-e5f2-4a27-b304-ded21fed0477
+      96c95374-8ae5-4e04-bfad-fcba8eb1916f
+      0fe21087-335a-4268-9f63-3384b4f5cf83
+      75b319ea-82c0-43dd-9084-080e7241268e
+      661f1220-4518-453b-8e28-d789e09fb2c4
+      b97ff59b-aae4-4a8a-8a4c-21416855cf17
+      6993b8d9-d21d-4e4d-a41d-1d9ab1ae72fe
+      bf93c8dc-89e3-409c-859f-117df94adc10
+      f4e25a25-b943-4a10-b370-42cbe57e1b52
+      b5b7ceb0-13c3-4a55-b2f3-cd550d0561de
+      08c9e6c7-3ac3-4afb-8305-db4e99989ed0
+      58749b67-3210-404b-92cc-91f0ed99798b
+      46c3c44e-09bb-4b6b-9344-fbd4e0918f8b
+      1f58149c-a22c-49b6-a0d1-9578dd51af9d
+      a23a0f09-4a35-43e2-8d31-2b54655ed2ea
+      cb191179-8821-4096-be01-56ab659670a1
+      1189819c-3f20-4689-9f5d-5ea4ebd07aee
+      3d61ce8f-9ef8-42d1-85e3-cc12d49feeaa
+      b0b78d1f-aa4d-4ab1-87c7-9682ac15625a
+      82f0a221-3bbb-4a18-81b0-031103d4e17d
+      b08187d8-f012-4d78-9858-5b4fc447fea9
+      a183cc36-892c-4cbe-9861-c00ed184b0a4
+      ce6afe79-2551-4076-9ecb-66095a851d54
+      bf7cb1b5-f61e-420b-8745-5c3f43502e7c
+      2b34fe17-33d1-45c7-926d-d9c05214f9b7
+      751a20bf-1646-4b75-9f62-8d4853aed59e
+      c663e7c1-8e17-4f78-89ea-8c4d1299ff34
+      84d9c7f9-ab35-4cc6-bc75-c5314b249f47
+      7ae8a1c0-ba00-412b-ab9f-0c1f2fcf9b83
+      87518759-82d5-4197-a4e6-bd0d6b602858
+      a30aaf18-49d4-4814-ae98-f866b417a57d
+      09ca3e98-c8d2-438c-9502-437453fef4bf
+      c79d98c1-7596-42d1-8702-a044b81b1e90
+      d1a1290e-b286-4304-bfa1-f219472bdc5e
+      41311541-59a0-47c8-b493-e1c6aa5dec19
+      7689a2fe-b09f-4351-bcc8-7f6cb0dc8663
+      ffb2aa33-e739-4292-9985-9f5fb139b801
+      2de501f3-1349-4d36-bdfb-8ef3dc4899a4
+      8159d188-90ff-46f0-9c38-6b14adeebbcf
+      87d8d4e7-4370-47b4-8412-88491283a06b
+      167f4012-16d9-4761-a6f5-4cd796df3d01
+      be061446-7be7-41ad-ac4c-5e81dc53916c
+      8ace60e8-3fc2-4f78-8bea-69ba13558e71
+      359e158d-d4d7-4814-afdd-87e9db292b2f
+      c5903528-1ec4-45bc-9ad6-085d1d8891d3
+      343bedd8-1079-405a-b7e3-e7d96b722ef9
+      d5499abe-8607-4100-bbda-5b8389cb52bb
+      68845b5b-db3f-4199-81ed-5d8fa883b6df
+      bc9ed088-45bb-4efb-8b1a-420d0859619c
+      033b93f0-4bc0-4002-9aef-c4d7f8ae092d
+      a7e6e67c-0f99-4627-b318-6b49e487d121
+      9e8f40eb-ce12-40fe-97db-c0b1ee44a231
+      e3cf7bb5-af61-4f75-adc9-d7b56a1dac3f
+      05a3c241-cd5a-4646-bec1-f038d8f9c710
+      5b240879-b2e8-43c0-ab7a-af7c4b5313c9
+      18cee9f5-bb81-4112-b35a-ecda07a59647
+      023ff76e-6564-4690-bf0a-99416cac1e36
+      b97d1809-9836-4a9e-b6c9-998fd247dd3d
+      e701b658-7510-43da-b574-9893c736abfe
+      f329836e-9a1f-4fc8-b92f-6b677ad00114
+      1b38e6e4-1c67-48e1-b2f8-ffa3f5f35643
+      3eeaa8a8-3f00-4d68-aa04-73a1f7e5f382
+      1e137d0c-d4a4-46ec-b0b6-02f2af5cf0c7
+      4b538eb4-56b5-420a-87ab-4a8cc1ee4223
+      0809f7c2-3e9a-4183-a3fa-e688040b4ad9
+      cb1f8962-0348-49e9-ad8a-2d0d5a3d1725
+      99132edd-4820-466f-9e90-74e163df385d
+      cc5c50ca-8bad-4a83-891a-aa8d5412d76d
+      be731d6b-249a-4eda-8bad-cc6a8f328537
+      972b843f-4396-4982-ad66-f89260459f80
+      2da048b7-2044-45bd-8498-43a00aaae1cd
+      31655655-5789-4565-94fe-0ae6b6ce553e
+      84aac77a-36f0-44ac-97d4-e65a3f83f3bd
+      26f0ee29-5733-49d6-8e10-cd9102520dd9
+      0ff1cdcd-06fa-483f-945d-47b956e1c71d
+      3bc9da97-bfb8-4798-b5ac-815d949434a9
+      a808f81d-7c1c-4662-84f8-57bf8c17c7b1
+      3fc80f0c-a864-432e-a671-201d497c44ae
+      b963f88d-1543-46f0-a166-25062d53a9bd
+      2f2e8388-9884-4aaf-aad0-88ca502af4de
+      5bea5a09-155e-4947-9cd1-bf025681ab62
+      8d237012-bca5-4701-8ee8-3bd8e7d3cf73
+      e687a7bb-65d3-4455-8966-ec647ac470c4
+      0dbaf6ad-7fd2-4c1f-937a-4aa6176b8642
+      beac63bb-e838-49b2-b686-59cbdacefcd9
+      299cb03d-f3ba-4a38-a2a5-1bbd26b3bfb8
+      69913232-365e-4916-a461-ffa3aea29019
+      c17e372a-4e64-479c-b6de-d5fec96db4d1
+      224f5d3b-ac6e-4c86-9c85-f8a44674dc9f
+      020974b5-9ac5-497a-a94e-a4bc80325c39
+      ae8f90cf-5296-4030-83b2-3c301fabd995
+      cc303bce-475d-4cd8-ad45-98f23a45789e
+      f28fc8a2-b55e-421b-84a6-fe8a52c44ffc
+      872efb0e-7496-4b80-a101-57aa70b96c9f
+      5e34bac4-23d2-4d19-9e72-963b61bdf854
+      2aafb8ee-95e1-4289-9198-3e4b814af8e0
+      e1f008df-c23e-44e7-a211-a94196a7724a
+      4636a99a-a13b-4ae9-9b19-197f8db6bb55
+      d28b2fee-d083-4f26-b8c6-19762c0270bd
+      f859d207-e1fb-4f83-bebc-52adbdab6019
+      a48d4b92-9713-489b-a1d9-4d183a662c73
+      5ba2218c-388b-4255-92e8-008bbe10c70a
+      e4777aae-b3c8-4c51-8c83-f7846cd3404c
+      24c9e77f-3097-4867-b746-8d3b33b6ee5e
+      786e7ce5-8f71-4063-b09b-c45ac67545c0
+      f79664ed-6910-431f-973d-adc81b780641
+      20eb3e22-b599-4529-a54b-63c1e5c7a772
+      335cb91d-fc2b-4cef-82ee-6228111d67cb
+      4eca827d-5adc-484d-83d1-63b648a528ff
+      b253b5bf-2fd9-440f-9cc0-cbd3bae867d9
+      dd324c24-6b9c-4c5e-8127-f1e1bfec24ab
+      47eeed67-b63a-45d7-9bac-0c6379f69f09
+      2d817857-04a0-4cb3-9eb6-0955812659cc
+      fbfab859-93e0-4a13-9e7e-9f61b3a0b97f
+      d3b79aa7-7369-44ab-b8a0-104ea0918e8f
+      151e141d-1e68-491b-a32b-e495ab03e9f8
+      913944e4-0f43-4a56-8412-8fce1cdf294b
+      7bc15910-ab56-4526-aca2-18b7eb5b6034
+      8729df42-aab1-4640-bc13-ce1bd5072668
+      670244f8-311a-4576-b417-f1189fe6541e
+      4dd8e045-a91f-45a3-a293-79bc1edce38b
+      ae45ae29-315b-4695-a83b-2334386b0afe
+      69ac7d6f-8919-4013-9e0f-3d229f500aa4
+      da2c6cea-7aaa-4f40-8a1b-6d716cad3e37
+      7895246b-9756-4c4d-8ba8-02b14231edc7
+      873fab7d-0e4d-48ce-9d65-e14e965eef40
+      45c968b6-98df-40b8-8141-7ac1197200ad
+      72c2fd2f-e278-45f0-a45b-195c91e9fdaf
+      266604c2-edfb-4819-a2a2-ee14d094b26b
+      facc9c59-477e-4a6c-9f6c-c6d81e9263da
+      04b19944-85dd-48a6-889e-ad7c2047444a
+      53c4b06a-a494-48d4-8a8d-6ba37e5a3978
+      d8c70143-572a-4309-b26c-84aebdca4602
+      c72ae09c-acc2-4fc0-98ac-be3edc81f755
+      fbb41389-c740-499e-bf2d-e23f3360c9af
+      ed5b2a96-3751-418b-b780-dd70fc05f5ef
+      2fc2d222-fe08-4878-b49a-e9dc2b789fbf
+      d68937d2-693f-437e-87fc-2897cf6c5e10
+      666b4b96-adf9-4b26-8add-56d6fb252e1e
+      9bd33c8a-a3fa-4be6-b5a5-5c3c777a0151
+      5ff08c3e-11bd-4ab6-b358-c5a0c5aa97a1
+      e964fa37-b28e-44f5-a818-7674a56a5553
+      af73dd60-3b63-4913-94b2-e06e24cd84f5
+      a3d16127-88c9-458a-be3b-e1e802820aad
+      644df3b4-2cf2-4b80-aeec-fccd44585542
+      b2386895-4381-4ae2-b5ed-b57c3d4d0c76
+      d3f5c969-7ec9-42cd-a6e7-4c0a3a883338
+      4fa9dc17-22eb-4eb3-8135-1513cc848618
+      5c3aaceb-d993-4c3c-8132-2c3ae5500329
+      1d5e90fc-5888-42e2-8629-7b5db2b39bef
+      c4fb01f4-55fe-4b83-9307-e9fa8dcae3e2
+      2b26f099-cb36-43dc-8eec-432013e9a519
+      d7cb4c2a-2ea7-4872-a7dc-f033c69afa65
+      fa14b276-73f5-4519-a47e-60b9001225a7
+      b530c5c7-c2a9-44c5-ad2b-21c4697627f0
+      f925ab7a-6ed5-4fc3-bf90-c7d43d1272f9
+      1e298c28-421a-4e08-b34c-47bdbf10ab80
+      8d3af1cf-d0e1-4d41-8a45-08adca43cff0
+      0d5ada17-4fa9-4111-b23e-540d5e705464
+      71935fa3-2a42-4e26-9d08-5b7b42647977
+      04ff6795-5b3a-4751-8a8c-2c54aab40673
+      697162c2-b1a3-4bb5-92ed-4c36a75983d8
+      0b8f8272-a9c1-4ec6-9c72-d26555f98fa8
+      32ecab99-34ec-49a7-b253-26c5fedae5bf
+      22a241a6-1501-48c5-b54c-a0108262236b
+      f99a5db5-11bc-46d0-a70f-53f37fc320d8
+      72781156-928c-4618-b08a-216e5fdfa2af
+      69069a23-eaaa-4057-8c3a-813fbe0a5474
+      388b6233-eaa9-4d4f-a4b4-05d4e1b75e90
+      1402bef9-a86d-4064-9643-6d1a84e3b51f
+      c4fc3738-4cf9-44fb-a8e5-9804113b3b81
+      805dbd5e-e3f2-44cf-a4d1-38d6b3bd4d20
+      a7384ead-acf8-4692-ac2a-f3a93ed3cf33
+      5a49b8b9-2f56-4100-a797-5ea0b0c48e41
+      6057da6e-14f1-447a-9bd4-f05122f633a4
+      cbe3290c-a15f-4a45-8369-1974684d00eb
+      e8cf1121-a9d9-486a-8aad-91cedae1884e
+      28a81266-8a45-4d2d-b01d-0ccb14b8c58e
+      9f88e326-79a3-4615-98d6-0afd9f3d2501
+      39bfcdfa-5d57-4ae1-ad1b-6364fd4d0102
+      6da8223c-c2df-48c8-8cd1-2660f1c560f4
+      d24f9c23-270c-4b1e-bf3c-27f99a8f16be
+      304e7640-4700-48a3-b2cb-c2fed7d57395
+      9ec07d3c-1419-49b7-b476-80571f3870f2
+      e0449787-ff10-4657-af72-40c75f6c6a51
+      f2424195-f3b0-4b87-b64e-d826bf4420b9
+      0120dad8-41bc-4520-9c6d-d9ec49fe7028
+      94d624f4-25d7-409b-8df5-5b68be38ec62
+      a41f33eb-cfde-4509-9fd1-6a5ef3b98a07
+      3661b6d7-7127-49b1-bbcf-ab21af1c5a68
+      3235a78f-212f-417e-826c-eb118a6b8f35
+      76f0b230-4b3f-43e1-9ccb-1ee8b78212a5
+      3ac94036-5344-4a24-a7b8-36580c594aa5
+      85d47bbc-22ad-4007-9c75-5c69b49c10d2
+      6ed5b892-3a1d-4eeb-b12c-8f3b32080d24
+      2ec592ba-bdb1-45dd-b018-880602b180da
+      55693a72-c2df-4c5f-82b0-a97cd4fdf25b
+      4db4d503-fd0f-444e-a613-72e620cc37a3
+      55e181c2-18c0-4ae4-92b7-e4f2b19c159d
+      0bd7e721-56cd-49ad-9fe1-1baa24d17de5
+      4268c9c8-a9f8-4a8b-8db8-5a7d03d6e14a
+      acec9c15-f3fa-4a95-b6be-244094275c31
+      066238d6-7a5d-4170-acd2-9e26c4d3ed35
+      8d85af50-5e31-48e5-a1bf-77d43121c562
+      9a8c3a8a-6fb8-48ac-baa9-62ed2ac3505f
+      b1dc32c0-727b-4991-b976-62ea4791aad3
+      10a1f0fa-7f1f-4770-a46f-844dcfc34149
+      f8dc4a54-9a29-462d-97e0-0fd4e855bd6b
+      f54764a7-5135-4d98-9f52-14f7bf4b137b
+      f76f3dcd-4eb3-4590-91c3-56d770479999
+      28724976-2e71-47fd-b025-4ee9ac598c73
+      1f05e708-8258-46d3-9a4f-ee9e2a702024
+      5b391b5d-9fbd-4da5-998c-ebc54d5c80c0
+      d07e5323-4d8a-4dc0-a0be-e9e80a348384
+      7554dd2f-8083-43dc-a74d-cc1abc7f9497
+      fcd19a15-29a0-4f6f-8e44-960547a20a55
+      01e4cb27-403c-4d73-82e2-4787893ed93c
+      38f45594-9aca-4be2-a7d7-136da44d1b45
+      b3f823ce-3eb3-45f3-91f3-50055ab81466
+      c3d96fdb-4184-480e-9880-c539738e2b12
+      3dc47dfc-8502-4089-a976-15869986a1c0
+      2996a713-92f3-445a-83b9-7bdf174511fa
+      6a9e8b3f-e02d-480d-afa9-bb1304fc27a6
+      ffa7c313-9504-4ca6-8bf9-fd163116e2c5
+      2fb954fc-3e1e-4e2d-9120-844109684bb9
+      b5d3f335-a690-4e3b-88e2-b001c94923ca
+      28232468-99bc-4cb6-868a-b361d79a0294
+      5f78947e-e404-41bb-9f30-122d494b9fda
+      7c7919f2-85d7-4eca-bc96-4b05f73c2a6e
+      226ab36c-83e0-45b2-adaf-30cd8d30aefd
+      4913acf9-8bad-4a3d-ad71-658120c64e7f
+      e27c6888-f56c-4d1d-9089-09918d68ea5b
+      b2e0ed38-2160-4025-964f-5ec2a3504afb
+      f185c8c6-eb0b-4777-a60e-2834b832fc16
+      2ce63935-55cc-4db8-82eb-7b7b15514d90
+      2f593801-db68-4675-8fc9-657287f67aec
+      2e4f5a0c-e363-48b9-a8b8-bb626fa087c2
+      c32ca032-291a-4a2e-b7f9-090d13e04af2
+      637c55ed-a518-4552-8f31-92b7d6a7ceb3
+      85d239e9-046c-46f0-9b0a-e55a7d8b197b
+      ce8a9088-7012-476f-ae39-b489f653c03a
+      5dfcde48-7e90-4247-933f-3cbacf85a6c3
+      5b9222b3-9e4e-4162-a316-f8843c9621a8
+      f9d2fe67-a662-4b1d-baf7-8ed3660d5908
+      95cdcc11-a11b-45b3-b6c2-480c40e5a566
+      cae361b1-08d2-4ee9-a0cb-708405139ac7
+      fe6ca525-a024-440e-91c3-7b748e7dd2ed
+      6322be3a-fd02-48cf-9a5b-09fe755fea07
+      7debadac-e6c2-4b6d-823a-466acbab5a4d
+      420b5c4c-f982-434c-85a7-b3c2be0f9704
+      32a5e5ba-3ea0-401c-9d55-78aef43c5a51
+      0dac2956-c198-470b-83f2-d7c411ab35c4
+      6716ea11-dd00-42c1-b223-99d9be308fba
+      68f26ba4-8820-43c2-8b8a-c699b3ab2a9e
+      e3580a04-4b29-4f73-9c80-f8a17fb52a4c
+      8c2c8697-a7bd-4720-875b-66d8df36535a
+      b7d71ae7-9be4-4ba6-b30d-4e69b384bda7
+      8a6e1850-0682-461d-8048-8ac884445e48
+      9bf8c714-b69f-408f-8f15-ee618ee70e86
+      bec3a574-8fe0-41d7-ad78-adaaae50bcbf
+      d01094e1-4193-4c09-9af0-bc917aef083f
+      190066f9-c72b-4ab5-a919-94b2989b4d75
+      5b0c2319-4fac-4610-bac7-4749ffe0984d
+      cf1d91d7-4278-4437-b098-cafe86a39330
+      bb515061-8c47-4293-a143-67b4dac92423
+      998d3e69-7462-4257-985b-db240b810f6a
+      f69d95c8-da3d-49f1-b683-d5e5e9f17634
+      52344953-64c5-4f0c-8fef-e330907e4a80
+      f5582856-93b3-4652-b802-e032535d95c9
+      b30d79f9-02c3-48e8-adaf-02adde4dc592
+      ff82b06c-fc04-42e9-b47b-55830a5ec15e
+      286ac050-4776-48cf-b249-508dcf93456c
+      6096a37a-6a6c-43cb-9290-aa0158a2a6c4
+      6b7b7d7b-8974-46b5-97e5-0fc2b61c0ed7
+      6657baf4-c28f-455a-9660-1b05fe7b1b03
+      12778b0b-c11b-4e35-9bb9-736a3eabd741
+      f381f340-0f39-4a89-941b-d34339cce279
+      68f70f0b-f3dc-45a5-937c-3a8ead3cb1e0
+      99035bdf-9ce3-4bcf-98d6-5f6ecaa068f8
+      ced47e75-4776-4b03-92d6-0202523388fb
+      044e432d-16fc-45ea-80ad-e565e03ecaea
+      9b4cc11c-0619-457f-9919-0843d0b2bd73
+      58797b1a-e3ee-4614-acd8-34da80993066
+      139d480c-dfe1-4c12-beb0-49590c5d47f4
+      3a6cce94-9985-483e-a06f-55d98b53f4bd
+      085ced84-5818-4e6b-8081-d21cfdc86fba
+      a055ca05-0142-474b-894d-1141879f441b
+      71e42316-bcad-45fd-8fbb-0499b3ae122e
+      a9c54cb8-e77b-407a-a83b-21c2ec5d4e86
+      295c1563-ef75-48b2-bdca-50c663c94b0d
+      5064ca3f-278a-418c-87b5-784a51ec148f
+      6eb4d8a4-7a60-46bb-ac88-e6f64c5489f6
+      75bd60a7-66bd-42c8-b54f-1e5679eb117d
+      6f063da0-d727-4f22-a2f1-3e4bc8a7e29b
+      b216593d-048c-445b-b2d4-6e1a78bf4279
+      b5f92151-b9bb-41ed-89f1-004f164966be
+      1f7e2800-4301-4ea3-8c00-8c51633a8df6
+      1c639b79-ff36-4e92-9d17-ae9f1a36b119
+      c347034d-f256-4e35-93f0-75f0bafa3f49
+      fa55dfde-4d5f-4b88-a27c-0743f2f04fea
+      660cc940-c75f-4794-b735-3a65b03aa4f6
+      b8d89266-b482-46d6-8450-64f425303235
+      0b23742f-4e4e-4ce3-b94f-c3fba592120d
+      9ba2dcb9-6f7c-4671-a5bf-9c8a4b315f30
+      34bd3eb8-6b1c-4b00-9897-ce5636144f39
+      4c107822-8190-4561-9fde-f23d4b0718d5
+      2443a146-5afe-4cd1-bd4f-79fa742ee603
+      a78412f5-dcaf-4bd6-9a71-519b87d5d804
+      eab5ac82-5c26-43c7-b19e-f9dc2814820d
+      8fffafaf-c744-432f-b95c-ea83a5da2063
+      c7252ed9-372a-414d-b572-957d3f6a166e
+      3f0c4445-4088-494b-a878-b68f7c0462ab
+      2eb85371-4d9c-4447-a16d-e345aebe8832
+      fead1387-697a-4d53-a6cc-ad3cf51faa55
+      ee340794-a4f0-4df8-9d83-bac508d109aa
+      23f20fe1-c0a4-4c74-8195-f93e41d09c22
+      5cf762b4-0318-46c5-b873-252c15bca155
+    Related Link: 
+    Content:
+      a { -ms-touch-action: manipulation; touch-action: manipulation }
+
+    Rule Id: 7c93d5c2-e63d-461f-bdcc-5e4f7b3da379
+    Rule Type: style
+    Selector:a, a:active, a:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a1c53392-c7ef-42d4-b0e3-b90941a6e34f
+      f8e1e427-cbb7-463a-aa40-479e94d8d322
+      5dd1d30e-cb30-49bc-9ea4-40f8ded67536
+      0dc72287-5985-42a2-b06f-1932880dd8ef
+      9a9692b1-d766-426f-8fd0-94b7d72f699f
+      58872156-ddfd-4a16-8bf9-e91012524b0c
+      0c924803-4c09-4896-9ec1-45e9766741b3
+      d89cbedc-b983-42dc-b414-26f52fc7bb9d
+      c90dbd5c-98fd-43b0-b597-747d892f898b
+      3afacd4a-6c1e-4b32-ab46-2133b67d297f
+      ca3355a2-ac03-48ed-a139-e0c057181acc
+      7cf34fda-9fae-4ae8-90ce-736937691549
+      2cf7ba0a-dbd3-48be-bbfb-f84ea2b6f785
+      6c7beb8d-4670-439e-b46f-3d333ff3d056
+      9a23845b-4867-475c-bf8f-55a26f67c4fb
+      d8a2def2-551c-4e69-94c4-ba366e780095
+      87af7c3c-ad1a-4d6f-a5e4-d89eaf1e9f00
+      fd6ef879-e5f2-4a27-b304-ded21fed0477
+      96c95374-8ae5-4e04-bfad-fcba8eb1916f
+      0fe21087-335a-4268-9f63-3384b4f5cf83
+      75b319ea-82c0-43dd-9084-080e7241268e
+      661f1220-4518-453b-8e28-d789e09fb2c4
+      b97ff59b-aae4-4a8a-8a4c-21416855cf17
+      6993b8d9-d21d-4e4d-a41d-1d9ab1ae72fe
+      bf93c8dc-89e3-409c-859f-117df94adc10
+      f4e25a25-b943-4a10-b370-42cbe57e1b52
+      b5b7ceb0-13c3-4a55-b2f3-cd550d0561de
+      08c9e6c7-3ac3-4afb-8305-db4e99989ed0
+      58749b67-3210-404b-92cc-91f0ed99798b
+      46c3c44e-09bb-4b6b-9344-fbd4e0918f8b
+      1f58149c-a22c-49b6-a0d1-9578dd51af9d
+      a23a0f09-4a35-43e2-8d31-2b54655ed2ea
+      cb191179-8821-4096-be01-56ab659670a1
+      1189819c-3f20-4689-9f5d-5ea4ebd07aee
+      3d61ce8f-9ef8-42d1-85e3-cc12d49feeaa
+      b0b78d1f-aa4d-4ab1-87c7-9682ac15625a
+      82f0a221-3bbb-4a18-81b0-031103d4e17d
+      b08187d8-f012-4d78-9858-5b4fc447fea9
+      a183cc36-892c-4cbe-9861-c00ed184b0a4
+      ce6afe79-2551-4076-9ecb-66095a851d54
+      bf7cb1b5-f61e-420b-8745-5c3f43502e7c
+      2b34fe17-33d1-45c7-926d-d9c05214f9b7
+      751a20bf-1646-4b75-9f62-8d4853aed59e
+      c663e7c1-8e17-4f78-89ea-8c4d1299ff34
+      84d9c7f9-ab35-4cc6-bc75-c5314b249f47
+      7ae8a1c0-ba00-412b-ab9f-0c1f2fcf9b83
+      87518759-82d5-4197-a4e6-bd0d6b602858
+      a30aaf18-49d4-4814-ae98-f866b417a57d
+      09ca3e98-c8d2-438c-9502-437453fef4bf
+      c79d98c1-7596-42d1-8702-a044b81b1e90
+      d1a1290e-b286-4304-bfa1-f219472bdc5e
+      41311541-59a0-47c8-b493-e1c6aa5dec19
+      7689a2fe-b09f-4351-bcc8-7f6cb0dc8663
+      ffb2aa33-e739-4292-9985-9f5fb139b801
+      2de501f3-1349-4d36-bdfb-8ef3dc4899a4
+      8159d188-90ff-46f0-9c38-6b14adeebbcf
+      87d8d4e7-4370-47b4-8412-88491283a06b
+      167f4012-16d9-4761-a6f5-4cd796df3d01
+      be061446-7be7-41ad-ac4c-5e81dc53916c
+      8ace60e8-3fc2-4f78-8bea-69ba13558e71
+      359e158d-d4d7-4814-afdd-87e9db292b2f
+      c5903528-1ec4-45bc-9ad6-085d1d8891d3
+      343bedd8-1079-405a-b7e3-e7d96b722ef9
+      d5499abe-8607-4100-bbda-5b8389cb52bb
+      68845b5b-db3f-4199-81ed-5d8fa883b6df
+      bc9ed088-45bb-4efb-8b1a-420d0859619c
+      033b93f0-4bc0-4002-9aef-c4d7f8ae092d
+      a7e6e67c-0f99-4627-b318-6b49e487d121
+      9e8f40eb-ce12-40fe-97db-c0b1ee44a231
+      e3cf7bb5-af61-4f75-adc9-d7b56a1dac3f
+      05a3c241-cd5a-4646-bec1-f038d8f9c710
+      5b240879-b2e8-43c0-ab7a-af7c4b5313c9
+      18cee9f5-bb81-4112-b35a-ecda07a59647
+      023ff76e-6564-4690-bf0a-99416cac1e36
+      b97d1809-9836-4a9e-b6c9-998fd247dd3d
+      e701b658-7510-43da-b574-9893c736abfe
+      f329836e-9a1f-4fc8-b92f-6b677ad00114
+      1b38e6e4-1c67-48e1-b2f8-ffa3f5f35643
+      3eeaa8a8-3f00-4d68-aa04-73a1f7e5f382
+      1e137d0c-d4a4-46ec-b0b6-02f2af5cf0c7
+      4b538eb4-56b5-420a-87ab-4a8cc1ee4223
+      0809f7c2-3e9a-4183-a3fa-e688040b4ad9
+      cb1f8962-0348-49e9-ad8a-2d0d5a3d1725
+      99132edd-4820-466f-9e90-74e163df385d
+      cc5c50ca-8bad-4a83-891a-aa8d5412d76d
+      be731d6b-249a-4eda-8bad-cc6a8f328537
+      972b843f-4396-4982-ad66-f89260459f80
+      2da048b7-2044-45bd-8498-43a00aaae1cd
+      31655655-5789-4565-94fe-0ae6b6ce553e
+      84aac77a-36f0-44ac-97d4-e65a3f83f3bd
+      26f0ee29-5733-49d6-8e10-cd9102520dd9
+      0ff1cdcd-06fa-483f-945d-47b956e1c71d
+      3bc9da97-bfb8-4798-b5ac-815d949434a9
+      a808f81d-7c1c-4662-84f8-57bf8c17c7b1
+      3fc80f0c-a864-432e-a671-201d497c44ae
+      b963f88d-1543-46f0-a166-25062d53a9bd
+      2f2e8388-9884-4aaf-aad0-88ca502af4de
+      5bea5a09-155e-4947-9cd1-bf025681ab62
+      8d237012-bca5-4701-8ee8-3bd8e7d3cf73
+      e687a7bb-65d3-4455-8966-ec647ac470c4
+      0dbaf6ad-7fd2-4c1f-937a-4aa6176b8642
+      beac63bb-e838-49b2-b686-59cbdacefcd9
+      299cb03d-f3ba-4a38-a2a5-1bbd26b3bfb8
+      69913232-365e-4916-a461-ffa3aea29019
+      c17e372a-4e64-479c-b6de-d5fec96db4d1
+      224f5d3b-ac6e-4c86-9c85-f8a44674dc9f
+      020974b5-9ac5-497a-a94e-a4bc80325c39
+      ae8f90cf-5296-4030-83b2-3c301fabd995
+      cc303bce-475d-4cd8-ad45-98f23a45789e
+      f28fc8a2-b55e-421b-84a6-fe8a52c44ffc
+      872efb0e-7496-4b80-a101-57aa70b96c9f
+      5e34bac4-23d2-4d19-9e72-963b61bdf854
+      2aafb8ee-95e1-4289-9198-3e4b814af8e0
+      e1f008df-c23e-44e7-a211-a94196a7724a
+      4636a99a-a13b-4ae9-9b19-197f8db6bb55
+      d28b2fee-d083-4f26-b8c6-19762c0270bd
+      f859d207-e1fb-4f83-bebc-52adbdab6019
+      a48d4b92-9713-489b-a1d9-4d183a662c73
+      5ba2218c-388b-4255-92e8-008bbe10c70a
+      e4777aae-b3c8-4c51-8c83-f7846cd3404c
+      24c9e77f-3097-4867-b746-8d3b33b6ee5e
+      786e7ce5-8f71-4063-b09b-c45ac67545c0
+      f79664ed-6910-431f-973d-adc81b780641
+      20eb3e22-b599-4529-a54b-63c1e5c7a772
+      335cb91d-fc2b-4cef-82ee-6228111d67cb
+      4eca827d-5adc-484d-83d1-63b648a528ff
+      b253b5bf-2fd9-440f-9cc0-cbd3bae867d9
+      dd324c24-6b9c-4c5e-8127-f1e1bfec24ab
+      47eeed67-b63a-45d7-9bac-0c6379f69f09
+      2d817857-04a0-4cb3-9eb6-0955812659cc
+      fbfab859-93e0-4a13-9e7e-9f61b3a0b97f
+      d3b79aa7-7369-44ab-b8a0-104ea0918e8f
+      151e141d-1e68-491b-a32b-e495ab03e9f8
+      913944e4-0f43-4a56-8412-8fce1cdf294b
+      7bc15910-ab56-4526-aca2-18b7eb5b6034
+      8729df42-aab1-4640-bc13-ce1bd5072668
+      670244f8-311a-4576-b417-f1189fe6541e
+      4dd8e045-a91f-45a3-a293-79bc1edce38b
+      ae45ae29-315b-4695-a83b-2334386b0afe
+      69ac7d6f-8919-4013-9e0f-3d229f500aa4
+      da2c6cea-7aaa-4f40-8a1b-6d716cad3e37
+      7895246b-9756-4c4d-8ba8-02b14231edc7
+      873fab7d-0e4d-48ce-9d65-e14e965eef40
+      45c968b6-98df-40b8-8141-7ac1197200ad
+      72c2fd2f-e278-45f0-a45b-195c91e9fdaf
+      266604c2-edfb-4819-a2a2-ee14d094b26b
+      facc9c59-477e-4a6c-9f6c-c6d81e9263da
+      04b19944-85dd-48a6-889e-ad7c2047444a
+      53c4b06a-a494-48d4-8a8d-6ba37e5a3978
+      d8c70143-572a-4309-b26c-84aebdca4602
+      c72ae09c-acc2-4fc0-98ac-be3edc81f755
+      fbb41389-c740-499e-bf2d-e23f3360c9af
+      ed5b2a96-3751-418b-b780-dd70fc05f5ef
+      2fc2d222-fe08-4878-b49a-e9dc2b789fbf
+      d68937d2-693f-437e-87fc-2897cf6c5e10
+      666b4b96-adf9-4b26-8add-56d6fb252e1e
+      9bd33c8a-a3fa-4be6-b5a5-5c3c777a0151
+      5ff08c3e-11bd-4ab6-b358-c5a0c5aa97a1
+      e964fa37-b28e-44f5-a818-7674a56a5553
+      af73dd60-3b63-4913-94b2-e06e24cd84f5
+      a3d16127-88c9-458a-be3b-e1e802820aad
+      644df3b4-2cf2-4b80-aeec-fccd44585542
+      b2386895-4381-4ae2-b5ed-b57c3d4d0c76
+      d3f5c969-7ec9-42cd-a6e7-4c0a3a883338
+      4fa9dc17-22eb-4eb3-8135-1513cc848618
+      5c3aaceb-d993-4c3c-8132-2c3ae5500329
+      1d5e90fc-5888-42e2-8629-7b5db2b39bef
+      c4fb01f4-55fe-4b83-9307-e9fa8dcae3e2
+      2b26f099-cb36-43dc-8eec-432013e9a519
+      d7cb4c2a-2ea7-4872-a7dc-f033c69afa65
+      fa14b276-73f5-4519-a47e-60b9001225a7
+      b530c5c7-c2a9-44c5-ad2b-21c4697627f0
+      f925ab7a-6ed5-4fc3-bf90-c7d43d1272f9
+      1e298c28-421a-4e08-b34c-47bdbf10ab80
+      8d3af1cf-d0e1-4d41-8a45-08adca43cff0
+      0d5ada17-4fa9-4111-b23e-540d5e705464
+      71935fa3-2a42-4e26-9d08-5b7b42647977
+      04ff6795-5b3a-4751-8a8c-2c54aab40673
+      697162c2-b1a3-4bb5-92ed-4c36a75983d8
+      0b8f8272-a9c1-4ec6-9c72-d26555f98fa8
+      32ecab99-34ec-49a7-b253-26c5fedae5bf
+      22a241a6-1501-48c5-b54c-a0108262236b
+      f99a5db5-11bc-46d0-a70f-53f37fc320d8
+      72781156-928c-4618-b08a-216e5fdfa2af
+      69069a23-eaaa-4057-8c3a-813fbe0a5474
+      388b6233-eaa9-4d4f-a4b4-05d4e1b75e90
+      1402bef9-a86d-4064-9643-6d1a84e3b51f
+      c4fc3738-4cf9-44fb-a8e5-9804113b3b81
+      805dbd5e-e3f2-44cf-a4d1-38d6b3bd4d20
+      a7384ead-acf8-4692-ac2a-f3a93ed3cf33
+      5a49b8b9-2f56-4100-a797-5ea0b0c48e41
+      6057da6e-14f1-447a-9bd4-f05122f633a4
+      cbe3290c-a15f-4a45-8369-1974684d00eb
+      e8cf1121-a9d9-486a-8aad-91cedae1884e
+      28a81266-8a45-4d2d-b01d-0ccb14b8c58e
+      9f88e326-79a3-4615-98d6-0afd9f3d2501
+      39bfcdfa-5d57-4ae1-ad1b-6364fd4d0102
+      6da8223c-c2df-48c8-8cd1-2660f1c560f4
+      d24f9c23-270c-4b1e-bf3c-27f99a8f16be
+      304e7640-4700-48a3-b2cb-c2fed7d57395
+      9ec07d3c-1419-49b7-b476-80571f3870f2
+      e0449787-ff10-4657-af72-40c75f6c6a51
+      f2424195-f3b0-4b87-b64e-d826bf4420b9
+      0120dad8-41bc-4520-9c6d-d9ec49fe7028
+      94d624f4-25d7-409b-8df5-5b68be38ec62
+      a41f33eb-cfde-4509-9fd1-6a5ef3b98a07
+      3661b6d7-7127-49b1-bbcf-ab21af1c5a68
+      3235a78f-212f-417e-826c-eb118a6b8f35
+      76f0b230-4b3f-43e1-9ccb-1ee8b78212a5
+      3ac94036-5344-4a24-a7b8-36580c594aa5
+      85d47bbc-22ad-4007-9c75-5c69b49c10d2
+      6ed5b892-3a1d-4eeb-b12c-8f3b32080d24
+      2ec592ba-bdb1-45dd-b018-880602b180da
+      55693a72-c2df-4c5f-82b0-a97cd4fdf25b
+      4db4d503-fd0f-444e-a613-72e620cc37a3
+      55e181c2-18c0-4ae4-92b7-e4f2b19c159d
+      0bd7e721-56cd-49ad-9fe1-1baa24d17de5
+      4268c9c8-a9f8-4a8b-8db8-5a7d03d6e14a
+      acec9c15-f3fa-4a95-b6be-244094275c31
+      066238d6-7a5d-4170-acd2-9e26c4d3ed35
+      8d85af50-5e31-48e5-a1bf-77d43121c562
+      9a8c3a8a-6fb8-48ac-baa9-62ed2ac3505f
+      b1dc32c0-727b-4991-b976-62ea4791aad3
+      10a1f0fa-7f1f-4770-a46f-844dcfc34149
+      f8dc4a54-9a29-462d-97e0-0fd4e855bd6b
+      f54764a7-5135-4d98-9f52-14f7bf4b137b
+      f76f3dcd-4eb3-4590-91c3-56d770479999
+      28724976-2e71-47fd-b025-4ee9ac598c73
+      1f05e708-8258-46d3-9a4f-ee9e2a702024
+      5b391b5d-9fbd-4da5-998c-ebc54d5c80c0
+      d07e5323-4d8a-4dc0-a0be-e9e80a348384
+      7554dd2f-8083-43dc-a74d-cc1abc7f9497
+      fcd19a15-29a0-4f6f-8e44-960547a20a55
+      01e4cb27-403c-4d73-82e2-4787893ed93c
+      38f45594-9aca-4be2-a7d7-136da44d1b45
+      b3f823ce-3eb3-45f3-91f3-50055ab81466
+      c3d96fdb-4184-480e-9880-c539738e2b12
+      3dc47dfc-8502-4089-a976-15869986a1c0
+      2996a713-92f3-445a-83b9-7bdf174511fa
+      6a9e8b3f-e02d-480d-afa9-bb1304fc27a6
+      ffa7c313-9504-4ca6-8bf9-fd163116e2c5
+      2fb954fc-3e1e-4e2d-9120-844109684bb9
+      b5d3f335-a690-4e3b-88e2-b001c94923ca
+      28232468-99bc-4cb6-868a-b361d79a0294
+      5f78947e-e404-41bb-9f30-122d494b9fda
+      7c7919f2-85d7-4eca-bc96-4b05f73c2a6e
+      226ab36c-83e0-45b2-adaf-30cd8d30aefd
+      4913acf9-8bad-4a3d-ad71-658120c64e7f
+      e27c6888-f56c-4d1d-9089-09918d68ea5b
+      b2e0ed38-2160-4025-964f-5ec2a3504afb
+      f185c8c6-eb0b-4777-a60e-2834b832fc16
+      2ce63935-55cc-4db8-82eb-7b7b15514d90
+      2f593801-db68-4675-8fc9-657287f67aec
+      2e4f5a0c-e363-48b9-a8b8-bb626fa087c2
+      c32ca032-291a-4a2e-b7f9-090d13e04af2
+      637c55ed-a518-4552-8f31-92b7d6a7ceb3
+      85d239e9-046c-46f0-9b0a-e55a7d8b197b
+      ce8a9088-7012-476f-ae39-b489f653c03a
+      5dfcde48-7e90-4247-933f-3cbacf85a6c3
+      5b9222b3-9e4e-4162-a316-f8843c9621a8
+      f9d2fe67-a662-4b1d-baf7-8ed3660d5908
+      95cdcc11-a11b-45b3-b6c2-480c40e5a566
+      cae361b1-08d2-4ee9-a0cb-708405139ac7
+      fe6ca525-a024-440e-91c3-7b748e7dd2ed
+      6322be3a-fd02-48cf-9a5b-09fe755fea07
+      7debadac-e6c2-4b6d-823a-466acbab5a4d
+      420b5c4c-f982-434c-85a7-b3c2be0f9704
+      32a5e5ba-3ea0-401c-9d55-78aef43c5a51
+      0dac2956-c198-470b-83f2-d7c411ab35c4
+      6716ea11-dd00-42c1-b223-99d9be308fba
+      68f26ba4-8820-43c2-8b8a-c699b3ab2a9e
+      e3580a04-4b29-4f73-9c80-f8a17fb52a4c
+      8c2c8697-a7bd-4720-875b-66d8df36535a
+      b7d71ae7-9be4-4ba6-b30d-4e69b384bda7
+      8a6e1850-0682-461d-8048-8ac884445e48
+      9bf8c714-b69f-408f-8f15-ee618ee70e86
+      bec3a574-8fe0-41d7-ad78-adaaae50bcbf
+      d01094e1-4193-4c09-9af0-bc917aef083f
+      190066f9-c72b-4ab5-a919-94b2989b4d75
+      5b0c2319-4fac-4610-bac7-4749ffe0984d
+      cf1d91d7-4278-4437-b098-cafe86a39330
+      bb515061-8c47-4293-a143-67b4dac92423
+      998d3e69-7462-4257-985b-db240b810f6a
+      f69d95c8-da3d-49f1-b683-d5e5e9f17634
+      52344953-64c5-4f0c-8fef-e330907e4a80
+      f5582856-93b3-4652-b802-e032535d95c9
+      b30d79f9-02c3-48e8-adaf-02adde4dc592
+      ff82b06c-fc04-42e9-b47b-55830a5ec15e
+      286ac050-4776-48cf-b249-508dcf93456c
+      6096a37a-6a6c-43cb-9290-aa0158a2a6c4
+      6b7b7d7b-8974-46b5-97e5-0fc2b61c0ed7
+      6657baf4-c28f-455a-9660-1b05fe7b1b03
+      12778b0b-c11b-4e35-9bb9-736a3eabd741
+      f381f340-0f39-4a89-941b-d34339cce279
+      68f70f0b-f3dc-45a5-937c-3a8ead3cb1e0
+      99035bdf-9ce3-4bcf-98d6-5f6ecaa068f8
+      ced47e75-4776-4b03-92d6-0202523388fb
+      044e432d-16fc-45ea-80ad-e565e03ecaea
+      9b4cc11c-0619-457f-9919-0843d0b2bd73
+      58797b1a-e3ee-4614-acd8-34da80993066
+      139d480c-dfe1-4c12-beb0-49590c5d47f4
+      3a6cce94-9985-483e-a06f-55d98b53f4bd
+      085ced84-5818-4e6b-8081-d21cfdc86fba
+      a055ca05-0142-474b-894d-1141879f441b
+      71e42316-bcad-45fd-8fbb-0499b3ae122e
+      a9c54cb8-e77b-407a-a83b-21c2ec5d4e86
+      295c1563-ef75-48b2-bdca-50c663c94b0d
+      5064ca3f-278a-418c-87b5-784a51ec148f
+      6eb4d8a4-7a60-46bb-ac88-e6f64c5489f6
+      75bd60a7-66bd-42c8-b54f-1e5679eb117d
+      6f063da0-d727-4f22-a2f1-3e4bc8a7e29b
+      b216593d-048c-445b-b2d4-6e1a78bf4279
+      b5f92151-b9bb-41ed-89f1-004f164966be
+      1f7e2800-4301-4ea3-8c00-8c51633a8df6
+      1c639b79-ff36-4e92-9d17-ae9f1a36b119
+      c347034d-f256-4e35-93f0-75f0bafa3f49
+      fa55dfde-4d5f-4b88-a27c-0743f2f04fea
+      660cc940-c75f-4794-b735-3a65b03aa4f6
+      b8d89266-b482-46d6-8450-64f425303235
+      0b23742f-4e4e-4ce3-b94f-c3fba592120d
+      9ba2dcb9-6f7c-4671-a5bf-9c8a4b315f30
+      34bd3eb8-6b1c-4b00-9897-ce5636144f39
+      4c107822-8190-4561-9fde-f23d4b0718d5
+      2443a146-5afe-4cd1-bd4f-79fa742ee603
+      a78412f5-dcaf-4bd6-9a71-519b87d5d804
+      eab5ac82-5c26-43c7-b19e-f9dc2814820d
+      8fffafaf-c744-432f-b95c-ea83a5da2063
+      c7252ed9-372a-414d-b572-957d3f6a166e
+      3f0c4445-4088-494b-a878-b68f7c0462ab
+      2eb85371-4d9c-4447-a16d-e345aebe8832
+      fead1387-697a-4d53-a6cc-ad3cf51faa55
+      ee340794-a4f0-4df8-9d83-bac508d109aa
+      23f20fe1-c0a4-4c74-8195-f93e41d09c22
+      5cf762b4-0318-46c5-b873-252c15bca155
+    Related Link: 
+    Content:
+      a, a:active, a:focus { unicode-bidi: embed; outline: 0; color: rgb(51, 102, 204); text-decoration: none }
+
+    Rule Id: 2598c54c-4c8e-459f-bd2a-13fd5177a8f9
+    Rule Type: style
+    Selector:a:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      a:focus { outline: 1px solid rgb(51, 102, 204) }
+
+    Rule Id: 4f59ae8b-c2f2-4c01-9cf2-d70b9f28c622
+    Rule Type: style
+    Selector:a:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      a:hover { text-decoration: underline }
+
+    Rule Id: 4619db0f-d763-4f5b-a624-f1b7fdcaba9b
+    Rule Type: style
+    Selector:img
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      93e66fe8-9ec9-4f60-8863-42c7a5847eca
+    Related Link: 
+    Content:
+      img { vertical-align: middle }
+
+    Rule Id: 29b25cb0-2681-4a53-bdef-c5a892a78d03
+    Rule Type: style
+    Selector:hr, img
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      93e66fe8-9ec9-4f60-8863-42c7a5847eca
+      c893d968-d5cb-4b94-b680-71d279bd0e47
+      05785591-41db-4a65-8c40-919362052c0f
+    Related Link: 
+    Content:
+      hr, img { border: 0 }
+
+    Rule Id: c1a00872-4618-4df7-ba92-7b9f7013a0bd
+    Rule Type: style
+    Selector:hr
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      c893d968-d5cb-4b94-b680-71d279bd0e47
+      05785591-41db-4a65-8c40-919362052c0f
+    Related Link: 
+    Content:
+      hr { clear: both; height: 0; border-bottom: 1px solid rgb(200, 204, 209); margin: 0.26rem 1.3rem }
+
+    Rule Id: 46cc94ac-5f16-4dc6-aeb5-467dafbe49de
+    Rule Type: style
+    Selector:.pure-button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+    Related Link: 
+    Content:
+      .pure-button { display: inline-block; zoom: 1; line-height: normal; white-space: nowrap; text-align: center; cursor: pointer; -webkit-user-drag: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; background-color: rgb(248, 249, 250); color: rgb(32, 33, 34); position: relative; min-height: 19.2px; min-height: 1.92rem; min-width: 16px; min-width: 1.6rem; margin: 0.16rem 0; border: 1px solid rgb(162, 169, 177); -moz-border-radius: 2px; border-radius: 2px; padding: 0.8rem 1.6rem; font-family: inherit; font-size: inherit; font-weight: 700; text-decoration: none; vertical-align: top; -webkit-transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; -o-transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; -moz-transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -moz-box-shadow 0.1s ease; transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -webkit-box-shadow 0.1s ease, -moz-box-shadow 0.1s ease }
+
+    Rule Id: 125fc63d-74ce-420a-970f-5ca9b6e0507f
+    Rule Type: style
+    Selector:.pure-button::-moz-focus-inner
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button::-moz-focus-inner { padding: 0; border: 0 }
+
+    Rule Id: d0dafe15-c3c2-450d-9bc1-60a94eafade0
+    Rule Type: style
+    Selector:.pure-button-hover, .pure-button:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-hover, .pure-button:hover { background-color: rgb(255, 255, 255); border-color: rgb(162, 169, 177); color: rgb(64, 66, 68) }
+
+    Rule Id: 425e6a94-ad23-4112-be07-ab51f2c59a9a
+    Rule Type: style
+    Selector:.pure-button-active, .pure-button:active
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-active, .pure-button:active { background-color: rgb(234, 236, 240); border-color: rgb(114, 119, 125); color: rgb(0, 0, 0) }
+
+    Rule Id: 12136f20-f8bf-42c0-98aa-f837dd9d5f4e
+    Rule Type: style
+    Selector:.pure-button:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button:focus { outline: 0; border-color: rgb(51, 102, 204); -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); box-shadow: inset 0 0 0 1px rgb(51, 102, 204) }
+
+    Rule Id: bd5dbfc3-6886-47b4-82d9-efe9ef01e4cd
+    Rule Type: style
+    Selector:.pure-button-primary-progressive
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive { background-color: rgb(51, 102, 204); border-color: rgb(51, 102, 204); color: rgb(255, 255, 255) }
+
+    Rule Id: 91abdfa1-b931-4e8d-80e8-9e6827dae198
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive:hover { background: rgb(68, 127, 245); border-color: rgb(68, 127, 245) }
+
+    Rule Id: 64eb74b6-ae21-4b4e-a2ba-845806f5c7fc
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:active
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive:active { background-color: rgb(42, 75, 141); border-color: rgb(42, 75, 141); -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; color: rgb(255, 255, 255) }
+
+    Rule Id: f122c774-7d31-4cab-9847-ee598ebc64ea
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive:focus { -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204), inset 0 0 0 2px rgb(255, 255, 255); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204), inset 0 0 0 2px rgb(255, 255, 255); box-shadow: inset 0 0 0 1px rgb(51, 102, 204), inset 0 0 0 2px rgb(255, 255, 255); border-color: rgb(51, 102, 204) }
+
+    Rule Id: 0cace677-ebd5-4c71-bb32-53a8aafccad9
+    Rule Type: style
+    Selector:.pure-form input[type="search"]
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+    Related Link: 
+    Content:
+      .pure-form input[type="search"] { background-color: rgb(255, 255, 255); display: inline-block; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 1px solid rgb(162, 169, 177); -moz-border-radius: 2px; border-radius: 2px; padding: 0.8rem; -webkit-box-shadow: inset 0 0 0 1px rgb(255, 255, 255); -moz-box-shadow: inset 0 0 0 1px rgb(255, 255, 255); box-shadow: inset 0 0 0 1px rgb(255, 255, 255); vertical-align: middle }
+
+    Rule Id: dee9cee3-6333-4d8e-91e4-ba8a3ea1cb1c
+    Rule Type: style
+    Selector:.pure-form input:focus:invalid
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-form input:focus:invalid { color: rgb(179, 36, 36); border-color: rgb(221, 51, 51) }
+
+    Rule Id: a23d0e1a-0dd7-4c55-b53e-924acaa3def0
+    Rule Type: style
+    Selector:.pure-form fieldset
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      34a1580e-4ed7-453b-8a6d-b0ea2643f59e
+    Related Link: 
+    Content:
+      .pure-form fieldset { margin: 0; padding: 0.56rem 0 1.2rem; border: 0 }
+
+    Rule Id: 5e46bad9-4cdc-4471-8327-b8412f6217c3
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media only screen and (max-width: 480px) {.pure-form input[type="search"] { display: block } }
+
+    Rule Id: aebe394f-224b-4651-83cd-7dbb54bbd33e
+    Rule Type: style
+    Selector:.central-textlogo-wrapper
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      55405582-272f-4004-a9ae-c9d2dc04e389
+    Related Link: 
+    Content:
+      .central-textlogo-wrapper { display: inline-block; vertical-align: bottom }
+
+    Rule Id: 561829c0-d2ca-4794-8e29-7e6f963d7b89
+    Rule Type: style
+    Selector:.central-textlogo
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      1f88d2bb-f15b-4687-938c-ee7fd3c36dab
+    Related Link: 
+    Content:
+      .central-textlogo { position: relative; margin: 4rem auto 0.5rem; width: 270px; font-family: Linux Libertine, Hoefler Text, Georgia, Times New Roman, Times, serif; font-size: 30px; font-size: 3rem; font-weight: 400; line-height: 33px; line-height: 3.3rem; text-align: center; -moz-font-feature-settings: "ss05=1"; -moz-font-feature-settings: "ss05"; -webkit-font-feature-settings: "ss05"; -ms-font-feature-settings: "ss05"; font-feature-settings: "ss05" }
+
+    Rule Id: 3823cee3-bf9b-45a0-9675-4afdb4eeff0f
+    Rule Type: style
+    Selector:.localized-slogan
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      09c33828-e3af-4309-9bbb-241f96854cc2
+    Related Link: 
+    Content:
+      .localized-slogan { display: block; font-family: Linux Libertine, Georgia, Times, "Source Serif Pro", serif; font-size: 15px; font-size: 1.5rem; font-weight: 400 }
+
+    Rule Id: 82d28dc0-be6c-4529-aaea-8b1be3105d3f
+    Rule Type: style
+    Selector:.central-textlogo__image
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      0b4eace3-71bd-4fcd-aaca-4cd9fde57e57
+    Related Link: 
+    Content:
+      .central-textlogo__image { color: transparent; display: inline-block; overflow: hidden; text-indent: -10000px }
+
+    Rule Id: f9d556d8-72db-47a7-8bd6-1b7c04483a96
+    Rule Type: style
+    Selector:.central-featured-logo
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      93e66fe8-9ec9-4f60-8863-42c7a5847eca
+    Related Link: 
+    Content:
+      .central-featured-logo { position: absolute; top: 158px; left: 35px }
+
+    Rule Id: 81d0007d-75a7-465d-b742-d4b8dd2e52e2
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.central-textlogo { position: relative; height: 70px; width: auto; margin: 2rem 0 0; text-align: center; line-height: 25px; line-height: 2.5rem; text-indent: -10px; text-indent: -1rem; font-size: 1em } .central-textlogo-wrapper { position: relative; top: 12px; text-indent: 2px; text-indent: 0.2rem } .svg-Wikipedia_wordmark { width: 150px; height: 25px; background-position: 0 -218px; -webkit-background-size: 100% 100%; -moz-background-size: 100%; background-size: 100% } .localized-slogan { font-size: 14px; font-size: 1.4rem } .central-featured-logo { position: relative; display: inline-block; width: 57px; height: auto; left: 0; top: 0 } }
+
+    Rule Id: aecf343e-35b4-49f7-8498-99441df61dc1
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 240px) {.central-textlogo__image { height: auto } }
+
+    Rule Id: 43c1090a-9779-40df-b4fe-050c77d79345
+    Rule Type: style
+    Selector:.central-featured
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      64071945-5d75-4694-9c67-b1ca25b238fc
+    Related Link: 
+    Content:
+      .central-featured { position: relative; height: 325px; height: 32.5rem; width: 546px; width: 54.6rem; max-width: 100%; margin: 0 auto; text-align: center; vertical-align: middle }
+
+    Rule Id: a6ab2a1b-7a88-42db-871e-377c41b9c837
+    Rule Type: style
+    Selector:.central-featured-lang
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e6ab4352-1391-40fb-8918-95fb92453eab
+      2750b340-49f0-4354-9295-91ec8982d9de
+      ccef6dad-125c-435f-aff1-8a8dee1977e3
+      639621fa-697b-476b-aa7a-51d31d63286d
+      681c2d7f-c18e-436b-9463-9cd80c5e205c
+      8ddd913f-fbff-4cc8-9b7b-f28d2d1c1f38
+      5a1984a1-6b9b-47ba-ae5d-19f7033bec60
+      8fca0909-fa41-4d58-86b7-388e2343efcf
+      42be5932-0a16-42dc-ac26-a383d8e98616
+      3b8351f5-d3fa-4090-b66a-fbb966fa7f48
+    Related Link: 
+    Content:
+      .central-featured-lang { position: absolute; width: 156px; width: 15.6rem }
+
+    Rule Id: 057a1828-72e0-48a2-8a32-92558dc4e180
+    Rule Type: style
+    Selector:.central-featured-lang .link-box
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a1c53392-c7ef-42d4-b0e3-b90941a6e34f
+      f8e1e427-cbb7-463a-aa40-479e94d8d322
+      5dd1d30e-cb30-49bc-9ea4-40f8ded67536
+      0dc72287-5985-42a2-b06f-1932880dd8ef
+      9a9692b1-d766-426f-8fd0-94b7d72f699f
+      58872156-ddfd-4a16-8bf9-e91012524b0c
+      0c924803-4c09-4896-9ec1-45e9766741b3
+      d89cbedc-b983-42dc-b414-26f52fc7bb9d
+      c90dbd5c-98fd-43b0-b597-747d892f898b
+      3afacd4a-6c1e-4b32-ab46-2133b67d297f
+    Related Link: 
+    Content:
+      .central-featured-lang .link-box { display: block; padding: 0; text-decoration: none; white-space: normal }
+
+    Rule Id: 7391ab6a-60b0-465b-bdbc-41599ce5dbf4
+    Rule Type: style
+    Selector:.central-featured-lang .link-box:hover strong
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang .link-box:hover strong { text-decoration: underline }
+
+    Rule Id: bfbe2d58-3d69-43a3-8c68-d0a5796356e8
+    Rule Type: style
+    Selector:.central-featured-lang :hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang :hover { background-color: rgb(234, 236, 240) }
+
+    Rule Id: f16fbc32-fac6-4a2c-be7f-b4fd245dd153
+    Rule Type: style
+    Selector:.central-featured-lang strong
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      c6d2a756-4449-43bc-8ac2-86d075149341
+      4b2c86dc-0771-47a0-be28-eb9607411e89
+      21d7218c-edbd-45d1-b6e4-490c583f163f
+      4f1d5904-eb47-4ff7-b923-4b0bde988720
+      4f23b004-8881-4263-bd1b-f7553d21bebe
+      c894d1f5-d058-4b0a-bce9-559a17b3b6a1
+      76347d15-e7a4-499b-8a1d-bebbde40c74f
+      94562971-2f52-4cd8-bcce-576fc91a16c4
+      3d5700da-38ba-4440-b3f2-9bc212780150
+      5d5bf97e-c4b8-4568-91f0-65e3312f04d9
+    Related Link: 
+    Content:
+      .central-featured-lang strong { display: block; font-size: 16px; font-size: 1.6rem }
+
+    Rule Id: 3f070715-7dca-45fc-8a7f-9e4eb08f3a1f
+    Rule Type: style
+    Selector:.central-featured-lang small
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      2bc275c0-3f9c-4bbf-8d0a-2e08d7a5c3da
+      ab955bdd-c874-4fee-ac86-5105424fdbab
+      c110f4a2-f8c2-4f5c-a069-96c9e61a2dda
+      d6533da0-6ed5-452f-9363-49ba735052e2
+      4d2f902f-8617-4115-b52e-2e802785a35c
+      51c0eaaa-a4c1-4a4f-bb67-b29e02f72c5d
+      5d66dc91-0065-4dab-a0c3-43eeed4edf4c
+      c4ea4da1-ec07-4629-918b-467e184a864a
+      8a6ef7e2-5d09-4359-ac93-01801469b529
+      ff0fb379-2e3f-4c8e-a55a-ce7694b28846
+    Related Link: 
+    Content:
+      .central-featured-lang small { color: rgb(84, 89, 93); display: inline-block; font-size: 13px; font-size: 1.3rem; line-height: 1.6 }
+
+    Rule Id: b5edb30e-886e-472b-b3be-e592e8d9cbf8
+    Rule Type: style
+    Selector:.central-featured-lang em
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang em { font-style: italic }
+
+    Rule Id: ed4594d7-14af-4c6e-b59e-e95e188d6d13
+    Rule Type: style
+    Selector:.central-featured-lang .emNonItalicLang
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang .emNonItalicLang { font-style: normal }
+
+    Rule Id: b331e222-c1d8-492f-bcf3-a2b2ca7d70cc
+    Rule Type: style
+    Selector:.lang1
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e6ab4352-1391-40fb-8918-95fb92453eab
+    Related Link: 
+    Content:
+      .lang1 { top: 0; right: 60% }
+
+    Rule Id: fea20692-18f5-484e-9e76-40deaa2fda0a
+    Rule Type: style
+    Selector:.lang2
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      2750b340-49f0-4354-9295-91ec8982d9de
+    Related Link: 
+    Content:
+      .lang2 { top: 0; left: 60% }
+
+    Rule Id: f4797ca3-41e0-4099-a31c-88c02e4b8d3f
+    Rule Type: style
+    Selector:.lang3
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      ccef6dad-125c-435f-aff1-8a8dee1977e3
+    Related Link: 
+    Content:
+      .lang3 { top: 20%; right: 70% }
+
+    Rule Id: 55ca41d7-1873-4325-8f50-ce19339f2954
+    Rule Type: style
+    Selector:.lang4
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      639621fa-697b-476b-aa7a-51d31d63286d
+    Related Link: 
+    Content:
+      .lang4 { top: 20%; left: 70% }
+
+    Rule Id: 48347891-3069-4665-9b35-cb1943cfeefc
+    Rule Type: style
+    Selector:.lang5
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      681c2d7f-c18e-436b-9463-9cd80c5e205c
+    Related Link: 
+    Content:
+      .lang5 { top: 40%; right: 72% }
+
+    Rule Id: 78bc7772-04e3-414f-973d-81d9431888d1
+    Rule Type: style
+    Selector:.lang6
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      8ddd913f-fbff-4cc8-9b7b-f28d2d1c1f38
+    Related Link: 
+    Content:
+      .lang6 { top: 40%; left: 72% }
+
+    Rule Id: 85ea376b-36e9-4771-93f2-043b9aa3ca82
+    Rule Type: style
+    Selector:.lang7
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      5a1984a1-6b9b-47ba-ae5d-19f7033bec60
+    Related Link: 
+    Content:
+      .lang7 { top: 60%; right: 70% }
+
+    Rule Id: 0b72f56c-c09a-4fcb-a620-055c1491f0f1
+    Rule Type: style
+    Selector:.lang8
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      8fca0909-fa41-4d58-86b7-388e2343efcf
+    Related Link: 
+    Content:
+      .lang8 { top: 60%; left: 70% }
+
+    Rule Id: 77d177a9-e3e3-4d4a-9011-c6e585ecca43
+    Rule Type: style
+    Selector:.lang9
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      42be5932-0a16-42dc-ac26-a383d8e98616
+    Related Link: 
+    Content:
+      .lang9 { top: 80%; right: 60% }
+
+    Rule Id: 16124449-9a7f-4647-a3a9-1b2d017568a7
+    Rule Type: style
+    Selector:.lang10
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      3b8351f5-d3fa-4090-b66a-fbb966fa7f48
+    Related Link: 
+    Content:
+      .lang10 { top: 80%; left: 60% }
+
+    Rule Id: d5f31e8e-1399-406a-bf27-0bcb8d1e93ff
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.central-featured { width: auto; height: auto; margin-top: 8rem; font-size: 13px; font-size: 1.3rem; text-align: left } .central-featured:after { content: " "; display: block; visibility: hidden; clear: both; height: 0; font-size: 0 } .central-featured-lang { display: block; float: left; position: relative; top: auto; left: auto; right: auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; height: 64px; height: 6.4rem; width: 33%; margin: 0 0 16px; padding: 0 1.6rem; font-size: 14px; font-size: 1.4rem; text-align: center } .central-featured-lang strong { font-size: 14px; font-size: 1.4rem; margin-bottom: 4px } .central-featured-lang small { line-height: 1.4 } }
+
+    Rule Id: 3772eb52-0fce-4f59-a2a8-8b6aacf7ecff
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 375px) {.central-featured-lang { font-size: 13px; font-size: 1.3rem } }
+
+    Rule Id: 88f58c99-6023-4c46-adaf-970fdcf322c1
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 240px) {.central-featured-lang { width: 100% } }
+
+    Rule Id: 0e80f315-37aa-4c0f-b9b2-7d3b4476acaf
+    Rule Type: style
+    Selector:.search-container
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      b18075c0-1f51-4d12-b127-df0be3b325f2
+    Related Link: 
+    Content:
+      .search-container { float: none; max-width: 95%; width: 540px; margin: 0.4rem auto 1.95rem; text-align: center; vertical-align: middle }
+
+    Rule Id: 9feeb0b5-d8f4-43f9-8ebf-52a4fc80eec3
+    Rule Type: style
+    Selector:.search-container fieldset
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      34a1580e-4ed7-453b-8a6d-b0ea2643f59e
+    Related Link: 
+    Content:
+      .search-container fieldset { word-spacing: -4px }
+
+    Rule Id: 81f923f0-d3ad-4fa1-9427-2ab0888af048
+    Rule Type: style
+    Selector:.search-container button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      441d4864-85a4-4957-b1ed-1640cf70d0fe
+    Related Link: 
+    Content:
+      .search-container button { min-height: 44px; min-height: 4.4rem; margin: 0; -moz-border-radius: 0 2px 2px 0; border-radius: 0 2px 2px 0; padding: 0.8rem 1.6rem; font-size: 16px; font-size: 1.6rem; z-index: 2 }
+
+    Rule Id: 0b4fbfe1-5619-4ec1-a209-a216b3c42cbb
+    Rule Type: style
+    Selector:.search-container button .svg-search-icon
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      37541efc-3f66-42e7-845e-3963f9a2c26d
+    Related Link: 
+    Content:
+      .search-container button .svg-search-icon { text-indent: -9999px }
+
+    Rule Id: 99ffb72d-47de-4a15-bbe0-71d34ca68c98
+    Rule Type: style
+    Selector:.search-container input[type="search"]::-webkit-search-results-button, .search-container input[type="search"]::-webkit-search-results-decoration
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container input[type="search"]::-webkit-search-results-button, .search-container input[type="search"]::-webkit-search-results-decoration { -webkit-appearance: none }
+
+    Rule Id: 1b095e87-a821-4021-94e8-4c0b22060281
+    Rule Type: style
+    Selector:.search-container input::-webkit-calendar-picker-indicator
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container input::-webkit-calendar-picker-indicator { display: none }
+
+    Rule Id: c830f5ae-e9ab-4f8c-84a7-135c89e67631
+    Rule Type: style
+    Selector:.search-container .sprite.svg-arrow-down
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      43c3d48c-224e-4e64-80fe-a68ef2216eb2
+    Related Link: 
+    Content:
+      .search-container .sprite.svg-arrow-down { position: absolute; top: 8px; top: 0.8rem; right: 6px; right: 0.6rem }
+
+    Rule Id: 6d571911-f695-4241-8273-e8710ba9fe9a
+    Rule Type: style
+    Selector:#searchInput
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+    Related Link: 
+    Content:
+      #searchInput { -webkit-appearance: none; width: 100%; height: 44px; height: 4.4rem; border-width: 1px 0 1px 1px; -moz-border-radius: 2px 0 0 2px; border-radius: 2px 0 0 2px; padding: 0.8rem 9.6rem 0.8rem 1.2rem; font-size: 16px; font-size: 1.6rem; line-height: 1.6; -webkit-transition: background 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; transition: background 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; -o-transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; -moz-transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -moz-box-shadow 0.1s ease; transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -webkit-box-shadow 0.1s ease, -moz-box-shadow 0.1s ease }
+
+    Rule Id: e23487d7-3e75-4dfd-89fc-cdee27cdc500
+    Rule Type: style
+    Selector:#searchInput:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      #searchInput:hover { border-color: rgb(114, 119, 125) }
+
+    Rule Id: cce88ac4-6178-4365-bf74-c68f02429f2e
+    Rule Type: style
+    Selector:#searchInput:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      36b507ec-d5df-465b-b54f-92f9b28e331b
+    Related Link: 
+    Content:
+      #searchInput:focus { border-color: rgb(51, 102, 204); -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); box-shadow: inset 0 0 0 1px rgb(51, 102, 204); outline: 0 }
+
+    Rule Id: a298f3fd-61c9-4562-ab90-5e7d807d9406
+    Rule Type: style
+    Selector:.search-container .search-input
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      cf3590be-3220-4cd9-9f44-441d9b0c425e
+    Related Link: 
+    Content:
+      .search-container .search-input { display: inline-block; position: relative; width: 73%; vertical-align: top }
+
+    Rule Id: 7b1ab34b-efe8-479a-a041-157def41c68a
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media only screen and (max-width: 480px) {.search-container .pure-form fieldset { margin-left: 1rem; margin-right: 6.6rem } .search-container .search-input { width: 100%; margin-right: -6.6rem } .search-container .pure-form button { float: right; right: -56px; right: -5.6rem } }
+
+    Rule Id: 0c3676a9-ab9e-40b4-8b9a-85d795e9a98f
+    Rule Type: style
+    Selector:.suggestions-dropdown
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestions-dropdown { background-color: rgb(255, 255, 255); display: inline-block; position: absolute; left: 0; z-index: 2; margin: 0; padding: 0; border: 1px solid rgb(162, 169, 177); border-top: 0; -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25); -moz-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25); list-style-type: none; word-spacing: normal }
+
+    Rule Id: 98945ef5-9619-460a-a44d-0bcc0f8b8541
+    Rule Type: style
+    Selector:.suggestion-link, .suggestions-dropdown
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link, .suggestions-dropdown { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; text-align: left }
+
+    Rule Id: 8cac8165-b381-4196-b618-111d13ec3330
+    Rule Type: style
+    Selector:.suggestion-link
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link { display: block; position: relative; min-height: 70px; min-height: 7rem; padding: 1rem 1rem 1rem 8.5rem; border-bottom: 1px solid rgb(234, 236, 240); color: inherit; text-decoration: none; text-align: initial; white-space: normal }
+
+    Rule Id: 4d5927cb-a4fb-4d32-a88f-0401c8bfbe96
+    Rule Type: style
+    Selector:.suggestion-link.active
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link.active { background-color: rgb(234, 243, 255) }
+
+    Rule Id: 69b2f9b0-ca57-482b-8357-ea78a7bb216e
+    Rule Type: style
+    Selector:a.suggestion-link:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      a.suggestion-link:hover { text-decoration: none }
+
+    Rule Id: eb236492-8a4a-4c82-aa89-95af9dc8b8b9
+    Rule Type: style
+    Selector:a.suggestion-link:active, a.suggestion-link:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      a.suggestion-link:active, a.suggestion-link:focus { outline: 0; white-space: normal }
+
+    Rule Id: d42100aa-7bbb-4f1f-8d84-e218af62ad41
+    Rule Type: style
+    Selector:.suggestion-thumbnail
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/noimage.png
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/noimage.svg
+    Content:
+      .suggestion-thumbnail { background-color: rgb(234, 236, 240); background-image: url(portal/wikipedia.org/assets/img/noimage.png); background-image: -webkit-linear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -webkit-linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -moz- oldlinear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -o-linear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: linear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -moz- oldlinear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -o-linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -o-linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.png); background-position: 50%; background-repeat: no-repeat; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; height: 100%; width: 70px; width: 7rem; position: absolute; top: 0; left: 0 }
+
+    Rule Id: 69c9af4e-f5ea-4769-ac90-7e25d032dbd8
+    Rule Type: style
+    Selector:.suggestion-title
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-title { margin: 0 0 0.78rem; color: rgb(84, 89, 93); font-size: 16px; font-size: 1.6rem; line-height: 18.72px; line-height: 1.872rem }
+
+    Rule Id: cab8ed92-5a3d-4b05-90b4-0fbbc6c3e68e
+    Rule Type: style
+    Selector:.suggestion-link.active .suggestion-title
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link.active .suggestion-title { color: rgb(51, 102, 204) }
+
+    Rule Id: 556de883-7282-4add-8329-6957fe79dab3
+    Rule Type: style
+    Selector:.suggestion-highlight
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-highlight { font-style: normal; text-decoration: underline }
+
+    Rule Id: 7976ca54-57a7-4e98-8ee3-20ba5bf38404
+    Rule Type: style
+    Selector:.suggestion-description
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-description { color: rgb(114, 119, 125); margin: 0; font-size: 13px; font-size: 1.3rem; line-height: 14.299px; line-height: 1.43rem }
+
+    Rule Id: 5723e445-6692-4af8-a564-625ed0966321
+    Rule Type: style
+    Selector:.styled-select
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      23ed07e1-f310-4e12-a2cc-f9ed9cd25f63
+    Related Link: 
+    Content:
+      .styled-select { display: none; position: absolute; top: 10px; top: 1rem; bottom: 12px; bottom: 1.2rem; right: 12px; right: 1.2rem; max-width: 95px; max-width: 9.5rem; height: 24px; height: 2.4rem; -moz-border-radius: 2px; border-radius: 2px }
+
+    Rule Id: 53832369-2d54-413e-97ab-8b144e2d9494
+    Rule Type: style
+    Selector:.styled-select:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select:hover { background-color: rgb(248, 249, 250) }
+
+    Rule Id: ae37e032-94a1-4d39-aa1c-e8334238bd22
+    Rule Type: style
+    Selector:.styled-select .hide-arrow
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      064a3895-f074-43f5-8eda-a8db3a67952c
+    Related Link: 
+    Content:
+      .styled-select .hide-arrow { right: 32px; right: 3.2rem; max-width: 68px; max-width: 6.8rem; height: 24px; height: 2.4rem; overflow: hidden; text-align: right }
+
+    Rule Id: 845b80e4-b529-4b55-adc8-7162cb4fe762
+    Rule Type: style
+    Selector:.styled-select select
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      87ca3415-9aa9-4133-a990-a88bff40a54c
+    Related Link: 
+    Content:
+      .styled-select select { background: transparent; display: inline; overflow: hidden; height: 24px; height: 2.4rem; min-width: 110px; min-width: 11rem; max-width: 110px; max-width: 11rem; width: 110px; width: 11rem; outline: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 0; line-height: 24px; line-height: 2.4rem; -webkit-appearance: none; -moz-appearance: window; text-indent: 0.01px; -o-text-overflow: ""; text-overflow: ""; opacity: 0; -moz-appearance: none; appearance: none; cursor: pointer }
+
+    Rule Id: 91ef8042-13cf-478c-97b3-55d919b0064d
+    Rule Type: style
+    Selector:.styled-select.no-js
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.no-js { width: 95px; width: 9.5rem }
+
+    Rule Id: 21fb1eb7-b81d-4776-bb9e-47c69a237e9d
+    Rule Type: style
+    Selector:.styled-select.no-js select
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.no-js select { opacity: 1; margin: 0; padding: 0 2.4rem 0 0.8rem; color: rgb(84, 89, 93) }
+
+    Rule Id: c1102cf7-9ba4-4eb9-8bc6-73cf0b4a210c
+    Rule Type: style
+    Selector:.styled-select.no-js .hide-arrow
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.no-js .hide-arrow { width: 68px; width: 6.8rem }
+
+    Rule Id: 0fdbf6ad-7542-42a2-9cfd-5aa20b791a47
+    Rule Type: style
+    Selector:.search-container .styled-select.no-js .js-langpicker-label
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container .styled-select.no-js .js-langpicker-label { display: none }
+
+    Rule Id: de9f66e2-1652-4c42-9777-e317e4acabfc
+    Rule Type: style
+    Selector:.styled-select.js-enabled .hide-arrow
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      064a3895-f074-43f5-8eda-a8db3a67952c
+    Related Link: 
+    Content:
+      .styled-select.js-enabled .hide-arrow { padding: 0 2.4rem 0 0.8rem }
+
+    Rule Id: d0b2c675-c4f6-4f6d-9413-96603fbd30ae
+    Rule Type: style
+    Selector:.styled-select.js-enabled select
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      87ca3415-9aa9-4133-a990-a88bff40a54c
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select { background: transparent; position: absolute; top: 0; left: 0; height: 100%; z-index: 1; width: 100%; border: 0; margin: 0; padding: 0 2.4rem; color: transparent; color: hsla(0, 0%, 100%, 0) }
+
+    Rule Id: c4f6034d-50f7-4cd0-9b3c-f0dce15af78b
+    Rule Type: style
+    Selector:.styled-select.js-enabled select option
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      74aab932-2703-45a0-b7f3-d42e1f03d07b
+      dd689d7c-5eba-4fa6-93da-61a22a838420
+      acef74db-c00b-4a6b-8bf5-3d04b0db7191
+      34101c50-4b91-41bd-aef5-06b0d1c52b11
+      38618173-f9b0-4cde-ba0d-caff96dec19e
+      7b093bef-6225-4b51-9f50-7d7f7029be1b
+      03f6da6c-ebd7-4d9e-87da-93e8cf282e9b
+      d2aa493e-a07c-4998-b0a1-4fe2b0243718
+      cddd7c4f-c1ae-4874-94c0-bc5ada9fb152
+      b7e19e9d-338e-47c0-af87-67b1f62cc5f2
+      d82f71b4-df97-43ff-a4b1-0984847ab2b2
+      d5c4f67f-3dfb-49fa-bb1c-0ab86ccbb64d
+      a2a1ef9a-f7ef-4712-9c7a-aa2bbe267002
+      fffdd22c-2b5e-498d-84bb-2ceb0be38d28
+      3f74672c-edfb-48d7-8265-14e6e7e22104
+      9512b448-01d2-4e0a-a202-336160006d32
+      322f4a93-5e49-4800-99b6-76be534c0ccd
+      cc40b3f8-3298-43b1-9ce8-ddd49187e50d
+      ef75f436-a2e1-447c-aa2e-2fae3987e531
+      9de3887f-94af-4193-85fc-82ab1b79df4a
+      192bd038-42c6-4c4d-b293-a7149cab40cc
+      8e6316eb-cd0c-47d3-8f9d-2d534a3866ee
+      462b5b85-020a-47ec-982b-62bceb24ba7b
+      64ac8709-66b0-471e-b648-54725c33eee1
+      e92d07fe-b16d-4080-82f8-3bc47113f39c
+      cbb0c53c-30ed-4766-a1a9-c6d8cf89293b
+      5a47bc2a-4630-4cbc-b854-cb7b91c23e33
+      65a2c590-228c-41ff-b405-99bfaa99c3a2
+      be14479b-3d42-4815-8b9e-52b9412d7c38
+      7528b94b-4853-4fed-bfd1-e9af5f90ffa6
+      02b3b5d1-dc91-41e4-a844-27aa80bd25d7
+      fde039ef-7482-44e5-bd65-cbf20a2fc4f8
+      b2d7595f-ea7f-43eb-bf0b-2f90716d8212
+      211b0a4f-ce5e-47bf-8cee-c446f9a812a2
+      0220974c-a577-4716-b4c1-0c627cf71d56
+      7e69edd1-7d9a-4db0-b685-1751560a4977
+      6893cbb9-c86c-48b0-a38c-56601a4a42f8
+      4712837f-3e97-429d-ac27-dedefc43d15b
+      33ebe8ce-fba8-4787-8a90-6a2c3b2fc9dc
+      d05022f5-d664-46a7-9753-5ca4eaf8fa53
+      5b04480b-3528-4160-adf3-7dba58b1780f
+      a7623535-bc1a-4ea2-86cd-5b02ad3f8c3b
+      160d67b5-45f3-449d-bddf-1c6d71cb1d88
+      ad556cf7-d2bd-4128-8536-1672653c2661
+      29c8dead-dcb7-4048-b53e-7be0b2c2325a
+      507b2568-ca36-4579-9a44-3c00786b2603
+      ea087202-9ce0-4c58-8612-31553050d59b
+      ad366101-8726-4ace-b1f9-75fd5dbc38f3
+      c92ef9de-a1f2-466a-a70c-65536257795c
+      899186a2-a4c8-4600-80c9-5ba9353e9bc5
+      4b83bf36-7a5e-44a0-9f57-f9fdba7ff9c1
+      6f3dcfc5-0914-41c6-a20a-7c9a9ac25941
+      2c0c3c9c-de7b-4b58-9229-b168f23eb0d2
+      9d890e57-8b7d-4c22-a3d0-5ac2fdf07750
+      c7b5714c-6515-4aa9-afc5-7f40c30ff6bb
+      148a1cb8-b09d-4aba-a1ba-9ef09f37d701
+      fd01fa5d-b667-4c9f-9fb4-cba9f64e7d70
+      8fb95828-99af-4d76-97ba-626cf9ef6af9
+      9ec184a6-ca2d-4b9c-b121-5fb82101c267
+      837b82e6-a87d-4ec5-8fd1-7ef0ec9495d2
+      eafeed39-e212-4f98-b60b-6a8d1d692df4
+      ac4ce473-51f7-448f-8427-66ddb838838d
+      aed4a65c-1ec8-44d5-985a-3b64fdd560be
+      88866f56-33c4-4e5c-8af2-3c5142c9996e
+      c79be402-6113-471c-bb5f-69c0ebd6df07
+      aee7b834-6a66-4796-800d-df93550965f2
+      7d91fbcd-42cb-4954-939b-7499d44c4fe2
+      943ae157-f663-498a-aad5-be9b8c81f46e
+      c8b073e1-4b22-42f4-8853-b415fae21b32
+      46427279-8646-4c90-8bff-d348fa7803db
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select option { color: rgb(84, 89, 93) }
+
+    Rule Id: 1448dbb9-5a68-4b8a-8701-a743ee10d818
+    Rule Type: style
+    Selector:.styled-select.js-enabled select:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select:hover { background-color: transparent }
+
+    Rule Id: c69c44c2-da6c-4f52-90fd-d0c6365f8475
+    Rule Type: style
+    Selector:.styled-select-active-helper
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e3e03d67-13fd-4fae-96f4-c148a1745e13
+    Related Link: 
+    Content:
+      .styled-select-active-helper { display: none }
+
+    Rule Id: 92758191-c5dc-4400-a51f-d0c2bf70d11f
+    Rule Type: style
+    Selector:.styled-select.js-enabled select:focus + .styled-select-active-helper
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select:focus + .styled-select-active-helper { display: block; position: absolute; top: 0; left: 0; z-index: 0; width: 100%; height: 100%; outline: 1px solid rgb(51, 102, 204) }
+
+    Rule Id: ac38f48b-0b4d-4e8c-8ec2-8d1d16059ad5
+    Rule Type: style
+    Selector:.search-container .js-langpicker-label
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      439f66cc-2341-4311-a310-e0410fca3420
+    Related Link: 
+    Content:
+      .search-container .js-langpicker-label { display: inline-block; margin: 0; color: rgb(84, 89, 93); font-size: 13px; font-size: 1.3rem; line-height: 24px; line-height: 2.4rem; text-transform: uppercase }
+
+    Rule Id: 87fa5d7e-5a9f-4cb4-82a7-7b6ef358eb65
+    Rule Type: style
+    Selector:.styled-select select:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select:hover { background-color: rgb(248, 249, 250) }
+
+    Rule Id: 1c8ba6ef-ae18-4972-9fd8-1b2a219cbf79
+    Rule Type: style
+    Selector:.styled-select select::-ms-expand
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select::-ms-expand { display: none }
+
+    Rule Id: 35392993-989f-4319-98c0-36232a3d7ebc
+    Rule Type: style
+    Selector:.styled-select select:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select:focus { outline: 0; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none }
+
+    Rule Id: 14f3b76a-a3a0-4311-b952-469a8a9ae846
+    Rule Type: unknown
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @-moz-document url-prefix(){.styled-select select{width:110%}}
+
+    Rule Id: 2bbff8d7-6845-42b8-a81b-c407d950e4cd
+    Rule Type: style
+    Selector:.other-projects
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      95a8f5d3-8d83-4c9b-bc1d-2bfc4659df4f
+    Related Link: 
+    Content:
+      .other-projects { display: inline-block; width: 65% }
+
+    Rule Id: 3c066f5c-5183-4558-b6bb-74cf4a965bf2
+    Rule Type: style
+    Selector:.other-project
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      8f0b98d1-9971-40cd-83ae-4bf04fbc12ac
+      3335df1e-62bd-4fcd-9963-c3184c2133c0
+      2a2a0ef6-4044-4a02-9935-d525a581e42f
+      91afe7b3-8008-496a-b5f0-97cd26d41695
+      97e66157-6425-4f73-8272-20755ddbb756
+      b0a1ce35-84a7-44e8-84ca-a400ef29635e
+      258ba0d3-c255-418b-8f4c-538638f7b532
+      f652abd8-6a45-4cec-91e6-ff0b313cf408
+      fbee40da-6b99-4bfc-8001-6ffd0422c491
+      bd0399af-1720-4a89-988e-dc3ef799ba29
+      f2828055-a1eb-400b-9eda-21f5a825b27f
+      382a32c9-098f-4d47-9ef6-32ac5d2006da
+      4a36fdf2-0378-478c-911e-f18950460e0e
+    Related Link: 
+    Content:
+      .other-project { float: left; position: relative; width: 33%; height: 90px; height: 9rem }
+
+    Rule Id: e319f0af-3a16-4724-80cc-81a74a63e614
+    Rule Type: style
+    Selector:.other-project-link
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      b8d89266-b482-46d6-8450-64f425303235
+      0b23742f-4e4e-4ce3-b94f-c3fba592120d
+      9ba2dcb9-6f7c-4671-a5bf-9c8a4b315f30
+      34bd3eb8-6b1c-4b00-9897-ce5636144f39
+      4c107822-8190-4561-9fde-f23d4b0718d5
+      2443a146-5afe-4cd1-bd4f-79fa742ee603
+      a78412f5-dcaf-4bd6-9a71-519b87d5d804
+      eab5ac82-5c26-43c7-b19e-f9dc2814820d
+      8fffafaf-c744-432f-b95c-ea83a5da2063
+      c7252ed9-372a-414d-b572-957d3f6a166e
+      3f0c4445-4088-494b-a878-b68f7c0462ab
+      2eb85371-4d9c-4447-a16d-e345aebe8832
+      fead1387-697a-4d53-a6cc-ad3cf51faa55
+    Related Link: 
+    Content:
+      .other-project-link { display: inline-block; min-height: 50px; width: 90%; padding: 1em; white-space: nowrap }
+
+    Rule Id: 5f7cf2de-5193-42ce-8b93-1dcd0ee05854
+    Rule Type: style
+    Selector:.other-project-link:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-link:hover { background-color: rgb(234, 236, 240) }
+
+    Rule Id: 3a4fd54f-c93a-41fe-8b69-61d231abe45f
+    Rule Type: style
+    Selector:a.other-project-link
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      b8d89266-b482-46d6-8450-64f425303235
+      0b23742f-4e4e-4ce3-b94f-c3fba592120d
+      9ba2dcb9-6f7c-4671-a5bf-9c8a4b315f30
+      34bd3eb8-6b1c-4b00-9897-ce5636144f39
+      4c107822-8190-4561-9fde-f23d4b0718d5
+      2443a146-5afe-4cd1-bd4f-79fa742ee603
+      a78412f5-dcaf-4bd6-9a71-519b87d5d804
+      eab5ac82-5c26-43c7-b19e-f9dc2814820d
+      8fffafaf-c744-432f-b95c-ea83a5da2063
+      c7252ed9-372a-414d-b572-957d3f6a166e
+      3f0c4445-4088-494b-a878-b68f7c0462ab
+      2eb85371-4d9c-4447-a16d-e345aebe8832
+      fead1387-697a-4d53-a6cc-ad3cf51faa55
+    Related Link: 
+    Content:
+      a.other-project-link { text-decoration: none }
+
+    Rule Id: 98a45dce-efad-42cc-9796-d4015719c4f0
+    Rule Type: style
+    Selector:.other-project-icon
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      fbce9cd4-726c-4c07-807c-ab81203bf6a7
+      f8b4e99f-38f4-40c4-a7cf-f7801276e93a
+      a3bfbe5f-7269-44a7-b4dc-e089094adfb1
+      5755dd4d-0b75-4a20-9479-f2d77fc95b0d
+      f5575246-3e33-4f69-998e-e0f322f8ba1b
+      f84daa27-6acc-428f-b77b-79fe03485a37
+      374e0516-5298-476f-add2-f4e442a82e55
+      8bf5781c-a6fa-44a3-ac28-b91b3896a905
+      814137bd-2867-4930-877f-e634936ee867
+      5b0e3069-2aca-48e7-ae84-0478fcf2d419
+      19ba0f56-576e-4cb4-926f-ee5ca1a3badc
+      c8fdf938-9020-4b35-af37-1bbc422a8a19
+      05c3581a-9ab5-4415-bc5e-3f172dc610cd
+    Related Link: 
+    Content:
+      .other-project-icon { display: inline-block; width: 50px; text-align: center }
+
+    Rule Id: b5ad47c4-b2f0-4d93-ab87-50bed20cbd40
+    Rule Type: style
+    Selector:.svg-Wikinews-logo_sister
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      3ccb4035-cf44-453d-af07-113df74892f2
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister.png
+    Content:
+      .svg-Wikinews-logo_sister { background-image: url(portal/wikipedia.org/assets/img/Wikinews-logo_sister.png); background-position: 0 0; -webkit-background-size: 47px 26px; -moz-background-size: 47px 26px; background-size: 47px 26px; width: 47px; height: 26px }
+
+    Rule Id: 4cd0558a-339f-4184-8905-a01ea8eed424
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png
+    Content:
+      @media all and (-o-min-device-pixel-ratio: 5 / 4), all and (-webkit-min-device-pixel-ratio: 1.25), all and (min-resolution: 120dpi) {.svg-Wikinews-logo_sister { background-image: url(portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png) } }
+
+    Rule Id: 75f7f136-8066-43e1-8bd7-2cfcaa8a53fa
+    Rule Type: style
+    Selector:.other-project-text, .other-project .sprite-project-logos
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      b21d6435-7c19-47d1-b909-88c08c1db4b9
+      2699a2b0-e642-4097-9906-276a8e969d28
+      85cec389-a1c6-45d3-8d73-b448e5c0cfab
+      4b83e306-a72a-4178-9a3e-4fe984c3db37
+      bef1acf5-d075-4e35-8aeb-b3deace8446e
+      291a2e84-97c8-4c3e-9392-204dc372ba2b
+      20b63e0d-da75-4b42-9f9b-2c3cf0de0435
+      db186a10-0042-4a1a-9996-d6454eab8602
+      6c0342b3-e66e-415d-bb13-2f507850983f
+      b04cb11b-95f5-4c8e-8c17-7c27edf35875
+      5325a734-f8e4-40f5-b718-b859161ba2fe
+      6e57a4f0-5a28-4429-805d-8b424a58b6b9
+      de2ec3c3-978b-4191-9700-ff4df3ab0267
+    Related Link: 
+    Content:
+      .other-project-text, .other-project .sprite-project-logos { display: inline-block }
+
+    Rule Id: 956c294b-f0b9-4c97-a3ee-4da462ac48e1
+    Rule Type: style
+    Selector:.other-project-text
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      b21d6435-7c19-47d1-b909-88c08c1db4b9
+      2699a2b0-e642-4097-9906-276a8e969d28
+      85cec389-a1c6-45d3-8d73-b448e5c0cfab
+      4b83e306-a72a-4178-9a3e-4fe984c3db37
+      bef1acf5-d075-4e35-8aeb-b3deace8446e
+      291a2e84-97c8-4c3e-9392-204dc372ba2b
+      20b63e0d-da75-4b42-9f9b-2c3cf0de0435
+      db186a10-0042-4a1a-9996-d6454eab8602
+      6c0342b3-e66e-415d-bb13-2f507850983f
+      b04cb11b-95f5-4c8e-8c17-7c27edf35875
+      5325a734-f8e4-40f5-b718-b859161ba2fe
+      6e57a4f0-5a28-4429-805d-8b424a58b6b9
+      de2ec3c3-978b-4191-9700-ff4df3ab0267
+    Related Link: 
+    Content:
+      .other-project-text { max-width: 65%; font-size: 14px; font-size: 1.4rem; vertical-align: middle; white-space: normal }
+
+    Rule Id: bc29a055-8415-4a12-9da5-38f0a9223ed9
+    Rule Type: style
+    Selector:.other-project-tagline, .other-project-title
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      3c5b7909-b751-4281-a7cf-6dcf4eb52ccd
+      0d46c27b-cf42-4b98-94e8-66234392e161
+      ebe92970-25cd-4d0a-9354-e1256b26f13a
+      46a97fa3-496e-4823-ba21-e8990067cbbb
+      01b5c57d-9988-4782-9076-2a78bde5e11d
+      dbf84820-97bb-4506-a746-eb83496ebc59
+      ae5b8aea-4e52-4afe-9ca8-9bf7702b6b9e
+      91e14908-f545-4e8d-acaf-a91f0ea834c5
+      5c9fefca-a563-4c3d-b088-0b1653279613
+      db6766ca-ae6c-46d8-8659-1ccf9dab1166
+      b9609a5b-e533-4893-b035-f09ac92c309e
+      66cf8211-3a4f-4973-8c8b-44e5c4c1ad69
+      ede65ad3-a952-4c91-ab57-73ba85b928de
+      48ff59ab-2ad0-46e7-8216-1e65586edeaa
+      81c5bbad-a4d8-48c6-a451-546ee71bbb61
+      d5c89f90-9b70-442e-b715-b3aba95482fa
+      7236f66d-382f-4dfe-87a3-c4cc03ec7d06
+      ed98470a-8d40-466e-9b2e-c543a17e1421
+      ecc710e8-7915-49bd-afca-5ed7d5fd4181
+      01a76cc5-bf99-4f3c-b9e5-e262eff42757
+      f9cf3dff-c368-4c25-a2fa-5c6e6ea5ac0b
+      0e159230-cfbb-4345-9a17-fb657b6e5f49
+      7086343b-ba81-4e2f-915b-249d51640897
+      1dd204e1-3d67-455c-9f4c-3483997327c0
+      6ebf4eb7-d81a-4b7a-9037-961d113f2bd8
+      7f8f2e2e-eabf-4dda-83f8-7f15ed37fc8f
+    Related Link: 
+    Content:
+      .other-project-tagline, .other-project-title { display: block }
+
+    Rule Id: c13b288b-0eea-4b29-9684-7cecc84f794e
+    Rule Type: style
+    Selector:.other-project-tagline
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      0d46c27b-cf42-4b98-94e8-66234392e161
+      46a97fa3-496e-4823-ba21-e8990067cbbb
+      dbf84820-97bb-4506-a746-eb83496ebc59
+      91e14908-f545-4e8d-acaf-a91f0ea834c5
+      db6766ca-ae6c-46d8-8659-1ccf9dab1166
+      66cf8211-3a4f-4973-8c8b-44e5c4c1ad69
+      48ff59ab-2ad0-46e7-8216-1e65586edeaa
+      d5c89f90-9b70-442e-b715-b3aba95482fa
+      ed98470a-8d40-466e-9b2e-c543a17e1421
+      01a76cc5-bf99-4f3c-b9e5-e262eff42757
+      0e159230-cfbb-4345-9a17-fb657b6e5f49
+      1dd204e1-3d67-455c-9f4c-3483997327c0
+      7f8f2e2e-eabf-4dda-83f8-7f15ed37fc8f
+    Related Link: 
+    Content:
+      .other-project-tagline { color: rgb(84, 89, 93); font-size: 13px; font-size: 1.3rem }
+
+    Rule Id: 071f2477-a306-4624-a31f-31bfb80bc9e3
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 768px) {.other-projects { width: 100% } .other-project { width: 33% } }
+
+    Rule Id: 147adc19-e58a-4faf-8b2d-8512f76a80ee
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 480px) {.other-project { width: 50% } .other-project-tagline { -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto } }
+
+    Rule Id: 7b99e64e-5e58-41e6-a68c-4944f73f540e
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 320px) {.other-project-text { margin-right: 5px; font-size: 13px; font-size: 1.3rem } }
+
+    Rule Id: f4751746-7faa-4df6-9d4a-7c10de89e106
+    Rule Type: style
+    Selector:.lang-list-container
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      fbf3d992-3f0e-45b5-a446-71c545f63747
+    Related Link: 
+    Content:
+      .lang-list-container { background-color: rgb(248, 249, 250); overflow: hidden; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; max-height: 0; width: 80%; margin: -1.6rem auto 4.8rem; -webkit-transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s; -o-transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s; -moz-transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s; transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s }
+
+    Rule Id: 6a081e4b-7bf5-472e-bf8e-5f5a5b7fa518
+    Rule Type: style
+    Selector:.js-enabled .lang-list-container
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      fbf3d992-3f0e-45b5-a446-71c545f63747
+    Related Link: 
+    Content:
+      .js-enabled .lang-list-container { visibility: hidden }
+
+    Rule Id: 88e39447-59f2-4ce3-a4fb-2ed4449e0c37
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-container, .no-js .lang-list-container
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .lang-list-container, .no-js .lang-list-container { visibility: visible; max-height: 10000px; -webkit-transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms; -o-transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms; -moz-transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms; transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms }
+
+    Rule Id: bd95868e-1d7a-49b4-809f-ecf49280cb15
+    Rule Type: style
+    Selector:.no-js .lang-list-button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .lang-list-button { display: none }
+
+    Rule Id: b53543a7-4342-485c-94ad-acbb1fd0ecfc
+    Rule Type: style
+    Selector:.lang-list-button-wrapper
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      189b29a4-a36c-4f1a-ba7a-35eed43aa660
+    Related Link: 
+    Content:
+      .lang-list-button-wrapper { text-align: center }
+
+    Rule Id: f8ebf27e-7c94-4c38-a143-15bbb89ba8e8
+    Rule Type: style
+    Selector:.lang-list-button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      0a8fe1b3-aacb-4ed2-8dbe-250588f5ae60
+    Related Link: 
+    Content:
+      .lang-list-button { background-color: rgb(248, 249, 250); display: inline; position: relative; z-index: 1; margin: 0 auto; padding: 0.6rem 1.2rem; outline: 16px solid rgb(255, 255, 255); outline: 1.6rem solid rgb(255, 255, 255); border: 1px solid rgb(162, 169, 177); -moz-border-radius: 2px; border-radius: 2px; color: rgb(51, 102, 204); font-size: 14px; font-size: 1.4rem; font-weight: 700; line-height: 1; -webkit-transition: outline-width 0.1s ease-in 0.5s; -o-transition: outline-width 0.1s ease-in 0.5s; -moz-transition: outline-width 0.1s ease-in 0.5s; transition: outline-width 0.1s ease-in 0.5s }
+
+    Rule Id: 39beab69-ac35-4552-b848-979691a0c394
+    Rule Type: style
+    Selector:.lang-list-button:hover
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button:hover { background-color: rgb(255, 255, 255); border-color: rgb(162, 169, 177) }
+
+    Rule Id: db53ebb5-87ff-4f58-aa29-9ea5fc2d6df2
+    Rule Type: style
+    Selector:.lang-list-button:focus
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button:focus { border-color: rgb(51, 102, 204); -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); box-shadow: inset 0 0 0 1px rgb(51, 102, 204) }
+
+    Rule Id: 7916479b-f582-4954-91de-4844220273fd
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .lang-list-button { background-color: rgb(255, 255, 255); outline: 1px solid rgb(255, 255, 255); border-color: rgb(114, 119, 125); -webkit-transition-delay: 0s; -moz-transition-delay: 0s; -o-transition-delay: 0s; transition-delay: 0s }
+
+    Rule Id: b2c58fca-1f6f-4a16-bf2b-f83539046183
+    Rule Type: style
+    Selector:.lang-list-button-text
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a649ed78-0f7d-410d-b1eb-cb303b2f057e
+    Related Link: 
+    Content:
+      .lang-list-button-text { padding: 0 0.64rem; vertical-align: middle }
+
+    Rule Id: 0b125016-4fc0-46ac-a89c-4b3fe02ab478
+    Rule Type: style
+    Selector:.lang-list-button i
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      4b898cf1-e541-416a-b7b8-8945620b469b
+      e13394c5-2982-4071-a4e0-0eb5288c0e49
+    Related Link: 
+    Content:
+      .lang-list-button i { display: inline-block; vertical-align: middle }
+
+    Rule Id: e211c660-149a-4dcd-83b1-43200e46db63
+    Rule Type: style
+    Selector:.no-js .lang-list-border, .no-js .lang-list-button
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .lang-list-border, .no-js .lang-list-button { display: none }
+
+    Rule Id: 2a7ec872-4d16-4e49-a5da-e0ca1cbad028
+    Rule Type: style
+    Selector:.lang-list-border
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      231d8a75-daac-460c-8813-2e521c04b16b
+    Related Link: 
+    Content:
+      .lang-list-border { background-color: rgb(200, 204, 209); display: block; position: relative; max-width: 460px; width: 80%; margin: -1.6rem auto 1.6rem; height: 1px; -webkit-transition: max-width 0.2s ease-out 0.4s; -o-transition: max-width 0.2s ease-out 0.4s; -moz-transition: max-width 0.2s ease-out 0.4s; transition: max-width 0.2s ease-out 0.4s }
+
+    Rule Id: 21f7a334-be12-48e9-b169-4a398c96d803
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-border
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .lang-list-border { max-width: 85%; -webkit-transition-delay: 0s; -moz-transition-delay: 0s; -o-transition-delay: 0s; transition-delay: 0s }
+
+    Rule Id: 4e4973f3-c07f-4675-b6bf-6650a3a4dc2d
+    Rule Type: style
+    Selector:.no-js .lang-list-content
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .lang-list-content { padding: 0 }
+
+    Rule Id: 3986b41c-7aa5-4a43-a3c1-69bffecf8338
+    Rule Type: style
+    Selector:.lang-list-content
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      b2f87266-89d1-4a37-9c3a-a67544a21d27
+    Related Link: 
+    Content:
+      .lang-list-content { position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; padding: 1.6rem 1.6rem 0 }
+
+    Rule Id: f1d0eb68-1d89-4ada-a404-2a7177557fec
+    Rule Type: style
+    Selector:.svg-arrow-down-blue
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e13394c5-2982-4071-a4e0-0eb5288c0e49
+    Related Link: 
+    Content:
+      .svg-arrow-down-blue { -webkit-transition: -webkit-transform 0.2s ease-out; transition: -webkit-transform 0.2s ease-out; -o-transition: transform 0.2s ease-out; -moz-transition: transform 0.2s ease-out, -moz-transform 0.2s ease-out; transition: transform 0.2s ease-out; transition: transform 0.2s ease-out, -webkit-transform 0.2s ease-out, -moz-transform 0.2s ease-out }
+
+    Rule Id: 127f731b-ad75-446a-9ef2-14d8a544e603
+    Rule Type: style
+    Selector:.lang-list-active .svg-arrow-down-blue
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .svg-arrow-down-blue { -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg) }
+
+    Rule Id: 1c7da0d0-37a5-459e-aab1-4e066bb991fc
+    Rule Type: style
+    Selector:.langlist
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a2961132-e31b-4b16-9242-e8c382a0fcec
+      2ca3b1f7-8479-4ad8-bbef-be2dea88fbe2
+      78e200a5-e9da-4b6f-9098-1f9f66d8cb63
+      08558187-70bb-432f-9bce-bdca0a9ea8a0
+      e30cdeec-1469-404f-9147-cbc37bc2be85
+      39a8ece8-3e73-4a31-84f8-7813f4f39089
+    Related Link: 
+    Content:
+      .langlist { width: auto; margin: 1.6rem 0; text-align: left }
+
+    Rule Id: 82660423-ccd2-46a9-b1ea-0a2f5ddc1ac5
+    Rule Type: style
+    Selector:.langlist-others
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      39a8ece8-3e73-4a31-84f8-7813f4f39089
+    Related Link: 
+    Content:
+      .langlist-others { font-weight: 700; text-align: center }
+
+    Rule Id: fb9447f9-0c94-4b78-8a29-ed359dbc95f7
+    Rule Type: style
+    Selector:.hlist ul
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a13a5c1b-25de-495d-b322-50af12c487fc
+      a15fe9fe-c416-4f18-a30c-bfcfb8985432
+      cdee4c00-9566-4263-9a36-f81080916386
+      df5fc94b-1b75-460e-9641-f71248a02948
+      5748fa47-dc6d-4e41-94ea-bc6777219f14
+      9a3ab017-a561-48db-b8aa-e0426c0d9c89
+    Related Link: 
+    Content:
+      .hlist ul { margin: 0; padding: 0 }
+
+    Rule Id: 4ed779bc-581e-45f3-91af-45183712520b
+    Rule Type: style
+    Selector:.hlist li, .hlist ul ul
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      56242a70-c0f6-4187-8d77-26485579b4e7
+      eba2c425-6526-48e6-a11f-6fd450d6dce0
+      4032bc3f-ecc1-4b92-bd48-7dac8b494602
+      2bc1eb3c-41e6-4907-b29f-7ca05916875d
+      458d1e3b-f6ca-4a95-af7a-c4ccdeec92ed
+      43520a7a-7b69-4fb6-9b98-9c9ab9cd0e48
+      fba7e8f7-adab-4d62-8416-8e5779ce320a
+      5ecfb828-9514-40cf-a405-9ba3c0a4a8f8
+      c6914d12-52b4-48a8-9eb8-00bc31b29c10
+      5370f2eb-e84d-4304-b206-d62054606d3f
+      2fdc84fd-8b8b-43b9-8838-8f6ec2c955a9
+      1fc2cbf4-0df8-4b30-a43d-0c24e944417c
+      00222e91-8e3f-4f38-ba35-2b27fa63a32f
+      91e4e3c1-0ba4-4af8-9352-d1b99b8aa8e4
+      23ff7dd6-95a3-4a76-bfcb-ac01ba37884a
+      88669ab4-cc15-4c15-8d67-8512aab17aba
+      8576ce58-3c1f-4d73-ba09-f689c54e7bda
+      c66aa408-25d5-4fd2-af9e-7836eb518bdf
+      12c84a2f-d0b8-42fc-9628-3feaed0137ac
+      b4d233b8-2f7a-4578-a4e6-86efdbcf63ed
+      030a1215-cc81-413c-b499-e7d3e2b3a4c3
+      e8b219b7-4ca0-4c38-a450-4751b95a17ae
+      9ab9a80c-7613-400a-b11e-6cd7f87a8a6d
+      882c5d86-1db9-48b7-8045-56a3fb675335
+      616dd108-384f-45ce-a717-2846533e86c8
+      9362e8e1-0d99-4853-b9ed-fac1cf53c4f9
+      33fd8176-5cb4-4ac7-9e83-d8d6e5609b50
+      75be7935-25f9-41b2-beeb-ed90cadbf0de
+      aa34a7c4-6acd-4a42-a10e-327565a15558
+      84047b28-1e35-4759-93b7-bb26e13f37e4
+      165995ea-12a5-4d27-b530-f67b6b56fa73
+      b9cb1f00-7705-41e7-8a52-aabac52d59f9
+      e96248f0-7916-41d5-b8f6-35c07cb6328e
+      2b8f47a2-646d-4750-b0e6-df5d9d7f6290
+      4385fcc4-9126-40f7-8610-8b77e3c25a77
+      99536c18-7461-4127-a808-42b71c116785
+      f459f287-565a-4b0b-af8d-926e8fe2cc82
+      0647708a-a289-4565-8ce1-b3db98287a1a
+      e666e366-018e-4a46-8813-0e3771d6170b
+      4ce3fa83-a270-4348-bd39-a4ecd9d62999
+      67d969fc-638b-425c-8270-d07e91d7c5fd
+      08397d84-5ede-48af-a554-9c5db5f0e234
+      52180820-23bf-4398-823d-517d85f81943
+      9ef2d09d-c7a9-4ae8-bdf5-02aee989ca00
+      93525231-1661-4b3b-86a1-5dc6d01973d6
+      f33fc702-a485-48e7-8400-7f0d096bdcc2
+      685e8943-422e-44df-8ca0-05bf3ac9e0fc
+      a0624e1d-17d6-4b98-a8af-23c32071b09d
+      8d4197c8-57da-4065-868a-d58c6fae4e2a
+      cdee4c00-9566-4263-9a36-f81080916386
+      2d14afc1-e166-4d3c-a52c-e17ea090d2e4
+      58b907e9-97b7-46c9-99c2-45bb3ddd2279
+      c45f4bf7-0810-40b8-aa1e-33efe8fafedb
+      e69c1184-762a-4482-b0e8-49a46fac752d
+      2d282921-83d7-4b05-8be6-b6b519770a06
+      ec5e1d9c-8c3c-44e3-8036-e0b780a0124a
+      620f7bb5-7fa1-4f15-8ce5-6a04d71a158e
+      d655a0a1-55b0-4ef4-8b4f-77bd8c706633
+      180222ea-f721-4547-aa0e-96628b9c9acf
+      274d0a7e-aa68-48ab-8ad7-7821e644e662
+      997e80c1-fb09-4f6c-9872-4da8c769eccd
+      1be356ab-b272-4429-a15c-d00c64884e5e
+      cba8f0ff-9185-4434-8f33-49c3d7cbae30
+      e34de941-5f1a-40a6-b3bb-cf03dae16a8f
+      f111421b-1fc8-4f03-8dfc-d709df50718a
+      76ca4a55-1442-4505-aadb-9004d9499da9
+      006d382d-a59a-4c86-91dd-74aabfd96281
+      8045284b-3245-4bfa-b689-a67fead0dce6
+      4c80ba9d-523f-40a6-a9d8-cecc51552005
+      06800553-5ff0-4c5b-938a-be363947c98e
+      e7372155-ccdb-4fd4-951d-d9eaa9875f1b
+      f02b2383-81ee-458f-a4a9-6e37f3a113c5
+      86aa1ac0-5b5f-4c68-9c31-8bc560787fb8
+      eae0b1c6-90af-4392-b80e-ef538ed06be9
+      e60f841a-da1a-40ea-8f04-671e76188b15
+      da024fdd-611c-4420-9bf3-c835ab6398c5
+      cd386fe8-c070-4842-b1ad-fbd7a5482dcd
+      579b039d-9b43-4064-bdd5-47ccb354d119
+      8244c35d-9052-4493-ade1-e3b9a4acae09
+      2f88e12c-0cd0-4018-a7d6-c6c04bd7cf27
+      b7b6dcda-8e27-49e6-99ce-52c54a42d8d4
+      8b1c10e5-a865-47d3-9be4-195281b1b59d
+      094b38af-56dd-4f6f-84a5-6d595d551a25
+      d04c4306-840a-4dda-94cf-a5960d89a3ac
+      c8764d56-f252-4aad-b952-7704e7f58947
+      6f4b551c-fcab-4f5a-a942-b701d6d0d134
+      6f72cc3b-6e44-48a3-8079-11475e7c5663
+      cf4656f6-946c-46bb-a5bd-d1e9e54c404e
+      dcc89f23-7a72-4d72-b67c-6297d7e5ee24
+      d8285c77-24a6-4a96-9d9a-322b6b009c23
+      5c728396-c1d7-451c-a863-fc9ecb7cd69e
+      b851d242-1709-4a1f-90e4-a4e2fa26e6ae
+      73a48eaf-dba2-4f9d-986b-57b80c96e1b6
+      2cd070d5-589e-44b0-b900-73dc5aecd1c7
+      5b9abf7f-f857-41c5-814c-e7ed4abe3995
+      0e153761-81b4-42b1-bd33-43d47266e425
+      1d5d9c0e-5fbf-4eba-91de-77a4a3c6bb44
+      9f13e729-fe5f-4b3e-b042-50cdb1ce3c69
+      d6056dd1-2e10-4a17-ab29-d85e7a7c0436
+      e24f4a36-7770-46af-971e-9e76a8bc6d5c
+      add9576e-27ff-4a53-9ca6-2ceec6a874b7
+      20ae7ca9-7204-471d-a0e0-0401ace5818b
+      62037fac-3eb2-40b5-b9a0-23d33a407a17
+      7f596368-d085-4cc8-967f-6586852546fc
+      e5492ba4-9763-42af-bd07-c16713ea38da
+      e501f912-06fb-4f20-b4bd-b0a23862410b
+      169be771-5ab1-4151-83c5-d77f20754346
+      1b0b9f5e-4630-47b0-9ead-0d0ddb9dac38
+      d071d302-b8f9-4ff3-9f4e-47198b4d6915
+      bb0107f0-4b12-49e4-b9b3-aaf4d1a3d2db
+      bda6aa07-a8b3-4e4e-8c47-94800533c91c
+      9c33dc55-56fd-41da-b26d-bffb42e63b1c
+      74611713-9d62-4e65-aef3-6aedd387c6c0
+      909149c9-db05-42f0-98fb-98b7e2cc46cd
+      c9172587-3bd0-4384-aa52-77369252633e
+      bcb06388-3e1e-4702-9501-91abd05ebce0
+      360b505f-5fe7-449b-a323-05f4e01bd795
+      d91bf395-1d5f-4abd-a6fc-6cdc78b14503
+      5b8f75a6-a4bc-400d-8e7a-7ce0a6b45ede
+      cef67f2d-cbbe-432a-ac04-f60f95ed1b24
+      c1e87016-17ec-4be3-8ce5-099c22861044
+      4bd89a95-9263-498d-9c7f-6616f60c15d1
+      34397d9f-4db3-4f9e-974d-899b211aa579
+      f51ca294-0016-4c8e-a3fa-0a2d931472cc
+      e06e7735-8ddf-42cc-8706-0702617546ef
+      c09754a2-f185-4dbd-887c-e3a4f50c6981
+      9db04ebc-942a-4995-b3c3-3a1e5e12ba33
+      c4c194b6-9c0e-4d78-bdd6-ba98beeb332b
+      a8b36ee9-4a90-4cf2-b21a-265ea47e3a00
+      6a9163da-5773-4880-9c54-88a10c1cc61e
+      485b69a6-9af0-4c0f-a937-2ac12f3148cd
+      2bd3796a-f2e2-4244-909c-103460e00e28
+      6ecca49a-095d-4c0a-88f2-5f32d9225a19
+      ba52ebe5-88d2-442c-a68c-2a4c223517ed
+      2e812ad2-0313-449f-98e2-52d329839098
+      0a701618-799e-4452-b697-f206a86d483e
+      8dc09da0-adc7-419e-aee3-8f923a36da22
+      f4b58f77-2aff-4f71-92bc-10e872dfb3f6
+      a2e7e6e4-50e2-4f6b-b98d-43502ec134c4
+      78254bb7-a1ae-4342-9066-b898cb162442
+      d949b958-815f-4626-a2a1-b0dce59ecc4b
+      134e9329-e02c-4bcd-8aa9-b5b131e16f32
+      194356d0-7e41-48b2-b094-90f17c3996d1
+      9796fb28-f9b2-4013-bbbb-9f6f0380d2d0
+      51d85e30-b95f-41f9-8a87-528c08b95608
+      a524a6a1-c07f-4cfd-9070-c6a04e712a9a
+      a7baf9b8-3bf4-4215-a14f-c79ff8666208
+      b61b2cbf-6593-43d3-9ed5-ea18d10e0674
+      8614a6cd-e1df-43c3-95b0-31b9a5a8a24a
+      83684aa7-da2c-4ca5-8885-ff2d3d66ac8d
+      d837c282-5b58-42e1-afab-80fcf635049f
+      923ee61c-53e2-41db-87b2-b1e094e6fc72
+      3906ce87-f40d-4bb5-9adb-b615dd776450
+      45f00561-e62c-483c-a69b-78445a5e5dd7
+      c440f534-d1ba-4ae6-be2b-00bb8591f9a3
+      f5201912-8167-4f40-841b-1a617d485513
+      6e29ad2a-1384-42d6-be32-fc9e5d5f69bb
+      74effc76-0cea-40fb-856d-6133ba1e0f91
+      58970c56-a4d0-4ddd-a261-743792cdd57a
+      bddcf57b-bbc1-426c-88b1-4a05048d4f6c
+      9dbf11fd-71b3-4d98-b300-9769c5847247
+      7ede3266-63f5-488a-a5f1-f6a304650f4f
+      92bff3a7-7293-4ed2-96ad-343f3f56bfe7
+      40e5f7a5-1ec6-44bc-8aa1-8460301c06c3
+      9479fb3b-74a5-4858-a9cb-8b0d94fd5987
+      6a66e52b-4cc3-4c3a-bca9-a5e017aff653
+      56b4bf69-3d86-4846-9497-32f6148d7da8
+      79aff842-c800-4779-80cb-c930de1565f4
+      4525766c-f481-434f-b43f-6a8c0e43b042
+      d88c3d1e-983f-436e-bf86-4a35a6703d29
+      e74fed84-634c-49ae-ae64-855b24019e95
+      6af3d1ff-08ed-45c1-9285-06f7f5e9aa7e
+      b094888d-15f1-4547-a9ca-d645894132fa
+      09f61a60-31ee-4551-b489-3ffe1899bf76
+      cb9af215-1124-46d5-bf1c-eabd6422cafd
+      dcdb298b-c644-4ab0-a82e-d71b5dce1b0e
+      11178ac1-d25f-4834-b9aa-345e39941e0c
+      7cd1204e-8e9a-4db9-9e49-5c2e8df7106a
+      ec8bebcd-9384-4d8d-ba01-fa9489b186b3
+      804f2789-f978-481d-8bff-8e76e09bc4a3
+      8b83a82c-9552-461e-982c-46aa6df4f56e
+      53beb73d-9c90-41b8-9ff7-0d03c5db8368
+      986b7836-7fe0-4245-a156-80e22824fb12
+      9af6be86-cf4a-43ca-bdde-b772673b7899
+      37e05230-eed7-43b5-9c6c-f154665077dd
+      d18a4392-8699-4c9e-a90c-db3139a8275e
+      3d7c8609-6b10-43a7-b843-e572611aed49
+      f792d9c8-0d64-4e6d-b51b-51e200926397
+      112df178-6806-48f8-a978-f4230ea4f291
+      b9bd1367-218b-4335-8171-9d42c6da25e9
+      4cbaab65-bea0-46b0-9e65-a1daf188f86e
+      278e8231-0cb8-46d8-bd6b-0ffb834bc8c0
+      8046eb0c-1dba-4401-bb23-28995e05de06
+      984e00a6-9f69-4f38-b967-03f97ec4506b
+      3a2cc2d0-2e98-4194-a3e1-2677d990ba32
+      0cbd3b2d-62a2-4311-8f38-8fe500416fe5
+      86bafacf-7ca9-41aa-a905-c114be3ee540
+      89e8c78f-4b3b-4aa1-82df-c0058575715f
+      50007ab0-4ff7-4cf4-8c63-0269c1e4bf00
+      5ba1d890-ed8d-4e65-90c9-7bd2e9275922
+      e1e74266-6c50-4584-8047-ad112f864463
+      6027efac-0777-4eab-bb53-1d955a631db9
+      2ed154a2-b950-43f9-a049-19d1da5fa8d2
+      ee1c5f93-0e6c-47d0-bfad-c849d81ec23b
+      a0ab684a-89b6-4352-841d-75ab98984cd9
+      b1ff8d16-4e7d-4b42-a286-4127175aa75e
+      22f9f34c-d16c-466e-b146-a8bd9920de0b
+      9bdfb14a-d3ab-45d5-92e4-49d152835cc2
+      270f6bd3-dbc8-40a7-803b-a91d8d8145b0
+      f063cd18-b581-41e4-af53-96ecc83ca23f
+      a1cd7d8a-90f8-4a15-bf2a-c38bb865af62
+      2052e634-016f-4a68-9537-c68fbbff3932
+      bb653e3c-2b66-41f7-b8d3-632bee66f7ca
+      5a08783d-6268-48e3-b02e-0c04a7f250dd
+      ed6cbf1c-e6bd-48f3-ba09-d1b37769ee91
+      0b10a106-44aa-43a9-bc2d-75060771b490
+      8102bb44-c790-442e-a617-3d54c0fa408a
+      795e00ec-a276-4258-9471-fe963be38cc8
+      aba5f340-c826-40d2-8d82-437b72760c20
+      9fd55fe3-2d1c-4222-9b1d-0227890c0f9b
+      fbc6ccb0-16e4-4a19-b84c-bd536ea38845
+      3bef5fda-4aaa-42a7-b7b8-1eb26eeef38a
+      16d5d50a-b1da-4566-aa2e-d2daf144a8b3
+      f171651b-fe89-4d6f-9238-93656226c1cd
+      d7bd360c-1aed-4b3c-9b18-9c3dbad2c590
+      75c1bac3-61d6-4b90-9109-c10cad2a2d40
+      1358b8fe-ce24-40e1-ac8c-3f0d8485d252
+      8bebdec4-cf68-47d0-bbe3-832f748074b2
+      d50e474a-8638-4b59-beba-5debd6a560c0
+      ff26eeac-13e9-49bf-9c0f-684a8eb5be50
+      c9894f6b-0cea-4980-9e26-496a994ac29a
+      a7ca15c4-77b5-4eb5-9a64-b4c4304359b1
+      9f48ceed-d190-40a5-9d98-754ef15bce6d
+      8a36c044-9413-4de6-9d92-5dc1447312c7
+      d18c7598-c779-41f0-9b52-3024ae2cb0dd
+      a44edca6-7127-48ff-96cb-90834cfd415d
+      1fb93fc3-3296-444d-939d-62c3b9c16ca4
+      7c319366-b73d-47a2-bcc1-32f72951ac2b
+      c753b7bf-6b07-4cbf-b90e-c2542f21b311
+      9c481bb7-c1e9-432f-9d4d-52479abf4379
+      3f1e00b8-0359-4293-82dc-25a9605967d1
+      30b1fdce-69e8-406e-9687-cf2cbd2634d9
+      9dfe5298-30f3-4cef-9e8b-017d6e2af435
+      be953ebc-ca4c-42f1-b860-30068fd283cf
+      ead3580c-bef5-4b01-b08e-b286359a3f00
+      fb40ef3d-110d-4cfd-9cbc-e235ac45e02a
+      375d4166-ef30-4a49-bfdc-e61a08690262
+      0cc53b01-8e56-4a80-b9f4-9a4716b87fc0
+      25944b35-231a-4622-9ff6-79b5d795bdfd
+      840d85ef-0ced-494c-8ea2-94eb1c821edd
+      8caed1cf-bfd7-46ca-bdcc-ef97bfab1423
+      f9ed2dc4-2bcc-43af-abc6-5d9391be7b2c
+      675eba53-abad-48e8-93da-e6d6f6dfe6c8
+      d7f4435e-0651-43f5-bbbb-42eb2ff1b9c7
+      0f6c9d3b-5123-49ee-8060-fd77e775913a
+      19a809cb-765c-4887-9be1-89fbf30399e6
+      25338212-781f-4e68-aca8-bf30ff5c6db3
+      149566e4-2748-4c8a-bc3a-0ec31e73f0f4
+      f11000fd-5f1a-4c71-b18e-348ba9a91a44
+      31459a8b-ae5b-4b80-97ba-d152961280e7
+      b27e053f-4a7f-4802-a6d5-33834e45cb02
+      a57c3ce9-03e0-4550-9a7e-45818f5d658e
+      ee928b3b-04d0-4018-8de1-671b835bf149
+      8afbf07f-69c8-4f6e-b0b1-9b37d977e005
+      a0ac106f-a998-45c4-8690-eba688bebc9d
+      f88423a9-3d78-465d-9620-96cae5930f8a
+      a0aaf6a6-76fa-45b6-b4be-dbec81982298
+      58d46e2c-adbe-4724-94f1-7f50cf3ea37d
+      a17e0e9e-286a-42ef-afc7-ef59e6d60b8c
+      6389652e-e707-44e4-9010-b29a747a2898
+      339bfa92-3cfa-4bf7-8e81-671d59825afe
+      f5d40abf-ed76-49b6-9a09-2d02dcb46e3a
+      2447c643-88e6-4508-9050-e210a397f170
+      1858bab9-966f-4fe2-9d5b-bc2d14b0c1d9
+      fd5a2a79-909e-4a26-9636-2024ba7eb505
+      b5f6d500-9c21-4d23-9ffd-9a0c634a1e92
+      d79f6cb7-8f07-4392-b3f0-930d8ea2c373
+      597d70f9-9fa3-43d0-9788-7827547c4157
+      cf827473-6047-4d72-8d9f-89bf2da3e189
+      5ec93937-f0fb-421e-b239-9a8a732efb95
+      932822db-7c46-4e1d-aad3-c7244beccfb7
+      91fe7f38-294c-4a11-9575-0764f5db46eb
+      7b90b5b4-aa90-4cb4-b90b-9e7723504fc6
+      67b3c6af-e55b-48f2-be9e-319b00b0cdf4
+      5d885125-3718-48a5-94df-b069c593ae7a
+      3d4fde39-ecee-459d-8b6e-e30f03e05385
+      0705b40f-e9ec-481f-b57d-101ec8410b48
+      04986471-2ee1-4f83-8c6a-71ae01285edd
+      888b187f-e5c9-478e-95eb-60f0140180d6
+      953428ac-689a-4fbe-81f5-059d3dc985ca
+      12de24c2-d53f-4e71-a9a2-9059d1008889
+      2a3ef1f9-7d7f-4b80-93eb-096ad4bd578e
+      4e82d38d-65ed-4bba-80eb-6d8d7d8faa48
+      91399e86-7409-48ae-96a3-6286a95cd6b6
+      92d8b5c7-2fa5-4d4c-b114-1c164388dd97
+      660a2982-4600-472a-a4bb-ff967264ce6e
+      3182a1fd-79fa-40d6-b61e-f535bbde7af8
+      111aa5f6-c3f2-44ba-a4dd-b50ed5dc2a5a
+      b5f1bb87-2762-4602-86f3-ab73c064ec8b
+      e00f1df1-ce35-460c-8095-20ab979254f3
+      78730c89-fa71-4e69-a4e7-505bbb1243d6
+      69734baf-7c83-4822-80a2-f0f0f6b56731
+      d0d78614-7a08-4023-b293-f5871dc30ac3
+      61504b1d-2941-4de0-a8ad-2ce62d44b2fb
+      fe8274ab-9fac-4ff5-a91b-5ce9bec2856a
+    Related Link: 
+    Content:
+      .hlist li, .hlist ul ul { display: inline }
+
+    Rule Id: 6dd5b339-735f-4f53-b573-015279729194
+    Rule Type: style
+    Selector:.hlist li:before
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li:before { content: " · "; font-weight: 700 }
+
+    Rule Id: 752ecf7f-f055-4940-bab4-77885412522b
+    Rule Type: style
+    Selector:.hlist li:first-child:before
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li:first-child:before { content: none }
+
+    Rule Id: d0d4b6c8-fae9-49df-8479-197a17a29675
+    Rule Type: style
+    Selector:.hlist li > ul:before
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li > ul:before { content: " (" }
+
+    Rule Id: bf15ba01-8d77-46d4-8dde-14349567d3bd
+    Rule Type: style
+    Selector:.hlist li > ul:after
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li > ul:after { content: ") " }
+
+    Rule Id: d2842dcd-6bf2-4ced-9243-69f43654c4e0
+    Rule Type: style
+    Selector:.langlist > ul
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      a13a5c1b-25de-495d-b322-50af12c487fc
+      a15fe9fe-c416-4f18-a30c-bfcfb8985432
+      df5fc94b-1b75-460e-9641-f71248a02948
+      5748fa47-dc6d-4e41-94ea-bc6777219f14
+      9a3ab017-a561-48db-b8aa-e0426c0d9c89
+    Related Link: 
+    Content:
+      .langlist > ul { -webkit-column-width: 11.2rem; -moz-column-width: 11.2rem; column-width: 11.2rem }
+
+    Rule Id: 7ba03d74-0c35-4385-833e-33be731d5353
+    Rule Type: style
+    Selector:.langlist > ul > li
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      56242a70-c0f6-4187-8d77-26485579b4e7
+      eba2c425-6526-48e6-a11f-6fd450d6dce0
+      4032bc3f-ecc1-4b92-bd48-7dac8b494602
+      2bc1eb3c-41e6-4907-b29f-7ca05916875d
+      458d1e3b-f6ca-4a95-af7a-c4ccdeec92ed
+      43520a7a-7b69-4fb6-9b98-9c9ab9cd0e48
+      fba7e8f7-adab-4d62-8416-8e5779ce320a
+      5ecfb828-9514-40cf-a405-9ba3c0a4a8f8
+      c6914d12-52b4-48a8-9eb8-00bc31b29c10
+      5370f2eb-e84d-4304-b206-d62054606d3f
+      2fdc84fd-8b8b-43b9-8838-8f6ec2c955a9
+      1fc2cbf4-0df8-4b30-a43d-0c24e944417c
+      00222e91-8e3f-4f38-ba35-2b27fa63a32f
+      91e4e3c1-0ba4-4af8-9352-d1b99b8aa8e4
+      23ff7dd6-95a3-4a76-bfcb-ac01ba37884a
+      88669ab4-cc15-4c15-8d67-8512aab17aba
+      8576ce58-3c1f-4d73-ba09-f689c54e7bda
+      c66aa408-25d5-4fd2-af9e-7836eb518bdf
+      12c84a2f-d0b8-42fc-9628-3feaed0137ac
+      b4d233b8-2f7a-4578-a4e6-86efdbcf63ed
+      030a1215-cc81-413c-b499-e7d3e2b3a4c3
+      e8b219b7-4ca0-4c38-a450-4751b95a17ae
+      9ab9a80c-7613-400a-b11e-6cd7f87a8a6d
+      882c5d86-1db9-48b7-8045-56a3fb675335
+      616dd108-384f-45ce-a717-2846533e86c8
+      9362e8e1-0d99-4853-b9ed-fac1cf53c4f9
+      33fd8176-5cb4-4ac7-9e83-d8d6e5609b50
+      75be7935-25f9-41b2-beeb-ed90cadbf0de
+      aa34a7c4-6acd-4a42-a10e-327565a15558
+      84047b28-1e35-4759-93b7-bb26e13f37e4
+      165995ea-12a5-4d27-b530-f67b6b56fa73
+      b9cb1f00-7705-41e7-8a52-aabac52d59f9
+      e96248f0-7916-41d5-b8f6-35c07cb6328e
+      2b8f47a2-646d-4750-b0e6-df5d9d7f6290
+      4385fcc4-9126-40f7-8610-8b77e3c25a77
+      99536c18-7461-4127-a808-42b71c116785
+      f459f287-565a-4b0b-af8d-926e8fe2cc82
+      0647708a-a289-4565-8ce1-b3db98287a1a
+      e666e366-018e-4a46-8813-0e3771d6170b
+      4ce3fa83-a270-4348-bd39-a4ecd9d62999
+      67d969fc-638b-425c-8270-d07e91d7c5fd
+      08397d84-5ede-48af-a554-9c5db5f0e234
+      52180820-23bf-4398-823d-517d85f81943
+      9ef2d09d-c7a9-4ae8-bdf5-02aee989ca00
+      93525231-1661-4b3b-86a1-5dc6d01973d6
+      f33fc702-a485-48e7-8400-7f0d096bdcc2
+      685e8943-422e-44df-8ca0-05bf3ac9e0fc
+      a0624e1d-17d6-4b98-a8af-23c32071b09d
+      8d4197c8-57da-4065-868a-d58c6fae4e2a
+      c45f4bf7-0810-40b8-aa1e-33efe8fafedb
+      e69c1184-762a-4482-b0e8-49a46fac752d
+      2d282921-83d7-4b05-8be6-b6b519770a06
+      ec5e1d9c-8c3c-44e3-8036-e0b780a0124a
+      620f7bb5-7fa1-4f15-8ce5-6a04d71a158e
+      d655a0a1-55b0-4ef4-8b4f-77bd8c706633
+      180222ea-f721-4547-aa0e-96628b9c9acf
+      274d0a7e-aa68-48ab-8ad7-7821e644e662
+      997e80c1-fb09-4f6c-9872-4da8c769eccd
+      1be356ab-b272-4429-a15c-d00c64884e5e
+      cba8f0ff-9185-4434-8f33-49c3d7cbae30
+      e34de941-5f1a-40a6-b3bb-cf03dae16a8f
+      f111421b-1fc8-4f03-8dfc-d709df50718a
+      76ca4a55-1442-4505-aadb-9004d9499da9
+      006d382d-a59a-4c86-91dd-74aabfd96281
+      8045284b-3245-4bfa-b689-a67fead0dce6
+      4c80ba9d-523f-40a6-a9d8-cecc51552005
+      06800553-5ff0-4c5b-938a-be363947c98e
+      e7372155-ccdb-4fd4-951d-d9eaa9875f1b
+      f02b2383-81ee-458f-a4a9-6e37f3a113c5
+      86aa1ac0-5b5f-4c68-9c31-8bc560787fb8
+      eae0b1c6-90af-4392-b80e-ef538ed06be9
+      e60f841a-da1a-40ea-8f04-671e76188b15
+      da024fdd-611c-4420-9bf3-c835ab6398c5
+      cd386fe8-c070-4842-b1ad-fbd7a5482dcd
+      579b039d-9b43-4064-bdd5-47ccb354d119
+      8244c35d-9052-4493-ade1-e3b9a4acae09
+      2f88e12c-0cd0-4018-a7d6-c6c04bd7cf27
+      b7b6dcda-8e27-49e6-99ce-52c54a42d8d4
+      8b1c10e5-a865-47d3-9be4-195281b1b59d
+      094b38af-56dd-4f6f-84a5-6d595d551a25
+      d04c4306-840a-4dda-94cf-a5960d89a3ac
+      c8764d56-f252-4aad-b952-7704e7f58947
+      6f4b551c-fcab-4f5a-a942-b701d6d0d134
+      6f72cc3b-6e44-48a3-8079-11475e7c5663
+      cf4656f6-946c-46bb-a5bd-d1e9e54c404e
+      dcc89f23-7a72-4d72-b67c-6297d7e5ee24
+      d8285c77-24a6-4a96-9d9a-322b6b009c23
+      5c728396-c1d7-451c-a863-fc9ecb7cd69e
+      b851d242-1709-4a1f-90e4-a4e2fa26e6ae
+      73a48eaf-dba2-4f9d-986b-57b80c96e1b6
+      2cd070d5-589e-44b0-b900-73dc5aecd1c7
+      5b9abf7f-f857-41c5-814c-e7ed4abe3995
+      0e153761-81b4-42b1-bd33-43d47266e425
+      1d5d9c0e-5fbf-4eba-91de-77a4a3c6bb44
+      9f13e729-fe5f-4b3e-b042-50cdb1ce3c69
+      d6056dd1-2e10-4a17-ab29-d85e7a7c0436
+      e24f4a36-7770-46af-971e-9e76a8bc6d5c
+      add9576e-27ff-4a53-9ca6-2ceec6a874b7
+      20ae7ca9-7204-471d-a0e0-0401ace5818b
+      62037fac-3eb2-40b5-b9a0-23d33a407a17
+      7f596368-d085-4cc8-967f-6586852546fc
+      e5492ba4-9763-42af-bd07-c16713ea38da
+      e501f912-06fb-4f20-b4bd-b0a23862410b
+      169be771-5ab1-4151-83c5-d77f20754346
+      1b0b9f5e-4630-47b0-9ead-0d0ddb9dac38
+      d071d302-b8f9-4ff3-9f4e-47198b4d6915
+      bb0107f0-4b12-49e4-b9b3-aaf4d1a3d2db
+      bda6aa07-a8b3-4e4e-8c47-94800533c91c
+      9c33dc55-56fd-41da-b26d-bffb42e63b1c
+      74611713-9d62-4e65-aef3-6aedd387c6c0
+      909149c9-db05-42f0-98fb-98b7e2cc46cd
+      c9172587-3bd0-4384-aa52-77369252633e
+      bcb06388-3e1e-4702-9501-91abd05ebce0
+      360b505f-5fe7-449b-a323-05f4e01bd795
+      d91bf395-1d5f-4abd-a6fc-6cdc78b14503
+      5b8f75a6-a4bc-400d-8e7a-7ce0a6b45ede
+      cef67f2d-cbbe-432a-ac04-f60f95ed1b24
+      c1e87016-17ec-4be3-8ce5-099c22861044
+      4bd89a95-9263-498d-9c7f-6616f60c15d1
+      34397d9f-4db3-4f9e-974d-899b211aa579
+      f51ca294-0016-4c8e-a3fa-0a2d931472cc
+      e06e7735-8ddf-42cc-8706-0702617546ef
+      c09754a2-f185-4dbd-887c-e3a4f50c6981
+      9db04ebc-942a-4995-b3c3-3a1e5e12ba33
+      c4c194b6-9c0e-4d78-bdd6-ba98beeb332b
+      a8b36ee9-4a90-4cf2-b21a-265ea47e3a00
+      6a9163da-5773-4880-9c54-88a10c1cc61e
+      485b69a6-9af0-4c0f-a937-2ac12f3148cd
+      2bd3796a-f2e2-4244-909c-103460e00e28
+      6ecca49a-095d-4c0a-88f2-5f32d9225a19
+      ba52ebe5-88d2-442c-a68c-2a4c223517ed
+      2e812ad2-0313-449f-98e2-52d329839098
+      0a701618-799e-4452-b697-f206a86d483e
+      8dc09da0-adc7-419e-aee3-8f923a36da22
+      f4b58f77-2aff-4f71-92bc-10e872dfb3f6
+      a2e7e6e4-50e2-4f6b-b98d-43502ec134c4
+      78254bb7-a1ae-4342-9066-b898cb162442
+      d949b958-815f-4626-a2a1-b0dce59ecc4b
+      134e9329-e02c-4bcd-8aa9-b5b131e16f32
+      194356d0-7e41-48b2-b094-90f17c3996d1
+      9796fb28-f9b2-4013-bbbb-9f6f0380d2d0
+      51d85e30-b95f-41f9-8a87-528c08b95608
+      a524a6a1-c07f-4cfd-9070-c6a04e712a9a
+      a7baf9b8-3bf4-4215-a14f-c79ff8666208
+      b61b2cbf-6593-43d3-9ed5-ea18d10e0674
+      8614a6cd-e1df-43c3-95b0-31b9a5a8a24a
+      83684aa7-da2c-4ca5-8885-ff2d3d66ac8d
+      d837c282-5b58-42e1-afab-80fcf635049f
+      923ee61c-53e2-41db-87b2-b1e094e6fc72
+      3906ce87-f40d-4bb5-9adb-b615dd776450
+      45f00561-e62c-483c-a69b-78445a5e5dd7
+      c440f534-d1ba-4ae6-be2b-00bb8591f9a3
+      f5201912-8167-4f40-841b-1a617d485513
+      6e29ad2a-1384-42d6-be32-fc9e5d5f69bb
+      74effc76-0cea-40fb-856d-6133ba1e0f91
+      58970c56-a4d0-4ddd-a261-743792cdd57a
+      bddcf57b-bbc1-426c-88b1-4a05048d4f6c
+      9dbf11fd-71b3-4d98-b300-9769c5847247
+      7ede3266-63f5-488a-a5f1-f6a304650f4f
+      92bff3a7-7293-4ed2-96ad-343f3f56bfe7
+      40e5f7a5-1ec6-44bc-8aa1-8460301c06c3
+      9479fb3b-74a5-4858-a9cb-8b0d94fd5987
+      6a66e52b-4cc3-4c3a-bca9-a5e017aff653
+      56b4bf69-3d86-4846-9497-32f6148d7da8
+      79aff842-c800-4779-80cb-c930de1565f4
+      4525766c-f481-434f-b43f-6a8c0e43b042
+      d88c3d1e-983f-436e-bf86-4a35a6703d29
+      e74fed84-634c-49ae-ae64-855b24019e95
+      6af3d1ff-08ed-45c1-9285-06f7f5e9aa7e
+      b094888d-15f1-4547-a9ca-d645894132fa
+      09f61a60-31ee-4551-b489-3ffe1899bf76
+      cb9af215-1124-46d5-bf1c-eabd6422cafd
+      dcdb298b-c644-4ab0-a82e-d71b5dce1b0e
+      11178ac1-d25f-4834-b9aa-345e39941e0c
+      7cd1204e-8e9a-4db9-9e49-5c2e8df7106a
+      ec8bebcd-9384-4d8d-ba01-fa9489b186b3
+      804f2789-f978-481d-8bff-8e76e09bc4a3
+      8b83a82c-9552-461e-982c-46aa6df4f56e
+      53beb73d-9c90-41b8-9ff7-0d03c5db8368
+      986b7836-7fe0-4245-a156-80e22824fb12
+      9af6be86-cf4a-43ca-bdde-b772673b7899
+      37e05230-eed7-43b5-9c6c-f154665077dd
+      d18a4392-8699-4c9e-a90c-db3139a8275e
+      3d7c8609-6b10-43a7-b843-e572611aed49
+      f792d9c8-0d64-4e6d-b51b-51e200926397
+      112df178-6806-48f8-a978-f4230ea4f291
+      b9bd1367-218b-4335-8171-9d42c6da25e9
+      4cbaab65-bea0-46b0-9e65-a1daf188f86e
+      278e8231-0cb8-46d8-bd6b-0ffb834bc8c0
+      8046eb0c-1dba-4401-bb23-28995e05de06
+      984e00a6-9f69-4f38-b967-03f97ec4506b
+      3a2cc2d0-2e98-4194-a3e1-2677d990ba32
+      0cbd3b2d-62a2-4311-8f38-8fe500416fe5
+      86bafacf-7ca9-41aa-a905-c114be3ee540
+      89e8c78f-4b3b-4aa1-82df-c0058575715f
+      50007ab0-4ff7-4cf4-8c63-0269c1e4bf00
+      5ba1d890-ed8d-4e65-90c9-7bd2e9275922
+      e1e74266-6c50-4584-8047-ad112f864463
+      6027efac-0777-4eab-bb53-1d955a631db9
+      2ed154a2-b950-43f9-a049-19d1da5fa8d2
+      ee1c5f93-0e6c-47d0-bfad-c849d81ec23b
+      a0ab684a-89b6-4352-841d-75ab98984cd9
+      b1ff8d16-4e7d-4b42-a286-4127175aa75e
+      22f9f34c-d16c-466e-b146-a8bd9920de0b
+      9bdfb14a-d3ab-45d5-92e4-49d152835cc2
+      270f6bd3-dbc8-40a7-803b-a91d8d8145b0
+      f063cd18-b581-41e4-af53-96ecc83ca23f
+      a1cd7d8a-90f8-4a15-bf2a-c38bb865af62
+      2052e634-016f-4a68-9537-c68fbbff3932
+      bb653e3c-2b66-41f7-b8d3-632bee66f7ca
+      5a08783d-6268-48e3-b02e-0c04a7f250dd
+      ed6cbf1c-e6bd-48f3-ba09-d1b37769ee91
+      0b10a106-44aa-43a9-bc2d-75060771b490
+      8102bb44-c790-442e-a617-3d54c0fa408a
+      795e00ec-a276-4258-9471-fe963be38cc8
+      aba5f340-c826-40d2-8d82-437b72760c20
+      9fd55fe3-2d1c-4222-9b1d-0227890c0f9b
+      fbc6ccb0-16e4-4a19-b84c-bd536ea38845
+      3bef5fda-4aaa-42a7-b7b8-1eb26eeef38a
+      16d5d50a-b1da-4566-aa2e-d2daf144a8b3
+      f171651b-fe89-4d6f-9238-93656226c1cd
+      d7bd360c-1aed-4b3c-9b18-9c3dbad2c590
+      75c1bac3-61d6-4b90-9109-c10cad2a2d40
+      1358b8fe-ce24-40e1-ac8c-3f0d8485d252
+      8bebdec4-cf68-47d0-bbe3-832f748074b2
+      d50e474a-8638-4b59-beba-5debd6a560c0
+      ff26eeac-13e9-49bf-9c0f-684a8eb5be50
+      c9894f6b-0cea-4980-9e26-496a994ac29a
+      a7ca15c4-77b5-4eb5-9a64-b4c4304359b1
+      9f48ceed-d190-40a5-9d98-754ef15bce6d
+      8a36c044-9413-4de6-9d92-5dc1447312c7
+      d18c7598-c779-41f0-9b52-3024ae2cb0dd
+      a44edca6-7127-48ff-96cb-90834cfd415d
+      1fb93fc3-3296-444d-939d-62c3b9c16ca4
+      7c319366-b73d-47a2-bcc1-32f72951ac2b
+      c753b7bf-6b07-4cbf-b90e-c2542f21b311
+      9c481bb7-c1e9-432f-9d4d-52479abf4379
+      3f1e00b8-0359-4293-82dc-25a9605967d1
+      30b1fdce-69e8-406e-9687-cf2cbd2634d9
+      9dfe5298-30f3-4cef-9e8b-017d6e2af435
+      be953ebc-ca4c-42f1-b860-30068fd283cf
+      ead3580c-bef5-4b01-b08e-b286359a3f00
+      fb40ef3d-110d-4cfd-9cbc-e235ac45e02a
+      375d4166-ef30-4a49-bfdc-e61a08690262
+      0cc53b01-8e56-4a80-b9f4-9a4716b87fc0
+      25944b35-231a-4622-9ff6-79b5d795bdfd
+      840d85ef-0ced-494c-8ea2-94eb1c821edd
+      8caed1cf-bfd7-46ca-bdcc-ef97bfab1423
+      f9ed2dc4-2bcc-43af-abc6-5d9391be7b2c
+      675eba53-abad-48e8-93da-e6d6f6dfe6c8
+      d7f4435e-0651-43f5-bbbb-42eb2ff1b9c7
+      0f6c9d3b-5123-49ee-8060-fd77e775913a
+      19a809cb-765c-4887-9be1-89fbf30399e6
+      25338212-781f-4e68-aca8-bf30ff5c6db3
+      149566e4-2748-4c8a-bc3a-0ec31e73f0f4
+      f11000fd-5f1a-4c71-b18e-348ba9a91a44
+      31459a8b-ae5b-4b80-97ba-d152961280e7
+      b27e053f-4a7f-4802-a6d5-33834e45cb02
+      a57c3ce9-03e0-4550-9a7e-45818f5d658e
+      ee928b3b-04d0-4018-8de1-671b835bf149
+      8afbf07f-69c8-4f6e-b0b1-9b37d977e005
+      a0ac106f-a998-45c4-8690-eba688bebc9d
+      f88423a9-3d78-465d-9620-96cae5930f8a
+      a0aaf6a6-76fa-45b6-b4be-dbec81982298
+      58d46e2c-adbe-4724-94f1-7f50cf3ea37d
+      a17e0e9e-286a-42ef-afc7-ef59e6d60b8c
+      6389652e-e707-44e4-9010-b29a747a2898
+      339bfa92-3cfa-4bf7-8e81-671d59825afe
+      f5d40abf-ed76-49b6-9a09-2d02dcb46e3a
+      2447c643-88e6-4508-9050-e210a397f170
+      1858bab9-966f-4fe2-9d5b-bc2d14b0c1d9
+      fd5a2a79-909e-4a26-9636-2024ba7eb505
+      b5f6d500-9c21-4d23-9ffd-9a0c634a1e92
+      d79f6cb7-8f07-4392-b3f0-930d8ea2c373
+      597d70f9-9fa3-43d0-9788-7827547c4157
+      cf827473-6047-4d72-8d9f-89bf2da3e189
+      5ec93937-f0fb-421e-b239-9a8a732efb95
+      932822db-7c46-4e1d-aad3-c7244beccfb7
+      91fe7f38-294c-4a11-9575-0764f5db46eb
+      7b90b5b4-aa90-4cb4-b90b-9e7723504fc6
+      67b3c6af-e55b-48f2-be9e-319b00b0cdf4
+      5d885125-3718-48a5-94df-b069c593ae7a
+      3d4fde39-ecee-459d-8b6e-e30f03e05385
+      0705b40f-e9ec-481f-b57d-101ec8410b48
+      04986471-2ee1-4f83-8c6a-71ae01285edd
+      888b187f-e5c9-478e-95eb-60f0140180d6
+      953428ac-689a-4fbe-81f5-059d3dc985ca
+      12de24c2-d53f-4e71-a9a2-9059d1008889
+      2a3ef1f9-7d7f-4b80-93eb-096ad4bd578e
+      4e82d38d-65ed-4bba-80eb-6d8d7d8faa48
+      91399e86-7409-48ae-96a3-6286a95cd6b6
+      92d8b5c7-2fa5-4d4c-b114-1c164388dd97
+      660a2982-4600-472a-a4bb-ff967264ce6e
+      3182a1fd-79fa-40d6-b61e-f535bbde7af8
+      111aa5f6-c3f2-44ba-a4dd-b50ed5dc2a5a
+      b5f1bb87-2762-4602-86f3-ab73c064ec8b
+      e00f1df1-ce35-460c-8095-20ab979254f3
+      78730c89-fa71-4e69-a4e7-505bbb1243d6
+      69734baf-7c83-4822-80a2-f0f0f6b56731
+      d0d78614-7a08-4023-b293-f5871dc30ac3
+      61504b1d-2941-4de0-a8ad-2ce62d44b2fb
+      fe8274ab-9fac-4ff5-a91b-5ce9bec2856a
+    Related Link: 
+    Content:
+      .langlist > ul > li { display: block; line-height: 1.7; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid }
+
+    Rule Id: 22dcd5cf-63e0-4c57-a123-3ae06aea56e0
+    Rule Type: style
+    Selector:.no-js .langlist > ul
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .langlist > ul { text-align: center; list-style-type: circle }
+
+    Rule Id: e247aa0a-f67b-4411-b1ea-d1e2b6841a38
+    Rule Type: style
+    Selector:.no-js .langlist > ul > li
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .langlist > ul > li { display: inline-block; padding: 0 0.8rem }
+
+    Rule Id: ea99d8f4-32b6-429a-9b88-55d695d208cd
+    Rule Type: style
+    Selector:.langlist > ul > li:before
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist > ul > li:before { content: none }
+
+    Rule Id: d20b6b6c-2312-4877-bebe-4fa81f0dd6dd
+    Rule Type: style
+    Selector:.langlist > ul > li a
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      ca3355a2-ac03-48ed-a139-e0c057181acc
+      7cf34fda-9fae-4ae8-90ce-736937691549
+      2cf7ba0a-dbd3-48be-bbfb-f84ea2b6f785
+      6c7beb8d-4670-439e-b46f-3d333ff3d056
+      9a23845b-4867-475c-bf8f-55a26f67c4fb
+      d8a2def2-551c-4e69-94c4-ba366e780095
+      87af7c3c-ad1a-4d6f-a5e4-d89eaf1e9f00
+      fd6ef879-e5f2-4a27-b304-ded21fed0477
+      96c95374-8ae5-4e04-bfad-fcba8eb1916f
+      0fe21087-335a-4268-9f63-3384b4f5cf83
+      75b319ea-82c0-43dd-9084-080e7241268e
+      661f1220-4518-453b-8e28-d789e09fb2c4
+      b97ff59b-aae4-4a8a-8a4c-21416855cf17
+      6993b8d9-d21d-4e4d-a41d-1d9ab1ae72fe
+      bf93c8dc-89e3-409c-859f-117df94adc10
+      f4e25a25-b943-4a10-b370-42cbe57e1b52
+      b5b7ceb0-13c3-4a55-b2f3-cd550d0561de
+      08c9e6c7-3ac3-4afb-8305-db4e99989ed0
+      58749b67-3210-404b-92cc-91f0ed99798b
+      46c3c44e-09bb-4b6b-9344-fbd4e0918f8b
+      1f58149c-a22c-49b6-a0d1-9578dd51af9d
+      a23a0f09-4a35-43e2-8d31-2b54655ed2ea
+      cb191179-8821-4096-be01-56ab659670a1
+      1189819c-3f20-4689-9f5d-5ea4ebd07aee
+      3d61ce8f-9ef8-42d1-85e3-cc12d49feeaa
+      b0b78d1f-aa4d-4ab1-87c7-9682ac15625a
+      82f0a221-3bbb-4a18-81b0-031103d4e17d
+      b08187d8-f012-4d78-9858-5b4fc447fea9
+      a183cc36-892c-4cbe-9861-c00ed184b0a4
+      ce6afe79-2551-4076-9ecb-66095a851d54
+      bf7cb1b5-f61e-420b-8745-5c3f43502e7c
+      2b34fe17-33d1-45c7-926d-d9c05214f9b7
+      751a20bf-1646-4b75-9f62-8d4853aed59e
+      c663e7c1-8e17-4f78-89ea-8c4d1299ff34
+      84d9c7f9-ab35-4cc6-bc75-c5314b249f47
+      7ae8a1c0-ba00-412b-ab9f-0c1f2fcf9b83
+      87518759-82d5-4197-a4e6-bd0d6b602858
+      a30aaf18-49d4-4814-ae98-f866b417a57d
+      09ca3e98-c8d2-438c-9502-437453fef4bf
+      c79d98c1-7596-42d1-8702-a044b81b1e90
+      d1a1290e-b286-4304-bfa1-f219472bdc5e
+      41311541-59a0-47c8-b493-e1c6aa5dec19
+      7689a2fe-b09f-4351-bcc8-7f6cb0dc8663
+      ffb2aa33-e739-4292-9985-9f5fb139b801
+      2de501f3-1349-4d36-bdfb-8ef3dc4899a4
+      8159d188-90ff-46f0-9c38-6b14adeebbcf
+      87d8d4e7-4370-47b4-8412-88491283a06b
+      167f4012-16d9-4761-a6f5-4cd796df3d01
+      be061446-7be7-41ad-ac4c-5e81dc53916c
+      8ace60e8-3fc2-4f78-8bea-69ba13558e71
+      359e158d-d4d7-4814-afdd-87e9db292b2f
+      c5903528-1ec4-45bc-9ad6-085d1d8891d3
+      343bedd8-1079-405a-b7e3-e7d96b722ef9
+      d5499abe-8607-4100-bbda-5b8389cb52bb
+      68845b5b-db3f-4199-81ed-5d8fa883b6df
+      bc9ed088-45bb-4efb-8b1a-420d0859619c
+      033b93f0-4bc0-4002-9aef-c4d7f8ae092d
+      a7e6e67c-0f99-4627-b318-6b49e487d121
+      9e8f40eb-ce12-40fe-97db-c0b1ee44a231
+      e3cf7bb5-af61-4f75-adc9-d7b56a1dac3f
+      05a3c241-cd5a-4646-bec1-f038d8f9c710
+      5b240879-b2e8-43c0-ab7a-af7c4b5313c9
+      18cee9f5-bb81-4112-b35a-ecda07a59647
+      023ff76e-6564-4690-bf0a-99416cac1e36
+      b97d1809-9836-4a9e-b6c9-998fd247dd3d
+      e701b658-7510-43da-b574-9893c736abfe
+      f329836e-9a1f-4fc8-b92f-6b677ad00114
+      1b38e6e4-1c67-48e1-b2f8-ffa3f5f35643
+      3eeaa8a8-3f00-4d68-aa04-73a1f7e5f382
+      1e137d0c-d4a4-46ec-b0b6-02f2af5cf0c7
+      4b538eb4-56b5-420a-87ab-4a8cc1ee4223
+      0809f7c2-3e9a-4183-a3fa-e688040b4ad9
+      cb1f8962-0348-49e9-ad8a-2d0d5a3d1725
+      99132edd-4820-466f-9e90-74e163df385d
+      cc5c50ca-8bad-4a83-891a-aa8d5412d76d
+      be731d6b-249a-4eda-8bad-cc6a8f328537
+      972b843f-4396-4982-ad66-f89260459f80
+      2da048b7-2044-45bd-8498-43a00aaae1cd
+      31655655-5789-4565-94fe-0ae6b6ce553e
+      84aac77a-36f0-44ac-97d4-e65a3f83f3bd
+      26f0ee29-5733-49d6-8e10-cd9102520dd9
+      0ff1cdcd-06fa-483f-945d-47b956e1c71d
+      3bc9da97-bfb8-4798-b5ac-815d949434a9
+      a808f81d-7c1c-4662-84f8-57bf8c17c7b1
+      3fc80f0c-a864-432e-a671-201d497c44ae
+      b963f88d-1543-46f0-a166-25062d53a9bd
+      2f2e8388-9884-4aaf-aad0-88ca502af4de
+      5bea5a09-155e-4947-9cd1-bf025681ab62
+      8d237012-bca5-4701-8ee8-3bd8e7d3cf73
+      e687a7bb-65d3-4455-8966-ec647ac470c4
+      0dbaf6ad-7fd2-4c1f-937a-4aa6176b8642
+      beac63bb-e838-49b2-b686-59cbdacefcd9
+      299cb03d-f3ba-4a38-a2a5-1bbd26b3bfb8
+      69913232-365e-4916-a461-ffa3aea29019
+      c17e372a-4e64-479c-b6de-d5fec96db4d1
+      224f5d3b-ac6e-4c86-9c85-f8a44674dc9f
+      020974b5-9ac5-497a-a94e-a4bc80325c39
+      ae8f90cf-5296-4030-83b2-3c301fabd995
+      cc303bce-475d-4cd8-ad45-98f23a45789e
+      f28fc8a2-b55e-421b-84a6-fe8a52c44ffc
+      872efb0e-7496-4b80-a101-57aa70b96c9f
+      5e34bac4-23d2-4d19-9e72-963b61bdf854
+      2aafb8ee-95e1-4289-9198-3e4b814af8e0
+      e1f008df-c23e-44e7-a211-a94196a7724a
+      4636a99a-a13b-4ae9-9b19-197f8db6bb55
+      d28b2fee-d083-4f26-b8c6-19762c0270bd
+      f859d207-e1fb-4f83-bebc-52adbdab6019
+      a48d4b92-9713-489b-a1d9-4d183a662c73
+      5ba2218c-388b-4255-92e8-008bbe10c70a
+      e4777aae-b3c8-4c51-8c83-f7846cd3404c
+      24c9e77f-3097-4867-b746-8d3b33b6ee5e
+      786e7ce5-8f71-4063-b09b-c45ac67545c0
+      f79664ed-6910-431f-973d-adc81b780641
+      20eb3e22-b599-4529-a54b-63c1e5c7a772
+      335cb91d-fc2b-4cef-82ee-6228111d67cb
+      4eca827d-5adc-484d-83d1-63b648a528ff
+      b253b5bf-2fd9-440f-9cc0-cbd3bae867d9
+      dd324c24-6b9c-4c5e-8127-f1e1bfec24ab
+      47eeed67-b63a-45d7-9bac-0c6379f69f09
+      2d817857-04a0-4cb3-9eb6-0955812659cc
+      fbfab859-93e0-4a13-9e7e-9f61b3a0b97f
+      d3b79aa7-7369-44ab-b8a0-104ea0918e8f
+      151e141d-1e68-491b-a32b-e495ab03e9f8
+      913944e4-0f43-4a56-8412-8fce1cdf294b
+      7bc15910-ab56-4526-aca2-18b7eb5b6034
+      8729df42-aab1-4640-bc13-ce1bd5072668
+      670244f8-311a-4576-b417-f1189fe6541e
+      4dd8e045-a91f-45a3-a293-79bc1edce38b
+      ae45ae29-315b-4695-a83b-2334386b0afe
+      69ac7d6f-8919-4013-9e0f-3d229f500aa4
+      da2c6cea-7aaa-4f40-8a1b-6d716cad3e37
+      7895246b-9756-4c4d-8ba8-02b14231edc7
+      873fab7d-0e4d-48ce-9d65-e14e965eef40
+      45c968b6-98df-40b8-8141-7ac1197200ad
+      72c2fd2f-e278-45f0-a45b-195c91e9fdaf
+      266604c2-edfb-4819-a2a2-ee14d094b26b
+      facc9c59-477e-4a6c-9f6c-c6d81e9263da
+      04b19944-85dd-48a6-889e-ad7c2047444a
+      53c4b06a-a494-48d4-8a8d-6ba37e5a3978
+      d8c70143-572a-4309-b26c-84aebdca4602
+      c72ae09c-acc2-4fc0-98ac-be3edc81f755
+      fbb41389-c740-499e-bf2d-e23f3360c9af
+      ed5b2a96-3751-418b-b780-dd70fc05f5ef
+      2fc2d222-fe08-4878-b49a-e9dc2b789fbf
+      d68937d2-693f-437e-87fc-2897cf6c5e10
+      666b4b96-adf9-4b26-8add-56d6fb252e1e
+      9bd33c8a-a3fa-4be6-b5a5-5c3c777a0151
+      5ff08c3e-11bd-4ab6-b358-c5a0c5aa97a1
+      e964fa37-b28e-44f5-a818-7674a56a5553
+      af73dd60-3b63-4913-94b2-e06e24cd84f5
+      a3d16127-88c9-458a-be3b-e1e802820aad
+      644df3b4-2cf2-4b80-aeec-fccd44585542
+      b2386895-4381-4ae2-b5ed-b57c3d4d0c76
+      d3f5c969-7ec9-42cd-a6e7-4c0a3a883338
+      4fa9dc17-22eb-4eb3-8135-1513cc848618
+      5c3aaceb-d993-4c3c-8132-2c3ae5500329
+      1d5e90fc-5888-42e2-8629-7b5db2b39bef
+      c4fb01f4-55fe-4b83-9307-e9fa8dcae3e2
+      2b26f099-cb36-43dc-8eec-432013e9a519
+      d7cb4c2a-2ea7-4872-a7dc-f033c69afa65
+      fa14b276-73f5-4519-a47e-60b9001225a7
+      b530c5c7-c2a9-44c5-ad2b-21c4697627f0
+      f925ab7a-6ed5-4fc3-bf90-c7d43d1272f9
+      1e298c28-421a-4e08-b34c-47bdbf10ab80
+      8d3af1cf-d0e1-4d41-8a45-08adca43cff0
+      0d5ada17-4fa9-4111-b23e-540d5e705464
+      71935fa3-2a42-4e26-9d08-5b7b42647977
+      04ff6795-5b3a-4751-8a8c-2c54aab40673
+      697162c2-b1a3-4bb5-92ed-4c36a75983d8
+      0b8f8272-a9c1-4ec6-9c72-d26555f98fa8
+      32ecab99-34ec-49a7-b253-26c5fedae5bf
+      22a241a6-1501-48c5-b54c-a0108262236b
+      f99a5db5-11bc-46d0-a70f-53f37fc320d8
+      72781156-928c-4618-b08a-216e5fdfa2af
+      69069a23-eaaa-4057-8c3a-813fbe0a5474
+      388b6233-eaa9-4d4f-a4b4-05d4e1b75e90
+      1402bef9-a86d-4064-9643-6d1a84e3b51f
+      c4fc3738-4cf9-44fb-a8e5-9804113b3b81
+      805dbd5e-e3f2-44cf-a4d1-38d6b3bd4d20
+      a7384ead-acf8-4692-ac2a-f3a93ed3cf33
+      5a49b8b9-2f56-4100-a797-5ea0b0c48e41
+      6057da6e-14f1-447a-9bd4-f05122f633a4
+      cbe3290c-a15f-4a45-8369-1974684d00eb
+      e8cf1121-a9d9-486a-8aad-91cedae1884e
+      28a81266-8a45-4d2d-b01d-0ccb14b8c58e
+      9f88e326-79a3-4615-98d6-0afd9f3d2501
+      39bfcdfa-5d57-4ae1-ad1b-6364fd4d0102
+      6da8223c-c2df-48c8-8cd1-2660f1c560f4
+      d24f9c23-270c-4b1e-bf3c-27f99a8f16be
+      304e7640-4700-48a3-b2cb-c2fed7d57395
+      9ec07d3c-1419-49b7-b476-80571f3870f2
+      e0449787-ff10-4657-af72-40c75f6c6a51
+      f2424195-f3b0-4b87-b64e-d826bf4420b9
+      0120dad8-41bc-4520-9c6d-d9ec49fe7028
+      94d624f4-25d7-409b-8df5-5b68be38ec62
+      a41f33eb-cfde-4509-9fd1-6a5ef3b98a07
+      3661b6d7-7127-49b1-bbcf-ab21af1c5a68
+      3235a78f-212f-417e-826c-eb118a6b8f35
+      76f0b230-4b3f-43e1-9ccb-1ee8b78212a5
+      3ac94036-5344-4a24-a7b8-36580c594aa5
+      85d47bbc-22ad-4007-9c75-5c69b49c10d2
+      6ed5b892-3a1d-4eeb-b12c-8f3b32080d24
+      2ec592ba-bdb1-45dd-b018-880602b180da
+      55693a72-c2df-4c5f-82b0-a97cd4fdf25b
+      4db4d503-fd0f-444e-a613-72e620cc37a3
+      55e181c2-18c0-4ae4-92b7-e4f2b19c159d
+      0bd7e721-56cd-49ad-9fe1-1baa24d17de5
+      4268c9c8-a9f8-4a8b-8db8-5a7d03d6e14a
+      acec9c15-f3fa-4a95-b6be-244094275c31
+      066238d6-7a5d-4170-acd2-9e26c4d3ed35
+      8d85af50-5e31-48e5-a1bf-77d43121c562
+      9a8c3a8a-6fb8-48ac-baa9-62ed2ac3505f
+      b1dc32c0-727b-4991-b976-62ea4791aad3
+      10a1f0fa-7f1f-4770-a46f-844dcfc34149
+      f8dc4a54-9a29-462d-97e0-0fd4e855bd6b
+      f54764a7-5135-4d98-9f52-14f7bf4b137b
+      f76f3dcd-4eb3-4590-91c3-56d770479999
+      28724976-2e71-47fd-b025-4ee9ac598c73
+      1f05e708-8258-46d3-9a4f-ee9e2a702024
+      5b391b5d-9fbd-4da5-998c-ebc54d5c80c0
+      d07e5323-4d8a-4dc0-a0be-e9e80a348384
+      7554dd2f-8083-43dc-a74d-cc1abc7f9497
+      fcd19a15-29a0-4f6f-8e44-960547a20a55
+      01e4cb27-403c-4d73-82e2-4787893ed93c
+      38f45594-9aca-4be2-a7d7-136da44d1b45
+      b3f823ce-3eb3-45f3-91f3-50055ab81466
+      c3d96fdb-4184-480e-9880-c539738e2b12
+      3dc47dfc-8502-4089-a976-15869986a1c0
+      2996a713-92f3-445a-83b9-7bdf174511fa
+      6a9e8b3f-e02d-480d-afa9-bb1304fc27a6
+      ffa7c313-9504-4ca6-8bf9-fd163116e2c5
+      2fb954fc-3e1e-4e2d-9120-844109684bb9
+      b5d3f335-a690-4e3b-88e2-b001c94923ca
+      28232468-99bc-4cb6-868a-b361d79a0294
+      5f78947e-e404-41bb-9f30-122d494b9fda
+      7c7919f2-85d7-4eca-bc96-4b05f73c2a6e
+      226ab36c-83e0-45b2-adaf-30cd8d30aefd
+      4913acf9-8bad-4a3d-ad71-658120c64e7f
+      e27c6888-f56c-4d1d-9089-09918d68ea5b
+      b2e0ed38-2160-4025-964f-5ec2a3504afb
+      f185c8c6-eb0b-4777-a60e-2834b832fc16
+      2ce63935-55cc-4db8-82eb-7b7b15514d90
+      2f593801-db68-4675-8fc9-657287f67aec
+      2e4f5a0c-e363-48b9-a8b8-bb626fa087c2
+      c32ca032-291a-4a2e-b7f9-090d13e04af2
+      637c55ed-a518-4552-8f31-92b7d6a7ceb3
+      85d239e9-046c-46f0-9b0a-e55a7d8b197b
+      ce8a9088-7012-476f-ae39-b489f653c03a
+      5dfcde48-7e90-4247-933f-3cbacf85a6c3
+      5b9222b3-9e4e-4162-a316-f8843c9621a8
+      f9d2fe67-a662-4b1d-baf7-8ed3660d5908
+      95cdcc11-a11b-45b3-b6c2-480c40e5a566
+      cae361b1-08d2-4ee9-a0cb-708405139ac7
+      fe6ca525-a024-440e-91c3-7b748e7dd2ed
+      6322be3a-fd02-48cf-9a5b-09fe755fea07
+      7debadac-e6c2-4b6d-823a-466acbab5a4d
+      420b5c4c-f982-434c-85a7-b3c2be0f9704
+      32a5e5ba-3ea0-401c-9d55-78aef43c5a51
+      0dac2956-c198-470b-83f2-d7c411ab35c4
+      6716ea11-dd00-42c1-b223-99d9be308fba
+      68f26ba4-8820-43c2-8b8a-c699b3ab2a9e
+      e3580a04-4b29-4f73-9c80-f8a17fb52a4c
+      8c2c8697-a7bd-4720-875b-66d8df36535a
+      b7d71ae7-9be4-4ba6-b30d-4e69b384bda7
+      8a6e1850-0682-461d-8048-8ac884445e48
+      9bf8c714-b69f-408f-8f15-ee618ee70e86
+      bec3a574-8fe0-41d7-ad78-adaaae50bcbf
+      d01094e1-4193-4c09-9af0-bc917aef083f
+      190066f9-c72b-4ab5-a919-94b2989b4d75
+      5b0c2319-4fac-4610-bac7-4749ffe0984d
+      cf1d91d7-4278-4437-b098-cafe86a39330
+      bb515061-8c47-4293-a143-67b4dac92423
+      998d3e69-7462-4257-985b-db240b810f6a
+      f69d95c8-da3d-49f1-b683-d5e5e9f17634
+      52344953-64c5-4f0c-8fef-e330907e4a80
+      f5582856-93b3-4652-b802-e032535d95c9
+      b30d79f9-02c3-48e8-adaf-02adde4dc592
+      ff82b06c-fc04-42e9-b47b-55830a5ec15e
+      286ac050-4776-48cf-b249-508dcf93456c
+      6096a37a-6a6c-43cb-9290-aa0158a2a6c4
+      6b7b7d7b-8974-46b5-97e5-0fc2b61c0ed7
+      6657baf4-c28f-455a-9660-1b05fe7b1b03
+      12778b0b-c11b-4e35-9bb9-736a3eabd741
+      f381f340-0f39-4a89-941b-d34339cce279
+      68f70f0b-f3dc-45a5-937c-3a8ead3cb1e0
+      99035bdf-9ce3-4bcf-98d6-5f6ecaa068f8
+      ced47e75-4776-4b03-92d6-0202523388fb
+      044e432d-16fc-45ea-80ad-e565e03ecaea
+      9b4cc11c-0619-457f-9919-0843d0b2bd73
+      58797b1a-e3ee-4614-acd8-34da80993066
+      139d480c-dfe1-4c12-beb0-49590c5d47f4
+      3a6cce94-9985-483e-a06f-55d98b53f4bd
+      085ced84-5818-4e6b-8081-d21cfdc86fba
+      a055ca05-0142-474b-894d-1141879f441b
+      71e42316-bcad-45fd-8fbb-0499b3ae122e
+      a9c54cb8-e77b-407a-a83b-21c2ec5d4e86
+      295c1563-ef75-48b2-bdca-50c663c94b0d
+      5064ca3f-278a-418c-87b5-784a51ec148f
+      6eb4d8a4-7a60-46bb-ac88-e6f64c5489f6
+      75bd60a7-66bd-42c8-b54f-1e5679eb117d
+      6f063da0-d727-4f22-a2f1-3e4bc8a7e29b
+      b216593d-048c-445b-b2d4-6e1a78bf4279
+      b5f92151-b9bb-41ed-89f1-004f164966be
+    Related Link: 
+    Content:
+      .langlist > ul > li a { white-space: normal }
+
+    Rule Id: 3e55ecd0-8cae-4ad7-947e-49efb3995792
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.langlist { font-size: inherit } .langlist a { word-wrap: break-word; white-space: normal } .lang-list-container { width: auto; margin-left: 0.8rem; margin-right: 0.8rem } .bookshelf { overflow: visible } }
+
+    Rule Id: f55fe6f6-a084-4c2c-ab24-a7b95fde835f
+    Rule Type: style
+    Selector:.bookshelf
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      4d515259-b1aa-4e8b-92dd-f4ac53cc3d9d
+      c319eec0-ecca-4416-ba4b-9a61bdd4a7fb
+      1c0822d6-22d0-430e-a307-4c431115c995
+      9bb16890-f5d8-4c9d-b84a-5127f474d2f2
+      e00f9375-3876-4f46-8ccb-31f39637b5cc
+    Related Link: 
+    Content:
+      .bookshelf { display: block; border-top: 1px solid rgb(200, 204, 209); -webkit-box-shadow: 0 -1px 0 rgb(255, 255, 255); -moz-box-shadow: 0 -1px 0 rgb(255, 255, 255); box-shadow: 0 -1px 0 rgb(255, 255, 255); text-align: center; white-space: nowrap }
+
+    Rule Id: ccf032fb-bce0-4fd4-b910-fa14614d2291
+    Rule Type: style
+    Selector:.bookshelf .text
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      d2f5cc67-8955-4f9f-8df3-3b8e817df3a3
+      4031d71d-cf8f-42d0-b4bb-abc969b91936
+      a820f351-d6fe-4a23-a575-8d353b7ae7b8
+      16de78bf-8ddc-4567-84aa-93f3d1c12f47
+      11646118-f304-4005-a57e-e43bbd7954cc
+    Related Link: 
+    Content:
+      .bookshelf .text { background-color: rgb(248, 249, 250); position: relative; top: -11.2px; top: -1.12rem; font-weight: 400; padding: 0 0.8rem }
+
+    Rule Id: 3b8ab871-05c3-4fc3-a8f8-847b2a8d3b04
+    Rule Type: style
+    Selector:.bookshelf-container
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      1e742dc3-1534-4449-aed1-8666bd521580
+      2a83afc7-0f85-4277-9d56-fb30bfd9e173
+      080a24bd-a318-47f1-92a3-e490e811ece8
+      7a434916-2edc-4d6e-8fe5-f4e4a831f721
+      895d42b9-8f84-4e69-95a8-ff1466e18d87
+    Related Link: 
+    Content:
+      .bookshelf-container { display: block; overflow: visible; width: 100%; height: 1px; margin: 2.4rem 0 1.6rem; font-size: 13px; font-size: 1.3rem; font-weight: 700; line-height: 1.5 }
+
+    Rule Id: 02483ca8-03f6-45d2-af7c-0d3096e60ef1
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.bookshelf { width: auto; left: auto } .bookshelf-container { text-align: left; width: auto } }
+
+    Rule Id: 3ba35727-eaf4-4f7b-9620-afd802f2dfdb
+    Rule Type: style
+    Selector:.app-badges .footer-sidebar-content
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      1ec49d28-86da-4e62-a687-d8f9b35dfa7c
+    Related Link: 
+    Content:
+      .app-badges .footer-sidebar-content { background-color: rgb(248, 249, 250) }
+
+    Rule Id: d658b504-46d9-407a-ac14-8a52db0ee65c
+    Rule Type: style
+    Selector:.app-badges .footer-sidebar-text
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      339f8184-bd73-419a-9577-d4eb4149c6af
+    Related Link: 
+    Content:
+      .app-badges .footer-sidebar-text { padding-top: 0.8rem; padding-bottom: 0.8rem }
+
+    Rule Id: 510fd9ee-30db-482a-9b68-ef7b9a6d855e
+    Rule Type: style
+    Selector:.app-badges .sprite.footer-sidebar-icon
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e6254395-682f-4e49-ae90-29c72aa85b0e
+    Related Link: 
+    Content:
+      .app-badges .sprite.footer-sidebar-icon { top: 8px; top: 0.8rem }
+
+    Rule Id: 9e490248-5675-4d29-9da4-551b1b322876
+    Rule Type: style
+    Selector:.app-badges ul
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      56be5098-5325-4547-acc9-30674f79fbd3
+    Related Link: 
+    Content:
+      .app-badges ul { margin: 0; padding: 0; list-style-type: none }
+
+    Rule Id: 4fda8f4a-7869-4c2c-a0de-a80ec763c9e9
+    Rule Type: style
+    Selector:.app-badge
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      559da4c5-0cb2-403b-9e65-9c77ff0c52af
+      68712c62-2529-49d1-b108-75e59a413d3c
+    Related Link: 
+    Content:
+      .app-badge { display: inline-block }
+
+    Rule Id: af42f19d-2876-487c-ae27-08bcdc7228fe
+    Rule Type: style
+    Selector:.app-badge a
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      fa55dfde-4d5f-4b88-a27c-0743f2f04fea
+      660cc940-c75f-4794-b735-3a65b03aa4f6
+    Related Link: 
+    Content:
+      .app-badge a { color: transparent }
+
+    Rule Id: 3c32d0a5-e1ca-4b3e-b1af-642200d1604e
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 768px) {.app-badges .footer-sidebar-content { text-align: center } .app-badges .sprite.footer-sidebar-icon { display: inline-block; position: relative; margin: 0; top: -3px; left: 0; vertical-align: middle; -webkit-transform: scale(0.7); -moz-transform: scale(0.7); -ms-transform: scale(0.7); transform: scale(0.7) } }
+
+    Rule Id: 2680ce93-592e-47eb-aad3-22c6b115b34d
+    Rule Type: style
+    Selector:.footer
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      f7620d33-cd71-4bd9-9fe6-e8fdd5ff216a
+    Related Link: 
+    Content:
+      .footer { overflow: hidden; max-width: 100%; margin: 0 auto; padding: 4.16rem 1.28rem 1.28rem; font-size: 13px; font-size: 1.3rem }
+
+    Rule Id: f50240a9-2c8c-4e9d-9dfc-f91e8e09e27a
+    Rule Type: style
+    Selector:.footer:after, .footer:before
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer:after, .footer:before { content: " "; display: table }
+
+    Rule Id: 130a4e36-3a9f-46db-99c5-ac1777d3097e
+    Rule Type: style
+    Selector:.footer:after
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer:after { clear: both }
+
+    Rule Id: 455dd7e6-3a92-4b28-b7c9-51406fb5994f
+    Rule Type: style
+    Selector:.footer-sidebar
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      00820948-bd8a-4a96-a6c1-0bc506005169
+      1867665b-072e-4c1d-9666-85f3000166d7
+    Related Link: 
+    Content:
+      .footer-sidebar { width: 35%; float: left; clear: left; margin-bottom: 3.2rem; vertical-align: top }
+
+    Rule Id: 78e92e91-2128-4623-a767-32f888f6e7c7
+    Rule Type: style
+    Selector:.footer-sidebar-content
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      c06ebbc8-7db9-4a0c-b776-3763f8e763e1
+      1ec49d28-86da-4e62-a687-d8f9b35dfa7c
+    Related Link: 
+    Content:
+      .footer-sidebar-content { position: relative; max-width: 350px; margin: 0 auto }
+
+    Rule Id: a06f522c-0ab2-4e3e-8b79-b1ef96deecf6
+    Rule Type: style
+    Selector:.sprite.footer-sidebar-icon
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      e72fe161-9fa1-4a3c-a591-703c66d79763
+      e6254395-682f-4e49-ae90-29c72aa85b0e
+    Related Link: 
+    Content:
+      .sprite.footer-sidebar-icon { position: absolute; top: 0; left: 8px; left: 0.8rem }
+
+    Rule Id: 616ec3de-1899-4f69-b459-bbeb95dbef76
+    Rule Type: style
+    Selector:.footer-sidebar-text
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      736845d2-b033-4a42-9d29-d6d546582998
+      e248a1e1-18b6-4bc2-bdb2-7195b78aa910
+      339f8184-bd73-419a-9577-d4eb4149c6af
+    Related Link: 
+    Content:
+      .footer-sidebar-text { position: relative; margin: 0; padding-left: 6rem; padding-right: 2rem; color: rgb(84, 89, 93) }
+
+    Rule Id: 8f1b2328-be49-4463-a16b-7f486e85e324
+    Rule Type: style
+    Selector:.site-license
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      586a094c-34f3-4cb9-b574-d63386a47ddb
+    Related Link: 
+    Content:
+      .site-license { color: rgb(84, 89, 93); text-align: center }
+
+    Rule Id: 678e8d4b-f145-41c0-bf04-929dfbada26c
+    Rule Type: style
+    Selector:.site-license small:after
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-license small:after { content: "•"; display: inline-block; font-size: 13px; font-size: 1.3rem; line-height: inherit; margin-left: 0.8rem; margin-right: 0.5rem }
+
+    Rule Id: cb5a42e9-c550-48a4-af90-f5aea6c9da65
+    Rule Type: style
+    Selector:.site-license small:last-child:after
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-license small:last-child:after { display: none }
+
+    Rule Id: b5101f05-1e57-4d57-b437-c1819c1c095e
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 768px) {.footer { display: -webkit-box; display: -webkit-flex; display: -moz-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -moz-box-orient: vertical; -moz-box-direction: normal; -ms-flex-direction: column; flex-direction: column; padding-top: 1.28rem } .footer .footer-sidebar { -webkit-box-ordinal-group: 1; -moz-box-ordinal-group: 1; -webkit-order: 1; -ms-flex-order: 1; order: 1 } .footer .other-projects { -webkit-box-ordinal-group: 2; -moz-box-ordinal-group: 2; -webkit-order: 2; -ms-flex-order: 2; order: 2 } .footer .app-badges { -webkit-box-ordinal-group: 3; -moz-box-ordinal-group: 3; -webkit-order: 3; -ms-flex-order: 3; order: 3 } .footer-sidebar { width: 100% } .sprite.footer-sidebar-icon { display: block; position: relative; left: 0; margin: 0 auto 1.28rem } .footer-sidebar-content { max-width: none } .footer-sidebar-text { margin: 0; padding: 0; text-align: center } }
+
+    Rule Id: 86587268-8400-474f-aa7f-e532d1b45b25
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 480px) {.footer { padding: 0.96rem 0.64rem 1.28rem } }
+
+    Rule Id: 192ebc4e-5eb1-4039-b07b-630704916df4
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.search-container { margin-top: 0; height: 78px; height: 7.8rem; position: absolute; top: 96px; top: 9.6rem; left: 0; right: 0; max-width: 100%; width: auto; padding: 0; text-align: left } .search-container label { display: none } .search-form #searchInput { max-width: 40%; vertical-align: middle } .search-form .formBtn { max-width: 25%; vertical-align: middle } form fieldset { margin: 0; border-left: 0; border-right: 0 } hr { margin-top: 0.65rem } }
+
+    Rule Id: de504f91-e97a-42d5-bb61-9364c2bfe229
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (-o-min-device-pixel-ratio: 2 / 1), all and (-webkit-min-device-pixel-ratio: 2), all and (min--moz-device-pixel-ratio: 2), all and (min-resolution: 2dppx), all and (min-resolution: 192dpi) {hr { border-bottom-width: 0.5px } }
+
+    Rule Id: 522ad79c-bd53-48fb-8d95-167068beb96a
+    Rule Type: unknown
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @supports (-webkit-marquee-style:slide){hr{border-bottom-width:1px}}
+
+    Rule Id: e182af48-a851-4ade-9cd1-e3135b5733b0
+    Rule Type: style
+    Selector:.js-enabled .central-featured, .js-enabled .jsl10n
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      09c33828-e3af-4309-9bbb-241f96854cc2
+      64071945-5d75-4694-9c67-b1ca25b238fc
+      a649ed78-0f7d-410d-b1eb-cb303b2f057e
+      e189f2e0-fff4-4405-9082-d9db9e07f369
+      0f8ba4bb-0abd-4a80-a60f-9c9226fb079e
+      7f548bfc-0820-4140-b456-6ca0f439999b
+      d25c2f80-b61c-41a5-ad05-3162c117ba4c
+      1051b867-4de9-4b76-884c-efa23947fac4
+      1f7e2800-4301-4ea3-8c00-8c51633a8df6
+      736845d2-b033-4a42-9d29-d6d546582998
+      dca5251f-95f2-465c-90c0-632218503f92
+      01b6c9a4-74e8-4914-9214-8a8450c7353f
+      c347034d-f256-4e35-93f0-75f0bafa3f49
+      1556dbfe-7290-4229-ac93-b8a65a89e89d
+      9e49a9e2-fb89-4ed3-af35-cee611ced702
+      fd6aa1c8-6cab-4bd5-8bfa-3173af0c7d74
+      3c5b7909-b751-4281-a7cf-6dcf4eb52ccd
+      0d46c27b-cf42-4b98-94e8-66234392e161
+      ebe92970-25cd-4d0a-9354-e1256b26f13a
+      46a97fa3-496e-4823-ba21-e8990067cbbb
+      01b5c57d-9988-4782-9076-2a78bde5e11d
+      dbf84820-97bb-4506-a746-eb83496ebc59
+      ae5b8aea-4e52-4afe-9ca8-9bf7702b6b9e
+      91e14908-f545-4e8d-acaf-a91f0ea834c5
+      5c9fefca-a563-4c3d-b088-0b1653279613
+      db6766ca-ae6c-46d8-8659-1ccf9dab1166
+      b9609a5b-e533-4893-b035-f09ac92c309e
+      66cf8211-3a4f-4973-8c8b-44e5c4c1ad69
+      ede65ad3-a952-4c91-ab57-73ba85b928de
+      48ff59ab-2ad0-46e7-8216-1e65586edeaa
+      81c5bbad-a4d8-48c6-a451-546ee71bbb61
+      d5c89f90-9b70-442e-b715-b3aba95482fa
+      7236f66d-382f-4dfe-87a3-c4cc03ec7d06
+      ed98470a-8d40-466e-9b2e-c543a17e1421
+      ecc710e8-7915-49bd-afca-5ed7d5fd4181
+      01a76cc5-bf99-4f3c-b9e5-e262eff42757
+      f9cf3dff-c368-4c25-a2fa-5c6e6ea5ac0b
+      0e159230-cfbb-4345-9a17-fb657b6e5f49
+      7086343b-ba81-4e2f-915b-249d51640897
+      1dd204e1-3d67-455c-9f4c-3483997327c0
+      6ebf4eb7-d81a-4b7a-9037-961d113f2bd8
+      7f8f2e2e-eabf-4dda-83f8-7f15ed37fc8f
+      b86c3d57-3976-4aed-be49-356772512e15
+      27e471ec-8c5f-4b77-b24c-637e3e5ef238
+      d8e17627-3bf4-4b43-ac58-6277ddfb568a
+    Related Link: 
+    Content:
+      .js-enabled .central-featured, .js-enabled .jsl10n { visibility: hidden }
+
+    Rule Id: ce17ed15-ebeb-456d-b20e-15b75df188fb
+    Rule Type: style
+    Selector:.jsl10n-visible .central-featured, .jsl10n-visible .jsl10n
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+      09c33828-e3af-4309-9bbb-241f96854cc2
+      64071945-5d75-4694-9c67-b1ca25b238fc
+      a649ed78-0f7d-410d-b1eb-cb303b2f057e
+      e189f2e0-fff4-4405-9082-d9db9e07f369
+      0f8ba4bb-0abd-4a80-a60f-9c9226fb079e
+      7f548bfc-0820-4140-b456-6ca0f439999b
+      d25c2f80-b61c-41a5-ad05-3162c117ba4c
+      1051b867-4de9-4b76-884c-efa23947fac4
+      1f7e2800-4301-4ea3-8c00-8c51633a8df6
+      736845d2-b033-4a42-9d29-d6d546582998
+      dca5251f-95f2-465c-90c0-632218503f92
+      01b6c9a4-74e8-4914-9214-8a8450c7353f
+      c347034d-f256-4e35-93f0-75f0bafa3f49
+      1556dbfe-7290-4229-ac93-b8a65a89e89d
+      9e49a9e2-fb89-4ed3-af35-cee611ced702
+      fd6aa1c8-6cab-4bd5-8bfa-3173af0c7d74
+      3c5b7909-b751-4281-a7cf-6dcf4eb52ccd
+      0d46c27b-cf42-4b98-94e8-66234392e161
+      ebe92970-25cd-4d0a-9354-e1256b26f13a
+      46a97fa3-496e-4823-ba21-e8990067cbbb
+      01b5c57d-9988-4782-9076-2a78bde5e11d
+      dbf84820-97bb-4506-a746-eb83496ebc59
+      ae5b8aea-4e52-4afe-9ca8-9bf7702b6b9e
+      91e14908-f545-4e8d-acaf-a91f0ea834c5
+      5c9fefca-a563-4c3d-b088-0b1653279613
+      db6766ca-ae6c-46d8-8659-1ccf9dab1166
+      b9609a5b-e533-4893-b035-f09ac92c309e
+      66cf8211-3a4f-4973-8c8b-44e5c4c1ad69
+      ede65ad3-a952-4c91-ab57-73ba85b928de
+      48ff59ab-2ad0-46e7-8216-1e65586edeaa
+      81c5bbad-a4d8-48c6-a451-546ee71bbb61
+      d5c89f90-9b70-442e-b715-b3aba95482fa
+      7236f66d-382f-4dfe-87a3-c4cc03ec7d06
+      ed98470a-8d40-466e-9b2e-c543a17e1421
+      ecc710e8-7915-49bd-afca-5ed7d5fd4181
+      01a76cc5-bf99-4f3c-b9e5-e262eff42757
+      f9cf3dff-c368-4c25-a2fa-5c6e6ea5ac0b
+      0e159230-cfbb-4345-9a17-fb657b6e5f49
+      7086343b-ba81-4e2f-915b-249d51640897
+      1dd204e1-3d67-455c-9f4c-3483997327c0
+      6ebf4eb7-d81a-4b7a-9037-961d113f2bd8
+      7f8f2e2e-eabf-4dda-83f8-7f15ed37fc8f
+      b86c3d57-3976-4aed-be49-356772512e15
+      27e471ec-8c5f-4b77-b24c-637e3e5ef238
+      d8e17627-3bf4-4b43-ac58-6277ddfb568a
+    Related Link: 
+    Content:
+      .jsl10n-visible .central-featured, .jsl10n-visible .jsl10n { visibility: visible }
+
+    Rule Id: 96105890-c75c-4b0f-b759-f3989ae25e72
+    Rule Type: media
+    Selector:
+    Belong to: 65b440aa-25b2-409f-9f5f-fa8449136b8b
+    Apply to: 
+    Related Link: 
+    Content:
+      @media print {body { background-color: transparent } a { color: rgb(0, 0, 0) !important; background: none !important; padding: 0 !important } a:link, a:visited { color: rgb(85, 34, 0); background: transparent } img { border: 0 } }
+
+
+
+Block Id: 40ddf4b6-2cb1-430a-8c0b-0cf455678087
+Src: 
+Related html node: 3ad62108-0b9c-4f75-ab36-96cb769d5ed8
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 37c6057f-f875-47b4-be08-f76485810b3e
+    Rule Type: style
+    Selector:.styled-select
+    Belong to: 40ddf4b6-2cb1-430a-8c0b-0cf455678087
+    Apply to: 
+      23ed07e1-f310-4e12-a2cc-f9ed9cd25f63
+    Related Link: 
+    Content:
+      .styled-select { display: block }
+
+
+
+
+
+
+---------------------External CSS: ------------------------
+
+

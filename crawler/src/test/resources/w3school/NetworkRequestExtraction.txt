@@ -1,0 +1,417 @@
+------------------------- Base URL : https://www.w3schools.com/-------------------------
+
+
+Unique Id: 7884f869-04ec-4d7b-9e86-65c0363916a3
+URL: https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 694b6f68-d341-4c24-a703-376a55681722
+URL: https://www.google.co.uk/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-9YNMTB56NB&cid=1204905338.1693798889&gtm=45je38u0&aip=1&z=1125845983
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: d4e2d3c7-b93b-4565-93d9-46d29c41d327
+URL: https://cdn.snigelweb.com/resources/fonts/roboto-regular-webfont.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 439f9f72-2e0e-4a4b-96ca-afd0c87685b7
+URL: https://www.w3schools.com/howto/img_nature_wide.jpg
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 92da3be1-86bc-4282-b6c0-de7c7bb80d27
+URL: https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 0568c301-d366-4a44-a2e5-00cdc2e76049
+URL: https://cdn.snigelweb.com/adconsent/76/adconsent__tcfapi.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 440290c6-a0e4-4214-93ba-0c1250c00ae1
+URL: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 5d819215-0e23-4d5a-b3af-2495492a1766
+URL: https://cdn-ima.33across.com/ima.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: f24d577e-c5fc-4281-97b0-2ef7947bcdc7
+URL: https://cdn.snigelweb.com/adengine/w3schools.com/loader.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: dd448db1-0919-44b8-a0a7-58daff6eeda4
+URL: https://cdn.snigelweb.com/prebid/7.53.0/prebid.js?v=7529-1693414475147
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: a231ddcf-d8b6-46f7-896f-2df9c92b737d
+URL: https://cdn.snigelweb.com/adconsent/76/views/adconsent__tcfapi_en.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 6a7d623a-609e-4b48-90c7-038810309701
+URL: https://www.googletagmanager.com/gtm.js?id=GTM-KTCFC3S
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: eb880d86-fdef-43a3-a3c8-76cff3cff232
+URL: https://cdn.snigelweb.com/gvl/vendor-list.json
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 10f6871d-b9cb-4319-b914-5262cf45f9de
+URL: https://cdn.snigelweb.com/resources/fonts/roboto-bold-webfont.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 6fd6b081-5302-48af-a1b4-24982f4767ab
+URL: https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 0c35c166-298c-41ec-8c1a-d71c64d88fd4
+URL: https://secure.cdn.fastclick.net/js/pubcid/latest/pubcid.min.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: fbf080c1-d107-44f0-80a6-e9a265b336be
+URL: https://www.w3schools.com/howto/img_mountains_wide.jpg
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 5396b85e-aa43-4b78-86eb-7a2d65f8687e
+URL: https://cdn.confiant-integrations.net/t_Qv_vWzcBDsyn934F1E0MWBb1c/prebid/config.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 7afc7249-336d-4d19-9496-93df8afc365e
+URL: https://c.amazon-adsystem.com/aax2/apstag.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 0e068a3b-0a5e-4975-997d-7b3af2670e4c
+URL: https://www.w3schools.com/spaces/files/check3.db67d31e.svg
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 558f937f-ec26-4d72-8c87-b4ed8222935b
+URL: https://region1.analytics.google.com/g/collect?v=2&tid=G-9YNMTB56NB&gtm=45je38u0&_p=1802471590&_gaz=1&cid=1204905338.1693798889&ul=zh-cn&sr=800x600&uaa=x86&uab=64&uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.199%7CHeadlessChrome%3B114.0.5735.199&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&_s=1&sid=1693798889&sct=1&seg=0&dl=https%3A%2F%2Fwww.w3schools.com%2F&dt=W3Schools%20Online%20Web%20Tutorials&en=page_view&_fv=1&_nsi=1&_ss=1&ep.content_group=Other%20Group%2F
+Method: POST
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 9e2520ab-d443-44ca-98a8-484f5f53cf53
+URL: https://www.w3schools.com/lib/uic.js?v=1.0.5
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 15ff1318-52be-4cf0-80d2-5f0f95f87cd9
+URL: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308310101/pubads_impl.js?cb=31077576
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: c262808d-1d53-4b58-a48b-0b44fd286a3b
+URL: https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 8038c5a4-5ec7-4940-9d7a-1d0d299ed12e
+URL: https://cdn.id5-sync.com/api/1.0/id5-api.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 769c1787-4341-436e-9997-1d8125fb853d
+URL: https://cdn.confiant-integrations.net/prebid/202307190925/wrap.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 3168073c-f951-4d11-ba03-a6afd5c0ebb2
+URL: https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 95b7a7b2-b56c-41e5-890a-adabbbac99b3
+URL: https://www.w3schools.com/lib/fonts/SourceSansPro-Regular.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 0661dd10-6c2b-435d-8f6b-68e84a856805
+URL: https://www.w3schools.com/lib/my-learning.js?v=1.0.21
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 1193ae24-ddc4-4f9a-907a-07af0b1dd7ff
+URL: https://www.w3schools.com/signup/lynxlogo.svg
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: b211633c-57f8-47af-ab54-9f82628c6865
+URL: https://www.w3schools.com/
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: c331c04a-2f96-4835-9e7c-7e4a3b5a97df
+URL: https://www.w3schools.com/lib/user-session.js?v=1.0.29
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 21308415-9c35-43b1-b626-e327a4e3f2a2
+URL: https://www.w3schools.com/lib/w3schools32.css
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 47f03e73-e696-472c-98b4-e70b489118d1
+URL: https://www.w3schools.com/lib/w3codecolor.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: a21b3fab-f8c2-490d-a9a7-ca0a36978790
+URL: https://www.w3schools.com/howto/tryhow_js_slideshow_ifr.htm
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: b826852d-cdd6-4d61-80e8-88fd3537cc72
+URL: https://c.amazon-adsystem.com/cdn/prod/config?src=3927&u=https%3A%2F%2Fwww.w3schools.com
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 7267c2ae-b6a0-4ce1-bfcd-c73d6d60a9d2
+URL: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: dfa687a7-aaa5-4dca-83da-0b87e1628cae
+URL: https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 4f9a5d26-90a6-4fa1-a480-79f60a9a8ece
+URL: https://www.w3schools.com/images/w3schools_logo_500_04AA6D.png
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 640499a4-ee2d-4b53-9449-8b16f7b3e127
+URL: https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: e0d6068c-6c6a-4b96-8a51-25a573ff9e00
+URL: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: eadbabcf-9aae-4813-9d04-44c521722296
+URL: https://www.w3schools.com/howto/img_snow_wide.jpg
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: bd6226cf-f718-411e-a7c0-3efe9d0292f2
+URL: https://cdn.snigelweb.com/argus/argus.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 0f5c4b9b-6d75-41d0-9875-e12f6ed40d47
+URL: https://www.w3schools.com/lib/common-deps.js?v=1.0.2
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: e44ba814-0f01-46db-a28a-3edec17d581d
+URL: https://adengine.snigelweb.com/w3schools.com/7529-1693414475147/adngin.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: e10723d7-9919-4d57-90b5-fe22efe9ccbb
+URL: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-9YNMTB56NB&cid=1204905338.1693798889&gtm=45je38u0&aip=1
+Method: POST
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+

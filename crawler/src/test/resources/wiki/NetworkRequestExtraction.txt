@@ -1,0 +1,66 @@
+------------------------- Base URL : https://www.wikipedia.org/-------------------------
+
+
+Unique Id: e62264ef-07bc-4359-b50e-35fb1fc824d9
+URL: https://www.wikipedia.org/
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 3b1097fd-f115-46a6-b962-6d1df099b51d
+URL: https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 087283a7-f6b3-4923-93bf-cf0b09d7d914
+URL: https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-86c7e2579d.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: ad411522-25ad-4def-93cb-24b9a23b17f4
+URL: https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-ce3fe8e88d.js
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 2b7a5065-5717-4e1d-b74e-e7c4e9f155f1
+URL: https://www.wikipedia.org/portal/wikipedia.org/assets/l10n/zh-hans-b9cfcdb0.json
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: fb6c6218-3faf-48d0-9a77-de40547ddb3e
+URL: https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-8bb90067.svg
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+
+Unique Id: 51ad4429-2ec8-417c-b02d-c8f2c49b90de
+URL: https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister.png
+Method: GET
+Request Flows:
+HTTP Messages:
+-----------------
+
+
+

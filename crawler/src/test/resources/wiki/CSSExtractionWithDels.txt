@@ -1,0 +1,2178 @@
+------------------------- Base URL : https://www.wikipedia.org/-------------------------
+
+
+
+
+
+---------------------Inline CSS: ------------------------
+
+
+Block Id: 944e0b30-51f5-4754-91c8-39e23e045f04
+Src: 
+Related html node: 
+Type: inline
+Inside CSS Styles: 
+    Rule Id: 916e2c57-25cb-48c7-b45e-1fe2387b0812
+    Rule Type: style
+    Selector:
+    Belong to: 944e0b30-51f5-4754-91c8-39e23e045f04
+    Apply to: 
+    Related Link: 
+    Content:
+      padding-right: 64px;
+
+
+
+
+
+
+---------------------Internal CSS: ------------------------
+
+
+Block Id: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: e64cafda-d9c3-4bf9-ae0f-5cdc49a85da2
+    Rule Type: style
+    Selector:.sprite
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-8bb90067.svg
+    Content:
+      .sprite { background-image: linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/sprite-8bb90067.svg); background-repeat: no-repeat; display: inline-block; vertical-align: middle }
+
+    Rule Id: f0e7b766-4fa6-4d74-b8bb-bd42560f1462
+    Rule Type: style
+    Selector:.svg-Commons-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Commons-logo_sister { background-position: 0 0; width: 47px; height: 47px }
+
+    Rule Id: 8f282236-09ee-49e1-a2f5-9780758e2ab3
+    Rule Type: style
+    Selector:.svg-MediaWiki-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-MediaWiki-logo_sister { background-position: 0 -47px; width: 42px; height: 42px }
+
+    Rule Id: a393b445-a32a-48fa-8b88-3a264838296a
+    Rule Type: style
+    Selector:.svg-Meta-Wiki-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Meta-Wiki-logo_sister { background-position: 0 -89px; width: 37px; height: 37px }
+
+    Rule Id: be131500-86ca-48b8-8e6b-37e1830bc347
+    Rule Type: style
+    Selector:.svg-Wikibooks-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikibooks-logo_sister { background-position: 0 -126px; width: 37px; height: 37px }
+
+    Rule Id: c76fd136-29da-4368-8e79-28abd6700d41
+    Rule Type: style
+    Selector:.svg-Wikidata-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikidata-logo_sister { background-position: 0 -163px; width: 49px; height: 49px }
+
+    Rule Id: a4a03f7c-4327-4360-811a-698e7b63fa9d
+    Rule Type: style
+    Selector:.svg-Wikifunctions-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikifunctions-logo_sister { background-position: 0 -212px; width: 50px; height: 50px }
+
+    Rule Id: 1a0b2b9e-280e-4a08-bc69-728ad854ade0
+    Rule Type: style
+    Selector:.svg-Wikimedia-logo_black
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikimedia-logo_black { background-position: 0 -262px; width: 42px; height: 42px }
+
+    Rule Id: 61fc274b-c328-4f27-a8c5-4d226b5bce1b
+    Rule Type: style
+    Selector:.svg-Wikipedia_wordmark
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikipedia_wordmark { background-position: 0 -304px; width: 176px; height: 32px }
+
+    Rule Id: 402bf852-7e4c-4332-a3d4-0eed49a11c78
+    Rule Type: style
+    Selector:.svg-Wikiquote-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikiquote-logo_sister { background-position: 0 -336px; width: 42px; height: 42px }
+
+    Rule Id: ed17dc4f-3a87-4325-b9fe-6868e25ef747
+    Rule Type: style
+    Selector:.svg-Wikisource-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikisource-logo_sister { background-position: 0 -378px; width: 39px; height: 39px }
+
+    Rule Id: edabd79d-6a12-4248-ad81-24c0574014de
+    Rule Type: style
+    Selector:.svg-Wikispecies-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikispecies-logo_sister { background-position: 0 -417px; width: 42px; height: 42px }
+
+    Rule Id: 4214923c-7ae9-4a1d-bcf2-248b26f033b8
+    Rule Type: style
+    Selector:.svg-Wikiversity-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikiversity-logo_sister { background-position: 0 -459px; width: 43px; height: 37px }
+
+    Rule Id: e8a43924-b7a0-49b5-908e-084223ba22cd
+    Rule Type: style
+    Selector:.svg-Wikivoyage-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wikivoyage-logo_sister { background-position: 0 -496px; width: 36px; height: 36px }
+
+    Rule Id: fe0b318e-8530-4d2e-8e16-f4272550eefe
+    Rule Type: style
+    Selector:.svg-Wiktionary-logo_sister
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-Wiktionary-logo_sister { background-position: 0 -532px; width: 37px; height: 37px }
+
+    Rule Id: fcdc41db-50ac-48c4-8120-adcdc3d4b11e
+    Rule Type: style
+    Selector:.svg-arrow-down
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-arrow-down { background-position: 0 -569px; width: 12px; height: 8px }
+
+    Rule Id: 5a849c69-c6cd-4d41-af7c-719a452ba72a
+    Rule Type: style
+    Selector:.svg-arrow-down-blue
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-arrow-down-blue { background-position: 0 -577px; width: 14px; height: 14px }
+
+    Rule Id: 0dffdc15-7eb6-4aa7-bf02-40dd12d33e72
+    Rule Type: style
+    Selector:.svg-badge_google_play_store
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-badge_google_play_store { background-position: 0 -591px; width: 124px; height: 38px }
+
+    Rule Id: 01d9fdc5-a291-41b2-99d0-f5d329389d9a
+    Rule Type: style
+    Selector:.svg-badge_ios_app_store
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-badge_ios_app_store { background-position: 0 -629px; width: 110px; height: 38px }
+
+    Rule Id: dd0468ed-5103-42fd-8ba7-61c5338d587d
+    Rule Type: style
+    Selector:.svg-language-icon
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-language-icon { background-position: 0 -667px; width: 22px; height: 22px }
+
+    Rule Id: c4634507-8c64-449c-816c-60c19e5f7571
+    Rule Type: style
+    Selector:.svg-noimage
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-noimage { background-position: 0 -689px; width: 58px; height: 58px }
+
+    Rule Id: 96023a4b-fea9-4dcb-a742-809993cab99b
+    Rule Type: style
+    Selector:.svg-search-icon
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-search-icon { background-position: 0 -747px; width: 22px; height: 22px }
+
+    Rule Id: a8dcc1e7-21e3-4ce5-b435-49a849fd914f
+    Rule Type: style
+    Selector:.svg-wikipedia_app_tile
+    Belong to: d8b5826a-1e7b-4dd6-ae2a-f617e78ebb37
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-wikipedia_app_tile { background-position: 0 -769px; width: 42px; height: 42px }
+
+
+
+Block Id: e23741a9-cd2a-4910-af2d-d277d3704c02
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: cb69d2c8-01ea-4b2a-9fb5-e299b687597a
+    Rule Type: style
+    Selector:html
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-size: 62.5% }
+
+    Rule Id: f46b44e0-12c5-40a9-bb75-5b6066eb24a5
+    Rule Type: style
+    Selector:body
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      body { margin: 0 }
+
+    Rule Id: 9742dd10-d034-462f-b581-ca7d4b92202c
+    Rule Type: style
+    Selector:article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block }
+
+    Rule Id: b3afbe97-34fc-45b9-acbf-ba15425a7503
+    Rule Type: style
+    Selector:audio, canvas, progress, video
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      audio, canvas, progress, video { display: inline-block; vertical-align: baseline }
+
+    Rule Id: ec95ee8d-e22c-443b-bca2-08c22978c9c2
+    Rule Type: style
+    Selector:audio:not([controls])
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      audio:not([controls]) { display: none; height: 0 }
+
+    Rule Id: 62b5571d-ff56-4f69-ac76-076e66f2a36c
+    Rule Type: style
+    Selector:[hidden], template
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      [hidden], template { display: none }
+
+    Rule Id: e4b59f37-0df1-49f1-8ed7-3646eb515133
+    Rule Type: style
+    Selector:a
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a { background-color: transparent }
+
+    Rule Id: abe699fa-6cf4-455c-ba3c-6380e9b05900
+    Rule Type: style
+    Selector:a:active, a:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a:active, a:hover { outline: 0 }
+
+    Rule Id: 307999b0-8421-4b14-943d-04f0cb8f5399
+    Rule Type: style
+    Selector:abbr[title]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      abbr[title] { border-bottom: 1px dotted }
+
+    Rule Id: bd742b30-d38f-45bc-b2c6-f957f2391c11
+    Rule Type: style
+    Selector:b, strong
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      b, strong { font-weight: 700 }
+
+    Rule Id: e49997fe-9e11-4133-9e6c-31f0b0c30461
+    Rule Type: style
+    Selector:dfn
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      dfn { font-style: italic }
+
+    Rule Id: d8350993-1911-4735-bac3-9eab42de96b9
+    Rule Type: style
+    Selector:h1
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      h1 { font-size: 32px; font-size: 3.2rem; margin: 1.2rem 0 }
+
+    Rule Id: caa196fb-a0b8-45c4-b999-2110ef958ffb
+    Rule Type: style
+    Selector:mark
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      mark { background: rgb(237, 171, 0); color: rgb(0, 0, 0) }
+
+    Rule Id: 67a18cfa-df45-4e20-9534-bb54f58c1e65
+    Rule Type: style
+    Selector:small
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      small { font-size: 13px; font-size: 1.3rem }
+
+    Rule Id: 18463f75-3fd5-4f9e-b8d6-071970094067
+    Rule Type: style
+    Selector:sub, sup
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline }
+
+    Rule Id: f09bb9de-3113-40cb-a080-7e6a9003af11
+    Rule Type: style
+    Selector:sup
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      sup { top: -0.5em }
+
+    Rule Id: 1b7391f3-ff52-432e-bd50-bca6357e05c7
+    Rule Type: style
+    Selector:sub
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      sub { bottom: -0.25em }
+
+    Rule Id: 2d3e14d7-9915-4fd4-ae6a-6bf18ffbd504
+    Rule Type: style
+    Selector:svg:not(:root)
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      svg:not(:root) { overflow: hidden }
+
+    Rule Id: 9d607890-5b0a-426d-9c66-941bea323f4c
+    Rule Type: style
+    Selector:figure
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      figure { margin: 1.6rem 4rem }
+
+    Rule Id: 4e985981-896d-4c6b-a0d1-cc422cb60f45
+    Rule Type: style
+    Selector:hr
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      hr { -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box }
+
+    Rule Id: 878e25cf-e515-4425-94c8-80cbf26b5cd8
+    Rule Type: style
+    Selector:pre
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      pre { overflow: auto }
+
+    Rule Id: a49a5617-7248-4563-9e29-87f33f637d9a
+    Rule Type: style
+    Selector:code, kbd, pre, samp
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      code, kbd, pre, samp { font-family: monospace, monospace; font-size: 14px; font-size: 1.4rem }
+
+    Rule Id: c02f4cbb-c12d-41ee-8245-df2c0e736cf1
+    Rule Type: style
+    Selector:button, input, optgroup, select, textarea
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      button, input, optgroup, select, textarea { color: inherit; font: inherit; margin: 0 }
+
+    Rule Id: 8c0e4657-4135-487f-925a-bc334453881a
+    Rule Type: style
+    Selector:button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      button { overflow: visible }
+
+    Rule Id: df8465dd-40f2-403f-a9fe-da1886324144
+    Rule Type: style
+    Selector:button, select
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      button, select { text-transform: none }
+
+    Rule Id: 5868b607-31cd-4d97-a0bf-96c82a2d5524
+    Rule Type: style
+    Selector:button, html input[type="button"], input[type="reset"], input[type="submit"]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; cursor: pointer }
+
+    Rule Id: 46bdd056-9e73-4ae3-ad7a-ec0aa7504e64
+    Rule Type: style
+    Selector:button[disabled], html input[disabled]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      button[disabled], html input[disabled] { cursor: default }
+
+    Rule Id: d248c0ef-a15f-4cb1-afaf-a7f476f34097
+    Rule Type: style
+    Selector:button::-moz-focus-inner, input::-moz-focus-inner
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0 }
+
+    Rule Id: b03064a5-8c13-4f18-b27d-02add64cbdd9
+    Rule Type: style
+    Selector:input
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      input { line-height: normal }
+
+    Rule Id: 0052f6c2-6a31-4238-b1ce-12d908f90ebd
+    Rule Type: style
+    Selector:input[type="checkbox"], input[type="radio"]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="checkbox"], input[type="radio"] { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 0 }
+
+    Rule Id: 95526d6f-fc38-46f3-8b45-9e68cc382d17
+    Rule Type: style
+    Selector:input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto }
+
+    Rule Id: 16e2d4b0-6e6f-4bf9-bb51-e444b9db5518
+    Rule Type: style
+    Selector:input[type="search"]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="search"] { -webkit-appearance: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box }
+
+    Rule Id: 82540ec4-7ff5-4234-9195-34bf1ad3c0f2
+    Rule Type: style
+    Selector:input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none }
+
+    Rule Id: 0f2cbe22-dd09-4887-94ca-f8f1c1e13d0d
+    Rule Type: style
+    Selector:input[type="search"]:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      input[type="search"]:focus { outline-offset: -2px }
+
+    Rule Id: 592b596e-e9cc-446d-a9d7-b97cd5abd82d
+    Rule Type: style
+    Selector:fieldset
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      fieldset { border: 1px solid rgb(162, 169, 177); margin: 0 0.2rem; padding: 0.6rem 1rem 1.2rem }
+
+    Rule Id: 97ec9721-4419-4496-a526-24f604376952
+    Rule Type: style
+    Selector:legend
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      legend { border: 0; padding: 0 }
+
+    Rule Id: 4cef2513-bd57-42fe-9512-03a852d3bc8e
+    Rule Type: style
+    Selector:textarea
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      textarea { overflow: auto }
+
+    Rule Id: 95d4c947-88b0-4fb7-9342-d7e5514b50b5
+    Rule Type: style
+    Selector:optgroup
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      optgroup { font-weight: 700 }
+
+    Rule Id: d8489181-2499-4541-9ee4-004b169d05ec
+    Rule Type: style
+    Selector:table
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      table { border-collapse: collapse; border-spacing: 0 }
+
+    Rule Id: 4ebd74f9-5177-4811-a73b-6948c2566987
+    Rule Type: style
+    Selector:td, th
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      td, th { padding: 0 }
+
+    Rule Id: d07271f3-a57c-49b6-8c08-39bf4f8397ab
+    Rule Type: style
+    Selector:.hidden, [hidden]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hidden, [hidden] { display: none !important }
+
+    Rule Id: dd3135cd-7f73-4089-81d8-d86f9136cf41
+    Rule Type: style
+    Selector:.screen-reader-text
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .screen-reader-text { display: block; position: absolute !important; clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; margin: -1px; border: 0; padding: 0; overflow: hidden }
+
+    Rule Id: 947b8c0f-3e5e-4d43-aa91-0ac0dfb7cb05
+    Rule Type: style
+    Selector:body
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      body { background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Inter, Helvetica, Arial, sans-serif; font-size: 14px; font-size: 1.4rem; line-height: 1.5; margin: 0.4rem 0 1.6rem }
+
+    Rule Id: 59c171c5-18f6-4395-8803-025e2b2b67b2
+    Rule Type: style
+    Selector:a
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a { -ms-touch-action: manipulation; touch-action: manipulation }
+
+    Rule Id: 7726be55-6b96-4010-b798-b91a0a0e5001
+    Rule Type: style
+    Selector:a, a:active, a:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a, a:active, a:focus { unicode-bidi: embed; outline: 0; color: rgb(51, 102, 204); text-decoration: none }
+
+    Rule Id: b4b0ea9a-ddfe-46ce-942e-380be07804ac
+    Rule Type: style
+    Selector:a:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a:focus { outline: 1px solid rgb(51, 102, 204) }
+
+    Rule Id: 52482982-f2e7-4d5d-8112-5f8608fec2c3
+    Rule Type: style
+    Selector:a:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a:hover { text-decoration: underline }
+
+    Rule Id: 5d60b866-c2b0-4728-8c3e-4ddfc5f3e82e
+    Rule Type: style
+    Selector:img
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      img { vertical-align: middle }
+
+    Rule Id: f4d706ab-a839-4aed-acdc-0a785f627aff
+    Rule Type: style
+    Selector:hr, img
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      hr, img { border: 0 }
+
+    Rule Id: 76706bea-ed26-451f-8cfd-22789f9092ca
+    Rule Type: style
+    Selector:hr
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      hr { clear: both; height: 0; border-bottom: 1px solid rgb(200, 204, 209); margin: 0.26rem 1.3rem }
+
+    Rule Id: 9cefcd50-d6ea-4868-ba4c-0f2579c709e9
+    Rule Type: style
+    Selector:.pure-button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button { display: inline-block; zoom: 1; line-height: normal; white-space: nowrap; text-align: center; cursor: pointer; -webkit-user-drag: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; background-color: rgb(248, 249, 250); color: rgb(32, 33, 34); position: relative; min-height: 19.2px; min-height: 1.92rem; min-width: 16px; min-width: 1.6rem; margin: 0.16rem 0; border: 1px solid rgb(162, 169, 177); -moz-border-radius: 2px; border-radius: 2px; padding: 0.8rem 1.6rem; font-family: inherit; font-size: inherit; font-weight: 700; text-decoration: none; vertical-align: top; -webkit-transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; -o-transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; -moz-transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -moz-box-shadow 0.1s ease; transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -webkit-box-shadow 0.1s ease, -moz-box-shadow 0.1s ease }
+
+    Rule Id: 95009cd4-1bcb-483b-9d9e-f56d6b560c5d
+    Rule Type: style
+    Selector:.pure-button::-moz-focus-inner
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button::-moz-focus-inner { padding: 0; border: 0 }
+
+    Rule Id: 53125bde-78a9-47e6-8a9a-c371eecfe568
+    Rule Type: style
+    Selector:.pure-button-hover, .pure-button:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-hover, .pure-button:hover { background-color: rgb(255, 255, 255); border-color: rgb(162, 169, 177); color: rgb(64, 66, 68) }
+
+    Rule Id: e9dd8e2b-4e76-40aa-86c2-297c167cf9cb
+    Rule Type: style
+    Selector:.pure-button-active, .pure-button:active
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-active, .pure-button:active { background-color: rgb(234, 236, 240); border-color: rgb(114, 119, 125); color: rgb(0, 0, 0) }
+
+    Rule Id: f913f030-aefb-4245-8041-e5a249ca7c75
+    Rule Type: style
+    Selector:.pure-button:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button:focus { outline: 0; border-color: rgb(51, 102, 204); -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); box-shadow: inset 0 0 0 1px rgb(51, 102, 204) }
+
+    Rule Id: cf65a413-badd-409e-96e9-8d7d499bd7fd
+    Rule Type: style
+    Selector:.pure-button-primary-progressive
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive { background-color: rgb(51, 102, 204); border-color: rgb(51, 102, 204); color: rgb(255, 255, 255) }
+
+    Rule Id: 0f166f0f-cb6f-424a-976d-a3b4836c95f4
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive:hover { background: rgb(68, 127, 245); border-color: rgb(68, 127, 245) }
+
+    Rule Id: f455252d-30a8-4929-9397-f2553f31c43d
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:active
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive:active { background-color: rgb(42, 75, 141); border-color: rgb(42, 75, 141); -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; color: rgb(255, 255, 255) }
+
+    Rule Id: 3ef0ffe1-0629-49a8-b5a0-1d9b2b53a197
+    Rule Type: style
+    Selector:.pure-button-primary-progressive:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-button-primary-progressive:focus { -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204), inset 0 0 0 2px rgb(255, 255, 255); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204), inset 0 0 0 2px rgb(255, 255, 255); box-shadow: inset 0 0 0 1px rgb(51, 102, 204), inset 0 0 0 2px rgb(255, 255, 255); border-color: rgb(51, 102, 204) }
+
+    Rule Id: 77f6fb26-6b37-4f6f-a2c2-c75ce0f5e836
+    Rule Type: style
+    Selector:.pure-form input[type="search"]
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-form input[type="search"] { background-color: rgb(255, 255, 255); display: inline-block; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 1px solid rgb(162, 169, 177); -moz-border-radius: 2px; border-radius: 2px; padding: 0.8rem; -webkit-box-shadow: inset 0 0 0 1px rgb(255, 255, 255); -moz-box-shadow: inset 0 0 0 1px rgb(255, 255, 255); box-shadow: inset 0 0 0 1px rgb(255, 255, 255); vertical-align: middle }
+
+    Rule Id: ef9ddb88-af0c-4a7f-af6a-5ef7b9b21d4d
+    Rule Type: style
+    Selector:.pure-form input:focus:invalid
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-form input:focus:invalid { color: rgb(179, 36, 36); border-color: rgb(221, 51, 51) }
+
+    Rule Id: db7c05fc-8cef-4c46-8817-3d14e11fc16c
+    Rule Type: style
+    Selector:.pure-form fieldset
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .pure-form fieldset { margin: 0; padding: 0.56rem 0 1.2rem; border: 0 }
+
+    Rule Id: f2a25795-067f-4205-a789-6e0101b39bc5
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media only screen and (max-width: 480px) {.pure-form input[type="search"] { display: block } }
+
+    Rule Id: dd078b74-cf15-4489-85a6-7d2c536edee9
+    Rule Type: style
+    Selector:.central-textlogo-wrapper
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-textlogo-wrapper { display: inline-block; vertical-align: bottom }
+
+    Rule Id: 8eb69153-bb56-4249-9313-7207b00f26e4
+    Rule Type: style
+    Selector:.central-textlogo
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-textlogo { position: relative; margin: 4rem auto 0.5rem; width: 270px; font-family: Linux Libertine, Hoefler Text, Georgia, Times New Roman, Times, serif; font-size: 30px; font-size: 3rem; font-weight: 400; line-height: 33px; line-height: 3.3rem; text-align: center; -moz-font-feature-settings: "ss05=1"; -moz-font-feature-settings: "ss05"; -webkit-font-feature-settings: "ss05"; -ms-font-feature-settings: "ss05"; font-feature-settings: "ss05" }
+
+    Rule Id: c7186a2d-dcea-4cac-9e23-3137ae9e1736
+    Rule Type: style
+    Selector:.localized-slogan
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .localized-slogan { display: block; font-family: Linux Libertine, Georgia, Times, "Source Serif Pro", serif; font-size: 15px; font-size: 1.5rem; font-weight: 400 }
+
+    Rule Id: d3ad0501-f1bb-4945-8e8f-42a99da8110f
+    Rule Type: style
+    Selector:.central-textlogo__image
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-textlogo__image { color: transparent; display: inline-block; overflow: hidden; text-indent: -10000px }
+
+    Rule Id: 3fad9d9d-6fba-46d5-8e62-77708ac8a94a
+    Rule Type: style
+    Selector:.central-featured-logo
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-logo { position: absolute; top: 158px; left: 35px }
+
+    Rule Id: 9726d96b-9470-463e-b1da-ee5a07324b62
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.central-textlogo { position: relative; height: 70px; width: auto; margin: 2rem 0 0; text-align: center; line-height: 25px; line-height: 2.5rem; text-indent: -10px; text-indent: -1rem; font-size: 1em } .central-textlogo-wrapper { position: relative; top: 12px; text-indent: 2px; text-indent: 0.2rem } .svg-Wikipedia_wordmark { width: 150px; height: 25px; background-position: 0 -218px; -webkit-background-size: 100% 100%; -moz-background-size: 100%; background-size: 100% } .localized-slogan { font-size: 14px; font-size: 1.4rem } .central-featured-logo { position: relative; display: inline-block; width: 57px; height: auto; left: 0; top: 0 } }
+
+    Rule Id: 2ab0d1ba-370f-42f4-a8d0-e8ee6d483b65
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 240px) {.central-textlogo__image { height: auto } }
+
+    Rule Id: b9599896-3df7-4ef5-8fb9-2de12f1aebc4
+    Rule Type: style
+    Selector:.central-featured
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured { position: relative; height: 325px; height: 32.5rem; width: 546px; width: 54.6rem; max-width: 100%; margin: 0 auto; text-align: center; vertical-align: middle }
+
+    Rule Id: cd9b1afe-5171-4d3d-9939-2914eb21f19b
+    Rule Type: style
+    Selector:.central-featured-lang
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang { position: absolute; width: 156px; width: 15.6rem }
+
+    Rule Id: 273efa50-424b-4aa3-ac41-83ee6087c54d
+    Rule Type: style
+    Selector:.central-featured-lang .link-box
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang .link-box { display: block; padding: 0; text-decoration: none; white-space: normal }
+
+    Rule Id: cb26d86d-053d-473e-b5bf-79912630fa24
+    Rule Type: style
+    Selector:.central-featured-lang .link-box:hover strong
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang .link-box:hover strong { text-decoration: underline }
+
+    Rule Id: dcbf11f1-5258-4ee0-b6ac-f5c277eb033b
+    Rule Type: style
+    Selector:.central-featured-lang :hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang :hover { background-color: rgb(234, 236, 240) }
+
+    Rule Id: ebe19cda-b4e8-4cfd-93ef-78eecedf24cf
+    Rule Type: style
+    Selector:.central-featured-lang strong
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang strong { display: block; font-size: 16px; font-size: 1.6rem }
+
+    Rule Id: 15728ca0-8f65-495b-9077-9b55e7da8fa6
+    Rule Type: style
+    Selector:.central-featured-lang small
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang small { color: rgb(84, 89, 93); display: inline-block; font-size: 13px; font-size: 1.3rem; line-height: 1.6 }
+
+    Rule Id: f1ea25e6-601d-43f1-9a27-da9711ef3d41
+    Rule Type: style
+    Selector:.central-featured-lang em
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang em { font-style: italic }
+
+    Rule Id: fed76589-9310-4aae-b24a-f23b866e9613
+    Rule Type: style
+    Selector:.central-featured-lang .emNonItalicLang
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .central-featured-lang .emNonItalicLang { font-style: normal }
+
+    Rule Id: 8a61ef08-ba5f-4de9-b4b3-22f56b937b9d
+    Rule Type: style
+    Selector:.lang1
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang1 { top: 0; right: 60% }
+
+    Rule Id: 2327c9c0-33c1-472c-9e8d-da82463d00e3
+    Rule Type: style
+    Selector:.lang2
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang2 { top: 0; left: 60% }
+
+    Rule Id: 071e7787-1716-4146-944c-bcd9927dcc0f
+    Rule Type: style
+    Selector:.lang3
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang3 { top: 20%; right: 70% }
+
+    Rule Id: b8906c77-bbd4-48c3-8751-250dbf012694
+    Rule Type: style
+    Selector:.lang4
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang4 { top: 20%; left: 70% }
+
+    Rule Id: 308de52a-dcca-48ad-a6a8-e8c2f36d419d
+    Rule Type: style
+    Selector:.lang5
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang5 { top: 40%; right: 72% }
+
+    Rule Id: ac54c4ea-412b-4142-ac84-49e2f1991475
+    Rule Type: style
+    Selector:.lang6
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang6 { top: 40%; left: 72% }
+
+    Rule Id: 0af49755-53c3-47f9-af0a-255b4753e562
+    Rule Type: style
+    Selector:.lang7
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang7 { top: 60%; right: 70% }
+
+    Rule Id: 7da04d8b-b914-4ba1-9202-123e93fa6b71
+    Rule Type: style
+    Selector:.lang8
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang8 { top: 60%; left: 70% }
+
+    Rule Id: 17276bbe-887b-47bb-8ea4-6e2a0f8ee188
+    Rule Type: style
+    Selector:.lang9
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang9 { top: 80%; right: 60% }
+
+    Rule Id: 4680bbd1-a7e9-45ff-b6dd-ace8543c523f
+    Rule Type: style
+    Selector:.lang10
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang10 { top: 80%; left: 60% }
+
+    Rule Id: 8278a2ee-4c8c-45af-8100-f28e4e2d96bd
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.central-featured { width: auto; height: auto; margin-top: 8rem; font-size: 13px; font-size: 1.3rem; text-align: left } .central-featured:after { content: " "; display: block; visibility: hidden; clear: both; height: 0; font-size: 0 } .central-featured-lang { display: block; float: left; position: relative; top: auto; left: auto; right: auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; height: 64px; height: 6.4rem; width: 33%; margin: 0 0 16px; padding: 0 1.6rem; font-size: 14px; font-size: 1.4rem; text-align: center } .central-featured-lang strong { font-size: 14px; font-size: 1.4rem; margin-bottom: 4px } .central-featured-lang small { line-height: 1.4 } }
+
+    Rule Id: d8b14514-2c11-470c-937f-8caa9931514d
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 375px) {.central-featured-lang { font-size: 13px; font-size: 1.3rem } }
+
+    Rule Id: 269d0d13-0c8b-4fab-b5ba-d9339527dfde
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 240px) {.central-featured-lang { width: 100% } }
+
+    Rule Id: 1b2d4c8f-bda6-4ea6-b280-8c0004cd96e6
+    Rule Type: style
+    Selector:.search-container
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container { float: none; max-width: 95%; width: 540px; margin: 0.4rem auto 1.95rem; text-align: center; vertical-align: middle }
+
+    Rule Id: b502b254-5cec-42b3-8bc5-f67974f51ab0
+    Rule Type: style
+    Selector:.search-container fieldset
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container fieldset { word-spacing: -4px }
+
+    Rule Id: fe400359-4e9d-4736-ac84-1a78c76b0722
+    Rule Type: style
+    Selector:.search-container button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container button { min-height: 44px; min-height: 4.4rem; margin: 0; -moz-border-radius: 0 2px 2px 0; border-radius: 0 2px 2px 0; padding: 0.8rem 1.6rem; font-size: 16px; font-size: 1.6rem; z-index: 2 }
+
+    Rule Id: eba3527e-4f7b-408e-96d1-b830977bcb8d
+    Rule Type: style
+    Selector:.search-container button .svg-search-icon
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container button .svg-search-icon { text-indent: -9999px }
+
+    Rule Id: 4c967ba5-3e64-4409-a6a0-6dcabe5cfcda
+    Rule Type: style
+    Selector:.search-container input[type="search"]::-webkit-search-results-button, .search-container input[type="search"]::-webkit-search-results-decoration
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container input[type="search"]::-webkit-search-results-button, .search-container input[type="search"]::-webkit-search-results-decoration { -webkit-appearance: none }
+
+    Rule Id: 36e31af5-9b3c-4da2-85b3-e49ed16f7a89
+    Rule Type: style
+    Selector:.search-container input::-webkit-calendar-picker-indicator
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container input::-webkit-calendar-picker-indicator { display: none }
+
+    Rule Id: bf79bf08-e565-4e67-9531-3c50e24551bb
+    Rule Type: style
+    Selector:.search-container .sprite.svg-arrow-down
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container .sprite.svg-arrow-down { position: absolute; top: 8px; top: 0.8rem; right: 6px; right: 0.6rem }
+
+    Rule Id: 70cc869f-6740-4a96-9c15-378d41129e98
+    Rule Type: style
+    Selector:#searchInput
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      #searchInput { -webkit-appearance: none; width: 100%; height: 44px; height: 4.4rem; border-width: 1px 0 1px 1px; -moz-border-radius: 2px 0 0 2px; border-radius: 2px 0 0 2px; padding: 0.8rem 9.6rem 0.8rem 1.2rem; font-size: 16px; font-size: 1.6rem; line-height: 1.6; -webkit-transition: background 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; transition: background 0.1s ease, border-color 0.1s ease, -webkit-box-shadow 0.1s ease; -o-transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; -moz-transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -moz-box-shadow 0.1s ease; transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease; transition: background 0.1s ease, border-color 0.1s ease, box-shadow 0.1s ease, -webkit-box-shadow 0.1s ease, -moz-box-shadow 0.1s ease }
+
+    Rule Id: 829605d3-5c9d-4bf8-a2f8-eb0fbb6b172a
+    Rule Type: style
+    Selector:#searchInput:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      #searchInput:hover { border-color: rgb(114, 119, 125) }
+
+    Rule Id: 0dc4b54c-e880-4316-bb42-a094cb9eecfd
+    Rule Type: style
+    Selector:#searchInput:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      #searchInput:focus { border-color: rgb(51, 102, 204); -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); box-shadow: inset 0 0 0 1px rgb(51, 102, 204); outline: 0 }
+
+    Rule Id: 9fadcaf5-dc37-41b1-be79-d54f6f38c689
+    Rule Type: style
+    Selector:.search-container .search-input
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container .search-input { display: inline-block; position: relative; width: 73%; vertical-align: top }
+
+    Rule Id: 2c28e5b7-c087-401d-886a-3501e0a47697
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media only screen and (max-width: 480px) {.search-container .pure-form fieldset { margin-left: 1rem; margin-right: 6.6rem } .search-container .search-input { width: 100%; margin-right: -6.6rem } .search-container .pure-form button { float: right; right: -56px; right: -5.6rem } }
+
+    Rule Id: 7848d6fc-0bf5-4374-b3e4-0c92e483f119
+    Rule Type: style
+    Selector:.suggestions-dropdown
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestions-dropdown { background-color: rgb(255, 255, 255); display: inline-block; position: absolute; left: 0; z-index: 2; margin: 0; padding: 0; border: 1px solid rgb(162, 169, 177); border-top: 0; -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25); -moz-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25); list-style-type: none; word-spacing: normal }
+
+    Rule Id: 32713789-03fe-4f90-b73f-6a572e0c3e40
+    Rule Type: style
+    Selector:.suggestion-link, .suggestions-dropdown
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link, .suggestions-dropdown { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; text-align: left }
+
+    Rule Id: a7e39b54-56f1-4ba1-827c-1b357141f888
+    Rule Type: style
+    Selector:.suggestion-link
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link { display: block; position: relative; min-height: 70px; min-height: 7rem; padding: 1rem 1rem 1rem 8.5rem; border-bottom: 1px solid rgb(234, 236, 240); color: inherit; text-decoration: none; text-align: initial; white-space: normal }
+
+    Rule Id: d1309bb2-454b-40d3-bcfd-a349321a247e
+    Rule Type: style
+    Selector:.suggestion-link.active
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link.active { background-color: rgb(234, 243, 255) }
+
+    Rule Id: 82e40756-eace-440b-9b36-a3b9a6b334e4
+    Rule Type: style
+    Selector:a.suggestion-link:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a.suggestion-link:hover { text-decoration: none }
+
+    Rule Id: 6ce6b73b-d5d9-46e1-bec2-f6b17aa522a2
+    Rule Type: style
+    Selector:a.suggestion-link:active, a.suggestion-link:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a.suggestion-link:active, a.suggestion-link:focus { outline: 0; white-space: normal }
+
+    Rule Id: b25b9db9-03cb-42fe-a5cc-0c6a67f69801
+    Rule Type: style
+    Selector:.suggestion-thumbnail
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/noimage.png
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/noimage.svg
+    Content:
+      .suggestion-thumbnail { background-color: rgb(234, 236, 240); background-image: url(portal/wikipedia.org/assets/img/noimage.png); background-image: -webkit-linear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -webkit-linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -moz- oldlinear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -o-linear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: linear-gradient(transparent, transparent), url(data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 56'%3E%3Cpath fill='%23eee' d='M0 0h56v56H0z'/%3E%3Cpath fill='%23999' d='M36.4 13.5H17.8v24.9c0 1.4.9 2.3 2.3 2.3h18.7v-25c.1-1.4-1-2.2-2.4-2.2zM30.2 17h5.1v6.4h-5.1V17zm-8.8 0h6v1.8h-6V17zm0 4.6h6v1.8h-6v-1.8zm0 15.5v-1.8h13.8v1.8H21.4zm13.8-4.5H21.4v-1.8h13.8v1.8zm0-4.7H21.4v-1.8h13.8v1.8z'/%3E%3C/svg%3E); background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -moz- oldlinear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -o-linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.svg); background-image: -o-linear-gradient(transparent, transparent), url(portal/wikipedia.org/assets/img/noimage.png); background-position: 50%; background-repeat: no-repeat; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; background-size: 100% auto; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; height: 100%; width: 70px; width: 7rem; position: absolute; top: 0; left: 0 }
+
+    Rule Id: b516bfc1-1be5-499a-b8eb-7ba05b491785
+    Rule Type: style
+    Selector:.suggestion-title
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-title { margin: 0 0 0.78rem; color: rgb(84, 89, 93); font-size: 16px; font-size: 1.6rem; line-height: 18.72px; line-height: 1.872rem }
+
+    Rule Id: 49e88277-4d3e-4331-91fb-515f7bb9fef3
+    Rule Type: style
+    Selector:.suggestion-link.active .suggestion-title
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-link.active .suggestion-title { color: rgb(51, 102, 204) }
+
+    Rule Id: 18076dae-e7c9-4122-918e-1223a4101ba0
+    Rule Type: style
+    Selector:.suggestion-highlight
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-highlight { font-style: normal; text-decoration: underline }
+
+    Rule Id: 3bf9a516-9fd6-46a8-8641-616e94cf2acb
+    Rule Type: style
+    Selector:.suggestion-description
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .suggestion-description { color: rgb(114, 119, 125); margin: 0; font-size: 13px; font-size: 1.3rem; line-height: 14.299px; line-height: 1.43rem }
+
+    Rule Id: 88fcf880-a681-4c7a-8d4c-d0bb89f580e1
+    Rule Type: style
+    Selector:.styled-select
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select { display: none; position: absolute; top: 10px; top: 1rem; bottom: 12px; bottom: 1.2rem; right: 12px; right: 1.2rem; max-width: 95px; max-width: 9.5rem; height: 24px; height: 2.4rem; -moz-border-radius: 2px; border-radius: 2px }
+
+    Rule Id: 240865e4-129a-49b2-83a0-a55d6a745985
+    Rule Type: style
+    Selector:.styled-select:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select:hover { background-color: rgb(248, 249, 250) }
+
+    Rule Id: 2dcf0706-61ca-4ab3-ad7f-4c00a15f4e44
+    Rule Type: style
+    Selector:.styled-select .hide-arrow
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select .hide-arrow { right: 32px; right: 3.2rem; max-width: 68px; max-width: 6.8rem; height: 24px; height: 2.4rem; overflow: hidden; text-align: right }
+
+    Rule Id: ba3bdb2e-3515-445a-94f8-e81d831f7c01
+    Rule Type: style
+    Selector:.styled-select select
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select { background: transparent; display: inline; overflow: hidden; height: 24px; height: 2.4rem; min-width: 110px; min-width: 11rem; max-width: 110px; max-width: 11rem; width: 110px; width: 11rem; outline: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; border: 0; line-height: 24px; line-height: 2.4rem; -webkit-appearance: none; -moz-appearance: window; text-indent: 0.01px; -o-text-overflow: ""; text-overflow: ""; opacity: 0; -moz-appearance: none; appearance: none; cursor: pointer }
+
+    Rule Id: ee26623c-6ccb-4b6d-8d78-f7ab679a0743
+    Rule Type: style
+    Selector:.styled-select.no-js
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.no-js { width: 95px; width: 9.5rem }
+
+    Rule Id: 9d639b79-6b70-4867-885e-8da6684ac426
+    Rule Type: style
+    Selector:.styled-select.no-js select
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.no-js select { opacity: 1; margin: 0; padding: 0 2.4rem 0 0.8rem; color: rgb(84, 89, 93) }
+
+    Rule Id: 98c7042c-8070-4cb1-b34a-86bd633900f5
+    Rule Type: style
+    Selector:.styled-select.no-js .hide-arrow
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.no-js .hide-arrow { width: 68px; width: 6.8rem }
+
+    Rule Id: 94211f3f-5ede-418c-9718-6134829cddd5
+    Rule Type: style
+    Selector:.search-container .styled-select.no-js .js-langpicker-label
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container .styled-select.no-js .js-langpicker-label { display: none }
+
+    Rule Id: 90305fd4-678b-4bb2-8d0b-10402b7d964e
+    Rule Type: style
+    Selector:.styled-select.js-enabled .hide-arrow
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled .hide-arrow { padding: 0 2.4rem 0 0.8rem }
+
+    Rule Id: a6799a2b-cfc9-4278-9d3b-fab5440cf995
+    Rule Type: style
+    Selector:.styled-select.js-enabled select
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select { background: transparent; position: absolute; top: 0; left: 0; height: 100%; z-index: 1; width: 100%; border: 0; margin: 0; padding: 0 2.4rem; color: transparent; color: hsla(0, 0%, 100%, 0) }
+
+    Rule Id: 484b736f-3843-468b-af79-e4daf6218762
+    Rule Type: style
+    Selector:.styled-select.js-enabled select option
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select option { color: rgb(84, 89, 93) }
+
+    Rule Id: fff3a26a-9e7e-47a6-90bb-f2029763709f
+    Rule Type: style
+    Selector:.styled-select.js-enabled select:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select:hover { background-color: transparent }
+
+    Rule Id: 21ac2572-b0d9-4058-bf67-18e17d04809a
+    Rule Type: style
+    Selector:.styled-select-active-helper
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select-active-helper { display: none }
+
+    Rule Id: f3053d37-62df-40b7-99af-a78b5dca8c68
+    Rule Type: style
+    Selector:.styled-select.js-enabled select:focus + .styled-select-active-helper
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select.js-enabled select:focus + .styled-select-active-helper { display: block; position: absolute; top: 0; left: 0; z-index: 0; width: 100%; height: 100%; outline: 1px solid rgb(51, 102, 204) }
+
+    Rule Id: 43d11c37-fc46-4d43-83bb-761d11743a44
+    Rule Type: style
+    Selector:.search-container .js-langpicker-label
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .search-container .js-langpicker-label { display: inline-block; margin: 0; color: rgb(84, 89, 93); font-size: 13px; font-size: 1.3rem; line-height: 24px; line-height: 2.4rem; text-transform: uppercase }
+
+    Rule Id: 48c996a4-8341-4e3c-bdc9-c08e88f4ff77
+    Rule Type: style
+    Selector:.styled-select select:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select:hover { background-color: rgb(248, 249, 250) }
+
+    Rule Id: 4c549cec-fecb-4ff8-a741-3a8b109f4ab7
+    Rule Type: style
+    Selector:.styled-select select::-ms-expand
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select::-ms-expand { display: none }
+
+    Rule Id: 84f448d9-fffd-4ce6-a8f2-15786e45f108
+    Rule Type: style
+    Selector:.styled-select select:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select select:focus { outline: 0; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none }
+
+    Rule Id: e2548419-8236-49ce-a958-229942fad3dd
+    Rule Type: unknown
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @-moz-document url-prefix(){.styled-select select{width:110%}}
+
+    Rule Id: f1d10c0c-d15f-45ef-bd0a-45b412b439ff
+    Rule Type: style
+    Selector:.other-projects
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-projects { display: inline-block; width: 65% }
+
+    Rule Id: 56dba1bf-2dc6-4525-b90d-e40d8980dc56
+    Rule Type: style
+    Selector:.other-project
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project { float: left; position: relative; width: 33%; height: 90px; height: 9rem }
+
+    Rule Id: 478c9c0b-0199-4dc0-9963-5ffe62f5f476
+    Rule Type: style
+    Selector:.other-project-link
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-link { display: inline-block; min-height: 50px; width: 90%; padding: 1em; white-space: nowrap }
+
+    Rule Id: 2cddfccb-01df-432c-8574-76c5d9d0c29d
+    Rule Type: style
+    Selector:.other-project-link:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-link:hover { background-color: rgb(234, 236, 240) }
+
+    Rule Id: f62e271b-34a7-46a7-be62-9535ddbf1b73
+    Rule Type: style
+    Selector:a.other-project-link
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      a.other-project-link { text-decoration: none }
+
+    Rule Id: 950111c1-7a4c-4d71-b8fb-77589e0e8640
+    Rule Type: style
+    Selector:.other-project-icon
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-icon { display: inline-block; width: 50px; text-align: center }
+
+    Rule Id: 18dfe611-f2c2-4820-82cd-ac1e9bb9658c
+    Rule Type: style
+    Selector:.svg-Wikinews-logo_sister
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister.png
+    Content:
+      .svg-Wikinews-logo_sister { background-image: url(portal/wikipedia.org/assets/img/Wikinews-logo_sister.png); background-position: 0 0; -webkit-background-size: 47px 26px; -moz-background-size: 47px 26px; background-size: 47px 26px; width: 47px; height: 26px }
+
+    Rule Id: bf0d7e11-2b7f-4c40-a69d-7ddb36161983
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+       https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png
+    Content:
+      @media all and (-o-min-device-pixel-ratio: 5 / 4), all and (-webkit-min-device-pixel-ratio: 1.25), all and (min-resolution: 120dpi) {.svg-Wikinews-logo_sister { background-image: url(portal/wikipedia.org/assets/img/Wikinews-logo_sister@2x.png) } }
+
+    Rule Id: 535127d5-dbc4-4b54-9051-e6b9965d37d2
+    Rule Type: style
+    Selector:.other-project-text, .other-project .sprite-project-logos
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-text, .other-project .sprite-project-logos { display: inline-block }
+
+    Rule Id: 112ac8fc-4f78-4188-8a12-795814c1ca7b
+    Rule Type: style
+    Selector:.other-project-text
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-text { max-width: 65%; font-size: 14px; font-size: 1.4rem; vertical-align: middle; white-space: normal }
+
+    Rule Id: 73635757-501f-4615-84e3-2eef30bc636d
+    Rule Type: style
+    Selector:.other-project-tagline, .other-project-title
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-tagline, .other-project-title { display: block }
+
+    Rule Id: c5c5069c-91fd-40b4-97e3-c4f6ea9e877b
+    Rule Type: style
+    Selector:.other-project-tagline
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .other-project-tagline { color: rgb(84, 89, 93); font-size: 13px; font-size: 1.3rem }
+
+    Rule Id: 2c86218f-63c3-4316-9822-fb2fb951f8b9
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 768px) {.other-projects { width: 100% } .other-project { width: 33% } }
+
+    Rule Id: ddc2d9af-dfd4-481d-beb4-e4b7f81c6acd
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 480px) {.other-project { width: 50% } .other-project-tagline { -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto } }
+
+    Rule Id: 85c7076f-af13-4732-9c37-e6ea7f5e9c16
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 320px) {.other-project-text { margin-right: 5px; font-size: 13px; font-size: 1.3rem } }
+
+    Rule Id: 8c5f0ea0-0d4f-4f9a-a1ff-573c9ec073ec
+    Rule Type: style
+    Selector:.lang-list-container
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-container { background-color: rgb(248, 249, 250); overflow: hidden; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; max-height: 0; width: 80%; margin: -1.6rem auto 4.8rem; -webkit-transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s; -o-transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s; -moz-transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s; transition: max-height 0.5s ease-out 0.16s, visibility 0.5s ease-in 1s }
+
+    Rule Id: dbb37b7e-ea8f-44a1-ae05-22609e309dd0
+    Rule Type: style
+    Selector:.js-enabled .lang-list-container
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .js-enabled .lang-list-container { visibility: hidden }
+
+    Rule Id: 82dfd3f1-18cf-4d0a-975f-629035995f2e
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-container, .no-js .lang-list-container
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .lang-list-container, .no-js .lang-list-container { visibility: visible; max-height: 10000px; -webkit-transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms; -o-transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms; -moz-transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms; transition: max-height 1s ease-in 0.2s, visibility 1000s ease-in 0ms }
+
+    Rule Id: fdc6b69f-967e-4dd9-801f-f14beba1e7ae
+    Rule Type: style
+    Selector:.no-js .lang-list-button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .lang-list-button { display: none }
+
+    Rule Id: 84ce8da0-a3a3-4568-a806-4b36391463c0
+    Rule Type: style
+    Selector:.lang-list-button-wrapper
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button-wrapper { text-align: center }
+
+    Rule Id: 449cd11e-f41a-42ed-8c1f-60019733de24
+    Rule Type: style
+    Selector:.lang-list-button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button { background-color: rgb(248, 249, 250); display: inline; position: relative; z-index: 1; margin: 0 auto; padding: 0.6rem 1.2rem; outline: 16px solid rgb(255, 255, 255); outline: 1.6rem solid rgb(255, 255, 255); border: 1px solid rgb(162, 169, 177); -moz-border-radius: 2px; border-radius: 2px; color: rgb(51, 102, 204); font-size: 14px; font-size: 1.4rem; font-weight: 700; line-height: 1; -webkit-transition: outline-width 0.1s ease-in 0.5s; -o-transition: outline-width 0.1s ease-in 0.5s; -moz-transition: outline-width 0.1s ease-in 0.5s; transition: outline-width 0.1s ease-in 0.5s }
+
+    Rule Id: da99b9b1-df46-4bc2-bdb2-bfd7f613ddf5
+    Rule Type: style
+    Selector:.lang-list-button:hover
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button:hover { background-color: rgb(255, 255, 255); border-color: rgb(162, 169, 177) }
+
+    Rule Id: f3c9b907-8104-42a7-9440-187916a478c9
+    Rule Type: style
+    Selector:.lang-list-button:focus
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button:focus { border-color: rgb(51, 102, 204); -webkit-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); -moz-box-shadow: inset 0 0 0 1px rgb(51, 102, 204); box-shadow: inset 0 0 0 1px rgb(51, 102, 204) }
+
+    Rule Id: 7d34e927-2b6e-444d-9a02-d2636df1263c
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .lang-list-button { background-color: rgb(255, 255, 255); outline: 1px solid rgb(255, 255, 255); border-color: rgb(114, 119, 125); -webkit-transition-delay: 0s; -moz-transition-delay: 0s; -o-transition-delay: 0s; transition-delay: 0s }
+
+    Rule Id: 5afae459-b9cb-4db2-845d-50b8c9d9a897
+    Rule Type: style
+    Selector:.lang-list-button-text
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button-text { padding: 0 0.64rem; vertical-align: middle }
+
+    Rule Id: 326b1769-5767-4fa1-b88d-83589eec392c
+    Rule Type: style
+    Selector:.lang-list-button i
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-button i { display: inline-block; vertical-align: middle }
+
+    Rule Id: 0f5290e1-dd86-4a91-97cb-0ef473f5bce7
+    Rule Type: style
+    Selector:.no-js .lang-list-border, .no-js .lang-list-button
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .lang-list-border, .no-js .lang-list-button { display: none }
+
+    Rule Id: ea1dd080-126b-4243-a1ed-a200130e953b
+    Rule Type: style
+    Selector:.lang-list-border
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-border { background-color: rgb(200, 204, 209); display: block; position: relative; max-width: 460px; width: 80%; margin: -1.6rem auto 1.6rem; height: 1px; -webkit-transition: max-width 0.2s ease-out 0.4s; -o-transition: max-width 0.2s ease-out 0.4s; -moz-transition: max-width 0.2s ease-out 0.4s; transition: max-width 0.2s ease-out 0.4s }
+
+    Rule Id: 89cdfcf2-af03-4454-9c45-3a0911589823
+    Rule Type: style
+    Selector:.lang-list-active .lang-list-border
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .lang-list-border { max-width: 85%; -webkit-transition-delay: 0s; -moz-transition-delay: 0s; -o-transition-delay: 0s; transition-delay: 0s }
+
+    Rule Id: b569665e-9462-4e0e-a6b6-70d34bb934db
+    Rule Type: style
+    Selector:.no-js .lang-list-content
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .lang-list-content { padding: 0 }
+
+    Rule Id: 5aa5c294-1750-4781-9bdd-30c42e4d2fac
+    Rule Type: style
+    Selector:.lang-list-content
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-content { position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; padding: 1.6rem 1.6rem 0 }
+
+    Rule Id: 0f9544db-5c0c-4afc-8fd1-992f916b063a
+    Rule Type: style
+    Selector:.svg-arrow-down-blue
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .svg-arrow-down-blue { -webkit-transition: -webkit-transform 0.2s ease-out; transition: -webkit-transform 0.2s ease-out; -o-transition: transform 0.2s ease-out; -moz-transition: transform 0.2s ease-out, -moz-transform 0.2s ease-out; transition: transform 0.2s ease-out; transition: transform 0.2s ease-out, -webkit-transform 0.2s ease-out, -moz-transform 0.2s ease-out }
+
+    Rule Id: 5ee12ddd-5693-427a-bc2b-8db375ebe25a
+    Rule Type: style
+    Selector:.lang-list-active .svg-arrow-down-blue
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .lang-list-active .svg-arrow-down-blue { -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg) }
+
+    Rule Id: 65cb7e02-2242-4c1f-976f-66ffc440a00d
+    Rule Type: style
+    Selector:.langlist
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist { width: auto; margin: 1.6rem 0; text-align: left }
+
+    Rule Id: f7171a0d-199c-42bd-86d7-28be80d59463
+    Rule Type: style
+    Selector:.langlist-others
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist-others { font-weight: 700; text-align: center }
+
+    Rule Id: d5037f04-9df2-469a-9ff4-909df3dfa151
+    Rule Type: style
+    Selector:.hlist ul
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist ul { margin: 0; padding: 0 }
+
+    Rule Id: bb440993-ab13-47ea-804b-6436be0006af
+    Rule Type: style
+    Selector:.hlist li, .hlist ul ul
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li, .hlist ul ul { display: inline }
+
+    Rule Id: 0ebc636f-2a6f-4337-bd3d-f770339f824d
+    Rule Type: style
+    Selector:.hlist li:before
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li:before { content: " · "; font-weight: 700 }
+
+    Rule Id: 5ea79864-0f37-4bb1-b71c-2d3978cd4270
+    Rule Type: style
+    Selector:.hlist li:first-child:before
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li:first-child:before { content: none }
+
+    Rule Id: f82e7a94-c9c4-4a17-8c54-cb2787501f89
+    Rule Type: style
+    Selector:.hlist li > ul:before
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li > ul:before { content: " (" }
+
+    Rule Id: 448cc7d0-853d-4ac0-a3ea-5d6020ad20ed
+    Rule Type: style
+    Selector:.hlist li > ul:after
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .hlist li > ul:after { content: ") " }
+
+    Rule Id: 9341edeb-fdf9-4290-bb43-30ae9d4cbca1
+    Rule Type: style
+    Selector:.langlist > ul
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist > ul { -webkit-column-width: 11.2rem; -moz-column-width: 11.2rem; column-width: 11.2rem }
+
+    Rule Id: 4299ddab-7898-4601-a72c-fd8a7fc40a2b
+    Rule Type: style
+    Selector:.langlist > ul > li
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist > ul > li { display: block; line-height: 1.7; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid }
+
+    Rule Id: 6199a297-7b27-4b12-8f8c-191b1c72ffeb
+    Rule Type: style
+    Selector:.no-js .langlist > ul
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .langlist > ul { text-align: center; list-style-type: circle }
+
+    Rule Id: 90771a52-41f4-4f6d-9af8-d96fc37a7f18
+    Rule Type: style
+    Selector:.no-js .langlist > ul > li
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .no-js .langlist > ul > li { display: inline-block; padding: 0 0.8rem }
+
+    Rule Id: ecd2e86b-6057-4ff9-85eb-fa5c810268a8
+    Rule Type: style
+    Selector:.langlist > ul > li:before
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist > ul > li:before { content: none }
+
+    Rule Id: e0e51b27-843d-4b3d-b4d8-d10c44ca6e01
+    Rule Type: style
+    Selector:.langlist > ul > li a
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .langlist > ul > li a { white-space: normal }
+
+    Rule Id: 916d9efc-779a-437b-9f57-2b631096c56f
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.langlist { font-size: inherit } .langlist a { word-wrap: break-word; white-space: normal } .lang-list-container { width: auto; margin-left: 0.8rem; margin-right: 0.8rem } .bookshelf { overflow: visible } }
+
+    Rule Id: ca078ebf-445e-4a5f-bb32-895abc39bab9
+    Rule Type: style
+    Selector:.bookshelf
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .bookshelf { display: block; border-top: 1px solid rgb(200, 204, 209); -webkit-box-shadow: 0 -1px 0 rgb(255, 255, 255); -moz-box-shadow: 0 -1px 0 rgb(255, 255, 255); box-shadow: 0 -1px 0 rgb(255, 255, 255); text-align: center; white-space: nowrap }
+
+    Rule Id: 118d88db-7348-48aa-8053-9f8a263ef2ed
+    Rule Type: style
+    Selector:.bookshelf .text
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .bookshelf .text { background-color: rgb(248, 249, 250); position: relative; top: -11.2px; top: -1.12rem; font-weight: 400; padding: 0 0.8rem }
+
+    Rule Id: afe3e26d-9ae4-40c4-9084-e33ad05fa60d
+    Rule Type: style
+    Selector:.bookshelf-container
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .bookshelf-container { display: block; overflow: visible; width: 100%; height: 1px; margin: 2.4rem 0 1.6rem; font-size: 13px; font-size: 1.3rem; font-weight: 700; line-height: 1.5 }
+
+    Rule Id: 1e1b2883-82ae-49d2-a4bd-901d5890ed86
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.bookshelf { width: auto; left: auto } .bookshelf-container { text-align: left; width: auto } }
+
+    Rule Id: 5a992664-911c-44c3-9c5f-35301f53d304
+    Rule Type: style
+    Selector:.app-badges .footer-sidebar-content
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .app-badges .footer-sidebar-content { background-color: rgb(248, 249, 250) }
+
+    Rule Id: 84232093-766c-4029-9a76-44bcaf916f13
+    Rule Type: style
+    Selector:.app-badges .footer-sidebar-text
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .app-badges .footer-sidebar-text { padding-top: 0.8rem; padding-bottom: 0.8rem }
+
+    Rule Id: 5fab2218-d8e3-42b9-86a8-d9cf12c3ca36
+    Rule Type: style
+    Selector:.app-badges .sprite.footer-sidebar-icon
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .app-badges .sprite.footer-sidebar-icon { top: 8px; top: 0.8rem }
+
+    Rule Id: f0a3b3c7-3b31-496e-9338-487068257b09
+    Rule Type: style
+    Selector:.app-badges ul
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .app-badges ul { margin: 0; padding: 0; list-style-type: none }
+
+    Rule Id: 2ca8d063-701d-4d2b-b889-e7361bc30296
+    Rule Type: style
+    Selector:.app-badge
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .app-badge { display: inline-block }
+
+    Rule Id: 2fad6be2-d883-4f97-8743-e22eae82805e
+    Rule Type: style
+    Selector:.app-badge a
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .app-badge a { color: transparent }
+
+    Rule Id: 7b956134-9f74-4374-810f-e3f7b2f7d776
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 768px) {.app-badges .footer-sidebar-content { text-align: center } .app-badges .sprite.footer-sidebar-icon { display: inline-block; position: relative; margin: 0; top: -3px; left: 0; vertical-align: middle; -webkit-transform: scale(0.7); -moz-transform: scale(0.7); -ms-transform: scale(0.7); transform: scale(0.7) } }
+
+    Rule Id: fbb3d1d4-18e7-444d-9ae1-f071aa54ac39
+    Rule Type: style
+    Selector:.footer
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer { overflow: hidden; max-width: 100%; margin: 0 auto; padding: 4.16rem 1.28rem 1.28rem; font-size: 13px; font-size: 1.3rem }
+
+    Rule Id: 547d0a9d-4edc-4af2-b717-2349ee67ca69
+    Rule Type: style
+    Selector:.footer:after, .footer:before
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer:after, .footer:before { content: " "; display: table }
+
+    Rule Id: 7b529c16-122e-4fb8-b0c3-59b109b17736
+    Rule Type: style
+    Selector:.footer:after
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer:after { clear: both }
+
+    Rule Id: 6156b7a8-29f8-4346-8316-93528f2e97d3
+    Rule Type: style
+    Selector:.footer-sidebar
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer-sidebar { width: 35%; float: left; clear: left; margin-bottom: 3.2rem; vertical-align: top }
+
+    Rule Id: 7d916122-5220-4b0b-bed3-ee3adf59867d
+    Rule Type: style
+    Selector:.footer-sidebar-content
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer-sidebar-content { position: relative; max-width: 350px; margin: 0 auto }
+
+    Rule Id: 30c7f5e6-ee9b-4f17-9f61-b17cc3def283
+    Rule Type: style
+    Selector:.sprite.footer-sidebar-icon
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .sprite.footer-sidebar-icon { position: absolute; top: 0; left: 8px; left: 0.8rem }
+
+    Rule Id: 35df9ac9-febe-408c-b779-7fb3f88031b2
+    Rule Type: style
+    Selector:.footer-sidebar-text
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .footer-sidebar-text { position: relative; margin: 0; padding-left: 6rem; padding-right: 2rem; color: rgb(84, 89, 93) }
+
+    Rule Id: d2f061a9-d0ca-45b5-9bcd-c6a3dd6496c5
+    Rule Type: style
+    Selector:.site-license
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-license { color: rgb(84, 89, 93); text-align: center }
+
+    Rule Id: b38a0090-34be-47bc-b213-168ea22ccbd3
+    Rule Type: style
+    Selector:.site-license small:after
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-license small:after { content: "•"; display: inline-block; font-size: 13px; font-size: 1.3rem; line-height: inherit; margin-left: 0.8rem; margin-right: 0.5rem }
+
+    Rule Id: 9338880e-2ed9-465a-b75a-c55c0be7074c
+    Rule Type: style
+    Selector:.site-license small:last-child:after
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .site-license small:last-child:after { display: none }
+
+    Rule Id: a192acdb-5107-4233-ba3f-d28860018d42
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 768px) {.footer { display: -webkit-box; display: -webkit-flex; display: -moz-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -moz-box-orient: vertical; -moz-box-direction: normal; -ms-flex-direction: column; flex-direction: column; padding-top: 1.28rem } .footer .footer-sidebar { -webkit-box-ordinal-group: 1; -moz-box-ordinal-group: 1; -webkit-order: 1; -ms-flex-order: 1; order: 1 } .footer .other-projects { -webkit-box-ordinal-group: 2; -moz-box-ordinal-group: 2; -webkit-order: 2; -ms-flex-order: 2; order: 2 } .footer .app-badges { -webkit-box-ordinal-group: 3; -moz-box-ordinal-group: 3; -webkit-order: 3; -ms-flex-order: 3; order: 3 } .footer-sidebar { width: 100% } .sprite.footer-sidebar-icon { display: block; position: relative; left: 0; margin: 0 auto 1.28rem } .footer-sidebar-content { max-width: none } .footer-sidebar-text { margin: 0; padding: 0; text-align: center } }
+
+    Rule Id: c97b3d91-f109-49ea-8196-24ae866fe809
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media screen and (max-width: 480px) {.footer { padding: 0.96rem 0.64rem 1.28rem } }
+
+    Rule Id: 91449f8f-0ebc-4c3a-9b1c-ce30939279e1
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (max-width: 480px) {.search-container { margin-top: 0; height: 78px; height: 7.8rem; position: absolute; top: 96px; top: 9.6rem; left: 0; right: 0; max-width: 100%; width: auto; padding: 0; text-align: left } .search-container label { display: none } .search-form #searchInput { max-width: 40%; vertical-align: middle } .search-form .formBtn { max-width: 25%; vertical-align: middle } form fieldset { margin: 0; border-left: 0; border-right: 0 } hr { margin-top: 0.65rem } }
+
+    Rule Id: c69dd4eb-384f-419d-856c-13d3fa74d034
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media all and (-o-min-device-pixel-ratio: 2 / 1), all and (-webkit-min-device-pixel-ratio: 2), all and (min--moz-device-pixel-ratio: 2), all and (min-resolution: 2dppx), all and (min-resolution: 192dpi) {hr { border-bottom-width: 0.5px } }
+
+    Rule Id: b3af7e3d-0e9a-4cb7-96a8-0bce915447a8
+    Rule Type: unknown
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @supports (-webkit-marquee-style:slide){hr{border-bottom-width:1px}}
+
+    Rule Id: 56d0d1aa-6250-4631-9ac8-e07a1c21e0ac
+    Rule Type: style
+    Selector:.js-enabled .central-featured, .js-enabled .jsl10n
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .js-enabled .central-featured, .js-enabled .jsl10n { visibility: hidden }
+
+    Rule Id: bce9255c-c3d9-4c03-b8ed-72f20917a72a
+    Rule Type: style
+    Selector:.jsl10n-visible .central-featured, .jsl10n-visible .jsl10n
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      .jsl10n-visible .central-featured, .jsl10n-visible .jsl10n { visibility: visible }
+
+    Rule Id: 07da5a03-b0e6-4e53-b859-205b5d775b69
+    Rule Type: media
+    Selector:
+    Belong to: e23741a9-cd2a-4910-af2d-d277d3704c02
+    Apply to: 
+    Related Link: 
+    Content:
+      @media print {body { background-color: transparent } a { color: rgb(0, 0, 0) !important; background: none !important; padding: 0 !important } a:link, a:visited { color: rgb(85, 34, 0); background: transparent } img { border: 0 } }
+
+
+
+Block Id: f983edc9-2964-4abb-8f82-5996fc77fadb
+Src: 
+Related html node: 
+Type: internal
+Inside CSS Styles: 
+    Rule Id: 59476cf0-37fa-4453-9b56-9f46f9559e0e
+    Rule Type: style
+    Selector:.styled-select
+    Belong to: f983edc9-2964-4abb-8f82-5996fc77fadb
+    Apply to: 
+    Related Link: 
+    Content:
+      .styled-select { display: block }
+
+
+
+
+
+
+---------------------External CSS: ------------------------
+
+
